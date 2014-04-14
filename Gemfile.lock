@@ -53,6 +53,7 @@ GEM
       ffi (>= 0.5.0)
     rb-kqueue (0.2.2)
       ffi (>= 0.5.0)
+    rdiscount (2.1.7)
     redcarpet (2.3.0)
     safe_yaml (0.9.7)
     sass (3.2.19)
@@ -72,3 +73,4 @@ DEPENDENCIES
   rack-contrib (= 1.1.0)
   rack-rewrite (= 1.4.1)
   rake (= 10.1.1)
+  rdiscount
