@@ -7022,14 +7022,15 @@ input.gsc-search-button:hover {
 @media only screen and (max-width: 40em) {
   /* line 1, ../scss/pages/_watch.scss */
   .page-watch .section-watch-live {
-    height: 300px;
+    height: auto;
     background-image: url("/images/watch/watch-live-small.jpg");
     background-color: #000;
-    background-size: 500px 300px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top left;
-    padding-bottom: 80px !important;
+    padding-bottom: 30px !important;
     padding-top: 15px;
+    margin-bottom: -65px;
   }
 }
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
@@ -7039,7 +7040,7 @@ input.gsc-search-button:hover {
   }
 }
 
-/* line 23, ../scss/pages/_watch.scss */
+/* line 24, ../scss/pages/_watch.scss */
 .no-touch .message a {
   display: block;
   float: left;
@@ -7047,31 +7048,31 @@ input.gsc-search-button:hover {
   padding-top: 15px;
   border-radius: 4px;
 }
-/* line 30, ../scss/pages/_watch.scss */
+/* line 31, ../scss/pages/_watch.scss */
 .no-touch .message a:first-child {
   margin-top: -15px;
 }
-/* line 34, ../scss/pages/_watch.scss */
+/* line 35, ../scss/pages/_watch.scss */
 .no-touch .message a:hover {
   background: #f4f7f8;
 }
 
-/* line 39, ../scss/pages/_watch.scss */
+/* line 40, ../scss/pages/_watch.scss */
 .no-touch .message.live a {
   background: #0ea9d6;
   color: #fff !important;
   margin-bottom: 8px;
 }
-/* line 44, ../scss/pages/_watch.scss */
+/* line 45, ../scss/pages/_watch.scss */
 .no-touch .message.live a:hover {
   background: #0c96be;
 }
-/* line 48, ../scss/pages/_watch.scss */
+/* line 49, ../scss/pages/_watch.scss */
 .no-touch .message.live a h4, .no-touch .message.live a .h4, .no-touch .message.live a .location-tile, .no-touch .message.live a .lifegroups-tile span, .lifegroups-tile .no-touch .message.live a span, .no-touch .message.live a h5, .no-touch .message.live a .h5, .no-touch .message.live a h6, .no-touch .message.live a .h6, .no-touch .message.live a label {
   color: #fff !important;
 }
 
-/* line 53, ../scss/pages/_watch.scss */
+/* line 54, ../scss/pages/_watch.scss */
 .message-live-icon {
   background-size: 26px 22px;
   width: 26px;
@@ -7094,34 +7095,34 @@ input.gsc-search-button:hover {
   background-image: url('/images/watch/watch-live-icon.png?1397413267');
 }
 
-/* line 64, ../scss/pages/_watch.scss */
+/* line 65, ../scss/pages/_watch.scss */
 .message h4, .message .h4, .message .location-tile, .message .lifegroups-tile span, .lifegroups-tile .message span {
   margin-top: -5px;
 }
 
-/* line 69, ../scss/pages/_watch.scss */
+/* line 70, ../scss/pages/_watch.scss */
 .message h6, .message .h6, .message label {
   margin-top: 0px;
 }
 
-/* line 77, ../scss/pages/_watch.scss */
+/* line 78, ../scss/pages/_watch.scss */
 .message {
   padding-bottom: 12px;
 }
 
-/* line 81, ../scss/pages/_watch.scss */
+/* line 82, ../scss/pages/_watch.scss */
 .watch-item h6, .watch-item .h6, .watch-item label {
   margin-top: 5px;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 85, ../scss/pages/_watch.scss */
+  /* line 86, ../scss/pages/_watch.scss */
   .watch-archive-art {
     margin-top: 30px;
   }
 }
 
-/* line 93, ../scss/pages/_watch.scss */
+/* line 94, ../scss/pages/_watch.scss */
 .watch-podcast,
 .watch-talkitover,
 .watch-open {
@@ -7129,7 +7130,7 @@ input.gsc-search-button:hover {
   padding-bottom: 12px !important;
 }
 
-/* line 100, ../scss/pages/_watch.scss */
+/* line 101, ../scss/pages/_watch.scss */
 .watch-podcast:before,
 .watch-talkitover:before,
 .watch-open:before {
@@ -7181,13 +7182,13 @@ input.gsc-search-button:hover {
   background-image: url('/images/watch/watch-open.png?1397413267');
 }
 
-/* line 122, ../scss/pages/_watch.scss */
+/* line 123, ../scss/pages/_watch.scss */
 .watch-message-first-archive {
   position: relative;
   display: block;
   float: left;
 }
-/* line 127, ../scss/pages/_watch.scss */
+/* line 128, ../scss/pages/_watch.scss */
 .watch-message-first-archive span {
   text-indent: -999em;
   display: block;
@@ -7208,12 +7209,12 @@ input.gsc-search-button:hover {
   border: 2px solid white;
   border: 2px solid rgba(255, 255, 255, 0.6);
 }
-/* line 144, ../scss/pages/_watch.scss */
+/* line 145, ../scss/pages/_watch.scss */
 .watch-message-first-archive:hover span {
   background: rgba(0, 0, 0, 0.6);
 }
 
-/* line 149, ../scss/pages/_watch.scss */
+/* line 150, ../scss/pages/_watch.scss */
 .hphoto-watch-archive {
   background-color: #f0f1eb;
   background-position: center;
@@ -7227,17 +7228,17 @@ input.gsc-search-button:hover {
   height: 340px;
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 149, ../scss/pages/_watch.scss */
+  /* line 150, ../scss/pages/_watch.scss */
   .hphoto-watch-archive {
     margin: -33px auto -50px;
     background-size: 100% auto;
   }
 }
-/* line 166, ../scss/pages/_watch.scss */
+/* line 167, ../scss/pages/_watch.scss */
 .hphoto-watch-archive:hover {
   color: #fff;
 }
-/* line 170, ../scss/pages/_watch.scss */
+/* line 171, ../scss/pages/_watch.scss */
 .hphoto-watch-archive .inner {
   text-align: center;
   width: 100%;
@@ -7246,7 +7247,7 @@ input.gsc-search-button:hover {
   position: absolute;
   top: 0;
 }
-/* line 179, ../scss/pages/_watch.scss */
+/* line 180, ../scss/pages/_watch.scss */
 .hphoto-watch-archive .play-large {
   width: 44px;
   height: 53px;
@@ -7275,11 +7276,11 @@ input.gsc-search-button:hover {
 .no-js .hphoto-watch-archive .play-large {
   background-image: url('/images/watch/watch-play-large.png?1397413267');
 }
-/* line 193, ../scss/pages/_watch.scss */
+/* line 194, ../scss/pages/_watch.scss */
 .hphoto-watch-archive:hover .play-large {
   background-color: black;
 }
-/* line 197, ../scss/pages/_watch.scss */
+/* line 198, ../scss/pages/_watch.scss */
 .hphoto-watch-archive h1, .hphoto-watch-archive .h1 {
   margin-top: 10px;
   margin-bottom: 20px;
