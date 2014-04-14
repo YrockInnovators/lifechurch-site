@@ -13,6 +13,7 @@ use Rack::TryStatic,
     [["css"],   {'Content-Type' => 'text/css'}],
     [["js"],    {'Content-Type' => 'text/javascript'}],
     [["png"],   {'Content-Type' => 'image/png'}],
+    [["svg"],   {'Content-Type' => 'image/svg+xml'}],
     ["/assets", {'Cache-Control' => 'public, max-age=31536000'}],
   ]
 
