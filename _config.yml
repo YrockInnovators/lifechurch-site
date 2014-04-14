@@ -3,6 +3,7 @@ permalink: /:categories/:title/
 markdown: rdiscount
 excerpt_separator: ""
 relative_permalinks: false
+exclude: ["vendor"]
 
 prose:
   rooturl: 'announcements/_posts'
