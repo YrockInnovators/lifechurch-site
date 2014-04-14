@@ -280,7 +280,8 @@ $(function() {
     $.post($(this).attr('action'), {
       recipient: recipient,
       subject: subject,
-      detail: detail
+      detail: detail,
+      key: '345e8e6fb8'
     });
   });
 
