@@ -26,7 +26,7 @@
   url: http://apple.com
   description_small: 'To help families raise fully devoted followers of Christ, LifeKids provides small group interaction, worship, and age-specific biblical teaching for newborns through 6th graders.'
   description_medium: 'To help families raise fully devoted followers of Christ, LifeKids provides small group interaction, worship, and age-specific biblical teaching for newborns through 6th graders. Opportunities include room leaders, experience captains, emcees, and more.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -34,10 +34,10 @@
 - id: serving-4
   title: Switch
   location: Campus
-  url: http://apple.com
+  url: ''
   description_small: 'Switch meets on Wednesday nights and challenges students to become fully devoted followers of Christ.'
   description_medium: 'Switch meets on Wednesday nights and challenges students to become fully devoted followers of Christ. Adults can serve middle and high school students as small group leaders, mentors, security, or administrative support.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -45,10 +45,10 @@
 - id: serving-5
   title: Campus Administration
   location: Campus
-  url: http://apple.com
+  url: ''
   description_small: 'Prayer, meal preparation, finance, data entry, recycling, graphic design, event preparation, and much more.'
   description_medium: 'If you’re more comfortable working behind the scenes or have a unique schedule, we have several opportunities for you including: prayer, meal preparation, finance, data entry, recycling, graphic design, event preparation, and much more.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -56,11 +56,11 @@
 - id: serving-6
   title: Host Team
   location: Online
-  recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  recipient: info@lifechurch.tv
+  url: ''
   description_small: 'People are being transformed as they find hope and experience the love of Christ at Church Online.'
   description_medium: 'People are being transformed as they find hope and experience the love of Christ at Church Online. The Experience Team provides a comfortable environment by welcoming, chatting, and praying with Church Online attendees at experiences throughout the week.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -68,11 +68,11 @@
 - id: serving-7
   title: Engagement Team
   location: Online
-  recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  recipient: info@lifechurch.tv
+  url: ''
   description_small: 'The Engagement Team receives, prays for, and responds to prayer requests from people all over the world.'
   description_medium: "Struggling and searching for answers aren't limited to a specific day or time. Church Online connects people to a caring community at their deepest moment of need. The Engagement Team receives, prays for, and responds to prayer requests from people all over the world."
-  website: http://google.com
+  website: ''
   image_small: '' 
   image_medium: ''
   image_large: ''
@@ -81,10 +81,10 @@
   title: Finance
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: 'The Financial Operations Team assists all of our locations with budgeting, contribution processing, and accounts payable.' 
   description_medium: 'The Financial Operations Team assists all of our locations with budgeting, contribution processing, and accounts payable. Serve with the team during business hours (Monday-Friday, 8:00am-5:00pm) to help support all LifeChurch.tv locations.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -93,10 +93,10 @@
   title: Administrative & Special Projects
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: 'You can use your administrative gifts by setting up and serving at special events, answering phones, and organizing day-to-day ministry functions.'
   description_medium: 'You can use your administrative gifts by setting up and serving at special events, answering phones, and organizing day-to-day ministry functions that, in turn, support the entire LifeChurch.tv Central Team.'
-  website: http://google.com
+  website: ''
   image_small: '' 
   image_medium: ''
   image_large: ''
@@ -105,7 +105,7 @@
   title: 'Information Technology (IT)'
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: 'Detail-oriented volunteers provide a valuable service by maintaining the database that keeps our church running smoothly through front-end data entry and accuracy checks, which can be done from anywhere.'
   description_medium: 'Detail-oriented volunteers help by maintaining the database that keeps our church running smoothly through data entry and accuracy checks, which can be done from anywhere. Additional opportunities are available for technically skilled and trained individuals.'
   image_small: ''
@@ -116,10 +116,10 @@
   title: Digital Missions
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: ''
   description_medium: 'The Digital Missions team manages content for the open.lifechurch.tv<link> website where thousands of videos, graphics, curriculum, and other tools and resources are made available for church leaders around the world. Work closely with the team to brainstorm ideas, improve processes, and upload content to the site. Or, serve as a Digital Missions Linguist and translate text from English to another language for a wide variety of resources.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -128,10 +128,10 @@
   title: Cast and Crew
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: 'If you’ve ever wanted to experience life on a movie set, you can be part of LifeChurch.tv Productions Cast & Crew.'
   description_medium: 'If you’ve ever wanted to experience life on a movie set, you can be part of LifeChurch.tv Productions Cast & Crew. We are looking for actors, voice over talent, production assistants, hairstylists, grips, set builders - the list goes on and on. You can also keep up with available opportunities, casting calls, and set design projects on the <a href="https://www.facebook.com/lctvmedia?ref=br_tf">Cast & Crew Facebook page</a>.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -140,10 +140,10 @@
   title: Bible.com
   location: Central
   recipient: interactive@lifechurch.tv
-  url: http://apple.com
+  url: ''
   description_small: 'With millions of users worldwide, the YouVersion team relies on passionate volunteers to do extraordinary things so people can grow closer to God through His Word. '
   description_medium: 'With millions of users worldwide, the YouVersion team relies on passionate volunteers to do extraordinary things so people can grow closer to God through His Word. Whether translating interfaces, answering user support questions, leading others in prayer online, proofreading and editing reading plans, beta testing Bible App updates, or using another gift or skill, there are many ways to reach people with the story of God’s love. Visit the <a href="http://volunteer.youversion.com/become-a-volunteer">YouVersion volunteer site</a> for details.'
-  website: http://google.com
+  website: ''
   image_small: ''
   image_medium: ''
   image_large: ''
