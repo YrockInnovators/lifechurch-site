@@ -304,7 +304,8 @@ $(function() {
       recipient: recipient,
       subject: subject,
       detail: detail,
-      message: message
+      message: message,
+      key: '345e8e6fb8'
     });
   });
 
