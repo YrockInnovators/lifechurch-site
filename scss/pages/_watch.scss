@@ -9,14 +9,15 @@
   background-position: center;
 
   @media #{$small-only} {
-    height: 300px;
+    height: auto;
     @include background-image-2x-jpg('/images/watch/watch-live-small');
     background-color: #000;
-    background-size: 500px 300px;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: top left;
-    padding-bottom: 80px !important;
+    padding-bottom: 30px !important;
     padding-top: 15px;
+    margin-bottom: -65px;
   }
 }
 
