@@ -679,8 +679,8 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
