@@ -6902,26 +6902,88 @@ input.gsc-search-button:hover {
 }
 
 /* line 121, ../scss/pages/_home.scss */
-.home .next-week,
-.home-2 .next-week {
+.home .coming-up {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+/* line 127, ../scss/pages/_home.scss */
+.home .next-week {
   background-image: url("/images/home/next-week.jpg");
   background-size: 1500px 327px;
   background-position: center top;
   background-repeat: no-repeat;
-  height: 350px;
+  height: 320px;
   display: block;
+  position: relative;
   text-indent: -999em;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
-  /* line 121, ../scss/pages/_home.scss */
-  .home .next-week,
-  .home-2 .next-week {
+  /* line 127, ../scss/pages/_home.scss */
+  .home .next-week {
     background-image: url("/images/home/next-week@2x.jpg");
+  }
+}
+@media screen and (min-width: 750px) {
+  /* line 127, ../scss/pages/_home.scss */
+  .home .next-week {
+    border: 2px solid white;
+    float: left;
+    width: 50%;
+  }
+}
+
+/* line 144, ../scss/pages/_home.scss */
+.home .easter {
+  background-image: url("/images/home/easter.jpg");
+  background-size: 750px 327px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 320px;
+  display: block;
+  text-indent: -999em;
+  border-bottom: 1px solid #eee;
+  position: relative;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /* line 144, ../scss/pages/_home.scss */
+  .home .easter {
+    background-image: url("/images/home/easter@2x.jpg");
+  }
+}
+/* line 155, ../scss/pages/_home.scss */
+.home .easter:after {
+  -webkit-transition-property: background;
+  -moz-transition-property: background;
+  -o-transition-property: background;
+  transition-property: background;
+  -webkit-transition-duration: 0.25s;
+  -moz-transition-duration: 0.25s;
+  -o-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  content: "";
+  width: 100%;
+  height: 316px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0);
+}
+/* line 168, ../scss/pages/_home.scss */
+.home .easter:hover:after {
+  background: rgba(0, 0, 0, 0.3);
+}
+@media screen and (min-width: 750px) {
+  /* line 144, ../scss/pages/_home.scss */
+  .home .easter {
+    border: 2px solid white;
+    float: left;
+    width: 50%;
   }
 }
 
 @media only screen and (max-width: 40em) {
-  /* line 138, ../scss/pages/_home.scss */
+  /* line 186, ../scss/pages/_home.scss */
   .more-watch-small {
     background-image: url("/images/home/home-bg-small.jpg");
     background-color: #000;
@@ -6929,34 +6991,41 @@ input.gsc-search-button:hover {
     background-repeat: no-repeat;
     background-position: top left;
     padding-bottom: 70px !important;
+    border-bottom: 1px solid #eee;
   }
-  /* line 146, ../scss/pages/_home.scss */
+  /* line 195, ../scss/pages/_home.scss */
   .more-watch-small :hover {
     background-image: url("/images/home/home-bg-small.jpg");
   }
-  /* line 150, ../scss/pages/_home.scss */
+  /* line 199, ../scss/pages/_home.scss */
   .more-watch-small p, .more-watch-small ul li, ul .more-watch-small li {
     color: #fff;
   }
 }
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
-  /* line 138, ../scss/pages/_home.scss */
+  /* line 186, ../scss/pages/_home.scss */
   .more-watch-small {
     background-image: url("/images/home/home-bg-small@2x.jpg");
   }
 }
 @media only screen and (max-width: 40em) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (max-width: 40em) and (min--moz-device-pixel-ratio: 1.5), only screen and (max-width: 40em) and (min-device-pixel-ratio: 1.5) {
-  /* line 146, ../scss/pages/_home.scss */
+  /* line 195, ../scss/pages/_home.scss */
   .more-watch-small :hover {
     background-image: url("/images/home/home-bg-small@2x.jpg");
   }
 }
-/* line 161, ../scss/pages/_home.scss */
+/* line 205, ../scss/pages/_home.scss */
+.home .page-footer .columns {
+  margin-top: 0;
+  border: none;
+}
+
+/* line 215, ../scss/pages/_home.scss */
 .home-2 .alert-box {
   display: none;
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 166, ../scss/pages/_home.scss */
+  /* line 220, ../scss/pages/_home.scss */
   .home-2 h1, .home-2 .h1 {
     background: url("/images/home/home-2/series-art.png") no-repeat;
     background-size: contain;
@@ -6965,7 +7034,7 @@ input.gsc-search-button:hover {
     text-indent: -999em;
     margin: 80px auto 70px;
   }
-  /* line 175, ../scss/pages/_home.scss */
+  /* line 229, ../scss/pages/_home.scss */
   .home-2 .series-art {
     background: url("/images/home/home-2/guy.png") no-repeat;
     background-size: 98px 213px;
@@ -6976,27 +7045,27 @@ input.gsc-search-button:hover {
     left: 50%;
     margin-left: 290px;
   }
-  /* line 186, ../scss/pages/_home.scss */
+  /* line 240, ../scss/pages/_home.scss */
   .home-2 .action-live {
     position: relative;
   }
-  /* line 190, ../scss/pages/_home.scss */
+  /* line 244, ../scss/pages/_home.scss */
   .home-2 span[data-churchonline-counter] {
     font-size: 0.6em;
     display: block;
     position: absolute;
   }
-  /* line 196, ../scss/pages/_home.scss */
+  /* line 250, ../scss/pages/_home.scss */
   .home-2 .section-home {
     background: url("/images/home/home-2/series-bg.jpg") center 85px no-repeat;
     background-size: 1309px 588px;
     padding-bottom: 90px;
   }
-  /* line 201, ../scss/pages/_home.scss */
+  /* line 255, ../scss/pages/_home.scss */
   .home-2 .section-home .action {
     color: #000;
   }
-  /* line 204, ../scss/pages/_home.scss */
+  /* line 258, ../scss/pages/_home.scss */
   .home-2 .section-home .action:hover {
     opacity: .5;
   }

@@ -117,16 +117,64 @@
 
 
 // Next Week
-.home .next-week,
-.home-2 .next-week{
+
+.home .coming-up {
+  max-width: 1500px;
+  margin: 0 auto;
+  //background: #1e1e1e;
+}
+
+.home .next-week {
   @include background-image-2x-jpg('/images/home/next-week');
   background-size: 1500px 327px;
   background-position: center top;
   background-repeat: no-repeat;
-  height: 350px;
+  height: 320px;
   display: block;
-  //margin-bottom: -32px;
+  position: relative;
   text-indent: -999em;
+  
+  @media screen and (min-width: 750px) {
+    border: 2px solid white;
+    float: left;
+    width: 50%;
+  }
+}
+
+.home .easter {
+  @include background-image-2x-jpg('/images/home/easter');
+  background-size: 750px 327px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 320px;
+  display: block;
+  text-indent: -999em;
+  border-bottom: 1px solid #eee;
+  position: relative;
+  
+  &:after {
+    @include transition-property(background);
+    @include transition-duration(.25s);
+    content: "";
+    width: 100%;
+    height: 316px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0);
+  }
+
+  // Tile hover action
+  &:hover:after {
+    background: rgba(0,0,0,.3);
+  }
+
+  
+  @media screen and (min-width: 750px) {
+    border: 2px solid white;
+    float: left;
+    width: 50%;
+  }
 }
 
 
@@ -142,6 +190,7 @@
     background-repeat: no-repeat;
     background-position: top left;
     padding-bottom: 70px !important;
+    border-bottom: 1px solid #eee;
  
     :hover {
       @include background-image-2x-jpg('/images/home/home-bg-small');
@@ -151,6 +200,11 @@
       color: #fff;
     }
   }
+}
+
+.home .page-footer .columns {
+  margin-top: 0;
+  border: none;
 }
 
 
