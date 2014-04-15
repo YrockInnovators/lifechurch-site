@@ -7024,6 +7024,7 @@ ul .home .section-first.section-home li {
   background-repeat: no-repeat;
   background-size: 1500px 496px;
   background-position: center;
+  height: auto;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 1, ../scss/pages/_watch.scss */
@@ -7051,8 +7052,35 @@ ul .home .section-first.section-home li {
     background-image: url("/images/watch/watch-live-small@2x.jpg");
   }
 }
-
 /* line 24, ../scss/pages/_watch.scss */
+.page-watch .section-watch-live h1, .page-watch .section-watch-live .h1 {
+  margin-top: 20px !important;
+}
+@media screen and (min-width: 768px) {
+  /* line 1, ../scss/pages/_watch.scss */
+  .page-watch .section-watch-live {
+    height: 320px;
+    overflow: hidden;
+  }
+}
+@media screen and (min-width: 768px) and (min-height: 750px) {
+  /* line 1, ../scss/pages/_watch.scss */
+  .page-watch .section-watch-live {
+    height: 350px;
+  }
+  /* line 36, ../scss/pages/_watch.scss */
+  .page-watch .section-watch-live h1, .page-watch .section-watch-live .h1 {
+    margin-top: 50px !important;
+  }
+}
+@media screen and (min-width: 768px) and (min-height: 800px) {
+  /* line 1, ../scss/pages/_watch.scss */
+  .page-watch .section-watch-live {
+    height: 450px;
+  }
+}
+
+/* line 46, ../scss/pages/_watch.scss */
 .no-touch .message a {
   display: block;
   float: left;
@@ -7060,31 +7088,31 @@ ul .home .section-first.section-home li {
   padding-top: 15px;
   border-radius: 4px;
 }
-/* line 31, ../scss/pages/_watch.scss */
+/* line 53, ../scss/pages/_watch.scss */
 .no-touch .message a:first-child {
   margin-top: -15px;
 }
-/* line 35, ../scss/pages/_watch.scss */
+/* line 57, ../scss/pages/_watch.scss */
 .no-touch .message a:hover {
   background: #f4f7f8;
 }
 
-/* line 40, ../scss/pages/_watch.scss */
+/* line 62, ../scss/pages/_watch.scss */
 .no-touch .message.live a {
   background: #0ea9d6;
   color: #fff !important;
   margin-bottom: 8px;
 }
-/* line 45, ../scss/pages/_watch.scss */
+/* line 67, ../scss/pages/_watch.scss */
 .no-touch .message.live a:hover {
   background: #0c96be;
 }
-/* line 49, ../scss/pages/_watch.scss */
+/* line 71, ../scss/pages/_watch.scss */
 .no-touch .message.live a h4, .no-touch .message.live a .h4, .no-touch .message.live a .location-tile, .no-touch .message.live a .lifegroups-tile span, .lifegroups-tile .no-touch .message.live a span, .no-touch .message.live a h5, .no-touch .message.live a .h5, .no-touch .message.live a h6, .no-touch .message.live a .h6, .no-touch .message.live a label {
   color: #fff !important;
 }
 
-/* line 54, ../scss/pages/_watch.scss */
+/* line 76, ../scss/pages/_watch.scss */
 .message-live-icon {
   background-size: 26px 22px;
   width: 26px;
@@ -7107,34 +7135,34 @@ ul .home .section-first.section-home li {
   background-image: url('/images/watch/watch-live-icon.png?1397413267');
 }
 
-/* line 65, ../scss/pages/_watch.scss */
+/* line 87, ../scss/pages/_watch.scss */
 .message h4, .message .h4, .message .location-tile, .message .lifegroups-tile span, .lifegroups-tile .message span {
   margin-top: -5px;
 }
 
-/* line 70, ../scss/pages/_watch.scss */
+/* line 92, ../scss/pages/_watch.scss */
 .message h6, .message .h6, .message label {
   margin-top: 0px;
 }
 
-/* line 78, ../scss/pages/_watch.scss */
+/* line 100, ../scss/pages/_watch.scss */
 .message {
   padding-bottom: 12px;
 }
 
-/* line 82, ../scss/pages/_watch.scss */
+/* line 104, ../scss/pages/_watch.scss */
 .watch-item h6, .watch-item .h6, .watch-item label {
   margin-top: 5px;
 }
 
 @media only screen and (min-width: 40.063em) {
-  /* line 86, ../scss/pages/_watch.scss */
+  /* line 108, ../scss/pages/_watch.scss */
   .watch-archive-art {
     margin-top: 30px;
   }
 }
 
-/* line 94, ../scss/pages/_watch.scss */
+/* line 116, ../scss/pages/_watch.scss */
 .watch-podcast,
 .watch-talkitover,
 .watch-open {
@@ -7142,7 +7170,7 @@ ul .home .section-first.section-home li {
   padding-bottom: 12px !important;
 }
 
-/* line 101, ../scss/pages/_watch.scss */
+/* line 123, ../scss/pages/_watch.scss */
 .watch-podcast:before,
 .watch-talkitover:before,
 .watch-open:before {
@@ -7194,13 +7222,13 @@ ul .home .section-first.section-home li {
   background-image: url('/images/watch/watch-open.png?1397413267');
 }
 
-/* line 123, ../scss/pages/_watch.scss */
+/* line 145, ../scss/pages/_watch.scss */
 .watch-message-first-archive {
   position: relative;
   display: block;
   float: left;
 }
-/* line 128, ../scss/pages/_watch.scss */
+/* line 150, ../scss/pages/_watch.scss */
 .watch-message-first-archive span {
   text-indent: -999em;
   display: block;
@@ -7221,12 +7249,12 @@ ul .home .section-first.section-home li {
   border: 2px solid white;
   border: 2px solid rgba(255, 255, 255, 0.6);
 }
-/* line 145, ../scss/pages/_watch.scss */
+/* line 167, ../scss/pages/_watch.scss */
 .watch-message-first-archive:hover span {
   background: rgba(0, 0, 0, 0.6);
 }
 
-/* line 150, ../scss/pages/_watch.scss */
+/* line 172, ../scss/pages/_watch.scss */
 .hphoto-watch-archive {
   background-color: #f0f1eb;
   background-position: center;
@@ -7240,17 +7268,17 @@ ul .home .section-first.section-home li {
   height: 340px;
 }
 @media only screen and (min-width: 40.063em) {
-  /* line 150, ../scss/pages/_watch.scss */
+  /* line 172, ../scss/pages/_watch.scss */
   .hphoto-watch-archive {
     margin: -33px auto -50px;
     background-size: 100% auto;
   }
 }
-/* line 167, ../scss/pages/_watch.scss */
+/* line 189, ../scss/pages/_watch.scss */
 .hphoto-watch-archive:hover {
   color: #fff;
 }
-/* line 171, ../scss/pages/_watch.scss */
+/* line 193, ../scss/pages/_watch.scss */
 .hphoto-watch-archive .inner {
   text-align: center;
   width: 100%;
@@ -7259,7 +7287,7 @@ ul .home .section-first.section-home li {
   position: absolute;
   top: 0;
 }
-/* line 180, ../scss/pages/_watch.scss */
+/* line 202, ../scss/pages/_watch.scss */
 .hphoto-watch-archive .play-large {
   width: 44px;
   height: 53px;
@@ -7288,11 +7316,11 @@ ul .home .section-first.section-home li {
 .no-js .hphoto-watch-archive .play-large {
   background-image: url('/images/watch/watch-play-large.png?1397413267');
 }
-/* line 194, ../scss/pages/_watch.scss */
+/* line 216, ../scss/pages/_watch.scss */
 .hphoto-watch-archive:hover .play-large {
   background-color: black;
 }
-/* line 198, ../scss/pages/_watch.scss */
+/* line 220, ../scss/pages/_watch.scss */
 .hphoto-watch-archive h1, .hphoto-watch-archive .h1 {
   margin-top: 10px;
   margin-bottom: 20px;
