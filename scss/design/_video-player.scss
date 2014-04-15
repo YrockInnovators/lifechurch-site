@@ -12,6 +12,7 @@
 
   .wistia-flex-video {
     @include flex-video-container();
+    position: initial;
 
     iframe {
       height: 100%;
