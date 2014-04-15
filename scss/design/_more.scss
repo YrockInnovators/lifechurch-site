@@ -25,6 +25,10 @@
   .page-more {
     background: #fff;
     z-index: 10;
+  
+    @media #{$small-only} {
+      
+    }
 
     @media #{$medium-up} {
       .row {
@@ -58,18 +62,7 @@
   }
 
   .touch.js .page-more-inner {
-    top: 90px !important;
-  }
-
-  @media #{$small-only} {
-    .js .home .page-more {
-      position: relative;
-      display: block;
-    }
-
-    .js .home .page-more-inner {
-      top: 0 !important;
-    }
+    top: 80px !important;
   }
 
   .page-more-inner {
@@ -84,11 +77,9 @@
     padding: 0 10px;
 
     @media #{$small-only} {
-      padding: 10px;
-
-      p {
-        margin: 0;
-      }
+      border-bottom: 1px solid #eee;
+      display: block;
+      padding: 3px 10px;
     }
   }
 
@@ -99,7 +90,8 @@
 
 // Make descriptions in "more" smaller than normal paragraphs
 .page-more-inner p {
-  font-size: .9em;
+  font-size: .8em;
+  margin-bottom: 7px;
 
   @media #{$medium-up} {
     font-size: 1em;
@@ -111,16 +103,7 @@
   margin: 7px 0 8px;
 }
 
-.more-watch-small {
-  margin: 0 -15px !important;
-  padding: 15px !important;
-}
-
 @media #{$small-only} {
-  .home .page-more {
-    margin-top: -5px !important;
-  }
-
   .page-more h4 {
     margin-bottom: 2px !important;
   }
