@@ -15,6 +15,7 @@ use Rack::TryStatic,
     [["png"],   {'Content-Type' => 'image/png'}],
     [["svg"],   {'Content-Type' => 'image/svg+xml'}],
     [["jpg"],   {'Content-Type' => 'image/jpg'}],
+    [["ico"],   {'Content-Type' => 'image/x-icon'}],
     ["/assets", {'Cache-Control' => 'public, max-age=31536000'}],
   ]
 
