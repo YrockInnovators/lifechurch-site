@@ -72,10 +72,10 @@
     // Put borders either side of the middle one on large
     @media #{$medium-up} {
       height: 250px;
-      width: 33%;
+      width: 50%;
       float: left;
       padding-top: 100px;
-      background-size: 550px 313px;
+      background-size: cover;
       border-left: 2px solid #222;
       border-right: 2px solid #222;
 
@@ -101,11 +101,6 @@
       &.lifegroups-tile-first,
       &.lifegroups-tile-last {
         border: none;
-      }
-
-      // Make last a little larger for math
-      &.lifegroups-tile-last {
-        width: 34%;
       }
     }
 
