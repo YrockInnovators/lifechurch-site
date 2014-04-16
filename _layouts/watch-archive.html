@@ -47,7 +47,7 @@ class: header-red section-watch section-series
         <div class="watch-messages">
         
 
-          {% if forloop.first %}
+          {% if page.live == true %}
           <div class="row message live">
             <a href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Live”');">
               <div class="small-1 medium-2 columns">

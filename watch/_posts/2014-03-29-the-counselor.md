@@ -3,6 +3,7 @@ published: true
 layout: watch-archive
 categories: watch
 series-id: the-counselor
+live: true
 
 assets: 2014-the-counselor
 stylesheet: false

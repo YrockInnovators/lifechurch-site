@@ -42,8 +42,13 @@
     color: $red;
   }
 
-  img.expand {
+  img.expand,
+  table.expand {
     width: 100%;
+  }
+
+  table {
+    table-layout: fixed;
   }
 
   figure {
