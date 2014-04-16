@@ -101,7 +101,7 @@ $(function() {
     $('body').addClass('has-alerts');
   };
 
-  if ($(window).width() < 960) {
+  if ($(window).width() < 767) {
   }
   // If the screen is wide:
   else {
@@ -311,7 +311,7 @@ $(function() {
   });
 
   
-  if ($(window).width() < 960) {
+  if ($(window).width() < 767) {
     $('.watch-resources.button').appendTo('.watch-messages').addClass('expand').wrap('<div class="row"><div class="small-12 columns"></div></div>');
   }
 
@@ -319,7 +319,7 @@ $(function() {
 
 $(window).bind("load", function() {
  
-  if ($(window).width() > 960) {
+  if ($(window).width() > 767) {
     var maxHeight = 0;
     
     $(".section-locations .involved-list .panel > .detail, .tools .panel > .detail").each(function() {
