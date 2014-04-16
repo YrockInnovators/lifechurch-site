@@ -1,0 +1,7 @@
+.form-contact {
+  &.validation {
+    input[type="text"] {
+      border-color: red;
+    }
+  }
+}
