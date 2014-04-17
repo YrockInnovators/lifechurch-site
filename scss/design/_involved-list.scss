@@ -5,28 +5,34 @@
     height: 40px;
     @include transition-property(height);
     @include transition-duration(.5s);
-  }
 
-  .cta.open {
-    height: 300px;
+    &.open {
+      height: 300px;
 
-    @media #{$medium-up} {
-      height: 310px;
+      @media #{$medium-up} {
+        height: 360px;
+      }
+
+      @media #{$large-up} {
+        height: 310px;
+      }  
     }
 
-    @media #{$large-up} {
-      height: 260px;
+    &.sent {
+      height: 80px;
     }
-  }
-
-  .cta.sent {
-    height: 80px;
   }
 
   form {
     position: absolute;
     top: -15px;
     width: 100%;
+
+    &.validation {
+      input[type="text"] {
+        border-color: red;
+      }
+    }
   }
 
 }

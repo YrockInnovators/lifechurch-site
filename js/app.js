@@ -160,40 +160,6 @@ $(function() {
   //$('.overlap:eq(1)').removeClass('overlap').addClass('overlap-2').parent().parent().removeClass('rows-2').addClass('rows-3');
 
 
-  // LifeMissions Page
-  if ($('.involved-list').length > 0) {
-
-    // Hide forms by default
-    $('.involved-list form').hide();
-
-    // Make the form appear if "Get Involved" gets clicked
-    $( ".involved-list" ).delegate( ".get-involved", "click", function() {
-      $(this).parent().parent().addClass('open');
-      $(this).parent().siblings('form').fadeIn();
-      $(this).parent().fadeOut();
-      $(this).fadeOut();
-      return false;
-    });
-  };
-
-
-  // Get Involved form
-  $('.involved-item .button').click(function() {
-    $(this).parent().fadeOut();
-    $(this).parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll be in touch soon.</em></div>").fadeIn();
-    $(this).parent().parent('.cta').removeClass('open').addClass('sent');
-    $(this).parent().parent().find('.cta-thanks').fadeIn();
-  });
-
-
-  // Contact form Response
-  $('.form-contact .button').click(function() {
-    $(this).parent().fadeOut();
-    $(this).parent().parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
-    $(this).parent().parent().find('.cta-thanks').fadeIn();
-  });
-
-
   // Live color changing
   setInterval(function() {
     $('.primary-links a .live').toggleClass('alt');
@@ -271,44 +237,7 @@ $(function() {
     }
   });
 
-  // Keep Involved form users on the site
-  $('.form-involved').submit(function(event) {
-    event.preventDefault();
-    recipient = $(this).find('input[name="recipient"]').val();
-    subject = $(this).find('input[name="subject"]').val();
-    detail = $(this).find('input[name="detail"]').val();
-    $.post($(this).attr('action'), {
-      recipient: recipient,
-      subject: subject,
-      detail: detail,
-      key: '345e8e6fb8'
-    });
-  });
 
-  // Keep Contact form users on the site
-  $('.form-contact').submit(function(event) {
-    event.preventDefault();
-
-    if ($('select[name="subject"]').length > 0) {
-      subject = $(this).find('select[name="subject"]').val();
-    }
-
-    if ($('input[name="subject"]').length > 0) {
-      subject = $(this).find('input[name="subject"]').val();
-    }
-
-    recipient = $(this).find('input[name="recipient"]').val();
-    detail = $(this).find('input[name="detail"]').val();
-    message = $(this).find('textarea[name="message"]').val();
-
-    $.post($(this).attr('action'), {
-      recipient: recipient,
-      subject: subject,
-      detail: detail,
-      message: message,
-      key: '345e8e6fb8'
-    });
-  });
 
   
   if ($(window).width() < 767) {
@@ -324,7 +253,6 @@ $(window).bind("load", function() {
     
     $(".section-locations .involved-list .panel > .detail, .tools .panel > .detail").each(function() {
       if ($(this).height() > maxHeight) { maxHeight = $(this).height(); }
-      console.log($(this).height());
     });
 
     $(".section-locations .involved-list .panel > .detail, .tools .panel > .detail").height(maxHeight);
