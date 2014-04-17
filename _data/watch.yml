@@ -11,6 +11,7 @@
   quote: ''
   quote_cite: ''
   open_url: ''
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/the-counselor/
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-counselor/300x200.jpg?1396290251
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-counselor/600x400.jpg?1396296632
@@ -37,6 +38,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1871-the-artisan-soul
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/the-artisan-soul/
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/300x200.jpg?1396043492
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/600x400.jpg?1396043573
@@ -60,6 +62,7 @@
   quote: '"test quotes"'
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1863-being-rich
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/be-rich/
   image_small: http://s3.amazonaws.com/lcapi.production/series/being-rich/300x200.jpg?1396042535
   image_medium: http://s3.amazonaws.com/lcapi.production/series/being-rich/600x400.jpg?1396042589
@@ -92,6 +95,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1847-small-things-big-difference
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/small-things-big-difference/
   image_small: http://s3.amazonaws.com/lcapi.production/series/small-things/300x200.jpg?1396042267
   image_medium: http://s3.amazonaws.com/lcapi.production/series/small-things/600x400.jpg?1396042312
@@ -121,6 +125,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1857-maker-of-miracles
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/maker-of-miracles/
   image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1396038137
   image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1396038218
@@ -140,6 +145,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1835-fear-not
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/fear-not/
   image_small: http://s3.amazonaws.com/lcapi.production/series/fear-not/300x200.jpg?1396042061
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fear-not/600x400.jpg?1396042126
@@ -166,6 +172,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1846-growing-spiritually-with-kevin-durant-and-carl-lent
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/growing-spiritually/
   image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1396037980
   image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1396038029
@@ -186,6 +193,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1824-necessary-sins
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/necessary-sins/
   image_small: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/300x200.jpg?1396041700
   image_medium: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/600x400.jpg?1396041749
@@ -214,6 +222,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1832-fight
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/fight/
   image_small: http://s3.amazonaws.com/lcapi.production/series/fight/300x200.jpg?1396041413
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fight/600x400.jpg?1396041470
@@ -233,6 +242,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1821-multiply
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/multiply/
   image_small: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/300x200.jpg?1396041297
   image_medium: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/600x400.jpg?1396041347
@@ -259,6 +269,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1780-friending
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/friending/
   image_small: http://s3.amazonaws.com/lcapi.production/series/friending/300x200.jpg?1396040901
   image_medium: http://s3.amazonaws.com/lcapi.production/series/friending/600x400.jpg?1396041037
@@ -288,6 +299,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1796-rescue
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/rescue/
   image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1396037750
   image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1396037853
@@ -307,6 +319,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1751-elisha-a-tale-of-ridiculous-faith
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/elisha-a-tale-of-ridiculous-faith/
   image_small: http://s3.amazonaws.com/lcapi.production/series/elisha/300x200.jpg?1396039930
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elisha/600x400.jpg?1396039995
@@ -336,6 +349,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1744-on-the-road
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/on-the-road/
   image_small: http://s3.amazonaws.com/lcapi.production/series/on-the-road/300x200.jpg?1396039428
   image_medium: http://s3.amazonaws.com/lcapi.production/series/on-the-road/600x400.jpg?1396039710
@@ -364,6 +378,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1746-just-getting-started
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/just-getting-started/
   image_small: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/300x200.jpg?1396038955
   image_medium: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/600x400.jpg?1396039010
@@ -383,6 +398,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1747-helping-the-hurting
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/helping-the-hurting/
   image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1396039125
   image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1396039212
@@ -402,6 +418,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1733-i-am-jesus
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/i-am-jesus/
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/300x200.jpg?1396037425
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/600x400.jpg?1396037484
@@ -430,6 +447,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1723-new
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/new/
   image_small: http://s3.amazonaws.com/lcapi.production/series/new/300x200.jpg?1396037280
   image_medium: http://s3.amazonaws.com/lcapi.production/series/new/600x400.jpg?1396037336
@@ -456,6 +474,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1715-altar-ego
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/altar-ego-talk-it-over/
   image_small: http://s3.amazonaws.com/lcapi.production/series/altar-ego/300x200.jpg?1396036237
   image_medium: http://s3.amazonaws.com/lcapi.production/series/altar-ego/600x400.jpg?1396036279
@@ -484,6 +503,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1708-my-story
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/my-story/
   image_small: http://s3.amazonaws.com/lcapi.production/series/my-story/300x200.jpg?1396036085
   image_medium: http://s3.amazonaws.com/lcapi.production/series/my-story/600x400.jpg?1396036159
@@ -512,6 +532,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1709-lead-like-jesus
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/lead-like-jesus/
   image_small: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/300x200.jpg?1396035436
   image_medium: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/600x400.jpg?1396035490
@@ -532,6 +553,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1700-like-a-child
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/like-a-child/
   image_small: http://s3.amazonaws.com/lcapi.production/series/like-a-child/300x200.jpg?1396035268
   image_medium: http://s3.amazonaws.com/lcapi.production/series/like-a-child/600x400.jpg?1396035345
@@ -561,6 +583,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1697-because-of-you
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/because-of-you/
   image_small: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/300x200.jpg?1396024682
   image_medium: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/600x400.jpg?1396024750
@@ -583,6 +606,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1683-the-end
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/the-end/
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-end/300x200.jpg?1396034855
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-end/600x400.jpg?1396034937
@@ -608,6 +632,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1690-love-and-hate
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/love-hate/
   image_small: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/300x200.jpg?1396034718
   image_medium: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/600x400.jpg?1396034761
@@ -631,6 +656,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1662-strapped
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/strapped/
   image_small: http://s3.amazonaws.com/lcapi.production/series/strapped/300x200.jpg?1396034569
   image_medium: http://s3.amazonaws.com/lcapi.production/series/strapped/600x400.jpg?1396034612
@@ -663,6 +689,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1655-from-this-day-forward
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/from-this-day-forward/
   image_small: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/300x200.jpg?1396034418
   image_medium: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/600x400.jpg?1396034477
@@ -695,6 +722,7 @@
   quote: ''
   quote_cite: ''
   open_url: ''
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/more-than-dust-talk-it-over-pdf/
   image_small: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/300x200.jpg?1396033970
   image_medium: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/600x400.jpg?1396034014
@@ -714,6 +742,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1643-perspective
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/perspective-week-1-talk-it-over-pdf/
   image_small: http://s3.amazonaws.com/lcapi.production/series/perspective/300x200.jpg?1396033276
   image_medium: http://s3.amazonaws.com/lcapi.production/series/perspective/600x400.jpg?1396033518
@@ -743,6 +772,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1644-forget-you
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/forget-you/300x200.jpg?1396032329
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forget-you/600x400.jpg?1396032423
@@ -765,6 +795,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1638-soul-detox
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/soul-detox/300x200.jpg?1396032146
   image_medium: http://s3.amazonaws.com/lcapi.production/series/soul-detox/600x400.jpg?1396032219
@@ -794,6 +825,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1632-why
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/why-2012/300x200.jpg?1396031869
   image_medium: http://s3.amazonaws.com/lcapi.production/series/why-2012/600x400.jpg?1396031942
@@ -823,6 +855,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1629-found-favor
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/found-favor/300x200.jpg?1396031561
   image_medium: http://s3.amazonaws.com/lcapi.production/series/found-favor/600x400.jpg?1396031652
@@ -845,6 +878,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1622-samson
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/samson-2012/300x200.jpg?1396031079
   image_medium: http://s3.amazonaws.com/lcapi.production/series/samson-2012/600x400.jpg?1396031139
@@ -873,6 +907,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1611-better
+  promo: ''
   resources_url: http://resources.lifechurch.tv/products/better-week-1-pdf-video/
   image_small: http://s3.amazonaws.com/lcapi.production/series/better/300x200.jpg?1396025667
   image_medium: http://s3.amazonaws.com/lcapi.production/series/better/600x400.jpg?1396025751
@@ -901,6 +936,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1612-john-maxwell
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1396025900
   image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1396025944
@@ -920,6 +956,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1602-carols
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/carols/300x200.jpg?1396024882
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carols/600x400.jpg?1396024923
@@ -948,6 +985,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1597-those-people
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/those-people/300x200.jpg?1396022828
   image_medium: http://s3.amazonaws.com/lcapi.production/series/those-people/600x400.jpg?1396022900
@@ -976,6 +1014,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1595-passing-the-test
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/300x200.jpg?1396022464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/600x400.jpg?1396022525
@@ -998,6 +1037,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1592-change-your-world-in-52-days
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/change-your-world/300x200.jpg?1396021202
   image_medium: http://s3.amazonaws.com/lcapi.production/series/change-your-world/600x400.jpg?1396021262
@@ -1026,6 +1066,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1589-twogather
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/twogather/300x200.jpg?1396021016
   image_medium: http://s3.amazonaws.com/lcapi.production/series/twogather/600x400.jpg?1396021101
@@ -1048,6 +1089,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1582-bold
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/bold/300x200.jpg?1396020776
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bold/600x400.jpg?1396020833
@@ -1077,6 +1119,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1563-re
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/re/300x200.jpg?1396020632
   image_medium: http://s3.amazonaws.com/lcapi.production/series/re/600x400.jpg?1396020704
@@ -1106,6 +1149,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1558-getting-past-your-past
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/300x200.jpg?1396019390
   image_medium: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/600x400.jpg?1396019450
@@ -1134,6 +1178,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1551-weird
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/weird/300x200.jpg?1396018778
   image_medium: http://s3.amazonaws.com/lcapi.production/series/weird/600x400.jpg?1396018846
@@ -1165,6 +1210,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1550-sun-stand-still
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/300x200.jpg?1396016407
   image_medium: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/600x400.jpg?1396016463
@@ -1187,6 +1233,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1548-who-do-you-think-you-are
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/300x200.jpg?1396015782
   image_medium: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/600x400.jpg?1396015845
@@ -1217,6 +1264,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1544-i-quit
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-quit/300x200.jpg?1396018576
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-quit/600x400.jpg?1396018624
@@ -1247,6 +1295,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1396017703
   image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1396017885
@@ -1267,6 +1316,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1536-first
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/first/300x200.jpg?1396013916
   image_medium: http://s3.amazonaws.com/lcapi.production/series/first/600x400.jpg?1396014102
@@ -1286,6 +1336,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1535-never-lose-heart
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1395957477
   image_medium: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/600x400.jpg?1395957539
@@ -1305,6 +1356,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1533-christmas-2010
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/christmas10/300x200.jpg?1395958092
   image_medium: http://s3.amazonaws.com/lcapi.production/series/christmas10/600x400.jpg?1395958139
@@ -1323,6 +1375,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1517-masquerade
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/masquerade/300x200.jpg?1395956137
   image_medium: http://s3.amazonaws.com/lcapi.production/series/masquerade/600x400.jpg?1395956192
@@ -1354,6 +1407,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1516-planted
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/planted/300x200.jpg?1395955990
   image_medium: http://s3.amazonaws.com/lcapi.production/series/planted/600x400.jpg?1395956048
@@ -1377,6 +1431,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1515-chazown
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/chazown/300x200.jpg?1395955851
   image_medium: http://s3.amazonaws.com/lcapi.production/series/chazown/600x400.jpg?1395956613
@@ -1397,6 +1452,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1512-i-believe-in-you
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/300x200.jpg?1395955702
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/600x400.jpg?1395955753
@@ -1425,6 +1481,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1489-toxic
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/toxic/300x200.jpg?1395955541
   image_medium: http://s3.amazonaws.com/lcapi.production/series/toxic/600x400.jpg?1395955585
@@ -1456,6 +1513,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1473-one-prayer-2010
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/300x200.jpg?1395955200
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/600x400.jpg?1395955247
@@ -1484,6 +1542,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1467-forgotten-virtues
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/300x200.jpg?1395954850
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/600x400.jpg?1395954906
@@ -1515,6 +1574,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1463-faq
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/faq/300x200.jpg?1395955372
   image_medium: http://s3.amazonaws.com/lcapi.production/series/faq/600x400.jpg?1395955419
@@ -1541,6 +1601,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1461-red-letter-day
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/300x200.jpg?1395954671
   image_medium: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/600x400.jpg?1395954722
@@ -1573,6 +1634,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1460-once-upon-a-marriage
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/300x200.jpg?1395954447
   image_medium: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/600x400.jpg?1395954510
@@ -1602,6 +1664,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1447-margin
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/margin/300x200.jpg?1395954017
   image_medium: http://s3.amazonaws.com/lcapi.production/series/margin/600x400.jpg?1395954063
@@ -1631,6 +1694,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1446-one-thing
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-thing/300x200.jpg?1395952110
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-thing/600x400.jpg?1395936667
@@ -1649,6 +1713,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1445-christmas-2009
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/this-christmas/300x200.jpg?1395945033
   image_medium: http://s3.amazonaws.com/lcapi.production/series/this-christmas/600x400.jpg?1395945103
@@ -1668,6 +1733,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1441-the-blessed-life
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/blessed-life/300x200.jpg?1395945759
   image_medium: http://s3.amazonaws.com/lcapi.production/series/blessed-life/600x400.jpg?1395946193
@@ -1698,6 +1764,7 @@
   quote: ''
   quote_cite: ''
   open_url: 
+  promo: ''
   resources_url: 
   image_small: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/300x200.jpg?1395946430
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/600x400.jpg?1395946485
@@ -1721,6 +1788,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1431-the-ghost
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/ghost/300x200.jpg?1395946626
   image_medium: http://s3.amazonaws.com/lcapi.production/series/ghost/600x400.jpg?1395946673
@@ -1750,6 +1818,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1428-a-place-for-everyone
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/300x200.jpg?1395946819
   image_medium: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/600x400.jpg?1395946866
@@ -1774,6 +1843,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1425-5-easy-steps-to-wreck-your-life
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/300x200.jpg?1395949098
   image_medium: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/600x400.jpg?1395949158
@@ -1804,6 +1874,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1420-stop-acting-like-a-christian
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/300x200.jpg?1395949281
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/600x400.jpg?1395949351
@@ -1827,6 +1898,7 @@
   quote: ''
   quote_cite: ''
   open_url: 
+  promo: ''
   resources_url: 
   image_small: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/300x200.jpg?1395949464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/600x400.jpg?1395949509
@@ -1853,6 +1925,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1401-one-prayer-2009
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/300x200.jpg?1395949925
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/600x400.jpg?1395949977
@@ -1881,6 +1954,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1397-elijah
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/elijah/300x200.jpg?1395950082
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elijah/600x400.jpg?1395950122
@@ -1911,6 +1985,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1395-can-you-see-him
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/300x200.jpg?1395950540
   image_medium: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/600x400.jpg?1395950764
@@ -1939,6 +2014,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1390-life-money-hope-featuring-dave-ramsey
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/300x200.jpg?1395950860
   image_medium: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/600x400.jpg?1395950919
@@ -1966,6 +2042,7 @@
   quote: ''
   quote_cite: ''
   open_url: 
+  promo: ''
   resources_url: 
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-vow/300x200.jpg?1395951072
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-vow/600x400.jpg?1395951126
@@ -1994,6 +2071,7 @@
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1371-true-ish
+  promo: ''
   resources_url: ''
   image_small: http://s3.amazonaws.com/lcapi.production/series/trueish/300x200.jpg?1395951218
   image_medium: http://s3.amazonaws.com/lcapi.production/series/trueish/600x400.jpg?1395951254
@@ -2022,6 +2100,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2043,6 +2122,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2061,6 +2141,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2086,6 +2167,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2108,6 +2190,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2137,6 +2220,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2165,6 +2249,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2193,6 +2278,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2223,6 +2309,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2256,6 +2343,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2279,6 +2367,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2305,6 +2394,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2337,6 +2427,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2367,6 +2458,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2393,6 +2485,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2422,6 +2515,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2454,6 +2548,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2474,6 +2569,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2504,6 +2600,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2534,6 +2631,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2565,6 +2663,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2596,6 +2695,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2624,6 +2724,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2652,6 +2753,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2684,6 +2786,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2715,6 +2818,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2736,6 +2840,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2772,6 +2877,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2801,6 +2907,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2833,6 +2940,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2863,6 +2971,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2895,6 +3004,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2912,6 +3022,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2936,6 +3047,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2965,6 +3077,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -2995,6 +3108,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3027,6 +3141,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3057,6 +3172,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3084,6 +3200,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3114,6 +3231,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3143,6 +3261,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3166,6 +3285,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3186,6 +3306,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3210,6 +3331,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3239,6 +3361,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3260,6 +3383,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3290,6 +3414,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3312,6 +3437,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3348,6 +3474,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3366,6 +3493,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3387,6 +3515,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3407,6 +3536,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3432,6 +3562,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3459,6 +3590,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3493,6 +3625,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3514,6 +3647,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3535,6 +3669,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3566,6 +3701,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3597,6 +3733,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3622,6 +3759,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3651,6 +3789,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3675,6 +3814,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3696,6 +3836,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3717,6 +3858,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3747,6 +3889,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3772,6 +3915,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3807,6 +3951,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3835,6 +3980,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3864,6 +4010,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3890,6 +4037,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3918,6 +4066,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3947,6 +4096,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -3976,6 +4126,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
@@ -4006,6 +4157,7 @@
   quote: 
   quote_cite: 
   open_url: 
+  promo: 
   resources_url: 
   image_small: ''
   image_medium: ''
