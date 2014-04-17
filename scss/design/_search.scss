@@ -1,3 +1,12 @@
+.page-tertiary .gsc-control-cse {
+  background: transparent !important;
+  border: none !important;
+
+  table {
+    background: transparent !important;
+  }
+}
+
 @media #{$small-only} {
   .gsc-control-cse {
     margin-top: 20px !important;
@@ -36,7 +45,6 @@
   .gsc-control-cse {
     width: 300px !important;
     float: right !important;
-    top: -30px;
     position: relative;
   }
 }

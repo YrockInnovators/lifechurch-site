@@ -18,6 +18,21 @@
       </nav>
     </div>
     <div class="medium-6 columns tertiary-resources text-right">
+      {% if page.title == "Watch a Message" %}
+        <!--<script>
+          (function() {
+            var cx = '002176242189043456332:_gc7rgk658s';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+          })();
+        </script>
+        <gcse:search></gcse:search>-->
+      {% endif %}
       {% if page.section == "watch" %}
       <!-- Watch Options -->
       <div class="hide-for-small">

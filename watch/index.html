@@ -1,53 +1,20 @@
 ---
 layout: default
-title: Watch
-class: header-red section-watch page-watch
+title: Watch a Message
+class: header-light section-watch page-watch
 ---
 
 <!-- Live -->
 
 {% assign latest = site.data.watch | first %}
 
-<section class="hphoto section-watch-live section-light">
+<section class="section-watch-bg section-light page-section section-first">
   <div class="row">
-    <div class="medium-6 columns">
-      <h1 class="h2 text-white">Join us at Church Online</h1>
-      <p>{{ latest.description_small }}</p>
-      <p>
-        <a href="http://live.lifechurch.tv"
-           class="action text-lprimary"
-           onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
-           Visit Church Online <span data-churchonline-counter></span> <i class="icon icon-play"></i>
-         </a>
-      </p>
+    <div class="medium-7 columns">
+      <h1 class="h2 text-white">View a message on demand or visit a live experience at Church Online.</h1>
     </div>
   </div>
 </section>
-
-<!-- Archive Header -->
-<div class="row">
-  <div class="medium-12 columns">
-    <div class="page-tertiary padded text-left">
-      <nav class="tertiary-nav">
-        <a class="current" href="#">On Demand</a>
-
-        <script>
-          (function() {
-            var cx = '002176242189043456332:_gc7rgk658s';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                '//www.google.com/cse/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-          })();
-        </script>
-        <gcse:search></gcse:search>
-      </nav>
-    </div>
-  </div>
-</div>
 
 <!-- Archive Grid -->
 <div class="row">
@@ -61,6 +28,10 @@ class: header-red section-watch page-watch
       <li class="watch-item">
         <a href="{{ post.url }}">
           <div class="panel">
+            {% if post.live == true %}
+            <div class="ribbon-wrapper"><div class="ribbon">LIVE</div></div>
+            {% endif %}
+
             <img src="{{ series.image_small }}" data-interchange="[{{ series.image_small }}, (default)], [{{ series.image_medium }}, (medium)]" alt="{{ series.title }}" src="{{series.image_small}}" />
             <noscript><img src="{{ series.image_small }}" alt="{{ series.title }}"></noscript>
 
