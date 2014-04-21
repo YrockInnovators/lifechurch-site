@@ -6935,7 +6935,7 @@ ul .home .section-first.section-home li {
   position: relative;
   text-indent: -999em;
   float: left;
-  width: 50%;
+  width: 100%;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* line 127, ../scss/pages/_home.scss */
@@ -6949,7 +6949,6 @@ ul .home .section-first.section-home li {
     background-image: url("/images/home/next-week.jpg");
     height: 320px;
     background-size: 1500px 327px;
-    border: 2px solid white;
   }
 }
 @media only screen and (min-width: 750px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-width: 750px) and (-o-min-device-pixel-ratio: 3 / 2), only screen and (min-width: 750px) and (min--moz-device-pixel-ratio: 1.5), only screen and (min-width: 750px) and (min-device-pixel-ratio: 1.5) {
