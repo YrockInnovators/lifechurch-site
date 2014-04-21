@@ -1,0 +1,48 @@
+---
+layout: default
+section: watch
+class: header-red section-watch section-series
+---
+
+{% for series in site.data.watch %}
+{% if series.id == page.series-id %}
+
+{% include tertiary.html %}
+
+<a class="hphoto hphoto-top section-light hphoto-watch-archive" style="background-image: url('{{ series.image_large }}')" href="javascript:void(0);" data-video-player="{{ series.promo }}">
+  <div class="inner">
+    <span class="play-large"></span>
+    <h1>{{ series.title }}</h1>
+    Watch the promo
+  </div>
+</a>
+
+<!-- Page Main -->
+<div class="page-main">
+
+  <div class="page-section">
+    <div class="row padded">
+      <div class="large-9 large-centered columns text-center">
+        <p>{{ series.description_medium | newline_to_br }}</p>
+      </div>
+    </div>
+
+    <div class="row padded">
+      <div class="large-12 columns text-center">
+
+        <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
+
+        <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}%2F" target="_blank" class="action large"><i class="icon-social-facebook"></i> Invite on Facebook</a>
+
+        <a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}%2F" target="_blank" class="action large"><i class="icon-social-gplus"></i> Invite on Google+</a>
+      </div>
+    </div>
+  </div>
+
+  {% include video-player.html id=series.promo %}
+</div>
+
+<div class="series-locator">series-{{ series.id }}</div>
+
+{% endif %}
+{% endfor %}
