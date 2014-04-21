@@ -4,7 +4,7 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: true
+- active: false
   type: notice
   icon: calendar
   message: View additional Easter service times.
