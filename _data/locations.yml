@@ -544,6 +544,14 @@
     duration: 60
     type: lifekids
   missions: []
+- id: BNB
+  title: Broadway and Britton
+  email: ''
+  phone: ''
+  address: 9001 N. Broadway Extension Oklahoma City, OK 73113
+  facebook: '227205990810209'
+  times: []
+  missions: []
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
