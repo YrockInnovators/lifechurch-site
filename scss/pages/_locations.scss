@@ -328,6 +328,16 @@
   margin-right: auto;
 }
 
+.locations-hero-promo {
+  background-color: #f9f5ed;
+  background-size: 1500px 750px;
+}
+
+.location-promo .page-footer .columns {
+  border: none;
+  margin-top: 0;
+}
+
 // Hide Local Partner images
 .section-localpartners img {
   display: none;
@@ -730,6 +740,7 @@
 
   .location-alb .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/alb-bg'); }
   .location-bao .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/bao-bg'); }
+  .location-bnb .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/bnb-bg'); }
   .location-edm .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/edm-bg'); }
   .location-ftw .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/ftw-bg'); }
   .location-hnv .locations-hero { @include background-image-2x-jpg('/locations/assets/campus/hnv-bg'); }
