@@ -1,4 +1,18 @@
----
+- id: outlasters
+  title: Outlasters
+  headline: ''
+  description_small: What will the world say about you when you're gone? Create a legacy that stands the test of time—become an Outlaster.
+  description_medium: What will the world say about you when you're gone? No one can live forever, but anyone can create a legacy that stands the test of time. Prepare to make your mark on the world—become an Outlaster.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: k3vth6f06h
+  resources_url: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/outlasters/300x200.jpg?1398097251
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/outlasters/600x400.jpg?1398097230
+  image_large: http://s3.amazonaws.com/lcapi.production/series/outlasters/1200x800.jpg?1398097208
+  image_social: http://s3.amazonaws.com/lcapi.production/series/outlasters/400x400.jpg?1397678033
+
 - id: the-counselor
   title: The Counselor
   headline: ''
