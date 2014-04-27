@@ -6819,7 +6819,7 @@ input.gsc-search-button:hover {
 }
 /* line 39, ../scss/pages/_home.scss */
 .home .section-first.section-home p, .home .section-first.section-home ul li, ul .home .section-first.section-home li {
-  max-width: 600px;
+  max-width: 620px;
   margin: 0 auto 30px;
   color: #fff;
 }
