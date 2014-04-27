@@ -28,27 +28,22 @@
     @include background-image-2x-jpg('/images/home/home-bg-small');
     background-size: cover;
     background-color: #000;
-    background-position: center bottom;
+    background-position: top center;
     background-repeat: no-repeat;
+    margin-top: -80px;
     
-    // Action links
-    .action {
-      color: #c6bdb7;
-
-      &:hover {
-        opacity: .6;
-      }
-    }
-
     h1 {
-      margin-bottom: 35px !important;
+      display: none;
     }
 
-    h1,
     p {
       max-width: 600px;
       margin: 0 auto 30px;
       color: #fff;
+      
+      @media #{$medium-up} {
+        margin: 340px auto 30px;
+      }
     }
 
     .columns {
@@ -59,7 +54,7 @@
       @include background-image-2x-jpg('/images/home/home-bg');
       background-size: 1500px 931px;
       height: 700px;
-
+      margin-top: -165px;
 
       // Title
       h1 {
@@ -209,6 +204,7 @@
 
 .home .page-footer {
   margin-top: 0;
+  background: black;
 }
 
 .home .page-footer .columns {
