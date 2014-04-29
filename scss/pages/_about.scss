@@ -1,6 +1,6 @@
 .who-we-are {
   .logo {
-    //@include svg-image('/images/branding/logo-red-white');
+    @include svg-image('/images/branding/logo-red-white');
   }
 
   @media #{$small-only} {
@@ -23,6 +23,10 @@
     @media #{$medium-up} {
       @include background-image-2x-jpg('/images/about/whoweare-bg');
       background-size: 1500px 636px;
+    }
+
+    blockquote p {
+      color: white;
     }
   }
 }
