@@ -516,42 +516,6 @@
       to build and renovate high quality, affordable housing; advocate on behalf of
       those in need of decent housing, and serve as a partner and catalyst to create
       healthy and sustainable communities. '
-- id: klr
-  title: Keller TX Campus
-  email: klr.serving@lifechurch.tv
-  phone: (682) 593-1140
-  address: 1075 Keller Pkwy Keller, TX 76248
-  facebook: '343331435797233'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-  missions: []
-- id: bnb
-  title: Broadway and Britton OK Campus
-  email: ''
-  phone: ''
-  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
-  facebook: '227205990810209'
-  times: []
-  missions: []
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -604,6 +568,34 @@
     day: wed
     duration: 120
     type: switch
+  missions: []
+- id: klr
+  title: Keller TX Campus
+  email: klr.serving@lifechurch.tv
+  phone: (682) 593-1140
+  address: 1075 Keller Pkwy Keller, TX 76248
+  facebook: '343331435797233'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
   missions: []
 - id: jnk
   title: Jenks OK Campus
@@ -1522,6 +1514,14 @@
       find themselves in situations that they did not expect. LifeChurch.tv volunteers
       help through "drives" throughout the year as well as helping in classes and
       through organizing and distributing items.
+- id: bnb
+  title: Broadway and Britton OK Campus
+  email: ''
+  phone: ''
+  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
+  facebook: '227205990810209'
+  times: []
+  missions: []
 - id: okc
   title: Oklahoma City OK Campus
   email: okc.serving@lifechurch.tv
