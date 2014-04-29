@@ -1,4 +1,25 @@
 ---
+- id: outlasters
+  title: Outlasters
+  headline: 'What are you doing today that will endure the test of time? '
+  description_small: What will the world say about you when you're gone? Create a
+    legacy that stands the test of time—become an Outlaster.
+  description_medium: What will the world say about you when you're gone? No one can
+    live forever, but anyone can create a legacy that stands the test of time. Prepare
+    to make your mark on the world—become an Outlaster.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1880-outlasters
+  promo: k3vth6f06h
+  resources_url: http://resources.lifechurch.tv/products/outlasters/
+  image_small: http://s3.amazonaws.com/lcapi.production/series/outlasters/300x200.jpg?1398097251
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/outlasters/600x400.jpg?1398097230
+  image_large: http://s3.amazonaws.com/lcapi.production/series/outlasters/1200x800.jpg?1398097208
+  image_social: http://s3.amazonaws.com/lcapi.production/series/outlasters/400x400.jpg?1397678033
+  messages:
+  - title: Readiness Over Happiness
+    headline: ''
+    video: gc256czt1g
 - id: the-counselor
   title: The Counselor
   headline: ''
