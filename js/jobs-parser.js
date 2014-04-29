@@ -88,7 +88,7 @@ function displayCampusJobs(container) {
 }
 
 function jobTemplate(entry) {
-  return $('<li></li>').append($("<a target='_blank'></a>").attr("href", entry.find("link").attr("href")).text(entry.find("title").text()));
+  return $('<li></li>').append($("<a target='_blank'></a>").attr("href", entry.find("link").attr("href").replace("SubmitResume","JobIntroduction")).text(entry.find("title").text()));
 }
 
 function campusTemplate(campus) {
