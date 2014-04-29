@@ -1,5 +1,7 @@
 source 'http://rubygems.org'
 
+ruby '2.0.0'
+
 gem 'compass'
 gem 'foundation'
 gem 'jekyll', '~> 1.4.3'
