@@ -1,0 +1,25 @@
+---
+layout: default
+section: locations-promo
+---
+
+{% for location in site.data.locations %}
+{% if location.id == page.location-id %}
+
+<!-- Page main -->
+<div class="page-main">
+
+  <section class="page-section section-first locations-hero locations-hero-promo">
+    <!-- Header section -->
+    <div class="row">
+      <div class="large-9 columns large-centered text-center">
+        <h1>{{ location.title }}</h1>
+        <p>The new {{ location.title }} is coming soon! Follow us on Facebook to get up-to-date information about the building progress, launch dates, and how you can get involved.</p>
+
+        <a class="button large" href="http://www.facebook.com/{{ location.facebook }}">Visit our Facebook Page </a>
+      </div>
+    </div>
+  </section>
+
+{% endif %}
+{% endfor %}
