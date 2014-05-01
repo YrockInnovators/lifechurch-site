@@ -12,7 +12,12 @@ class: header-red section-watch section-series
 {% if forloop.first %}
   {% for message in series.messages %}
   {% if forloop.first %}
-  <a class="hphoto hphoto-top section-light hphoto-watch-archive" style="background-image: url('{{ series.image_large }}')" href="javascript:void(0);" data-video-player="{{message.video}}">
+  <a href="javascript:void(0)"  
+     style="background-image: url('{{ series.image_large }}')"
+     data-video-player="{{message.video}}"
+     class="hphoto hphoto-top section-light hphoto-watch-archive"
+     onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');">
+     
     <div class="inner">
       <span class="play-large"></span>
       <h1>{{ series.title }}</h1>
@@ -24,7 +29,12 @@ class: header-red section-watch section-series
 {% else %}
   {% for message in series.messages reversed %}
   {% if forloop.first %}
-  <a class="hphoto hphoto-top section-light hphoto-watch-archive" style="background-image: url('{{ series.image_large }}')" href="javascript:void(0);" data-video-player="{{message.video}}">
+  <a href="javascript:void(0)"
+     class="hphoto hphoto-top section-light hphoto-watch-archive"
+     style="background-image: url('{{ series.image_large }}')"
+     data-video-player="{{message.video}}"
+     onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');"
+     >
     <div class="inner">
       <span class="play-large"></span>
       <h1>{{ series.title }}</h1>
@@ -49,7 +59,7 @@ class: header-red section-watch section-series
 
           {% if page.live == true %}
           <div class="row message live">
-            <a href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Live”');">
+            <a href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
               <div class="small-1 medium-2 columns">
                 <h4>
                   <span class="message-live-icon">Live </span>
@@ -69,7 +79,7 @@ class: header-red section-watch section-series
           {% for message in series.messages reversed %}
 
           <div class="row message">
-            <a href="javascript:void(0);" data-video-player="{{message.video}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message”');">
+            <a href="javascript:void(0);" data-video-player="{{message.video}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message');">
             <div class="small-1 medium-2 columns">
               <h4>
                 <span>{% cycle '1', '2', '3', '4', '5', '6' %}</span>
