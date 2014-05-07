@@ -15,7 +15,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/outlasters/300x200.jpg?1398097251
   image_medium: http://s3.amazonaws.com/lcapi.production/series/outlasters/600x400.jpg?1398097230
   image_large: http://s3.amazonaws.com/lcapi.production/series/outlasters/1200x800.jpg?1398097208
-  image_social: http://s3.amazonaws.com/lcapi.production/series/outlasters/400x400.jpg?1397678033
+  image_social: ''
   messages:
   - title: Financially Free Families
     headline: ''
@@ -40,7 +40,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-counselor/300x200.jpg?1396290251
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-counselor/600x400.jpg?1396296632
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-counselor/1200x800.jpg?1396290667
-  image_social: http://s3.amazonaws.com/lcapi.production/series/the-counselor/400x400.jpg?1396290604
+  image_social: ''
   messages:
   - title: Why Do You Doubt?
     headline: ''
@@ -70,7 +70,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/300x200.jpg?1396043492
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/600x400.jpg?1396043573
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/1200x800.jpg?1396043604
-  image_social: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/400x400.jpg?1395087834
+  image_social: ''
   messages:
   - title: Part 2
     headline: ''
@@ -94,7 +94,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/being-rich/300x200.jpg?1396042535
   image_medium: http://s3.amazonaws.com/lcapi.production/series/being-rich/600x400.jpg?1396042589
   image_large: http://s3.amazonaws.com/lcapi.production/series/being-rich/1200x800.jpg?1396042616
-  image_social: http://s3.amazonaws.com/lcapi.production/series/being-rich/400x400.jpg?1393367080
+  image_social: ''
   messages:
   - title: Rich Toward God
     headline: ''
@@ -127,7 +127,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/small-things/300x200.jpg?1396042267
   image_medium: http://s3.amazonaws.com/lcapi.production/series/small-things/600x400.jpg?1396042312
   image_large: http://s3.amazonaws.com/lcapi.production/series/small-things/1200x800.jpg?1396042380
-  image_social: http://s3.amazonaws.com/lcapi.production/series/small-things/400x400.jpg?1393365744
+  image_social: ''
   messages:
   - title: Your Habits
     headline: ''
@@ -157,7 +157,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1396038137
   image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1396038218
   image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1396038239
-  image_social: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/400x400.jpg?1393366808
+  image_social: ''
   messages:
   - title: Christine Caine - Maker of Miracles
     headline: ''
@@ -177,7 +177,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/fear-not/300x200.jpg?1396042061
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fear-not/600x400.jpg?1396042126
   image_large: http://s3.amazonaws.com/lcapi.production/series/fear-not/1200x800.jpg?1396042178
-  image_social: http://s3.amazonaws.com/lcapi.production/series/fear-not/400x400.jpg?1393349804
+  image_social: ''
   messages:
   - title: Fear of Where You Stand with God
     headline: ''
@@ -204,7 +204,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1396037980
   image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1396038029
   image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1396038073
-  image_social: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/400x400.jpg?1393366868
+  image_social: ''
   messages:
   - title: Growing Spiritually
     headline: ''
@@ -225,7 +225,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/300x200.jpg?1396041700
   image_medium: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/600x400.jpg?1396041749
   image_large: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/1200x800.jpg?1396041777
-  image_social: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/400x400.jpg?1393350234
+  image_social: ''
   messages:
   - title: Anger
     headline: ''
@@ -254,7 +254,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/fight/300x200.jpg?1396041413
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fight/600x400.jpg?1396041470
   image_large: http://s3.amazonaws.com/lcapi.production/series/fight/1200x800.jpg?1396041534
-  image_social: http://s3.amazonaws.com/lcapi.production/series/fight/400x400.jpg?1393365772
+  image_social: ''
   messages:
   - title: Fight
     headline: ''
@@ -274,7 +274,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/300x200.jpg?1396041297
   image_medium: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/600x400.jpg?1396041347
   image_large: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/1200x800.jpg?1396041369
-  image_social: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/400x400.jpg?1393365695
+  image_social: ''
   messages:
   - title: Sowing and Reaping
     headline: ''
@@ -301,7 +301,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/friending/300x200.jpg?1396040901
   image_medium: http://s3.amazonaws.com/lcapi.production/series/friending/600x400.jpg?1396041037
   image_large: http://s3.amazonaws.com/lcapi.production/series/friending/1200x800.jpg?1396041057
-  image_social: http://s3.amazonaws.com/lcapi.production/series/friending/400x400.jpg?1393350403
+  image_social: ''
   messages:
   - title: Unfriending
     headline: ''
@@ -331,7 +331,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1396037750
   image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1396037853
   image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1396037915
-  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1393366956
+  image_social: ''
   messages:
   - title: Rescue
     headline: ''
@@ -351,7 +351,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/elisha/300x200.jpg?1396039930
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elisha/600x400.jpg?1396039995
   image_large: http://s3.amazonaws.com/lcapi.production/series/elisha/1200x800.jpg?1396040035
-  image_social: http://s3.amazonaws.com/lcapi.production/series/elisha/400x400.jpg?1393350339
+  image_social: ''
   messages:
   - title: Ridiculous Recovery
     headline: ''
@@ -381,7 +381,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/on-the-road/300x200.jpg?1396039428
   image_medium: http://s3.amazonaws.com/lcapi.production/series/on-the-road/600x400.jpg?1396039710
   image_large: http://s3.amazonaws.com/lcapi.production/series/on-the-road/1200x800.jpg?1396039728
-  image_social: http://s3.amazonaws.com/lcapi.production/series/on-the-road/400x400.jpg?1396039506
+  image_social: ''
   messages:
   - title: On the Road Part 4
     headline: ''
@@ -407,7 +407,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/300x200.jpg?1396038955
   image_medium: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/600x400.jpg?1396039010
   image_large: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/1200x800.jpg?1396039033
-  image_social: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/400x400.jpg?1396038984
+  image_social: ''
   messages:
   - title: Just Getting Started
     headline: ''
@@ -427,7 +427,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1396039125
   image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1396039212
   image_large: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1200x800.jpg?1396039260
-  image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1396039162
+  image_social: ''
   messages:
   - title: Helping the Hurting
     headline: ''
@@ -447,7 +447,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/300x200.jpg?1396038303
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/600x400.jpg?1396038350
   image_large: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/1200x800.jpg?1396038377
-  image_social: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/400x400.jpg?1396038323
+  image_social: ''
   messages:
   - title: Persecuted
     headline: ''
@@ -476,7 +476,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/300x200.jpg?1396037425
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/600x400.jpg?1396037484
   image_large: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/1200x800.jpg?1396037519
-  image_social: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/400x400.jpg?1396037447
+  image_social: ''
   messages:
   - title: I Am the Vine
     headline: ''
@@ -505,7 +505,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/new/300x200.jpg?1396037280
   image_medium: http://s3.amazonaws.com/lcapi.production/series/new/600x400.jpg?1396037336
   image_large: http://s3.amazonaws.com/lcapi.production/series/new/1200x800.jpg?1396037368
-  image_social: http://s3.amazonaws.com/lcapi.production/series/new/400x400.jpg?1396037299
+  image_social: ''
   messages:
   - title: New From Old - Week 3
     headline: ''
@@ -532,7 +532,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/altar-ego/300x200.jpg?1396036237
   image_medium: http://s3.amazonaws.com/lcapi.production/series/altar-ego/600x400.jpg?1396036279
   image_large: http://s3.amazonaws.com/lcapi.production/series/altar-ego/1200x800.jpg?1396036298
-  image_social: http://s3.amazonaws.com/lcapi.production/series/altar-ego/400x400.jpg?1396036259
+  image_social: http://s3.amazonaws.com/lcapi.production/series/altar-ego/3000x680.jpg?1398870801
   messages:
   - title: My Longing For Approval
     headline: ''
@@ -561,7 +561,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/my-story/300x200.jpg?1396036085
   image_medium: http://s3.amazonaws.com/lcapi.production/series/my-story/600x400.jpg?1396036159
   image_large: http://s3.amazonaws.com/lcapi.production/series/my-story/1200x800.jpg?1396036183
-  image_social: http://s3.amazonaws.com/lcapi.production/series/my-story/400x400.jpg?1396036128
+  image_social: ''
   messages:
   - title: I Decided to Go
     headline: ''
@@ -590,7 +590,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/300x200.jpg?1396035436
   image_medium: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/600x400.jpg?1396035490
   image_large: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/1200x800.jpg?1396035527
-  image_social: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/400x400.jpg?1396035463
+  image_social: ''
   messages:
   - title: Lead Like Jesus
     headline: ''
@@ -611,7 +611,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/like-a-child/300x200.jpg?1396035268
   image_medium: http://s3.amazonaws.com/lcapi.production/series/like-a-child/600x400.jpg?1396035345
   image_large: http://s3.amazonaws.com/lcapi.production/series/like-a-child/1200x800.jpg?1396035377
-  image_social: http://s3.amazonaws.com/lcapi.production/series/like-a-child/400x400.jpg?1396035290
+  image_social: ''
   messages:
   - title: My God Can Do Anything
     headline: ''
@@ -641,7 +641,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/300x200.jpg?1396024682
   image_medium: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/600x400.jpg?1396024750
   image_large: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/1200x800.jpg?1396030792
-  image_social: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/400x400.jpg?1396024713
+  image_social: ''
   messages:
   - title: Steven Furtick
     headline: ''
@@ -664,7 +664,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-end/300x200.jpg?1396034855
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-end/600x400.jpg?1396034937
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-end/1200x800.jpg?1396034967
-  image_social: http://s3.amazonaws.com/lcapi.production/series/the-end/400x400.jpg?1396034904
+  image_social: ''
   messages:
   - title: Snapshots of Revelation
     headline: ''
@@ -690,7 +690,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/300x200.jpg?1396034718
   image_medium: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/600x400.jpg?1396034761
   image_large: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/1200x800.jpg?1396034791
-  image_social: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/400x400.jpg?1396034738
+  image_social: ''
   messages:
   - title: Part 2
     headline: ''
@@ -714,7 +714,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/strapped/300x200.jpg?1396034569
   image_medium: http://s3.amazonaws.com/lcapi.production/series/strapped/600x400.jpg?1396034612
   image_large: http://s3.amazonaws.com/lcapi.production/series/strapped/1200x800.jpg?1396034664
-  image_social: http://s3.amazonaws.com/lcapi.production/series/strapped/400x400.jpg?1396034589
+  image_social: ''
   messages:
   - title: Q and A
     headline: ''
@@ -747,7 +747,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/300x200.jpg?1396034418
   image_medium: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/600x400.jpg?1396034477
   image_large: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/1200x800.jpg?1396034502
-  image_social: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/400x400.jpg?1396034447
+  image_social: ''
   messages:
   - title: Never Give Up
     headline: ''
@@ -780,7 +780,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/300x200.jpg?1396033970
   image_medium: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/600x400.jpg?1396034014
   image_large: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/1200x800.jpg?1396034038
-  image_social: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/400x400.jpg?1396033996
+  image_social: ''
   messages:
   - title: More Than Dust
     headline: ''
@@ -800,7 +800,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/perspective/300x200.jpg?1396033276
   image_medium: http://s3.amazonaws.com/lcapi.production/series/perspective/600x400.jpg?1396033518
   image_large: http://s3.amazonaws.com/lcapi.production/series/perspective/1200x800.jpg?1396033550
-  image_social: http://s3.amazonaws.com/lcapi.production/series/perspective/400x400.jpg?1396033442
+  image_social: ''
   messages:
   - title: 'A Different Perspective On Worry '
     headline: ''
@@ -830,7 +830,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/forget-you/300x200.jpg?1396032329
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forget-you/600x400.jpg?1396032423
   image_large: http://s3.amazonaws.com/lcapi.production/series/forget-you/1200x800.jpg?1396032471
-  image_social: http://s3.amazonaws.com/lcapi.production/series/forget-you/400x400.jpg?1396032365
+  image_social: ''
   messages:
   - title: I am Less, He is More
     headline: ''
@@ -853,7 +853,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/soul-detox/300x200.jpg?1396032146
   image_medium: http://s3.amazonaws.com/lcapi.production/series/soul-detox/600x400.jpg?1396032219
   image_large: http://s3.amazonaws.com/lcapi.production/series/soul-detox/1200x800.jpg?1396032245
-  image_social: http://s3.amazonaws.com/lcapi.production/series/soul-detox/400x400.jpg?1396032196
+  image_social: ''
   messages:
   - title: The Seduced Soul
     headline: ''
@@ -883,7 +883,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/why-2012/300x200.jpg?1396031869
   image_medium: http://s3.amazonaws.com/lcapi.production/series/why-2012/600x400.jpg?1396031942
   image_large: http://s3.amazonaws.com/lcapi.production/series/why-2012/1200x800.jpg?1396031995
-  image_social: http://s3.amazonaws.com/lcapi.production/series/why-2012/400x400.jpg?1396031910
+  image_social: ''
   messages:
   - title: Why would God Use Me?
     headline: ''
@@ -913,7 +913,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/found-favor/300x200.jpg?1396031561
   image_medium: http://s3.amazonaws.com/lcapi.production/series/found-favor/600x400.jpg?1396031652
   image_large: http://s3.amazonaws.com/lcapi.production/series/found-favor/1200x800.jpg?1396031694
-  image_social: http://s3.amazonaws.com/lcapi.production/series/found-favor/400x400.jpg?1396031616
+  image_social: ''
   messages:
   - title: Walking in the Fog
     headline: ''
@@ -936,7 +936,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/samson-2012/300x200.jpg?1396031079
   image_medium: http://s3.amazonaws.com/lcapi.production/series/samson-2012/600x400.jpg?1396031139
   image_large: http://s3.amazonaws.com/lcapi.production/series/samson-2012/1200x800.jpg?1396031170
-  image_social: http://s3.amazonaws.com/lcapi.production/series/samson-2012/400x400.jpg?1396031106
+  image_social: ''
   messages:
   - title: Failing Forward
     headline: ''
@@ -965,7 +965,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/better/300x200.jpg?1396025667
   image_medium: http://s3.amazonaws.com/lcapi.production/series/better/600x400.jpg?1396025751
   image_large: http://s3.amazonaws.com/lcapi.production/series/better/1200x800.jpg?1396025777
-  image_social: http://s3.amazonaws.com/lcapi.production/series/better/400x400.jpg?1396025709
+  image_social: ''
   messages:
   - title: Better is a Good Name
     headline: ''
@@ -994,7 +994,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1396025900
   image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1396025944
   image_large: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1200x800.jpg?1396025980
-  image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1396025924
+  image_social: ''
   messages:
   - title: Problem or a Miracle
     headline: ''
@@ -1014,7 +1014,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/carols/300x200.jpg?1396024882
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carols/600x400.jpg?1396024923
   image_large: http://s3.amazonaws.com/lcapi.production/series/carols/1200x800.jpg?1396024948
-  image_social: http://s3.amazonaws.com/lcapi.production/series/carols/400x400.jpg?1396024906
+  image_social: ''
   messages:
   - title: Emmanuel
     headline: ''
@@ -1043,7 +1043,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/those-people/300x200.jpg?1396022828
   image_medium: http://s3.amazonaws.com/lcapi.production/series/those-people/600x400.jpg?1396022900
   image_large: http://s3.amazonaws.com/lcapi.production/series/those-people/1200x800.jpg?1396022945
-  image_social: http://s3.amazonaws.com/lcapi.production/series/those-people/400x400.jpg?1396022860
+  image_social: ''
   messages:
   - title: Those Critical People
     headline: ''
@@ -1072,7 +1072,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/300x200.jpg?1396022464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/600x400.jpg?1396022525
   image_large: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1200x800.jpg?1396022575
-  image_social: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/400x400.jpg?1396022493
+  image_social: ''
   messages:
   - title: When We Test God
     headline: ''
@@ -1095,7 +1095,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/change-your-world/300x200.jpg?1396021202
   image_medium: http://s3.amazonaws.com/lcapi.production/series/change-your-world/600x400.jpg?1396021262
   image_large: http://s3.amazonaws.com/lcapi.production/series/change-your-world/1200x800.jpg?1396021294
-  image_social: http://s3.amazonaws.com/lcapi.production/series/change-your-world/400x400.jpg?1396021232
+  image_social: ''
   messages:
   - title: Finishing Strong
     headline: ''
@@ -1124,7 +1124,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/twogather/300x200.jpg?1396021016
   image_medium: http://s3.amazonaws.com/lcapi.production/series/twogather/600x400.jpg?1396021101
   image_large: http://s3.amazonaws.com/lcapi.production/series/twogather/1200x800.jpg?1396021134
-  image_social: http://s3.amazonaws.com/lcapi.production/series/twogather/400x400.jpg?1396021065
+  image_social: ''
   messages:
   - title: Where Everybody Knows Your Name
     headline: ''
@@ -1147,7 +1147,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/bold/300x200.jpg?1396020776
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bold/600x400.jpg?1396020833
   image_large: http://s3.amazonaws.com/lcapi.production/series/bold/1200x800.jpg?1396020862
-  image_social: http://s3.amazonaws.com/lcapi.production/series/bold/400x400.jpg?1396020801
+  image_social: ''
   messages:
   - title: Bold Obedience
     headline: ''
@@ -1177,7 +1177,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/re/300x200.jpg?1396020632
   image_medium: http://s3.amazonaws.com/lcapi.production/series/re/600x400.jpg?1396020704
   image_large: http://s3.amazonaws.com/lcapi.production/series/re/1200x800.jpg?1396020726
-  image_social: http://s3.amazonaws.com/lcapi.production/series/re/400x400.jpg?1396020661
+  image_social: ''
   messages:
   - title: Remain
     headline: ''
@@ -1207,7 +1207,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/300x200.jpg?1396019390
   image_medium: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/600x400.jpg?1396019450
   image_large: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/1200x800.jpg?1396019479
-  image_social: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/400x400.jpg?1396019416
+  image_social: ''
   messages:
   - title: Getting Past Your Personal Failures
     headline: ''
@@ -1236,7 +1236,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/weird/300x200.jpg?1396018778
   image_medium: http://s3.amazonaws.com/lcapi.production/series/weird/600x400.jpg?1396018846
   image_large: http://s3.amazonaws.com/lcapi.production/series/weird/1200x800.jpg?1396018886
-  image_social: http://s3.amazonaws.com/lcapi.production/series/weird/400x400.jpg?1396018821
+  image_social: ''
   messages:
   - title: A Weird View of Money
     headline: ''
@@ -1268,7 +1268,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/300x200.jpg?1396016407
   image_medium: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/600x400.jpg?1396016463
   image_large: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/1200x800.jpg?1396016485
-  image_social: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/400x400.jpg?1396016434
+  image_social: ''
   messages:
   - title: Sun Stand Still
     headline: ''
@@ -1291,7 +1291,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/300x200.jpg?1396015782
   image_medium: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/600x400.jpg?1396015845
   image_large: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/1200x800.jpg?1396015877
-  image_social: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/400x400.jpg?1396015809
+  image_social: ''
   messages:
   - title: Disciple
     headline: ''
@@ -1322,7 +1322,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-quit/300x200.jpg?1396018576
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-quit/600x400.jpg?1396018624
   image_large: http://s3.amazonaws.com/lcapi.production/series/i-quit/1200x800.jpg?1396018673
-  image_social: http://s3.amazonaws.com/lcapi.production/series/i-quit/400x400.jpg?1396018600
+  image_social: ''
   messages:
   - title: I Quit Comparing
     headline: ''
@@ -1353,7 +1353,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1396017703
   image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1396017885
   image_large: http://s3.amazonaws.com/lcapi.production/series/xv/1200x800.jpg?1396017915
-  image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1396017729
+  image_social: ''
   messages:
   - title: 15-Year Anniversary
     headline: ''
@@ -1374,7 +1374,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/first/300x200.jpg?1396013916
   image_medium: http://s3.amazonaws.com/lcapi.production/series/first/600x400.jpg?1396014102
   image_large: http://s3.amazonaws.com/lcapi.production/series/first/1200x800.jpg?1396014131
-  image_social: http://s3.amazonaws.com/lcapi.production/series/first/400x400.jpg?1396014074
+  image_social: ''
   messages:
   - title: Firsts
     headline: ''
@@ -1394,7 +1394,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1395957477
   image_medium: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/600x400.jpg?1395957539
   image_large: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1200x800.jpg?1395957568
-  image_social: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/400x400.jpg?1395957517
+  image_social: ''
   messages:
   - title: Never Lose Heart
     headline: ''
@@ -1414,7 +1414,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/christmas10/300x200.jpg?1395958092
   image_medium: http://s3.amazonaws.com/lcapi.production/series/christmas10/600x400.jpg?1395958139
   image_large: http://s3.amazonaws.com/lcapi.production/series/christmas10/1200x800.jpg?1395958159
-  image_social: http://s3.amazonaws.com/lcapi.production/series/christmas10/400x400.jpg?1395958120
+  image_social: ''
   messages:
   - title: Hope Shines Through
     headline: ''
@@ -1433,7 +1433,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/masquerade/300x200.jpg?1395956137
   image_medium: http://s3.amazonaws.com/lcapi.production/series/masquerade/600x400.jpg?1395956192
   image_large: http://s3.amazonaws.com/lcapi.production/series/masquerade/1200x800.jpg?1395956220
-  image_social: http://s3.amazonaws.com/lcapi.production/series/masquerade/400x400.jpg?1395956160
+  image_social: ''
   messages:
   - title: Hiding Your Hurt
     headline: ''
@@ -1465,7 +1465,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/planted/300x200.jpg?1395955990
   image_medium: http://s3.amazonaws.com/lcapi.production/series/planted/600x400.jpg?1395956048
   image_large: http://s3.amazonaws.com/lcapi.production/series/planted/1200x800.jpg?1395956078
-  image_social: http://s3.amazonaws.com/lcapi.production/series/planted/400x400.jpg?1395956017
+  image_social: ''
   messages:
   - title: Week 2
     headline: ''
@@ -1489,7 +1489,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/chazown/300x200.jpg?1395955851
   image_medium: http://s3.amazonaws.com/lcapi.production/series/chazown/600x400.jpg?1395956613
   image_large: http://s3.amazonaws.com/lcapi.production/series/chazown/1200x800.jpg?1395955909
-  image_social: http://s3.amazonaws.com/lcapi.production/series/chazown/400x400.jpg?1395955870
+  image_social: ''
   messages:
   - title: Chazown
     headline: ''
@@ -1510,7 +1510,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/300x200.jpg?1395955702
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/600x400.jpg?1395955753
   image_large: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/1200x800.jpg?1395955780
-  image_social: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/400x400.jpg?1395955731
+  image_social: ''
   messages:
   - title: Week 4
     headline: ''
@@ -1539,7 +1539,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/toxic/300x200.jpg?1395955541
   image_medium: http://s3.amazonaws.com/lcapi.production/series/toxic/600x400.jpg?1395955585
   image_large: http://s3.amazonaws.com/lcapi.production/series/toxic/1200x800.jpg?1395955605
-  image_social: http://s3.amazonaws.com/lcapi.production/series/toxic/400x400.jpg?1395955566
+  image_social: ''
   messages:
   - title: Toxic Religion
     headline: ''
@@ -1571,7 +1571,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/300x200.jpg?1395955200
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/600x400.jpg?1395955247
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/1200x800.jpg?1395955275
-  image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/400x400.jpg?1395955226
+  image_social: ''
   messages:
   - title: Unstoppable Power
     headline: ''
@@ -1600,7 +1600,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/300x200.jpg?1395954850
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/600x400.jpg?1395954906
   image_large: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/1200x800.jpg?1395955104
-  image_social: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/400x400.jpg?1395954880
+  image_social: ''
   messages:
   - title: Gratitude
     headline: ''
@@ -1632,7 +1632,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/faq/300x200.jpg?1395955372
   image_medium: http://s3.amazonaws.com/lcapi.production/series/faq/600x400.jpg?1395955419
   image_large: http://s3.amazonaws.com/lcapi.production/series/faq/1200x800.jpg?1395955438
-  image_social: http://s3.amazonaws.com/lcapi.production/series/faq/400x400.jpg?1395955395
+  image_social: ''
   messages:
   - title: Week 1
     headline: ''
@@ -1659,7 +1659,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/300x200.jpg?1395954671
   image_medium: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/600x400.jpg?1395954722
   image_large: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/1200x800.jpg?1395954745
-  image_social: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/400x400.jpg?1395954695
+  image_social: ''
   messages:
   - title: Week 5
     headline: ''
@@ -1692,7 +1692,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/300x200.jpg?1395954447
   image_medium: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/600x400.jpg?1395954510
   image_large: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/1200x800.jpg?1395954560
-  image_social: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/400x400.jpg?1395954476
+  image_social: ''
   messages:
   - title: Unfailing Love
     headline: ''
@@ -1722,7 +1722,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/margin/300x200.jpg?1395954017
   image_medium: http://s3.amazonaws.com/lcapi.production/series/margin/600x400.jpg?1395954063
   image_large: http://s3.amazonaws.com/lcapi.production/series/margin/1200x800.jpg?1395954090
-  image_social: http://s3.amazonaws.com/lcapi.production/series/margin/400x400.jpg?1395954043
+  image_social: ''
   messages:
   - title: Moral Margin
     headline: ''
@@ -1752,7 +1752,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-thing/300x200.jpg?1395952110
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-thing/600x400.jpg?1395936667
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-thing/1200x800.jpg?1395936568
-  image_social: http://s3.amazonaws.com/lcapi.production/series/one-thing/400x400.jpg?1395952136
+  image_social: ''
   messages:
   - title: New Years 2010
     headline: ''
@@ -1771,7 +1771,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/this-christmas/300x200.jpg?1395945033
   image_medium: http://s3.amazonaws.com/lcapi.production/series/this-christmas/600x400.jpg?1395945103
   image_large: http://s3.amazonaws.com/lcapi.production/series/this-christmas/1200x800.jpg?1395945170
-  image_social: http://s3.amazonaws.com/lcapi.production/series/this-christmas/400x400.jpg?1395945065
+  image_social: ''
   messages:
   - title: This Christmas
     headline: ''
@@ -1791,7 +1791,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/blessed-life/300x200.jpg?1395945759
   image_medium: http://s3.amazonaws.com/lcapi.production/series/blessed-life/600x400.jpg?1395946193
   image_large: http://s3.amazonaws.com/lcapi.production/series/blessed-life/1200x800.jpg?1395946215
-  image_social: http://s3.amazonaws.com/lcapi.production/series/blessed-life/400x400.jpg?1395946164
+  image_social: ''
   messages:
   - title: The Heart Of Serving
     headline: ''
@@ -1822,7 +1822,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/300x200.jpg?1395946430
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/600x400.jpg?1395946485
   image_large: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/1200x800.jpg?1395946538
-  image_social: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/400x400.jpg?1395946454
+  image_social: ''
   messages:
   - title: The Life Of Jesus
     headline: ''
@@ -1846,7 +1846,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/ghost/300x200.jpg?1395946626
   image_medium: http://s3.amazonaws.com/lcapi.production/series/ghost/600x400.jpg?1395946673
   image_large: http://s3.amazonaws.com/lcapi.production/series/ghost/1200x800.jpg?1395946702
-  image_social: http://s3.amazonaws.com/lcapi.production/series/ghost/400x400.jpg?1395946651
+  image_social: ''
   messages:
   - title: Filled With The Spirit
     headline: ''
@@ -1876,7 +1876,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/300x200.jpg?1395946819
   image_medium: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/600x400.jpg?1395946866
   image_large: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/1200x800.jpg?1395946917
-  image_social: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/400x400.jpg?1395946895
+  image_social: ''
   messages:
   - title: Week 2
     headline: ''
@@ -1901,7 +1901,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/300x200.jpg?1395949098
   image_medium: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/600x400.jpg?1395949158
   image_large: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/1200x800.jpg?1395949182
-  image_social: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/400x400.jpg?1395949140
+  image_social: ''
   messages:
   - title: How to Become Dissatisfied
     headline: ''
@@ -1932,7 +1932,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/300x200.jpg?1395949281
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/600x400.jpg?1395949351
   image_large: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/1200x800.jpg?1395949381
-  image_social: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/400x400.jpg?1395949305
+  image_social: ''
   messages:
   - title: Week 2
     headline: ''
@@ -1956,7 +1956,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/300x200.jpg?1395949464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/600x400.jpg?1395949509
   image_large: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/1200x800.jpg?1395949530
-  image_social: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/400x400.jpg?1395949488
+  image_social: ''
   messages:
   - title: Week 3
     headline: ''
@@ -1983,7 +1983,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/300x200.jpg?1395949925
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/600x400.jpg?1395949977
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/1200x800.jpg?1395949997
-  image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/400x400.jpg?1395949948
+  image_social: ''
   messages:
   - title: God Is...
     headline: ''
@@ -2012,7 +2012,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/elijah/300x200.jpg?1395950082
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elijah/600x400.jpg?1395950122
   image_large: http://s3.amazonaws.com/lcapi.production/series/elijah/1200x800.jpg?1395950151
-  image_social: http://s3.amazonaws.com/lcapi.production/series/elijah/400x400.jpg?1395950103
+  image_social: ''
   messages:
   - title: Depression
     headline: ''
@@ -2043,7 +2043,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/300x200.jpg?1395950540
   image_medium: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/600x400.jpg?1395950764
   image_large: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/1200x800.jpg?1395950790
-  image_social: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/400x400.jpg?1395950743
+  image_social: ''
   messages:
   - title: In Your Struggles
     headline: ''
@@ -2072,7 +2072,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/300x200.jpg?1395950860
   image_medium: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/600x400.jpg?1395950919
   image_large: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/1200x800.jpg?1395950946
-  image_social: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/400x400.jpg?1395950887
+  image_social: ''
   messages:
   - title: '#1 Myth about Money'
     headline: ''
@@ -2100,7 +2100,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-vow/300x200.jpg?1395951072
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-vow/600x400.jpg?1395951126
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-vow/1200x800.jpg?1395951144
-  image_social: http://s3.amazonaws.com/lcapi.production/series/the-vow/400x400.jpg?1395951105
+  image_social: ''
   messages:
   - title: The Vow Of Purity
     headline: ''
@@ -2129,7 +2129,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/trueish/300x200.jpg?1395951218
   image_medium: http://s3.amazonaws.com/lcapi.production/series/trueish/600x400.jpg?1395951254
   image_large: http://s3.amazonaws.com/lcapi.production/series/trueish/1200x800.jpg?1395951275
-  image_social: http://s3.amazonaws.com/lcapi.production/series/trueish/400x400.jpg?1395951235
+  image_social: ''
   messages:
   - title: As Long As Nobody Gets Hurt
     headline: ''
