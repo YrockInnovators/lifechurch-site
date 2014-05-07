@@ -812,8 +812,8 @@
     title: 111 Project
     recipient: bao.serving@lifechurch.tv
     url: http://111project.org/
-    description_medium: The goal of this organization is that every child will have
-      a family and every child will be loved. 1 Church 1 Family 1 Purpose.
+    description_medium: The goal of this organization is for every child to have a
+      family and to be loved. 1 Church 1 Family 1 Purpose.
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
@@ -999,9 +999,8 @@
     title: Yukon Special Athletes
     recipient: ykn.serving@lifechurch.tv
     url: http://www.specialolympicsyukon.ca/
-    description_medium: Partner with special needs families to give the kids of the
-      special needs community the opportunity for healthy and beneficial relationships
-      that will serve them beyond their school years.
+    description_medium: Partner with special needs families to give kids healthy and
+      beneficial relationships.
   - id: 35
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
@@ -1603,24 +1602,21 @@
     title: Sunset Elementary
     recipient: okc.serving@lifechurch.tv
     url: http://www.edmondschools.net/sunset/Home.aspx
-    description_medium: Make an impact in your surrounding community where there are
-      financial needs, language barriers, single parent homes, and other life concerns
-      that directly affect their experience in the classroom. Volunteers will help
-      to provide a better classroom and learning experience alongside the teachers.
+    description_medium: Help your surrounding community where there are financial
+      needs, language barriers, single parent homes, and other life concerns that
+      directly affect children's experience in the classroom.
   - id: 21
     title: 111 Project
     recipient: okc.serving@lifechurch.tv
     url: http://111project.org/
-    description_medium: The goal of this organization is that every child will have
-      a family and every child will be loved. 1 Church 1 Family 1 Purpose.
+    description_medium: The goal of this organization is for every child to have a
+      family and to be loved. 1 Church 1 Family 1 Purpose.
   - id: 25
     title: LifeTroops
     recipient: okc.serving@lifechurch.tv
     url: http://lifetroops.tv/
-    description_medium: Help soldiers during the healing process, "Mind, Body & Spirit"
-      curriculum, and support systems to meet the spiritual, emotional, educational,
-      financial, and physical needs of military members 24 hours a day, both home
-      and abroad.
+    description_medium: Meet the spiritual, emotional, educational, financial, and
+      physical needs of military members 24 hours a day, at home and abroad.
   - id: 34
     title: The Spero Project
     recipient: okc.serving@lifechurch.tv
@@ -1721,8 +1717,8 @@
     recipient: soc.serving@lifechurch.tv
     url: http://okcyouthwrestling.ning.com/
     description_medium: Build relationships between at-risk youth and caring role
-      models in the OKC area through the sport of wrestling to influence each child's
-      actions by teaching positive character traits.
+      models in the OKC area through wrestling. Influence each child's actions by
+      teaching positive character traits.
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@lifechurch.tv
@@ -1733,15 +1729,14 @@
     title: No Boundaries International
     recipient: soc.serving@lifechurch.tv
     url: http://nbint.org/
-    description_medium: Train and deploy the body of Christ into devastated areas
-      impacted by human trafficking.
+    description_medium: Train and deploy the body of Christ into areas impacted by
+      human trafficking.
   - id: 47
     title: Stand in the Gap Ministries
     recipient: soc.serving@lifechurch.tv
     url: http://www.sitgm.org/
-    description_medium: Defend the widows and orphans and set prisoners free through
-      their three ministries of Life Launch, Women in Transition, and Stand in the
-      Gap for Widows.
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 34
     title: The Spero Project
     recipient: soc.serving@lifechurch.tv
