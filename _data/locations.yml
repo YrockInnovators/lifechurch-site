@@ -496,16 +496,13 @@
     recipient: alb.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@lifechurch.tv
     url: http://citymission.com/
-    description_medium: Help people who are in poverty, help people get out of poverty
-      and help people stay out of poverty, and volunteers will partner with their
-      efforts and programs to make this a reality.
+    description_medium: Help people get out of poverty - and stay out.
   - id: 31
     title: Habitat for Humanity
     recipient: alb.serving@lifechurch.tv
@@ -1128,9 +1125,8 @@
     recipient: ows.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 17
     title: Southwest Foster Care
     recipient: ows.serving@lifechurch.tv
@@ -1202,29 +1198,27 @@
     title: First Care
     recipient: wel.serving@lifechurch.tv
     url: http://www.first-care.org/
-    description_medium: Help give woman the opportunity to make an educated decision
-      about giving birth while empowering them to walk their decision out without
-      guilt or shame.
+    description_medium: Help women make an educated decision about giving birth and
+      empower them to carry out their decision without guilt or shame.
   - id: 40
     title: Oasis Compassion
     recipient: wel.serving@lifechurch.tv
     url: http://oasiscompassion.org/
-    description_medium: Restore people that have fallen on hard times and bring them
-      through by helping them with food, resume building, interview skills classes,
-      housing, and job placement by showing them who they are in Christ.
+    description_medium: Restore people that have fallen on hard times by helping them
+      build a resume, learn interview skills, acquire housing, and find a job while
+      showing them who they are in Christ.
   - id: 42
     title: 4Kids of South Florida
     recipient: wel.serving@lifechurch.tv
     url: https://www.4kidsofsfl.org/
-    description_medium: Help care for kids in crisis through mentoring, caring, playing,
-      and being there for these kids in SafePlace.
+    description_medium: Help care for and mentor kids in crisis at SafePlace.
   - id: 45
     title: Urban Youth Impact
     recipient: wel.serving@lifechurch.tv
     url: http://www.urbanyouthimpact.com/
     description_medium: Love, equip, and empower inner-city youth and their parents
-      to fulfill their God-given purpose through on-to-one mentorship relationships,
-      after school academic development, and parent development classes.
+      to fulfill their God-given purpose through one-on-one mentorship, academic development
+      after school, and parent development classes.
 - id: tul
   title: Tulsa OK Campus
   email: tul.serving@lifechurch.tv
@@ -1391,9 +1385,8 @@
     recipient: stw.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 15
     title: Payne County Department of Human Services
     recipient: stw.serving@lifechurch.tv
