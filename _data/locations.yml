@@ -89,36 +89,30 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring and positive mentoring relationships as well as communicating spiritual
       and moral values.
-  - id: 8
-    title: Novo Ministries
-    recipient: noc.serving@lifechurch.tv
-    url: http://www.novoministries.org/
-    description_medium: Help connect passionate individuals, churches, and organizations
-      with inner-city communities in the greater Oklahoma City area by helping facilitate
-      weekly after-school programming in these communities.
-  - id: 9
-    title: Tulakes Elementary
-    recipient: noc.serving@lifechurch.tv
-    url: http://tes.putnamcityschools.org/
-    description_medium: Support children, families, teachers, and administrators in
-      an under-resourced environment. With over 500 students meeting over 200 days
-      a year, it provides us the optimum opportunity to minister outside the church
-      walls.
-  - id: 10
-    title: Watch D.O.G.S.
-    recipient: noc.serving@lifechurch.tv
-    url: http://www.fathers.com/content/index.php?option=com_content&task=view&id=21&Itemid=60
-    description_medium: Provide positive male role models for the students, demonstrating
-      by their presence that education is important, and to provide extra sets of
-      eyes and ears to enhance school security and reduce bullying. With a 97% fatherlessness
-      rate in Tulakes, Watch Dogs seeks to recruit volunteers from NOC to act as a
-      male role models for the children at Tulakes to accomplish these goals at Tulakes.
   - id: 4
     title: The Mentoring Project
     recipient: noc.serving@lifechurch.tv
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the fatherless story through mentoring, training,
       resourcing, and encouraging at-risk and fatherless kids.
+  - id: 8
+    title: Novo Ministries
+    recipient: noc.serving@lifechurch.tv
+    url: http://www.novoministries.org/
+    description_medium: Connect passionate individuals with inner-city communities
+      by helping facilitate weekly after-school programs.
+  - id: 9
+    title: Tulakes Elementary
+    recipient: noc.serving@lifechurch.tv
+    url: http://tes.putnamcityschools.org/
+    description_medium: Support children, families, teachers, and administrators in
+      an under-resourced environment.
+  - id: 10
+    title: Watch D.O.G.S.
+    recipient: noc.serving@lifechurch.tv
+    url: http://www.fathers.com/content/index.php?option=com_content&task=view&id=21&Itemid=60
+    description_medium: Provide positive male role models for students  while enhancing
+      school security and reducing bullying.
   - id: 34
     title: The Spero Project
     recipient: noc.serving@lifechurch.tv
