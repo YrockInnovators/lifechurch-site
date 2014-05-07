@@ -291,22 +291,20 @@
     title: Tarrant Read2Win
     recipient: ftw.serving@lifechurch.tv
     url: http://www.tarrantnet.org/read2win/
-    description_medium: Partner with a Fort Worth elementary schools and volunteer
-      as a reading coach for a first grader needing help in the Fort Worth I.S.D.
+    description_medium: 'Partner with Fort Worth elementary schools and volunteer
+      as a reading coach for first graders in the Fort Worth Independent School District. '
   - id: 31
     title: Habitat for Humanity
     recipient: ftw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
   - id: 32
     title: Altamesa Neighborhood Needs
     recipient: ftw.serving@lifechurch.tv
     url: http://www.altamesa.org/ministries/local/neighborhood-needs/
-    description_medium: Provide food, clothing, technology access and mentor/counseling
-      to those in need with God’s help and in God’s way.
+    description_medium: Provide food, clothing, technology access and mentorship to
+      those in need.
 - id: edm
   title: Edmond OK Campus
   email: edm.serving@lifechurch.tv
@@ -512,10 +510,8 @@
     title: Habitat for Humanity
     recipient: alb.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -1422,10 +1418,8 @@
     title: Habitat for Humanity
     recipient: stw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
 - id: sto
   title: South Tulsa OK Campus
   email: sto.serving@lifechurch.tv
