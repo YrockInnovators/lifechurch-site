@@ -24,3 +24,4 @@ Thumbs.db
 
 # Folders to ignore
 _site
+node_modules

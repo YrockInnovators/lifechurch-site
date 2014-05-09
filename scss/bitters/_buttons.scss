@@ -1,0 +1,119 @@
+// Button - standard clickable button
+///////////////////////////////////////////////////////////////////////////////
+
+.button {
+  @extend %button;
+
+  &.large {
+    @extend %button-large;
+  }
+
+  &.secondary {
+    @extend %button-secondary;
+  }
+}
+
+// Button with options - a dropdown menu from a button
+///////////////////////////////////////////////////////////////////////////////
+
+.button-with-options {
+  display: inline-block;
+  
+  // Little down arrow next to the button
+  .button {
+    &:after {
+      border-color: white transparent transparent transparent;
+      border-width: 5px;
+      border-style: solid;
+      content: "";
+      display: inline-block;
+      margin: 0 -2px -4px 9px;
+      width: 0;
+      height: 0;
+    }
+
+    &.secondary:after {
+      border-color: $black transparent transparent transparent;
+    }
+  }
+
+  // The expanded menu that drops down
+  .options-list {
+    background: white;
+    color: black;
+    font-size: 14px;
+    text-align: left;
+    border-radius: $base-border-radius;
+    margin: 1em 0 0 0;
+    position: absolute;
+    width: 98%;
+    left: 1%;
+
+    @media only screen and (min-width: $medium-screen) {
+      right: 0;
+      left: auto;
+      top: auto;
+      width: 190px;
+  
+      // The little arrow coming out of the top of the menu
+      &:before {
+        border-color: transparent transparent white transparent;
+        border-width: 5px;
+        border-style: solid;
+        content: "";
+        display: inline-block;
+        width: 0;
+        height: 0;
+        top: -10px;
+        position: absolute;
+        right: 15px;
+      }
+    }
+
+
+
+    // Menu item within the dropdown
+    li {
+      a {
+        padding: 1em 1em;
+        border-bottom: 1px solid #ddd;
+        display: block;
+        color: $black;
+        font-weight: bold;
+
+        @media only screen and (min-width: $medium-screen) {
+          padding: .4em 1em;
+        }
+      }
+
+      &:hover a {
+        background: $light-gray;
+      }
+
+      &:first-child a {
+        border-radius: 4px 4px 0 0;
+      }
+
+      &:last-child a {
+        border: none;
+        border-radius: 0 0 4px 4px;
+      }
+    }
+  }
+  
+  // Hide the dropdown by default
+  .options-list {
+    @include transition(opacity .1s ease-in-out);
+    visibility: hidden;
+    opacity: 0;
+    
+  }
+  
+  // Expand it out when clicked
+  &.open .options-list {
+    visibility: visible;
+    opacity: 1;
+    z-index: 5;
+  }
+}
+

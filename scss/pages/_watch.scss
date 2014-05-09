@@ -1,127 +1,161 @@
-.page-watch .section-watch-bg {
-  top: -33px !important;
-  padding-top: 35px;
-  padding-bottom: 30px;
-  margin-bottom: 20px;
-  @include background-image-2x-jpg('/images/watch/watch-bg');
-  background-color: #000;
-  background-repeat: no-repeat;
-  background-size: 1500px 497px;
-  background-position: center top;
-  height: auto;
+// Watch Page
+///////////////////////////////////////////////////////////////////////////////
 
-  @media #{$small-only} {
-    height: auto;
-    @include background-image-2x-jpg('/images/watch/watch-bg-small');
+.page-watch {
+
+  .watch-hero {
+    @include retina-image(/images/watch/watch-bg, 1500px 497px, jpg);
     background-color: #000;
-    background-size: cover;
+    background-position: center top;
     background-repeat: no-repeat;
-    background-position: top left;
-    padding-bottom: 30px !important;
-    padding-top: 15px;
+    min-height: 280px;
+
+    @media only screen and (max-width: $medium-screen) {
+      @include retina-image(/images/watch/watch-bg-small, cover, jpg);
+      background-color: #000;
+      background-position: top left;
+      background-repeat: no-repeat;
+      height: auto;
+    }
+    
+    h1 {
+      margin: 0;
+
+      a {
+        color: white;
+
+        &:hover {
+          color: $blue;
+        }
+      }
+    }
   }
-  
-  h1 {
-    margin: 10px 0 !important;
+
+  a:hover .panel {
+    border-color: $blue;
+  }
+
+  .ribbon-wrapper {
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 105px;
+    height: 90px;
+    font-family: $sans-serif;
+    font-size: 1.3em;
+
+    .ribbon {
+      font-size: .8em;
+      font-weight: 800;
+      text-align: center;
+      transform:rotate(45deg);
+      -ms-transform:rotate(45deg); /* IE 9 */
+      -webkit-transform:rotate(45deg); /* Opera, Chrome, and Safari */
+      position: relative;
+      padding: 2px 7px;
+      left: 31px;
+      top: -26px;
+      width: 120px;
+      background-color: $red;
+      color: white;
+      padding-top: 50px;
+    }
   }
 }
 
-.ribbon-wrapper {
-  overflow: hidden;
-  position: absolute;
-  top: 0;
-  right: 11px;
-  width: 105px;
-  height: 90px;
-  font-family: $body-font-family;
-  font-size: 1.3em;
+// Series page
+///////////////////////////////////////////////////////////////////////////////
 
-  .ribbon {
-     font-size: .8em;
-     font-weight: 800;
-     text-align: center;
-     transform:rotate(45deg);
-     -ms-transform:rotate(45deg); /* IE 9 */
-     -webkit-transform:rotate(45deg); /* Opera, Chrome, and Safari */
-     position: relative;
-     padding: 2px 7px;
-     left: 31px;
-     top: -26px;
-     width: 120px;
-     background-color: $red;
-     color: white;
-     padding-top: 50px;
-   }
- }
+.messages-with-description {
+  @include row(); 
 
-.no-touch .message a {
-  display: block;
-  float: left;
-  width: 100%;
-  padding-top: 15px;
-  border-radius: 4px;
+  .series-messages {
+    @include media($medium-screen) {
+      @include span-columns(5);
+      @include omega();
+      padding-top: 2em;
+      padding-bottom: 2em;
+      float: right;
+    }
 
-  &:first-child {
-    margin-top: -15px;
+    .message {
+      @include row();
+      display: block;
+      font-size: 16px;
+      padding: 1em;
+      border-radius: $base-border-radius; 
+
+      @include media($max-width) {
+        margin: 0 -1em;
+      }
+
+      &:hover {
+        background: $light-blue;
+      }
+
+      &.live {
+        background: $blue;
+        color: white;
+
+        &:hover {
+          background: darken($blue, 10%);
+        }
+      }
+
+      .series-number {
+        @extend h4;
+        @include span-columns(2);
+        
+        margin-top: -4px;
+        margin-bottom: 0;
+      }
+
+      h6 {
+        @include span-columns(7);
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+
+      .action {
+        @include span-columns(3);
+        text-align: right;
+
+        i {
+          float: none;
+        }
+      }
+    }
   }
 
-  &:hover {
-    background: #f4f7f8;
+  .series-description {
+    @include media($medium-screen) {
+      @include span-columns(6);
+      padding-top: 2em;
+      padding-bottom: 2em;
+    }
   }
 }
 
 .no-touch .message.live a {
-  background: $primary-color;
+  background: $blue;
   color: #fff !important;
   margin-bottom: 8px;
 
   &:hover {
-    background: darken($primary-color, 5%);
+    background: darken($blue, 5%);
   }
 
-  h4,h5,h6 {
+  h4,
+  h5,
+  h6 {
     color: #fff !important;
   }
 }
 
-.message-live-icon {
-  @include svg-image('/images/watch/watch-live-icon');
-  background-size: 26px 22px;
-  width: 26px;
-  height: 22px;
-  background-repeat: no-repeat;
-  background-position: left center;
-  text-indent: -999em;
-  display: block;
-}
-
-.message h4 {
-  margin-top: -5px;
-  //color: #fff !important;
-}
-
-.message h6 {
-  margin-top: 0px;
-  //color: #fff !important;
-  @media #{$small-only} {
-  //  color: #86def7 !important;
-  }
-}
-
-.message {
-  padding-bottom: 12px;
-}
-
-.watch-item {
-  position: relative;
-}
-
-.watch-item h6 {
-  margin-top: 5px;
-}
 
 .watch-archive-art {
-  @media #{$medium-up} {
+  @include media($medium-screen) {
     margin-top: 30px;
   }
 }
@@ -174,7 +208,7 @@
     left: 0;
     right: 0;
     margin: 0 auto;
-    @include border-radius(100px);
+    border-radius: 100px;
     border: 2px solid white;
     border: 2px solid rgba(255,255,255,.6);
   }
@@ -184,20 +218,21 @@
   }
 }
 
-.hphoto-watch-archive {
+.hero-watch-archive {
   background-color: #f0f1eb;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1500px;
-  margin: -33px auto 0px;
+  margin: -27px auto 0;
+  padding: 0;
   position: relative;
   display: block;
   color: #fff;
-  height: 340px;
+  min-height: 340px;
 
-  @media #{$medium-up} {
-    margin: -33px auto -50px;
+  @include media($medium-screen) {
+    margin: -33px auto;
     background-size: 100% auto;
   }
 
@@ -222,7 +257,7 @@
     background-size: 44px 53px !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
-    @include border-radius(100px);
+    border-radius: 100px;
     background-color: rgba(0,0,0,.6);
     display: block;
     margin: 60px auto 0;

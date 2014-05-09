@@ -1,0 +1,92 @@
+// Navigation - Bar along the top of the page with logo and links
+///////////////////////////////////////////////////////////////////////////////
+
+#navigation {
+  @include outer-container();
+  @include row();
+
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+  position: relative;
+  z-index: 10;
+
+  #header-logo {
+    @include span-columns(8);
+    @include hide-text;
+    @include svg-image('../images/branding/logo-red-black');
+
+    .logo-white-white & {
+      @include svg-image('../images/branding/logo-white-white');
+    }
+
+    .logo-red-white & {
+      @include svg-image('../images/branding/logo-red-white');
+    }
+
+    .logo-red-black & {
+      @include svg-image('../images/branding/logo-red-black');
+    }
+
+    .logo-black-black & {
+      @include svg-image('../images/branding/logo-black-black');
+    }
+
+    height: 30px;
+    background-size: auto 20px;
+    background-position: left center;
+
+    @include media($large-screen) {
+      @include span-columns(4);
+    }
+  }
+
+  nav {
+    @include span-columns(4);
+    text-align: right;
+    margin-top: 4px;   
+
+    @include media($large-screen) {
+      @include span-columns(8);
+    }
+
+    .live {
+      position: absolute;
+      top: -7px;
+      margin-left: -10px;
+      font-size: 9px;
+      color: $red;
+
+      &.alt {
+        color: lighten($red, 20%);
+      }
+    }
+
+    a {
+      color: $black;
+      display: none;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-family: $helvetica;
+      font-size: 14px; // Fixed px size to force across all screen sizes
+
+      &.js-more-trigger {
+        display: inline;
+      }
+
+      &:hover {
+        color: $dark-blue;
+      }
+
+      @include media($large-screen) {
+        display: inline;
+        margin-left: 1.5em;
+      }
+    }
+  }
+}
+
+.lt-ie9 .js-more-trigger {
+  position: absolute;
+  right: 0;
+  top: 0;
+}

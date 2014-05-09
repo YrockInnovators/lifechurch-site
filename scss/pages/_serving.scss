@@ -1,42 +1,34 @@
-.hphoto-serving {
-  @include background-image-2x-jpg('/images/serving/serving-bg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-
-  @media #{$medium-up} {
-    background-size: 1500px 450px;
-  }
-}
-
 .serving-bg {
-  @include background-image-2x-jpg('/images/serving/serving-bg-small');
+  @include retina-image(/images/serving/serving-bg-small, 580px 273px, jpg);
   background-repeat: no-repeat !important;
   background-position: bottom center !important;
-  background-size: 580px 273px;
   background-color: #f0f2eb;
   padding-bottom: 200px;
 
-  @media #{$medium-up} {
-    @include background-image-2x-jpg('/images/serving/serving-bg');
-    background-size: 1500px 725px;
+  @include media($medium-screen) {
+    @include retina-image(/images/serving/serving-bg, 1500px 725px, jpg);
     padding-bottom: 420px;
   }
-
 }
 
 #church-online {
-  @include background-image-2x-jpg('/images/serving/serving-online-small');
+  @include retina-image(/images/serving/serving-online-small, 580px 273px, jpg);
   background-repeat: no-repeat;
   background-color: #0b0b07;
   background-position: center top;
   background-size: 580px 273px;
   padding-top: 230px;
 
-
-  @media #{$medium-up} {
-    @include background-image-2x-jpg('/images/serving/serving-online-bg');
-    background-size: 1500px 499px;
+  @include media($medium-screen) {
+    @include retina-image(/images/serving/serving-online-bg, 1500px 499px, jpg);
     padding-top: 330px;
+  }
+}
+
+.serving .closing {
+  padding-top: 0;
+  
+  .container {
+    border: none;
   }
 }

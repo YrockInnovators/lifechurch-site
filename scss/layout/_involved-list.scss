@@ -1,0 +1,42 @@
+.involved-list {
+
+  .involved-item {   
+    @include transition(all .5s ease-in-out);
+  }
+
+  .cta {
+    position: relative;
+    height: 40px;
+
+    @include transition(all .5s ease-in-out);
+
+    &.open {
+      height: 300px;
+
+      @include media($medium-screen) {
+        height: 370px;
+      }
+
+      @include media($large-screen) {
+        height: 320px;
+      }  
+    }
+
+    &.sent {
+      height: 80px;
+    }
+  }
+
+  form {
+    position: absolute;
+    top: -15px;
+    width: 100%;
+
+    &.validation {
+      input[type="text"] {
+        border-color: red;
+      }
+    }
+  }
+
+}

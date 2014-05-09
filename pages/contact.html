@@ -5,75 +5,72 @@ permalink: /contact/
 class: header-red contact about
 ---
 
-<section class="page-section section-first">
+<section class="single">
+  <header>
+    <h1>We're here to help.</h1>
+    <p class="lead">Have a question? Share it below and we'll do our best to answer it.</p>
+  </header>
 
-  <div class="row">
-    <div class="large-8 large-centered columns">
+  <article>
+    <form class="form-contact panel" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+      <input type="hidden" class="recipient" name="recipient" value="info@lifechurch.tv" />
 
-      <div class="text-center">
-        <h1>We're here to help.</h1>
-        <p class="lead">Have a question? Share it below and we'll do our best to answer it.</p>
-      </div>
+      <label>How can we help you?</label>
+      <p class="detail">Select the option below that best meets your needs.</p>
+      <select name="subject">
+        <option value="Giving Question|info@lifechurch.tv">I have a question about giving at LifeChurch.tv.</option>
+        <option value="Serving Question|info@lifechurch.tv">I'm interested in serving at LifeChurch.tv.</option>
+        <option value="Staff Question|info@lifechurch.tv">I'm a church, ministry, or organization leader with questions for the LifeChurch.tv staff team.</option>
+        <option value="Media Question / Interview Request|info@lifechurch.tv">I'm a member of the media with a question or interview request.</option>
+        <option value="Site Technical Issue|info@lifechurch.tv">I'm having a technical issue with the LifeChurch.tv site.</option>
+        <option value="Campus Question|info@lifechurch.tv">I have a question about a specific LifeChurch.tv location.</option>
+        <option value="Job Question|info@lifechurch.tv">I'm interested in a job at LifeChurch.tv.</option>
+        <option value="Misc Question|info@lifechurch.tv">I have another need not included in this list.</option>
+      </select>
 
-      <div class="panel">
-        <form class="form-contact" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
-          <input type="hidden" class="recipient" name="recipient" value="info@lifechurch.tv" />
+      <hr />
 
-          <label>How can we help you?</label>
-          <p class="detail">Select the option below that best meets your needs.</p>
-          <select name="subject">
-            <option value="Giving Question|info@lifechurch.tv">I have a question about giving at LifeChurch.tv.</option>
-            <option value="Serving Question|info@lifechurch.tv">I'm interested in serving at LifeChurch.tv.</option>
-            <option value="Staff Question|info@lifechurch.tv">I'm a church, ministry, or organization leader with questions for the LifeChurch.tv staff team.</option>
-            <option value="Media Question / Interview Request|info@lifechurch.tv">I'm a member of the media with a question or interview request.</option>
-            <option value="Site Technical Issue|info@lifechurch.tv">I'm having a technical issue with the LifeChurch.tv site.</option>
-            <option value="Campus Question|info@lifechurch.tv">I have a question about a specific LifeChurch.tv location.</option>
-            <option value="Job Question|info@lifechurch.tv">I'm interested in a job at LifeChurch.tv.</option>
-            <option value="Misc Question|info@lifechurch.tv">I have another need not included in this list.</option>
-          </select>
+      <label>What is your specific question, comment, or issue?</label>
+      <p class="detail">The more we know, the better we can help you.</p>
+      <textarea name="message"></textarea>
 
-          <hr />
+      <hr />
 
-          <label>What is your specific question, comment, or issue?</label>
-          <p class="detail">The more we know, the better we can help you.</p>
-          <textarea name="message"></textarea>
+      <label>What is the best way to reach you?</label>
+      <p class="detail">Please share your name and email address below. <span class="text-gray">(If you are in the US and it's best to reach you by phone, please share your phone number instead.)</span></p>
 
-          <hr />
+      <input name="name" type="text" placeholder="Enter your name" />
+      <input name="phone" type="text" placeholder="Enter your email address or phone number" />
 
-          <label>What is the best way to reach you?</label>
-          <p class="detail">Please share your name and email address below. <span class="text-gray">(If you are in the US and it's best to reach you by phone, please share your phone number instead.)</span></p>
+      <hr />
 
-          <input name="name" type="text" placeholder="Enter your name" />
-          <input name="phone" type="text" placeholder="Enter your email address or phone number" />
+      <input type="submit" class="button small submit-contact" value="Submit this contact form" />
 
-          <hr />
+      <p class="detail"><em>(We are generally able to respond within one to three days of your request.)</em></p>
 
-          <input type="submit" class="button small submit-contact" value="Submit this contact form" />
-
-          <p class="detail"><em>(We are generally able to respond within one to three days of your request.)</em></p>
-
-        </form>
-      </div>
-
-      <div class="row padded">
-        <div class="medium-7 columns">
-          <p class="detail">
-            <strong>Church, Ministry, &amp; Organization Leaders</strong><br />
-            We truly believe we can do more together than apart to lead people to become fully devoted followers of Christ. Are you a church, ministry, or organization leader with specific questions for our church?<br />
-            <a class="action" href="http://go2.lc/tellusmore">Tell Us More <i class="icon icon-arrow"></i></a>
-          </p>
-        </div>
-        <div class="medium-4 columns">
-          <p class="detail">
-            <strong>Central Support Office</strong><br />
-            4600 E. 2nd Street<br />
-            Edmond, OK 73034<br />
-            (405) 680-LIFE (5433)<br />
-            <a href="mailto:info@lifechurch.tv">info@lifechurch.tv</a><br />
-          </p>
-        </div>
-      </div>
-
-    </div>
-  </div>
+    </form>
+  </article>
 </section>
+
+<div class="padded">
+  <div class="container">
+    <section class="additional-contact-information grid-items grid-two">
+      <div class="grid-item">
+        <p class="detail">
+          <strong>Church, Ministry, &amp; Organization Leaders</strong><br />
+          We truly believe we can do more together than apart to lead people to become fully devoted followers of Christ. Are you a church, ministry, or organization leader with specific questions for our church?<br />
+          <a class="action" href="http://go2.lc/tellusmore">Tell Us More <i class="icon icon-arrow"></i></a>
+        </p>
+      </div>
+      <div class="grid-item">
+        <p class="detail">
+          <strong>Central Support Office</strong><br />
+          4600 E. 2nd Street<br />
+          Edmond, OK 73034<br />
+          (405) 680-LIFE (5433)<br />
+          <a href="mailto:info@lifechurch.tv">info@lifechurch.tv</a><br />
+        </p>
+      </div>
+    </section>
+  </div>
+</div>

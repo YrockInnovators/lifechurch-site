@@ -15,7 +15,7 @@ class: header-red section-watch section-series
   <a href="javascript:void(0)"  
      style="background-image: url('{{ series.image_large }}')"
      data-video-player="{{message.video}}"
-     class="hphoto hphoto-top section-light hphoto-watch-archive"
+     class="hero section-light hero-watch-archive"
      onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');">
      
     <div class="inner">
@@ -30,7 +30,7 @@ class: header-red section-watch section-series
   {% for message in series.messages reversed %}
   {% if forloop.first %}
   <a href="javascript:void(0)"
-     class="hphoto hphoto-top section-light hphoto-watch-archive"
+     class="hero section-light hero-watch-archive"
      style="background-image: url('{{ series.image_large }}')"
      data-video-player="{{message.video}}"
      onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');"
@@ -45,81 +45,48 @@ class: header-red section-watch section-series
   {% endfor %}
 {% endif%}
 
-<!-- Page Main -->
+<div class="container messages-with-description">
+  <section class="series-messages">
+    <h2>In this series</h2>
+    <div class="watch-messages">
+      {% if page.live == true %}
+      <a class="message live" href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
+        <span class="series-number series-live-icon">Live </span>
+        <h6>Church Online <span data-churchonline-counter></span></h6>
+        <div class="action"><span>Visit</span> <i class="icon icon-arrow"></i></div>
+      </a>
+      {% endif %}
+
+      <!-- Get the messages out of the series and list them out -->
+      {% for message in series.messages reversed %}
+
+      <a class="message" href="javascript:void(0);" data-video-player="{{message.video}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message');">
+        <span class="series-number">{% cycle '1', '2', '3', '4', '5', '6' %}</span>
+        <h6>{{ message.title }}</h6>
+        <div class="action">Play <i class="icon icon-play"></i></div>
+      </a>
+    {% endfor %}
+  </section>
+
+  <section class="series-description">
+     <h2>Series description</h2> 
+     <p>{{ series.description_medium | newline_to_br }}</p>
+
+     <p class="detail">
+       <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-twitter"></i> Invite on Twitter</a>
+       <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-facebook"></i> Invite on Facebook</a>
+       <!--<a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-gplus"></i> Invite on Google+</a>-->
+     </p>
+  </section>
+</div>
+
 <div class="page-main">
-
-  <div class="page-section">
-    <div class="row">
-      <div class="medium-6 medium-push-6 large-5 large-push-7 columns">
-
-        <h2>In this series</h2>
-
-        <div class="watch-messages">
-        
-
-          {% if page.live == true %}
-          <div class="row message live">
-            <a href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
-              <div class="small-1 medium-2 columns">
-                <h4>
-                  <span class="message-live-icon">Live </span>
-                </h4>
-              </div>
-              <div class="small-8 medium-7 columns">
-                <h6>Church Online <span data-churchonline-counter></span></h6>
-              </div>
-              <div class="small-2 medium-3 columns medium-text-right play-message">
-                <div class="action small"><span class="hide-for-small">Go</span> <i class="icon icon-arrow"></i></div>
-              </div>
-            </a>
-          </div>
-          {% endif %}
-
-          <!-- Get the messages out of the series and list them out -->
-          {% for message in series.messages reversed %}
-
-          <div class="row message">
-            <a href="javascript:void(0);" data-video-player="{{message.video}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message');">
-            <div class="small-1 medium-2 columns">
-              <h4>
-                <span>{% cycle '1', '2', '3', '4', '5', '6' %}</span>
-              </h4>
-            </div>
-            <div class="small-8 medium-7 columns">
-              <h6>{{ message.title }}</h6>
-            </div>
-            <div class="small-2 medium-3 columns medium-text-right play-message">
-              <div class="action small"><span class="hide-for-small">Play</span> <i class="icon icon-play"></i></div>
-            </div>
-          </a>
-          </div>
-
-          {% endfor %}
-        </div>
-      </div>
-
-      <div class="medium-6 medium-pull-6 columns">
-        <h2>Series description</h2> 
-        <p>{{ series.description_medium | newline_to_br }}</p>
-
-        <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-twitter"></i> Invite on Twitter</a>
-
-         <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-facebook"></i> Invite on Facebook</a>
-
-         <a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-gplus"></i> Invite on Google+</a>
-      </div>
-
-
-    </div>
-  </div>
-
   {% for message in series.messages %}
   {% include video-player.html id=message.video %}
   {% endfor %}
 </div>
 
 <div class="series-locator">series-{{ series.id }}</div>
-
 
 {% endif %}
 {% endfor %}

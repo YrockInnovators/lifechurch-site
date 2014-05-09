@@ -1,0 +1,59 @@
+// Tertiary - Breadcrumb and resources bar below the navigation
+///////////////////////////////////////////////////////////////////////////////
+
+#tertiary {
+  @include outer-container();
+  @include row();
+
+  text-align: left;
+  font-family: $sans-serif;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  margin-bottom: 2em;
+  padding-bottom: .25em;
+  position: relative;
+
+  .breadcrumb {
+    @include media($medium-screen) {
+      @include span-columns(8);
+    }
+
+    a {
+      @extend h4;
+      color: $black;
+    }
+
+    a:not(.current):hover {
+      color: $dark-blue;
+    }
+
+    a:after {
+      content: " / ";
+      color: rgba(0,0,0,.2);
+      margin: 0 .25em;
+    }
+
+    a:last-child:after {
+      display: none;
+    }
+  }
+
+  .resources {
+    margin-top: .5em;
+
+    @include media($medium-screen) {
+      @include span-columns(4);
+      text-align: right;
+      margin-top: 0;
+    }
+  }
+  
+  // Tidies up IE8. Requires Modernizr.
+  .lt-ie9 & {
+    margin-left: 10px;
+
+    .resources {
+      position: absolute;
+      right: 0;
+    }
+  }
+}

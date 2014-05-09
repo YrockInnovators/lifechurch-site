@@ -1,24 +1,20 @@
 .chazown {
-
   .chazown-bg {
-    @include background-image-2x-jpg('/images/chazown/chazown-bg');
+    @include retina-image(/images/chazown/chazown-bg, 500px auto, jpg);
+    background-color: white;
     background-repeat: repeat-x;
     background-position: center bottom;
     border-bottom: 1px solid #eee;
     margin-bottom: 25px;
-
-    background-size: 500px auto;
     padding-bottom: 130px;
 
-    @media #{$medium-up} {
+    @include media($medium-screen) {
       background-size: 1255px auto;
       padding-bottom: 340px;
     }
 
-    @media #{$small-only} {
+    @media only screen and (max-width: $medium-screen) {
       h1 { margin-top: 0; }
     }
   }
-
-
 }

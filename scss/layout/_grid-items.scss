@@ -1,0 +1,41 @@
+// Grid items - Repeatable, stackable blocks of similar-sized content
+///////////////////////////////////////////////////////////////////////////////
+
+.grid-two {
+  @include row();
+
+  .grid-item {
+    margin-bottom: 2em;
+
+    @include media($medium-screen) {
+      @include span-columns(6);
+      @include omega(2n);
+    } 
+  }
+}
+
+.grid-three {
+  @include row();
+
+  .grid-item {
+    margin-bottom: 2em;
+
+    @include media($medium-screen) {
+      @include span-columns(4);
+      @include omega(3n);
+    } 
+  }
+}
+
+.grid-four {
+  @include row();
+
+  .grid-item {
+    margin-bottom: 2em;
+
+    @include media($medium-screen) {
+      @include span-columns(3);
+      @include omega(4n);
+    } 
+  }
+}

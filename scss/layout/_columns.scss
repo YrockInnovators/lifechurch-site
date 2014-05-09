@@ -1,0 +1,161 @@
+// Container - Limits contents to max page width
+///////////////////////////////////////////////////////////////////////////////
+
+.container {
+  @include outer-container();
+  position: relative;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+// Single - A single, centered column of text.
+///////////////////////////////////////////////////////////////////////////////
+
+.single {
+  @include row();
+  padding: 0 1em;
+
+  header {
+    text-align: center;
+    margin: 0 auto;
+    max-width: $max-width;
+  }
+
+  article {
+    margin: 0 auto;
+    max-width: $max-column-width;
+  }
+  
+  blockquote {
+    @media only screen and (min-width: em(1100)) {
+      margin-left: -5em;
+      margin-right: -5em;
+    }
+  }
+
+}
+
+// Article with Figure - Two columns, article slightly larger than figure
+///////////////////////////////////////////////////////////////////////////////
+
+.article-with-figure {
+  @include row();
+  padding: 0;
+
+  header {
+    text-align: center;
+    margin: 0 auto;
+    max-width: $max-width;
+  }
+ 
+  figure img {
+  }
+
+  @include media($medium-screen) {
+    figure img {
+    }
+
+    article {
+      @include span-columns(7);
+    }
+
+    figure {
+      @include span-columns(5);
+    }
+  }
+}
+
+// Feature - Two columns, figure larger than article
+///////////////////////////////////////////////////////////////////////////////
+
+.feature {
+  @include row();
+  padding: 0;
+
+  article {
+    h2:first-child {
+      margin-top: 0;
+    }
+
+    @include media($medium-screen) {
+      @include span-columns(6);
+    }
+
+    @include media($large-screen) {
+      @include span-columns(4);
+    }
+  }
+
+  figure {
+    @include media($medium-screen) {
+      @include span-columns(6);
+    }
+
+    @include media($large-screen) {
+      @include span-columns(7);
+      @include shift(1);
+
+      .reverse & {
+        @include shift(0);
+        float: left;
+      }
+    }
+
+    img {
+      width: 100%;
+    } 
+  }
+
+  @include media($large-screen) {
+    &.reverse figure {
+      @include shift(0);
+      float: left;
+    }
+
+    &.reverse article {
+      float: right;
+    }
+  }
+}
+
+// Group - Sections off the content into either a white or colored group
+///////////////////////////////////////////////////////////////////////////////
+
+.group {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background: $base-body-background;
+
+  &.of-grid-items {
+    padding-top: 3em;
+  }
+
+  & > *:first-child,
+  & > *:first-child > *:first-child,
+  & > *:first-child > *:first-child > *:first-child,
+  & > *:first-child > *:first-child > *:first-child > *:first-child {
+    margin-top: 0;
+  }
+
+  & > *:last-child,
+  & > *:last-child > *:last-child {
+    margin-bottom: 0;
+  }
+  
+  @include media($medium-screen) {
+    padding-top: 6em;
+    padding-bottom: 6em;
+  }
+
+  &.alt {
+    background: $off-white;
+  }
+}
+
+.padded {
+  padding-top: 2em;
+
+  @include media($medium-screen) {
+    padding-top: 4em;
+  }
+}

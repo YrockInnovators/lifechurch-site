@@ -1,0 +1,41 @@
+// Header Light - Change the color of the header when body is set to this
+///////////////////////////////////////////////////////////////////////////////
+
+.header-light {
+  #navigation nav a,
+  #tertiary .breadcrumb a {
+    color: white;
+
+    &:hover {
+      color: $dark-blue;
+    }
+  }
+
+  &.more-is-visible #navigation nav a {
+    color: $black;
+  }
+
+  #tertiary {
+    border-color: rgba(255,255,255,.2);
+  }
+
+  #tertiary a:after {
+    color: rgba(255,255,255,.2);
+  }
+
+  .more-line-1,
+  .more-line-2,
+  .more-line-3 {
+    background: white;
+
+    &:hover {
+      color: $dark-blue;
+    }
+  }
+
+  &.more-is-visible .more-line-1,
+  &.more-is-visible .more-line-2,
+  &.more-is-visible .more-line-3 {
+    background: $black;
+  }
+}

@@ -1,0 +1,121 @@
+.hero {
+  background-color: #F4F5ED;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  padding: 3em 0;
+  text-align: center;
+  min-height: 400px;
+  margin-left: 0;
+  margin-right: 0;
+
+  &.empty {
+    min-height: 250px;
+  }
+
+  .lt-ie9 & {
+    background-image: none;
+  }
+
+  &.top {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  .hero-inner {
+    @include outer-container();
+    @include row();
+    @extend .container;
+
+    .hero-copy {
+      max-width: $max-column-width;
+      margin: 1em auto;
+
+      @include media($medium-screen) {
+        margin: 3em auto 1em;
+      }
+    }
+
+    .hero-side {
+      text-align: left;
+
+      @include media($medium-screen) {
+        @include span-columns(8);
+      }
+
+      blockquote {
+        margin: 0 0 1em;
+      }
+    }
+
+    .hero-copy,
+    .hero-side {
+      &.alt {
+        h1,
+        h2,
+        p {
+          color: white;
+        }
+      }
+    }
+  }
+}
+
+
+figure.hero {
+  margin: 0;
+}
+
+@media only screen and (max-width: $medium-screen) {
+  .hint {
+    display: none;
+  }
+}
+
+@include media($medium-screen) {
+  .hint-scroll {
+    padding-bottom: 4em;
+    position: relative;
+
+    .hint {
+      position: absolute;
+      bottom: 4em;
+      left: 0;
+      width: 100%;
+      height: 60px;
+      text-align: center;
+      font-family: $sans-serif;
+      font-size: 12px;
+      font-weight: bold;
+      
+      .icon {
+        @include animation(fadeOutIn 2s infinite);
+        display: block;
+        margin: 0 auto;
+        font-size: 1.5em;
+      }
+    }
+  }
+}
+
+@include keyframes(fadeOutIn) {
+  0% {
+    opacity: 1;
+  }
+
+  25% {
+    opacity: 1;
+  }
+  
+  50% {
+    opacity: .1;
+  }
+
+  75% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}

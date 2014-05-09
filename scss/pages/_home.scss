@@ -1,115 +1,98 @@
 .home {
 
-  // Small screens
-  @media #{$small-only} {
-    .page-header {
-      background: #000;
-      height: 70px;
-      overflow: hidden;
-      margin-bottom: 5px;
-    }
+background-color: black;
 
-  } // End small screens
+.action {
+  color: #86def7;
+}
 
+.home-menu {
+  background: white;
+  padding: 0 1em;
+  margin-bottom: -10px;
 
-  // Large screens
-
-  .action-live {
-    position: relative;
+  @include media($medium-screen) {
+    display: none;
+  }
+  
+  a {
+    @include transition (background .1s);
+    @include row();
+    padding: .8em 1em;
+    margin: 0 -1em;
+    border-bottom: 1px solid $medium-gray;
   }
 
-  span[data-churchonline-counter] {
-    font-size: 0.6em;
-    display: block;
-    position: absolute;
+  dl {
+    margin-top: 0;
   }
 
-  .section-first.section-home {
-    @include background-image-2x-jpg('/images/home/home-bg-small');
-    background-size: cover;
-    background-color: #000;
-    background-position: top center;
-    background-repeat: no-repeat;
-    margin-top: -80px;
+  dt {
+    @extend h4;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  dd {
+    color: $black;
+  }
+}
+
+// Timer
+///////////////////////////////////////////////////////////////////////////////
+
+.action-live {
+  position: relative;
+}
+
+span[data-churchonline-counter] {
+  font-size: 0.6em;
+  display: block;
+  position: absolute;
+  margin-top: -2px;
+}
+
+// Feature 
+///////////////////////////////////////////////////////////////////////////////
+
+.hero.top {
+  @include retina-image(/images/home/home-bg-small, cover, jpg);
+  background-color: #000;
+  background-position: top center;
+  background-repeat: no-repeat;
+  
+  @include media($medium-screen) {
+    @include retina-image(/images/home/home-bg, 1500px 931px, jpg);
+    min-height: 670px;
+    background-position: center -80px;
+  }
+
+  h1 {
+    @include hide-text;
+  }
+
+  .hero-copy {
+    color: white;
+    margin-top: 100px;
     
-    h1 {
-      display: none;
+    @include media($medium-screen) {
+      margin-top: 360px;
     }
+  }
+}
 
-    p {
-      max-width: 620px;
-      margin: 0 auto 30px;
-      color: #fff;
-      
-      @media #{$medium-up} {
-        margin: 340px auto 30px;
-      }
-    }
+// Closing
+///////////////////////////////////////////////////////////////////////////////
 
-    .columns {
-      padding-bottom: 20px;
-    }
-
-    @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/home/home-bg');
-      background-size: 1500px 931px;
-      height: 700px;
-      margin-top: -165px;
-
-      // Title
-      h1 {
-        width: 100%;
-        height: 59px;
-        margin-top: 20px;
-        margin-bottom: 0;
-        @include svg-image('/images/watch/2014-the-counselor/the-counselor-title');
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: contain;
-        text-indent: -999em;
-      }
-
-    }
-
-    @media only screen and (min-width: 700px) and (min-height: 600px) {
-      height: 800px;
-
-      h1 {
-        margin-top: 110px;
-      }
-    }
-
-    @media only screen and (min-width: 700px) and (min-height: 700px) {
-      height: 850px;
-
-      h1 {
-        margin-top: 160px;
-      }
-    }
-
-    @media only screen and (min-width: 700px) and (min-height: 800px) {
-      height: 931px;
-
-      h1 {
-        margin-top: 220px;
-      }
-    }
-
-    // Space after action links
-    .section-first {
-      @media #{$medium-up} {
-        padding-bottom: 30px;
-      }
-    }
-  } // End Larger screens
-
-} // End home
-
-
+.closing {
+  background: black;
+  padding-top: 0;
+}
 
 // Next Week
 
-.home .coming-up {
+.coming-up {
   max-width: 1500px;
   margin: 0 auto;
   height: 140px;
@@ -119,8 +102,8 @@
   }
 }
 
-.home .next-week {
-  @include background-image-2x-jpg('/images/home/next-week-small');
+.next-week {
+  @include retina-image(/images/home/next-week-small, 430px auto);
   background-size: 430px auto;
   background-position: center;
   background-repeat: no-repeat;
@@ -137,9 +120,8 @@
   }
 
   @media screen and (min-width: 600px) {
-    @include background-image-2x-jpg('/images/home/next-week');
+    @include retina-image(/images/home/next-week, 750px auto);
     height: 160px;
-    background-size: 750px;
   }
 
   @media screen and (min-width: 750px) {
@@ -165,9 +147,8 @@
   }
  }
 
-.home .easter {
-  @include background-image-2x-jpg('/images/home/easter-small');
-  background-size: 355px 140px;
+.easter {
+  @include retina-image(/images/home-easter-small, 355px 140px);
   background-position: center top;
   background-repeat: no-repeat;
   height: 140px;
@@ -178,7 +159,7 @@
   width: 50%;
   
   @media screen and (min-width: 750px) {
-    @include background-image-2x-jpg('/images/home/easter');
+    @include retina-image(/images/home/easter, 750px 327px);
     height: 320px;
     background-size: 750px 327px;
     border: 2px solid white;
@@ -202,16 +183,6 @@
   }  
 }
 
-.home .page-footer {
-  margin-top: 0;
-  background: black;
-}
-
-.home .page-footer .columns {
-  margin-top: 0 !important;
-  border: none;
-}
-
 .home-nav-small {
   a {
     border-bottom: 1px solid #eee;
@@ -227,4 +198,6 @@
     margin-bottom: 7px;
     font-size: .8em;
   }
+}
+
 }

@@ -1,0 +1,50 @@
+$dark-background: #1e1e1e;
+$dark-color: white;
+$dark-link: #86def7;
+
+// Group
+///////////////////////////////////////////////////////////////////////////////
+
+.group.dark {
+  background: $dark-background;
+  color: $dark-color;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  cite {
+    color: $light-red;
+  }
+
+  p,
+  li {
+    color: $dark-color;
+  }
+
+  a {
+    color: $dark-link;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+// Closing
+///////////////////////////////////////////////////////////////////////////////
+
+.closing-dark .closing {
+  background: $dark-background;
+  color: $light-gray; 
+
+  a {
+    color: $dark-link;
+  }
+
+  .container {
+    border-color: darken($dark-gray, 40%);
+  }
+}

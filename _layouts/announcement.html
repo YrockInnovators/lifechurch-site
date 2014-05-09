@@ -1,22 +1,15 @@
----
-layout: default
-section: announcements
-class: header-red
----
-
-<article class="announcements-article">
-
-<div class="row">
-  <div class="medium-12 columns text-center">
-    <h1>{{ page.title }}</h1>
-    <time class="meta" datetime="{{ post.date }}">Posted on {{ page.date | date: "%B %-d, %Y" }}</time>
+{% for announcement in site.data.announcement %}
+{% if announcement.active == true %}
+{% if page.section != 'announcements' %}
+<div data-alert class="alert-box {{ announcement.type }}">
+  <div class="row">
+    <div class="medium-12 columns">
+      {% if announcement.url %}<a class="announcement-link" href="{{ announcement.url }}">{% endif %}
+        <i class="announcement-icon icon-announcement-{{ announcement.icon }}"></i> {{ announcement.message }}
+      {% if announcement.url %}</a>{% endif %}
+    </div>
   </div>
 </div>
-
-<div class="row">
-  <div class="medium-8 medium-centered columns">
-    {{ content }}
-  </div>
-</div>
-
-</article>
+{% endif %}
+{% endif %}
+{% endfor %}

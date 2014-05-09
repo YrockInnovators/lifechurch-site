@@ -1,0 +1,32 @@
+// Alerts
+.announcement {
+  border: none;
+  margin-bottom: 0;
+  z-index: 11;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  background: white;
+  color: $base-body-color;
+  padding: .3em 0 0;
+
+  p {
+    font-size: .8em;
+  }
+
+  &.alert {
+    background: $red;
+    color: white;
+
+    a {
+      color: white;
+    }
+  }
+}
+
+.announcement-icon {
+  height: 25px;
+  width: 25px;
+  margin: 0 5px 0 0;
+  font-size: 23px;
+  position: relative;
+  top: 4px;
+}

@@ -1,0 +1,13 @@
+// Requires Modernizr with svg support
+
+@mixin svg-image($img-name) {
+  .svg & {
+    background-image: url("#{$img-name}.svg");
+    background-repeat: no-repeat;
+  }
+
+  .no-svg & {
+    background-image: url("#{$img-name}.png");
+    background-repeat: no-repeat;
+  }
+}

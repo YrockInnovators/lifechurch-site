@@ -1,11 +1,10 @@
-.who-we-are {
-  .logo {
-    @include svg-image('/images/branding/logo-red-white');
-  }
+// Who We Are
+///////////////////////////////////////////////////////////////////////////////
 
-  @media #{$small-only} {
+.who-we-are {
+
+  @media only screen and (max-width: $medium-screen) {
     h1 {
-      font-size: 1.5em;
       margin-top: 15px;
     }
 
@@ -15,14 +14,12 @@
   }
 
   .who-we-are-bg {
-    @include background-image-2x-jpg('/images/about/whoweare-bg-small');
-    background-size: cover;
+    @include retina-image(/images/about/whoweare-bg-small, cover, jpg);
     background-position: center top;
     background-repeat: no-repeat;
 
-    @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/about/whoweare-bg');
-      background-size: 1500px 636px;
+    @include media($medium-screen) {
+      @include retina-image(/images/about/whoweare-bg, 1500px 636px, jpg);
     }
 
     blockquote p {
@@ -31,81 +28,11 @@
   }
 }
 
-.beliefs {
-
-  // Position the headline to accomodate those feature images
-  h1 {
-    //padding-top: 70px;
-    @media #{$medium-up} {
-      //padding-top: 100px;
-    }
-  }
-
-  .beliefs-bg {
-    //@include background-image-2x-jpg('/images/about/about-beliefs-small');
-    //background-repeat: no-repeat !important;
-    //background-position: center top !important;
-    //background-size: 580px 273px;
-    //background-color: #fff;
-    //padding-bottom: 200px;
-
-    @media #{$medium-up} {
-      //@include background-image-2x-jpg('/images/about/about-beliefs');
-      //background-size: 1500px 370px;
-      //padding-bottom: 420px;
-    }
-
-  }
-
-
-}
-
-
-.what-to-expect {
-
-  // Position the headline to accomodate those feature images
-  h1 {
-    padding-top: 110px;
-    @media #{$medium-up} {
-      padding-top: 40px;
-    }
-  }
-
-  // Hold those absolutely positioned images in place
-  .row { position: relative; }
-
-  // Feature image
-  .about-coffee {
-    background: url('/images/about/about-coffee.png') no-repeat;
-    width: 200px;
-    height: 200px;
-    position: absolute;
-    top: -20px;
-
-    @media #{$small-only} {
-      background-size: 200px auto;
-      left: 0;
-      right: 0;
-      margin: 0 auto;
-    }
-
-    @media #{$medium-up} {
-      width: 229px;
-      height: 169px;
-      top: -100px;
-      right: 0;
-    }
-
-    @media #{$large-up} {
-      right: -120px;
-    }
-  }
-}
-
+// Jobs
+///////////////////////////////////////////////////////////////////////////////
 
 .jobs {
 
-  // Feature image
   .section-jobs-top {
     background: url('/images/jobs/jobs-bg.png') no-repeat;
 
@@ -113,11 +40,10 @@
       margin-top: 10px;
     }
 
-    @media #{$medium-up} {
-      @include background-image-2x-jpg('/images/jobs/jobs-bg');
+    @include media($medium-screen) {
+      @include retina-image(/images/jobs/jobs-bg, 1500px auto, jpg);
       background-position: center top;
       background-repeat: no-repeat;
-      background-size: 1500px auto;
       height: 570px;
 
       h1 {
@@ -133,47 +59,33 @@
   }
 }
 
-
-/*.video-image {
-  display: block;
-
-  i {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin: 70px auto 0;
-    font-size: 50px;
-    width: 100%;
-    text-align: center;
-    color: #fff;
-  }
-
-  &:hover i {
-    color: #ddd;
-  }
-}*/
-
+// 404
+///////////////////////////////////////////////////////////////////////////////
 
 .page-404 {
-
   .page-tertiary {
     display: none;
   }
 }
 
-
+// Challenge
+///////////////////////////////////////////////////////////////////////////////
 
 .challenge-bg {
-  @include background-image-2x-jpg('/images/about/challenge-bg-small');
-  background-size: cover !important;
+  @include retina-image(/images/about/challenge-bg-small, cover, jpg);
   background-position: center top;
   background-repeat: no-repeat;
 
-  @media #{$medium-up} {
-    @include background-image-2x-jpg('/images/about/challenge-bg');
-    background-size: 1500px 701px;
+  @include media($medium-screen) {
+    @include retina-image(/images/about/challenge-bg, 1500px 701px, jpg);
     height: 700px;
   }
 }
 
+// Contact 
+///////////////////////////////////////////////////////////////////////////////
+
+.additional-contact-information {
+  max-width: 37em;
+  margin: 0 auto;
+}

@@ -1,61 +1,53 @@
 ---
 layout: default
 title: Watch a Message
-class: header-light section-watch page-watch
+class: header-light section-watch page-watch logo-red-white
+hero: watch-hero
 ---
 
-<!-- Live -->
-
-{% assign latest = site.data.watch | first %}
-
-<section class="section-watch-bg section-light page-section section-first">
-  <div class="row">
-    <div class="medium-8 columns">
-      <h1 class="h2 text-white">View a message on demand or <a href="http://live.lifechurch.tv" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">visit a live experience <span data-churchonline-counter></span> <i class="icon-arrow"></i></a></h1>
+  <div class="hero-inner">
+    <div class="hero-side alt">
+      <h1 class="h2">View a message on demand or <a href="http://live.lifechurch.tv" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">visit a live experience <span data-churchonline-counter></span> <i class="icon-arrow"></i></a></h1>
     </div>
   </div>
 </section>
 
-<!-- Archive Grid -->
-<div class="row">
-  <div class="large-12 columns">
-    <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+<div class="group of-grid-items">
+  <!-- Archive Grid -->
+  <div class="container">
+    <div class="grid-items grid-three">
       {% for post in site.categories.watch limit:9 %}
       {% for series in site.data.watch %}
       {% if series.id == post.series-id %}
 
       <!-- Archive Item -->
-      <li class="watch-item">
+      <div class="grid-item watch-item">
         <a href="{{ post.url }}">
           <div class="panel">
             {% if post.live == true %}
             <div class="ribbon-wrapper"><div class="ribbon">LIVE</div></div>
             {% endif %}
 
-            <img src="{{ series.image_small }}" data-interchange="[{{ series.image_small }}, (default)], [{{ series.image_medium }}, (medium)]" alt="{{ series.title }}" src="{{series.image_small}}" />
-            <noscript><img src="{{ series.image_small }}" alt="{{ series.title }}"></noscript>
-
+            <img src="{{ series.image_small }}" data-retina="{{ series.image_medium }}" />
             <h6>{{ series.title }}</h6>
           </div>
         </a>
-      </li>
+      </div>
 
       {% endif %}
       {% endfor %}
       {% endfor %}
-    </ul>
+    </div>
   </div>
-</div>
 
-<!-- Archive list link -->
-<section class="page-section section-last">
-<div class="row">
-  <div class="large-12 large-centered columns text-center">
-    <a href="/watch/archive/"
-       class="action large text-black"
-       onclick="ga('send', 'event', 'Watch', 'Click', 'View Archives');">
-       View more archives <i class="icon icon-play"></i>
-    </a>
-  </div>
+  <!-- Archive list link -->
+  <section class="single text-center padded">
+    <p>
+      <a href="/watch/archive/"
+         class="action large"
+         onclick="ga('send', 'event', 'Watch', 'Click', 'View Archives');">
+         View more archives <i class="icon icon-play"></i>
+      </a>
+    </p>
+  </section>
 </div>
-</section>

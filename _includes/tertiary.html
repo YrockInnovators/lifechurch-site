@@ -1,75 +1,43 @@
-<!-- Tertiary content (Breadcrumb, Resource links, etc.) -->
-<div class="row">
-<div class="medium-12 columns">
-<div class="page-tertiary tertiary-header">
-  <div class="row">
-    <div class="medium-6 columns">
-      <!-- Breadcrumb -->
-      <nav class="tertiary-nav">
-        {% if page.section == "locations" %}<a href="/locations/">Locations</a>{% endif %}
-        {% if page.section == "locations-promo" %}<a href="/locations/">Locations</a>{% endif %}
-        {% if page.section == "watch" %}<a href="/watch/">Watch</a>{% endif %}
-        {% if page.section == "watch archive" %}<a href="/watch/">Watch</a>{% endif %}
-        {% if page.section == "about" %}<a href="/who-we-are/">About</a>{% endif %}
-        {% if page.section == "giving" %}<a href="/giving/">Giving</a>{% endif %}
-        {% if page.section == "lifemissions" %}<a href="/lifemissions/">LifeMissions</a>{% endif %}
-        {% if page.section == "jobs" %}<a href="/jobs/">Jobs</a>{% endif %}
-        {% if page.section == "announcements" %}<a href="/announcements/">Announcements</a>{% endif %}
-        <a class="current" href="#">{{ page.title }}</a>
-      </nav>
-    </div>
-    <div class="medium-6 columns tertiary-resources text-right">
-      {% if page.title == "Watch a Message" %}
-        <!--<script>
-          (function() {
-            var cx = '002176242189043456332:_gc7rgk658s';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-                '//www.google.com/cse/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-          })();
-        </script>
-        <gcse:search></gcse:search>-->
-      {% endif %}
+<!-- Tertiary -->
+<div class="container">
+  <section id="tertiary">
+    <nav class="breadcrumb">
+      {% if page.section == "locations"       %}<a href="/locations/">Locations</a>{% endif %}
+      {% if page.section == "locations-promo" %}<a href="/locations/">Locations</a>{% endif %}
+      {% if page.section == "watch"           %}<a href="/watch/">Watch</a>{% endif %}
+      {% if page.section == "watch archive"   %}<a href="/watch/">Watch</a>{% endif %}
+      {% if page.section == "about"           %}<a href="/who-we-are/">About</a>{% endif %}
+      {% if page.section == "giving"          %}<a href="/giving/">Giving</a>{% endif %}
+      {% if page.section == "lifemissions"    %}<a href="/lifemissions/">LifeMissions</a>{% endif %}
+      {% if page.section == "jobs"            %}<a href="/jobs/">Jobs</a>{% endif %}
+      {% if page.section == "announcements"   %}<a href="/announcements/">Announcements</a>{% endif %}
+      <a class="current" href="#">{{ page.title }}</a>
+    </nav>
+    <div class="resources">
       {% if page.section == "watch" %}
-      <!-- Watch Options -->
-      <div class="hide-for-small">
-        <a href="#"
-           data-dropdown="drop"
-           class="watch-resources button tiny dropdown secondary"
-           onclick="ga('send', 'event', 'Series', 'Click', 'Resources Expand');">
-           Get Resources
-        </a>
-        <br />
+      <div class="button-with-options">
+        <a class="button secondary" href="#" onclick="ga('send', 'event', 'Series', 'Click', 'Resources Expand');">Get Resources</a>
+        {% include watch-resources.html %}
       </div>
-      {% include watch-resources.html %}
       {% endif %}
 
       {% if page.section == "locations" %}
-      <!-- Watch Options -->
-      <div class="hide-for-small">
-        <a href="#"
-           data-dropdown="drop"
-           data-set-campus="{{page.location-id}}"
-           class="locations-mycampus button tiny"
-           onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Mine');">
-           Save as your campus?
-        </a>
-
-        <a href="#"
-           data-dropdown="drop"
-           data-unset-campus
-           class="locations-mycampus button tiny secondary"
-           onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Not Mine');">
-           Not your campus?
-        </a>
+      <div>
+      <a href="#"
+         data-set-campus="{{page.location-id}}"
+         class="locations-mycampus button tiny"
+         onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Mine');">
+         Save as your campus?
+      </a>
+      <a href="#"
+         data-unset-campus
+         class="locations-mycampus button tiny secondary"
+         onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Not Mine');">
+         Not your campus?
+      </a>
       </div>
       {% endif %}
     </div>
-  </div>
-</div>
-</div>
-</div>
+  </section>
+</div> 
+
