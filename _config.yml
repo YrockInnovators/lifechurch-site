@@ -3,7 +3,7 @@ permalink: /:categories/:title/
 markdown: rdiscount
 excerpt_separator: ""
 relative_permalinks: false
-exclude: ["gruntfile.js","package.json","README.md","Rakefile","Procfile","Gemfile","Gemfile.lock","CNAME","config.rb","config.ru","scss","node_modules"]
+exclude: ["vendor","gruntfile.js","package.json","README.md","Rakefile","Procfile","Gemfile","Gemfile.lock","CNAME","config.rb","config.ru","scss","node_modules"]
 
 prose:
   rooturl: 'announcements/_posts'
