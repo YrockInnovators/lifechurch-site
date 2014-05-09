@@ -303,6 +303,14 @@ padding-top: 28px;
   }
 }
 
+
+// Patch
+.title-and-map.group {
+  @media only screen and (max-width: $medium-screen) {
+    padding-bottom: 140px;
+  }
+}
+
 // Page hero section
 
 .locations-hero {
@@ -402,7 +410,7 @@ padding-top: 28px;
   }
 
   .address {
-    background: white;
+    background: transparent;
     padding: 15px 0;
     width: 100%;
     top: 172px;
