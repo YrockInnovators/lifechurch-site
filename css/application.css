@@ -642,6 +642,9 @@ dl {
   z-index: 90;
   position: relative; }
 
+.lt-ie9 .icon {
+  display: none; }
+
 .button-with-options {
   display: inline-block; }
   .button-with-options .button:after, .button-with-options #campus-navigation a:after, #campus-navigation .button-with-options a:after {
@@ -1118,6 +1121,9 @@ dl {
 .lt-ie9 .closing-site-links {
   display: none; }
 
+.lt-ie9 .closing-social-links li {
+  display: inline; }
+
 .header-light #navigation nav a,
 .header-light #tertiary .breadcrumb a {
   color: white; }
@@ -1559,6 +1565,13 @@ figure.hero {
         display: block;
         margin: 0 auto;
         font-size: 1.5em; } }
+.lt-ie9 .hero.top {
+  background-image: none; }
+
+.lt-ie9 figure.hero {
+  height: 1px;
+  background: #dddddd; }
+
 @-webkit-keyframes fadeOutIn {
   0% {
     opacity: 1; }
@@ -2068,6 +2081,9 @@ figure.hero {
     opacity: 1;
     height: auto;
     width: auto; }
+
+.lt-ie9 [data-stat-count] {
+  display: none; }
 
 @media screen and (min-width: 40em) {
   .infoicon {

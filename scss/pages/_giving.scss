@@ -267,6 +267,10 @@
   }
 }
 
+.lt-ie9 [data-stat-count] {
+  display: none;
+}
+
 .infoicon {
   @include media($medium-screen) {
     margin-top: -30px !important;

@@ -13,10 +13,6 @@
     min-height: 250px;
   }
 
-  //.lt-ie9 & {
-  //  background-image: none;
-  //}
-
   &.top {
     margin-top: 0;
     padding-top: 0;
@@ -97,6 +93,16 @@ figure.hero {
     }
   }
 }
+
+.lt-ie9 .hero.top {
+  background-image: none;
+}
+
+.lt-ie9 figure.hero {
+  height: 1px;
+  background: $medium-gray;
+}
+
 
 @include keyframes(fadeOutIn) {
   0% {
