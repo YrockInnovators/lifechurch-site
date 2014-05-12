@@ -327,6 +327,12 @@ img {
   margin: 0;
   max-width: 100%; }
 
+li strong,
+p strong {
+  font-weight: normal;
+  background: #fff0bf;
+  padding: 0 4px; }
+
 .lt-ie9 figure img {
   width: 250px !important;
   height: auto; }
@@ -673,7 +679,7 @@ dl {
         right: 0;
         left: auto;
         top: auto;
-        width: 190px; }
+        width: 220px; }
         .button-with-options .options-list:before {
           border-color: transparent transparent white transparent;
           border-width: 5px;

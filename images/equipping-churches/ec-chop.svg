@@ -2,15 +2,16 @@
 <!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 60 60" enable-background="new 0 0 60 60" xml:space="preserve">
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="30" y1="-8.976713e-10" x2="30" y2="60">
+	 viewBox="450 450 60 60" enable-background="new 450 450 60 60" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="480" y1="450.1432" x2="480" y2="509.8568">
 	<stop  offset="0" style="stop-color:#F89932"/>
 	<stop  offset="0.5072" style="stop-color:#F28C2B"/>
 	<stop  offset="1" style="stop-color:#EB7B22"/>
 </linearGradient>
-<path fill="url(#SVGID_1_)" d="M60,50c0,5.5-4.5,10-10,10H10C4.5,60,0,55.5,0,50V10C0,4.5,4.5,0,10,0h40c5.5,0,10,4.5,10,10V50z"/>
-<circle fill="#FFFFFF" cx="30.1" cy="29.9" r="12.7"/>
-<path fill="#FFFFFF" d="M30.1,13.5c3.9,0,7.5,1.4,10.3,3.7l4.8-5c-4.1-3.5-9.4-5.6-15.1-5.6l0,0C17.3,6.5,6.8,17,6.8,29.9
-	s10.5,23.3,23.3,23.3c5.6,0,10.7-2,14.7-5.2l-5-4.9c-2.7,2-6,3.1-9.6,3.1c-9.1,0-16.4-7.3-16.4-16.4S21.1,13.5,30.1,13.5 M47.5,45.4
-	c3.7-4.1,5.9-9.6,5.9-15.5c0-5.5-1.9-10.6-5.2-14.6L43.2,20c2.1,2.8,3.3,6.2,3.3,9.9c0,4.1-1.5,7.8-4,10.7L47.5,45.4z"/>
+<circle fill="url(#SVGID_1_)" cx="480" cy="480" r="29.9"/>
+<circle fill="#FFFFFF" cx="479.8" cy="480.2" r="11.6"/>
+<path fill="#FFFFFF" d="M479.8,465.2c3.6,0,6.8,1.3,9.4,3.4l4.4-4.6c-3.7-3.2-8.6-5.1-13.8-5.1l0,0c-11.7-0.1-21.2,9.5-21.2,21.2
+	c0,11.8,9.6,21.2,21.2,21.2c5.1,0,9.7-1.8,13.4-4.7l-4.6-4.5c-2.5,1.8-5.5,2.8-8.7,2.8c-8.3,0-14.9-6.7-14.9-14.9
+	C465,471.8,471.6,465.2,479.8,465.2 M495.7,494.3c3.4-3.7,5.4-8.7,5.4-14.1c0-5-1.7-9.7-4.7-13.3l-4.6,4.3c1.9,2.6,3,5.6,3,9
+	c0,3.7-1.4,7.1-3.6,9.7L495.7,494.3z"/>
 </svg>

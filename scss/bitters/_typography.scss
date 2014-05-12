@@ -160,6 +160,13 @@ img {
   max-width: 100%;
 }
 
+li strong,
+p strong {
+  font-weight: normal;
+  background: #fff0bf;
+  padding: 0 4px;
+}
+
 .lt-ie9 figure img {
   width: 250px !important;
   height: auto;
