@@ -1217,6 +1217,9 @@ dl {
       .article-with-figure figure:last-child {
         margin-right: 0; } }
 
+.lt-ie9 .article-with-figure figure {
+  text-align: center; }
+
 .feature {
   *zoom: 1;
   display: block;
@@ -1572,7 +1575,8 @@ figure.hero {
   height: 1px !important;
   min-height: 1px;
   max-height: 1px;
-  background: #dddddd; }
+  background: #dddddd;
+  padding: 0; }
 
 @-webkit-keyframes fadeOutIn {
   0% {

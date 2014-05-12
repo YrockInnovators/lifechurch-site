@@ -47,14 +47,8 @@
     margin: 0 auto;
     max-width: $max-width;
   }
- 
-  figure img {
-  }
 
   @include media($medium-screen) {
-    figure img {
-    }
-
     article {
       @include span-columns(7);
     }
@@ -62,6 +56,12 @@
     figure {
       @include span-columns(5);
     }
+  }
+}
+
+.lt-ie9 .article-with-figure {
+  figure {
+    text-align: center;
   }
 }
 
