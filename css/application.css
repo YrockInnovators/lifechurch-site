@@ -2130,7 +2130,7 @@ figure.hero {
     .home .home-menu dd {
       color: #444444; }
   .home .lt-ie9 .home-menu {
-    display: none; }
+    display: none !important; }
   .home .action-live {
     position: relative; }
   .home span[data-churchonline-counter] {
