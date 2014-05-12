@@ -1153,6 +1153,9 @@ dl {
 @media screen and (min-width: 40em) {
   .small-element {
     display: none !important; } }
+.lt-ie9 .small-element {
+  display: none !important; }
+
 .container, .hero .hero-inner {
   *zoom: 1;
   max-width: 62.5em;
