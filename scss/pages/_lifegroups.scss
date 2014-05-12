@@ -102,6 +102,11 @@
   @include media($large-screen) {
     background-position: center top;
   }
+
+  .lt-ie9 & {
+    background: url("/images/lifegroups/lifegroups-1.jpg");
+    background-position: -320px top;
+  }
 }
 
 // LifeGroups 2
@@ -122,6 +127,11 @@
 
   @include media($large-screen) {
     background-position: center top;
+  }
+
+  .lt-ie9 & {
+    background: url("/images/lifegroups/lifegroups-2.jpg");
+    background-position: -320px top;
   }
 }
 
@@ -144,6 +154,11 @@
   @include media($large-screen) {
     background-position: center top;
   }
+
+  .lt-ie9 & {
+    background: url("/images/lifegroups/lifegroups-3.jpg");
+    background-position: -320px top;
+  }
 }
 
 // LifeGroups 4
@@ -164,5 +179,10 @@
 
   @include media($large-screen) {
     background-position: center top;
+  }
+
+  .lt-ie9 & {
+    background: url("/images/lifegroups/lifegroups-4.jpg");
+    background-position: -320px top;
   }
 }

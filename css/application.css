@@ -2446,6 +2446,9 @@ figure.hero {
   @media screen and (min-width: 53.75em) {
     .lifegroups-1 .section-lifegroups-top {
       background-position: center top; } }
+  .lt-ie9 .lifegroups-1 .section-lifegroups-top {
+    background: url("/images/lifegroups/lifegroups-1.jpg");
+    background-position: -320px top; }
 
 .lifegroups-2 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2470,6 +2473,9 @@ figure.hero {
   @media screen and (min-width: 53.75em) {
     .lifegroups-2 .section-lifegroups-top {
       background-position: center top; } }
+  .lt-ie9 .lifegroups-2 .section-lifegroups-top {
+    background: url("/images/lifegroups/lifegroups-2.jpg");
+    background-position: -320px top; }
 
 .lifegroups-3 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2494,6 +2500,9 @@ figure.hero {
   @media screen and (min-width: 53.75em) {
     .lifegroups-3 .section-lifegroups-top {
       background-position: center top; } }
+  .lt-ie9 .lifegroups-3 .section-lifegroups-top {
+    background: url("/images/lifegroups/lifegroups-3.jpg");
+    background-position: -320px top; }
 
 .lifegroups-4 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2518,6 +2527,9 @@ figure.hero {
   @media screen and (min-width: 53.75em) {
     .lifegroups-4 .section-lifegroups-top {
       background-position: center top; } }
+  .lt-ie9 .lifegroups-4 .section-lifegroups-top {
+    background: url("/images/lifegroups/lifegroups-4.jpg");
+    background-position: -320px top; }
 
 .pin {
   background-repeat: no-repeat;
