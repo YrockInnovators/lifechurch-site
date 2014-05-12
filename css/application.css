@@ -1344,10 +1344,10 @@ dl {
           margin-right: 0; }
         .grid-three .grid-item:nth-child(3n+1) {
           clear: left; } }
-  .grid-three .lt-ie9 .grid-item {
-    float: left;
-    width: 30%;
-    margin: 2%; }
+    .lt-ie9 .grid-three .grid-item {
+      float: left;
+      width: 30%;
+      margin: 2%; }
 
 .grid-four {
   *zoom: 1;

@@ -24,13 +24,13 @@
       @include span-columns(4);
       @include omega(3n);
     } 
-  }
-}
 
-.lt-ie9 .grid-three .grid-item {
-  float: left;
-  width: 30%;
-  margin: 2%;
+    .lt-ie9 & {
+      float: left;
+      width: 30%;
+      margin: 2%;
+    }
+  }
 }
 
 .grid-four {
