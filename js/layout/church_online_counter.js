@@ -1,5 +1,7 @@
 jQuery(function() {
 
+  if (!window.console) console = {log: function() {}};
+
   var days, goLive, hours, intervalId, minutes, seconds;
   goLive = function() {
     $('.nav-watch .live').removeClass('hide');
