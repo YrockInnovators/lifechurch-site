@@ -223,13 +223,33 @@ $(function() {
     var phone = form.find('input[name="phone"]').val();
     var detail = name + ": " + phone;
 
-
-    if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0)
-    {
-      form.addClass('validation');
-      return false;
+    if ($('select[name="subject"]').val() == "select") {
+      $('select[name="subject"]').addClass('has-error');
+    } else {
+      $('select[name="subject"]').removeClass('has-error');
     }
-    else {
+
+    if ($('textarea[name="message"]').val() == "") {
+      $('textarea[name="message"]').addClass('has-error');
+    } else {
+      $('textarea[name="message"]').removeClass('has-error');
+    }
+
+    if ($('input[name="name"]').val() == "") {
+      $('input[name="name"]').addClass('has-error');
+    } else {
+      $('input[name="name"]').removeClass('has-error');
+    }
+
+    if ($('input[name="phone"]').val() == "") {
+      $('input[name="phone"]').addClass('has-error');
+    } else {
+      $('input[name="phone"]').removeClass('has-error');
+    }
+
+    if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0) {
+      return false;
+    } else {
       $.post(form.attr('action'), {
         recipient: recipient,
         subject: subject,
@@ -261,6 +281,7 @@ $(function() {
     });
   };
 });
+
 $(function() {
   $('[data-jobs]').each(function(index) {
     var category = $(this).data('jobs');

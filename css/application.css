@@ -1841,6 +1841,9 @@ figure.hero {
   max-width: 37em;
   margin: 0 auto; }
 
+form .has-error {
+  border-color: #b9252d; }
+
 .chazown .chazown-bg {
   background-image: url("/images/chazown/chazown-bg.jpg");
   background-color: white;
@@ -2363,10 +2366,13 @@ figure.hero {
 
 @media only screen and (min-width: 40.063em) {
   .section-lifegroups-top {
-    height: 680px; } }
+    height: 780px; } }
 @media only screen and (min-width: 768px) {
   .section-lifegroups-top {
-    height: 580px; } }
+    height: 700px; } }
+@media only screen and (min-width: 960px) {
+  .section-lifegroups-top {
+    height: 600px; } }
 
 .lifegroups .page-tertiary {
   display: none; }

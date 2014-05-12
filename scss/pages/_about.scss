@@ -91,3 +91,7 @@
   max-width: 37em;
   margin: 0 auto;
 }
+
+form .has-error {
+  border-color: $red;
+}

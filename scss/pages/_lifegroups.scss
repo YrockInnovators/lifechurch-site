@@ -5,12 +5,15 @@
 .section-lifegroups-top {
   // Medium sized
   @media only screen and (min-width: 40.063em) {
-    height: 680px;
+    height: 780px;
   }
 
-  // Large sized
   @media only screen and (min-width: 768px) {
-    height: 580px;
+    height: 700px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    height: 600px;
   }
 }
 
