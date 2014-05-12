@@ -33,9 +33,7 @@
 
 .jobs {
 
-  .section-jobs-top {
-    background: url('/images/jobs/jobs-bg.png') no-repeat;
-
+  .section-jobs-top { 
     h1 {
       margin-top: 10px;
     }
@@ -49,6 +47,10 @@
       h1 {
         margin-top: 160px;
       }
+    }
+
+    .lt-ie9 & {
+      background: url('/images/jobs/jobs-bg.jpg') center top no-repeat;
     }
   }
 
