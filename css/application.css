@@ -1569,7 +1569,9 @@ figure.hero {
   background-image: none; }
 
 .lt-ie9 figure.hero {
-  height: 1px;
+  height: 1px !important;
+  min-height: 1px;
+  max-height: 1px;
   background: #dddddd; }
 
 @-webkit-keyframes fadeOutIn {
