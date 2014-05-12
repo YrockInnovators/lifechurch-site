@@ -93,40 +93,32 @@
     title: The Mentoring Project
     recipient: noc.serving@lifechurch.tv
     url: http://www.thementoringproject.org/
-    description_medium: Rewrite the fatherless story through mentoring by recruiting,
-      training, resourcing and encouraging mentors to show up for at-risk and fatherless
-      kids.
+    description_medium: Rewrite the fatherless story through mentoring, training,
+      resourcing, and encouraging at-risk and fatherless kids.
   - id: 8
     title: Novo Ministries
     recipient: noc.serving@lifechurch.tv
     url: http://www.novoministries.org/
-    description_medium: Help connect passionate individuals, churches, and organizations
-      with inner-city communities in the greater Oklahoma City area by helping facilitate
-      weekly after-school programming in these communities.
+    description_medium: Connect passionate individuals with inner-city communities
+      by helping facilitate weekly after-school programs.
   - id: 9
     title: Tulakes Elementary
     recipient: noc.serving@lifechurch.tv
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
-      an under-resourced environment. With over 500 students meeting over 200 days
-      a year, it provides us the optimum opportunity to minister outside the church
-      walls.
+      an under-resourced environment.
   - id: 10
     title: Watch D.O.G.S.
     recipient: noc.serving@lifechurch.tv
     url: http://www.fathers.com/content/index.php?option=com_content&task=view&id=21&Itemid=60
-    description_medium: Provide positive male role models for the students, demonstrating
-      by their presence that education is important, and to provide extra sets of
-      eyes and ears to enhance school security and reduce bullying. With a 97% fatherlessness
-      rate in Tulakes, Watch Dogs seeks to recruit volunteers from NOC to act as a
-      male role models for the children at Tulakes to accomplish these goals at Tulakes.
+    description_medium: Provide positive male role models for students  while enhancing
+      school security and reducing bullying.
   - id: 34
     title: The Spero Project
     recipient: noc.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a Biblical response to under-resourced populations. There
-      are a variety of opportunities in the community to get involved.
+      to fully engage in a biblical response to under-resourced populations.
 - id: hnv
   title: Hendersonville TN Campus
   email: hnv.serving@lifechurch.tv
@@ -196,24 +188,20 @@
     url: http://www.endslaverytn.org/
     description_medium: Create a slave-free Tennessee and holistically restore survivors
       of human trafficking. Volunteers can assist through awareness programs, distributing
-      door hangers and fundraising.
+      door hangers, and fundraising.
   - id: 29
     title: Shalom Zone
     recipient: hnv.serving@lifechurch.tv
     url: http://www.gallatinshalomzone.org/
-    description_medium: Engage the residents and kids of their community in healing,
-      peace, reconciliation and love so they grow beyond their current circumstances.
-      LifeChurch.tv volunteers come alongside the community as mentors, providing
-      homework help, enrichment, and assistance throughout the program.
+    description_medium: LifeChurch.tv volunteers assist with all aspects of the program
+      including mentoring, helping with homework, and encouraging residents and children
+      towards healing, peace, reconciliation, and love.
   - id: 33
     title: Room in the Inn
     recipient: hnv.serving@lifechurch.tv
     url: http://www.roomintheinn.org/
-    description_medium: Help provide programs that emphasize human development and
-      recovery through education, self-help and work for those who call the streets
-      of Nashville home. LifeChurch.tv volunteers will assist the staff in providing
-      meals, mail sorting, cleaning, teaching classes, and mentoring residents in
-      the programs.
+    description_medium: For those who call the streets of Nashville home, volunteers
+      will help provide meals, sort mail, teach classes, and mentor.
 - id: ftw
   title: Fort Worth TX Campus
   email: ftw.serving@lifechurch.tv
@@ -291,22 +279,20 @@
     title: Tarrant Read2Win
     recipient: ftw.serving@lifechurch.tv
     url: http://www.tarrantnet.org/read2win/
-    description_medium: Partner with a Fort Worth elementary schools and volunteer
-      as a reading coach for a first grader needing help in the Fort Worth I.S.D.
+    description_medium: 'Partner with Fort Worth elementary schools and volunteer
+      as a reading coach for first graders in the Fort Worth Independent School District. '
   - id: 31
     title: Habitat for Humanity
     recipient: ftw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
   - id: 32
     title: Altamesa Neighborhood Needs
     recipient: ftw.serving@lifechurch.tv
     url: http://www.altamesa.org/ministries/local/neighborhood-needs/
-    description_medium: Provide food, clothing, technology access and mentor/counseling
-      to those in need with God’s help and in God’s way.
+    description_medium: Provide food, clothing, technology access and mentorship to
+      those in need.
 - id: edm
   title: Edmond OK Campus
   email: edm.serving@lifechurch.tv
@@ -387,31 +373,6 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring and positive mentoring relationships as well as communicating spiritual
       and moral values.
-  - id: 4
-    title: The Mentoring Project
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the fatherless story through mentoring by recruiting,
-      training, resourcing and encouraging mentors to show up for at-risk and fatherless
-      kids.
-  - id: 5
-    title: Inner City Action Group
-    recipient: edm.serving@lifechurch.tv
-    url: http://icag.org/
-    description_medium: Build mentoring relationship between at-risk youth in OKC
-      and Christian role models who encourage youth to build positive character.
-  - id: 6
-    title: SeeWorth Foundation
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.seeworthfoundation.org/
-    description_medium: Help students see their value as people and help them learn
-      how to better engage their world because of the value they find in themselves.
-  - id: 7
-    title: Young Life
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.younglife.org/Pages/default.aspx
-    description_medium: Introduce teens to Jesus and help them grow in their faith
-      by weekly one on one mentoring.
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: edm.serving@lifechurch.tv
@@ -420,21 +381,42 @@
       quality relationships with OKC area adult inmates for the purpose of promoting
       stability, support, friendship, and ultimately success in the work place and
       personal life.
+  - id: 4
+    title: The Mentoring Project
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the fatherless story through mentoring, training,
+      resourcing, and encouraging at-risk and fatherless kids.
+  - id: 5
+    title: Inner City Action Group
+    recipient: edm.serving@lifechurch.tv
+    url: http://icag.org/
+    description_medium: Build mentoring relationships between at-risk youth in OKC
+      and Christian role models who encourage positive character.
+  - id: 6
+    title: SeeWorth Foundation
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.seeworthfoundation.org/
+    description_medium: Help students see their value and learn how to better engage
+      their world.
+  - id: 7
+    title: Young Life
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.younglife.org/Pages/default.aspx
+    description_medium: Introduce teens to Jesus and help them grow in their faith
+      by weekly one-on-one mentoring.
   - id: 34
     title: The Spero Project
     recipient: edm.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a Biblical response to under-resourced populations. There
-      are a variety of opportunities in the community to get involved.
+      to fully engage in a biblical response to under-resourced populations.
   - id: 35
     title: City Rescue Mission
     recipient: edm.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Support the goal to have people leave better and more successful
-      than when they first came in. Take advantage of the opportunity to dramatically
-      make a difference in these hurting peoples lives by coming with servant hearts
-      to walk along side people.
+    description_medium: Help people leave the rescue mission better than when they
+      first came.
 - id: alb
   title: Albany NY Campus
   email: alb.serving@lifechurch.tv
@@ -498,24 +480,19 @@
     recipient: alb.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@lifechurch.tv
     url: http://citymission.com/
-    description_medium: Help people who are in poverty, help people get out of poverty
-      and help people stay out of poverty, and volunteers will partner with their
-      efforts and programs to make this a reality.
+    description_medium: Help people get out of poverty - and stay out.
   - id: 31
     title: Habitat for Humanity
     recipient: alb.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -563,31 +540,31 @@
     day: sun
     duration: 60
     type: service-time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service-time
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service-time
   missions:
   - id: 48
     title: Serve Moore
@@ -721,16 +698,14 @@
     title: New Hope Oklahoma
     recipient: jnk.serving@lifechurch.tv
     url: http://www.newhopeoklahoma.org/
-    description_medium: Help to end generational incarceration one child at a time
-      and partner with New Hope through after-school programs, summer camps, and holiday
-      parties.
+    description_medium: New Hope helps end generational incarceration one child at
+      a time through after-school programs, summer camps, and holiday parties.
   - id: 44
     title: Salvation Army Adult Rehabilitation Center (ARC)
     recipient: jnk.serving@lifechurch.tv
     url: http://satruck.org/national-rehabilitation
-    description_medium: Support the men who participate at the center to break the
-      cycle of addiction through Christ as their Savior and partner with the ARC through
-      mentoring and serving at the center, etc.
+    description_medium: Help men break the cycle of addiction with the power of Christ
+      through mentoring and serving.
 - id: bao
   title: Broken Arrow OK Campus
   email: bao.serving@lifechurch.tv
@@ -828,15 +803,14 @@
     title: Arrowhead Elementary
     recipient: bao.serving@lifechurch.tv
     url: http://www.baschools.org/vnews/display.v/SEC/Arrowhead
-    description_medium: Provide the opportunity for additional character and team
-      building learning experiences and allow students to work with one another in
-      a small group setting to build new friendships.
+    description_medium: Provide character and team building experiences and allow
+      students to work with one another in a small group setting to build new friendships.
   - id: 21
     title: 111 Project
     recipient: bao.serving@lifechurch.tv
     url: http://111project.org/
-    description_medium: The goal of this organization is that every child will have
-      a family and every child will be loved. 1 Church 1 Family 1 Purpose.
+    description_medium: The goal of this organization is for every child to have a
+      family and to be loved. 1 Church, 1 Family, 1 Purpose.
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
@@ -928,8 +902,7 @@
     recipient: mwc.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a Biblical response to under-resourced populations. There
-      are a variety of opportunities in the community to get involved.
+      to fully engage in a biblical response to under-resourced populations.
 - id: ykn
   title: Yukon OK Campus
   email: ykn.serving@lifechurch.tv
@@ -1023,17 +996,14 @@
     title: Yukon Special Athletes
     recipient: ykn.serving@lifechurch.tv
     url: http://www.specialolympicsyukon.ca/
-    description_medium: Partner with special needs families to give the kids of the
-      special needs community the opportunity for healthy and beneficial relationships
-      that will serve them beyond their school years.
+    description_medium: Partner with special needs families to give kids healthy and
+      beneficial relationships.
   - id: 35
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Support the goal to have people leave better and more successful
-      than when they first came in. Take advantage of the opportunity to dramatically
-      make a difference in these hurting peoples lives by coming with servant hearts
-      to walk along side people.
+    description_medium: Help people leave the rescue mission better than when they
+      first came.
 - id: ows
   title: Owasso OK Campus
   email: ows.serving@lifechurch.tv
@@ -1132,9 +1102,8 @@
     recipient: ows.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 17
     title: Southwest Foster Care
     recipient: ows.serving@lifechurch.tv
@@ -1145,10 +1114,9 @@
     title: Owasso Community Resources
     recipient: ows.serving@lifechurch.tv
     url: http://owassohelps.org/
-    description_medium: 'Offer services that provide a safety net for families and
-      individuals facing economic hardship, including: striving to prevent hunger,
-      prevent homelessness, restore hope and help families and individuals on their
-      path to self-sufficiency.'
+    description_medium: Offer services for families and individuals facing economic
+      hardship. This program works to fight hunger, prevent homelessness, and to restore
+      hope to families and individuals on their path to self-sufficiency.
 - id: wel
   title: Wellington FL Campus
   email: wel.serving@lifechurch.tv
@@ -1206,29 +1174,27 @@
     title: First Care
     recipient: wel.serving@lifechurch.tv
     url: http://www.first-care.org/
-    description_medium: Help give woman the opportunity to make an educated decision
-      about giving birth while empowering them to walk their decision out without
-      guilt or shame.
+    description_medium: Help women make an educated decision about giving birth and
+      empower them to carry out their decision without guilt or shame.
   - id: 40
     title: Oasis Compassion
     recipient: wel.serving@lifechurch.tv
     url: http://oasiscompassion.org/
-    description_medium: Restore people that have fallen on hard times and bring them
-      through by helping them with food, resume building, interview skills classes,
-      housing, and job placement by showing them who they are in Christ.
+    description_medium: Restore people that have fallen on hard times by helping them
+      build a resume, learn interview skills, acquire housing, and find a job while
+      showing them who they are in Christ.
   - id: 42
     title: 4Kids of South Florida
     recipient: wel.serving@lifechurch.tv
     url: https://www.4kidsofsfl.org/
-    description_medium: Help care for kids in crisis through mentoring, caring, playing,
-      and being there for these kids in SafePlace.
+    description_medium: Help care for and mentor kids in crisis at SafePlace.
   - id: 45
     title: Urban Youth Impact
     recipient: wel.serving@lifechurch.tv
     url: http://www.urbanyouthimpact.com/
     description_medium: Love, equip, and empower inner-city youth and their parents
-      to fulfill their God-given purpose through on-to-one mentorship relationships,
-      after school academic development, and parent development classes.
+      to fulfill their God-given purpose through one-on-one mentorship, academic development
+      after school, and parent development classes.
 - id: tul
   title: Tulsa OK Campus
   email: tul.serving@lifechurch.tv
@@ -1306,22 +1272,21 @@
     title: Switch
     recipient: tul.serving@lifechurch.tv
     url: ''
-    description_medium: Lead students to become fully devoted followers of Christ,
-      mentoring them on weekly basis.
+    description_medium: Lead students to become fully devoted followers of Christ
+      by mentoring them on weekly basis.
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@lifechurch.tv
     url: http://emergencyinfantservices.org/
-    description_medium: Provide basic needs for infants and children through five
-      years of age in the Tulsa area, whose families are in crisis. The LC.tv volunteers
-      will be organizing donations and meeting with and interviewing families.
+    description_medium: Provide basic needs for infants and children through 5 years
+      of age whose families are in crisis by organizing donations and meeting with
+      families.
   - id: 43
     title: John 3:16
     recipient: tul.serving@lifechurch.tv
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
-      hungry, homeless, and at-risk. The volunteers will be serving the community
-      and building relationships with those that receive benefits from the organization.
+      hungry, homeless, and at-risk by serving the community and building relationships.
 - id: stw
   title: Stillwater OK Campus
   email: stw.serving@lifechurch.tv
@@ -1395,37 +1360,33 @@
     recipient: stw.serving@lifechurch.tv
     url: http://www.bbbs.org/
     description_medium: Provide children facing adversity with strong and enduring,
-      professionally supported 1-to-1 relationships that change their lives for the
-      better, forever. Each volunteer will be in a direct, mentor relationship with
-      a child.
+      one-on-one relationships that change their lives for the better - forever. Each
+      volunteer will be in a mentor relationship with a child.
   - id: 15
     title: Payne County Department of Human Services
     recipient: stw.serving@lifechurch.tv
     url: http://www.okdhs.org/okdhslocal/payne/
-    description_medium: Help ensure safety of at-risk children in the community and
-      to restore parents and children or find a new opportunity for those children
-      to have a normal life.
+    description_medium: Help ensure the safety of at-risk children in the community
+      by restoring parents and children or finding a new opportunity for children
+      to have a healthy family environment.
   - id: 26
     title: Stillwater Life Services
     recipient: stw.serving@lifechurch.tv
     url: http://www.stillwaterlife.org/
-    description_medium: Support the work of this sexual health and pregnancy resource
-      clinic, providing testing, treatment, and options for women and men. Provide
-      ongoing one-on-one mentoring of clients.
+    description_medium: Provide testing, treatment, one-on-one mentoring, and options
+      for women and men who visit the pregnancy resource clinic.
   - id: 27
     title: Wings of Hope
     recipient: stw.serving@lifechurch.tv
     url: http://www.sdvs.org/
     description_medium: Join the mission to break the cycle of interpersonal violence
-      by supporting families through the process of restoration and healing.
+      by supporting families through restoration and healing.
   - id: 31
     title: Habitat for Humanity
     recipient: stw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build homes and hope in partnership with low income families
-      to build and renovate high quality, affordable housing; advocate on behalf of
-      those in need of decent housing, and serve as a partner and catalyst to create
-      healthy and sustainable communities. '
+    description_medium: 'Build and renovate high quality, affordable housing and serve
+      as a partner and catalyst to create healthy and sustainable communities. '
 - id: sto
   title: South Tulsa OK Campus
   email: sto.serving@lifechurch.tv
@@ -1523,24 +1484,19 @@
     title: Relations Group Home
     recipient: sto.serving@lifechurch.tv
     url: ''
-    description_medium: Support the efforts of Relations Group home, a place where
-      children 8-18 receive help and mentorship to become active young adults.
+    description_medium: Children 8 thru18 receive help and mentorship.
   - id: 19
     title: Tulsa Boys Home
     recipient: sto.serving@lifechurch.tv
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: Help restore the lives of boys who have seen the worst in
-      people and lead them towards being healthy, responsible young men. LifeChurch.tv
-      volunteers surround these boys with what they have not seen; love, kindness,
-      and consistent interaction.
+    description_medium: 'Help restore the lives of boys and lead them to be healthy,
+      responsible young men. '
   - id: 38
     title: Bixby Outreach Center
     recipient: sto.serving@lifechurch.tv
     url: http://www.bixbyoc.org/
-    description_medium: Rather than giving a handout, give a hand-up to those who
-      find themselves in situations that they did not expect. LifeChurch.tv volunteers
-      help through "drives" throughout the year as well as helping in classes and
-      through organizing and distributing items.
+    description_medium: Help people who find themselves in situations that they did
+      not expect by collecting, organizing, and distributing items.
 - id: okc
   title: Oklahoma City OK Campus
   email: okc.serving@lifechurch.tv
@@ -1635,31 +1591,27 @@
     title: Sunset Elementary
     recipient: okc.serving@lifechurch.tv
     url: http://www.edmondschools.net/sunset/Home.aspx
-    description_medium: Make an impact in your surrounding community where there are
-      financial needs, language barriers, single parent homes, and other life concerns
-      that directly affect their experience in the classroom. Volunteers will help
-      to provide a better classroom and learning experience alongside the teachers.
+    description_medium: Help your surrounding community where there are financial
+      needs, language barriers, single parent homes, and other life concerns that
+      directly affect children's experience in the classroom.
   - id: 21
     title: 111 Project
     recipient: okc.serving@lifechurch.tv
     url: http://111project.org/
-    description_medium: The goal of this organization is that every child will have
-      a family and every child will be loved. 1 Church 1 Family 1 Purpose.
+    description_medium: The goal of this organization is for every child to have a
+      family and to be loved. 1 Church, 1 Family, 1 Purpose.
   - id: 25
     title: LifeTroops
     recipient: okc.serving@lifechurch.tv
     url: http://lifetroops.tv/
-    description_medium: Help soldiers during the healing process, "Mind, Body & Spirit"
-      curriculum, and support systems to meet the spiritual, emotional, educational,
-      financial, and physical needs of military members 24 hours a day, both home
-      and abroad.
+    description_medium: Meet the spiritual, emotional, educational, financial, and
+      physical needs of military members 24 hours a day, at home and abroad.
   - id: 34
     title: The Spero Project
     recipient: okc.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a Biblical response to under-resourced populations. There
-      are a variety of opportunities in the community to get involved.
+      to fully engage in a biblical response to under-resourced populations.
 - id: soc
   title: South Oklahoma City OK Campus
   email: soc.serving@lifechurch.tv
@@ -1747,43 +1699,39 @@
     title: Inner City Action Group
     recipient: soc.serving@lifechurch.tv
     url: http://icag.org/
-    description_medium: Build mentoring relationship between at-risk youth in OKC
-      and Christian role models who encourage youth to build positive character.
+    description_medium: Build mentoring relationships between at-risk youth in OKC
+      and Christian role models who encourage positive character.
   - id: 12
     title: Warriors Mentoring
     recipient: soc.serving@lifechurch.tv
     url: http://okcyouthwrestling.ning.com/
     description_medium: Build relationships between at-risk youth and caring role
-      models in the OKC area through the sport of wrestling to influence each child's
-      actions by teaching positive character traits.
+      models in the OKC area through wrestling. Influence each child's actions by
+      teaching positive character traits.
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Support the goal to have people leave better and more successful
-      than when they first came in. Take advantage of the opportunity to dramatically
-      make a difference in these hurting peoples lives by coming with servant hearts
-      to walk along side people.
+    description_medium: Help people leave the rescue mission better than when they
+      first came.
   - id: 46
     title: No Boundaries International
     recipient: soc.serving@lifechurch.tv
     url: http://nbint.org/
-    description_medium: Train and deploy the body of Christ into devastated areas
-      impacted by human trafficking.
+    description_medium: Train and deploy the body of Christ into areas impacted by
+      human trafficking.
   - id: 47
     title: Stand in the Gap Ministries
     recipient: soc.serving@lifechurch.tv
     url: http://www.sitgm.org/
-    description_medium: Defend the widows and orphans and set prisoners free through
-      their three ministries of Life Launch, Women in Transition, and Stand in the
-      Gap for Widows.
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 34
     title: The Spero Project
     recipient: soc.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a Biblical response to under-resourced populations. There
-      are a variety of opportunities in the community to get involved.
+      to fully engage in a biblical response to under-resourced populations.
 - id: bnb
   title: Broadway and Britton OK Campus
   email: bnb.serving@lifechurch.tv
