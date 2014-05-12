@@ -58,3 +58,7 @@ h1 {
 .js-more-trigger {
   display: none !important;
 }
+
+#header-logo {
+  background: url("../images/branding/logo-red-black.png") no-repeat !important;
+}

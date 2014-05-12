@@ -57,3 +57,7 @@
     color: $dark-gray;
   }
 }
+
+.lt-ie9 .closing-site-links {
+  display: none;
+}
