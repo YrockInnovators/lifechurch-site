@@ -1217,9 +1217,6 @@ dl {
       .article-with-figure figure:last-child {
         margin-right: 0; } }
 
-.lt-ie9 .article-with-figure figure {
-  text-align: center; }
-
 .feature {
   *zoom: 1;
   display: block;

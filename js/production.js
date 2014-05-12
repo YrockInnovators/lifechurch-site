@@ -28,10 +28,12 @@ $(function() {
 
   // Has Retina
   if (window.devicePixelRatio >= 1.4) {
-    $( "img[data-retina]" ).each(function() {
-      var retina = $(this).attr('data-retina');
-      $(this).attr('src', retina);
-    });
+    if (!$("html").hasClass("lt-ie9")) {
+      $( "img[data-retina]" ).each(function() {
+        var retina = $(this).attr('data-retina');
+        $(this).attr('src', retina);
+      });
+    }
   }
 
   // Add classes on <body> for Series
@@ -64,7 +66,7 @@ $(function() {
 
   // Live color changing
   setInterval(function() {
-    $('#navigation a .live').toggleClass('alt');
+    $('.nav-watch .live').toggleClass('alt');
   }, 1000);
 
   // Video players
