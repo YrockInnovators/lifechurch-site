@@ -84,7 +84,7 @@ $tile-color-alt: $black;
   border-color: $tile-color-alt;
 }
 
-.lt-ie9 .tile-item .tile-two {
+.lt-ie9 .tile-two .tile-item {
   width: 50%;
   margin: 0;
   padding: 0;
@@ -92,7 +92,7 @@ $tile-color-alt: $black;
   float: left;
 }
 
-.lt-ie9 .tile-item .tile-two {
+.lt-ie9 .tile-two .tile-item {
   width: 33%;
   margin: 0;
   padding: 0;

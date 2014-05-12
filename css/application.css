@@ -1447,14 +1447,14 @@ dl {
 .tile-alt .tile-item {
   border-color: #444444; }
 
-.lt-ie9 .tile-item .tile-two {
+.lt-ie9 .tile-two .tile-item {
   width: 50%;
   margin: 0;
   padding: 0;
   border: none;
   float: left; }
 
-.lt-ie9 .tile-item .tile-two {
+.lt-ie9 .tile-two .tile-item {
   width: 33%;
   margin: 0;
   padding: 0;
