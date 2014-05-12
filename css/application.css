@@ -1572,9 +1572,6 @@ figure.hero {
         display: block;
         margin: 0 auto;
         font-size: 1.5em; } }
-.lt-ie9 .hero.top {
-  background-image: none; }
-
 .lt-ie9 figure.hero {
   height: 1px !important;
   min-height: 1px;
@@ -3383,6 +3380,9 @@ figure.hero {
     background-color: #b9252d;
     color: white;
     padding-top: 50px; }
+
+.lt-ie9 .ribbon-wrapper {
+  display: none; }
 
 .messages-with-description {
   *zoom: 1;
