@@ -3,7 +3,6 @@
 // Establish the height of the main section
 // Small
 .section-lifegroups-top {
-
   // Medium sized
   @media only screen and (min-width: 40.063em) {
     height: 680px;
@@ -104,8 +103,7 @@
   }
 
   .lt-ie9 & {
-    background: url("/images/lifegroups/lifegroups-1.jpg");
-    background-position: -320px top;
+    background: url("/images/lifegroups/lifegroups-1.jpg") center top no-repeat;
   }
 }
 
@@ -130,8 +128,7 @@
   }
 
   .lt-ie9 & {
-    background: url("/images/lifegroups/lifegroups-2.jpg");
-    background-position: -320px top;
+    background: url("/images/lifegroups/lifegroups-2.jpg") center top no-repeat;
   }
 }
 
@@ -156,8 +153,7 @@
   }
 
   .lt-ie9 & {
-    background: url("/images/lifegroups/lifegroups-3.jpg");
-    background-position: -320px top;
+    background: url("/images/lifegroups/lifegroups-3.jpg") center top no-repeat;
   }
 }
 
@@ -182,7 +178,6 @@
   }
 
   .lt-ie9 & {
-    background: url("/images/lifegroups/lifegroups-4.jpg");
-    background-position: -320px top;
+    background: url("/images/lifegroups/lifegroups-4.jpg") center top no-repeat;
   }
 }

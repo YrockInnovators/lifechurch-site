@@ -83,3 +83,17 @@ $tile-color-alt: $black;
 .tile-alt .tile-item {
   border-color: $tile-color-alt;
 }
+
+.lt-ie9 .tile-item .tile-two {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.lt-ie9 .tile-item .tile-two {
+  width: 33%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}

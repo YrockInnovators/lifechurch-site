@@ -1447,6 +1447,18 @@ dl {
 .tile-alt .tile-item {
   border-color: #444444; }
 
+.lt-ie9 .tile-item .tile-two {
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  border: none; }
+
+.lt-ie9 .tile-item .tile-two {
+  width: 33%;
+  margin: 0;
+  padding: 0;
+  border: none; }
+
 .involved-list .involved-item {
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
@@ -2447,8 +2459,7 @@ figure.hero {
     .lifegroups-1 .section-lifegroups-top {
       background-position: center top; } }
   .lt-ie9 .lifegroups-1 .section-lifegroups-top {
-    background: url("/images/lifegroups/lifegroups-1.jpg");
-    background-position: -320px top; }
+    background: url("/images/lifegroups/lifegroups-1.jpg") center top no-repeat; }
 
 .lifegroups-2 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2474,8 +2485,7 @@ figure.hero {
     .lifegroups-2 .section-lifegroups-top {
       background-position: center top; } }
   .lt-ie9 .lifegroups-2 .section-lifegroups-top {
-    background: url("/images/lifegroups/lifegroups-2.jpg");
-    background-position: -320px top; }
+    background: url("/images/lifegroups/lifegroups-2.jpg") center top no-repeat; }
 
 .lifegroups-3 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2501,8 +2511,7 @@ figure.hero {
     .lifegroups-3 .section-lifegroups-top {
       background-position: center top; } }
   .lt-ie9 .lifegroups-3 .section-lifegroups-top {
-    background: url("/images/lifegroups/lifegroups-3.jpg");
-    background-position: -320px top; }
+    background: url("/images/lifegroups/lifegroups-3.jpg") center top no-repeat; }
 
 .lifegroups-4 .section-lifegroups-top {
   background-repeat: no-repeat;
@@ -2528,8 +2537,7 @@ figure.hero {
     .lifegroups-4 .section-lifegroups-top {
       background-position: center top; } }
   .lt-ie9 .lifegroups-4 .section-lifegroups-top {
-    background: url("/images/lifegroups/lifegroups-4.jpg");
-    background-position: -320px top; }
+    background: url("/images/lifegroups/lifegroups-4.jpg") center top no-repeat; }
 
 .pin {
   background-repeat: no-repeat;
