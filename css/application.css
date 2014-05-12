@@ -1451,13 +1451,15 @@ dl {
   width: 50%;
   margin: 0;
   padding: 0;
-  border: none; }
+  border: none;
+  float: left; }
 
 .lt-ie9 .tile-item .tile-two {
   width: 33%;
   margin: 0;
   padding: 0;
-  border: none; }
+  border: none;
+  float: left; }
 
 .involved-list .involved-item {
   -webkit-transition: all 0.5s ease-in-out;
