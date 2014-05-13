@@ -381,8 +381,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elisha/600x400.jpg?1396039995
   image_large: http://s3.amazonaws.com/lcapi.production/series/elisha/1200x800.jpg?1396040035
   image_social: http://s3.amazonaws.com/lcapi.production/series/elisha/400x400.jpg?1393350339
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/elisha/1500x340.jpg?1399994393
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/elisha/3000x680.jpg?1399994440
   messages:
   - title: Ridiculous Recovery
     headline: ''
