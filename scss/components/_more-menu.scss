@@ -50,6 +50,7 @@ $more-transition: .25s ease-in-out;
   .more-inner {
     @include outer-container();
     @include transition(all $more-transition);
+    background: white;
     padding: 0 1em;
     
     .js & {

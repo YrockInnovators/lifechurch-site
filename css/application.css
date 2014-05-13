@@ -948,6 +948,7 @@ dl {
     -webkit-transition: all 0.25s ease-in-out;
     -moz-transition: all 0.25s ease-in-out;
     transition: all 0.25s ease-in-out;
+    background: white;
     padding: 0 1em; }
     .more-menu .more-inner:before, .more-menu .more-inner:after {
       content: " ";
