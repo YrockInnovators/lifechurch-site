@@ -718,8 +718,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-end/600x400.jpg?1396034937
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-end/1200x800.jpg?1396034967
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-end/400x400.jpg?1396034904
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-end/1500x340.jpg?1399998622
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-end/3000x680.jpg?1399998602
   messages:
   - title: Snapshots of Revelation
     headline: ''
@@ -772,8 +772,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/strapped/600x400.jpg?1396034612
   image_large: http://s3.amazonaws.com/lcapi.production/series/strapped/1200x800.jpg?1396034664
   image_social: http://s3.amazonaws.com/lcapi.production/series/strapped/400x400.jpg?1396034589
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/strapped/1500x340.jpg?1399998236
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/strapped/3000x680.jpg?1399998211
   messages:
   - title: Q and A
     headline: ''
@@ -1156,8 +1156,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/600x400.jpg?1396022525
   image_large: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1200x800.jpg?1396022575
   image_social: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/400x400.jpg?1396022493
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1500x340.jpg?1399999484
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/3000x680.jpg?1399999455
   messages:
   - title: When We Test God
     headline: ''
@@ -1301,8 +1301,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/600x400.jpg?1396019450
   image_large: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/1200x800.jpg?1396019479
   image_social: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/400x400.jpg?1396019416
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/1500x340.jpg?1399998910
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/3000x680.jpg?1399998860
   messages:
   - title: Getting Past Your Personal Failures
     headline: ''
@@ -1391,8 +1391,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/600x400.jpg?1396015845
   image_large: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/1200x800.jpg?1396015877
   image_social: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/400x400.jpg?1396015809
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/1500x340.jpg?1399999667
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/3000x680.jpg?1399999610
   messages:
   - title: Disciple
     headline: ''
@@ -1424,8 +1424,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/i-quit/600x400.jpg?1396018624
   image_large: http://s3.amazonaws.com/lcapi.production/series/i-quit/1200x800.jpg?1396018673
   image_social: http://s3.amazonaws.com/lcapi.production/series/i-quit/400x400.jpg?1396018600
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/i-quit/1500x340.jpg?1399999235
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-quit/3000x680.jpg?1399999213
   messages:
   - title: I Quit Comparing
     headline: ''
@@ -1724,8 +1724,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/600x400.jpg?1395954906
   image_large: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/1200x800.jpg?1395955104
   image_social: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/400x400.jpg?1395954880
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/1500x340.jpg?1400000761
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/3000x680.jpg?1400000743
   messages:
   - title: Gratitude
     headline: ''
