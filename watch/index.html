@@ -12,6 +12,42 @@ hero: watch-hero
   </div>
 </section>
 
+
+
+<div class="container padded">
+  <!-- Search form -->
+  <form method="get" action="/search" data-search-form>
+    <input type="search" name="q" id="q" placeholder="Search for a series" data-search-input autofocus="autofocus" />
+  </form>
+
+  <!-- Search results placeholder -->
+  <div class="search-description">
+    <p data-search-found class="detail">
+      <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
+    </p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="grid-items grid-three">
+    <div data-search-results></div>
+  </div>
+</div>
+
+<!-- Search result template -->
+<script type="text/x-template" id="search-result">
+  <div class="grid-item watch-item">
+    <a href="##Url##">
+      <div class="panel">
+        <img src="##Image##" />
+        <h6>##Title##</h6>
+      </div>
+    </a>
+  </div>
+</script>
+
+
+
 <div class="group of-grid-items">
   <!-- Archive Grid -->
   <div class="container">

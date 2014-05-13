@@ -1,0 +1,24 @@
+---
+---
+[
+{% for post in site.categories.watch %}
+  {% if post.title != null and post.title != empty and post.search_omit != true %}
+  
+  {% for series in site.data.watch %}
+  {% if series.id == post.series-id %}
+
+    {% if forloop.index > 1 %},{% endif %}{
+      "id": "{{ post.id }}",
+      "title": "{{ post.title }}",
+      "link": "{{ site.url }}{{ post.url }}",
+      "date": "{{ post.date }}",
+      "tags": "{{ post.tags }}",
+      "image": "{{ series.image_medium }}"
+    }
+  
+  {% endif %}
+  {% endfor %}
+
+  {% endif %}
+{% endfor %}
+]
