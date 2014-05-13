@@ -1579,8 +1579,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/planted/600x400.jpg?1395956048
   image_large: http://s3.amazonaws.com/lcapi.production/series/planted/1200x800.jpg?1395956078
   image_social: http://s3.amazonaws.com/lcapi.production/series/planted/400x400.jpg?1395956017
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/planted/1500x340.jpg?1400005324
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/planted/3000x680.jpg?1400005299
   messages:
   - title: Week 2
     headline: ''
@@ -1659,8 +1659,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/toxic/600x400.jpg?1395955585
   image_large: http://s3.amazonaws.com/lcapi.production/series/toxic/1200x800.jpg?1395955605
   image_social: http://s3.amazonaws.com/lcapi.production/series/toxic/400x400.jpg?1395955566
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/toxic/1500x340.jpg?1400005428
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/toxic/3000x680.jpg?1400005402
   messages:
   - title: Toxic Religion
     headline: ''
@@ -2260,8 +2260,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-vow/600x400.jpg?1395951126
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-vow/1200x800.jpg?1395951144
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-vow/400x400.jpg?1395951105
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-vow/1500x340.jpg?1400005786
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-vow/3000x680.jpg?1400005760
   messages:
   - title: The Vow Of Purity
     headline: ''
