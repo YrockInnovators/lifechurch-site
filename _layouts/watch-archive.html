@@ -13,7 +13,11 @@ class: header-red section-watch section-series
   {% for message in series.messages %}
   {% if forloop.first %}
   <a href="javascript:void(0)"  
+     {% if series.image_banner_archive == '' %}
      style="background-image: url('{{ series.image_large }}')"
+     {% else %}
+     style="background-image: url('{{ series.image_banner_archive_2x }}')"
+     {% endif %}
      data-video-player="{{message.video}}"
      class="hero section-light hero-watch-archive"
      onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');">
@@ -31,7 +35,11 @@ class: header-red section-watch section-series
   {% if forloop.first %}
   <a href="javascript:void(0)"
      class="hero section-light hero-watch-archive"
+     {% if series.image_banner_archive == '' %}
      style="background-image: url('{{ series.image_large }}')"
+     {% else %}
+     style="background-image: url('{{ series.image_banner_archive_2x }}')"
+     {% endif %}
      data-video-player="{{message.video}}"
      onclick="ga('send', 'event', 'Giving', 'Click', 'Play Message Hero');"
      >

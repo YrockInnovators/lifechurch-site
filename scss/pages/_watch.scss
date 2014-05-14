@@ -4,11 +4,14 @@
 .page-watch {
 
   .watch-hero {
-    @include retina-image(/images/watch/watch-bg, 1500px 497px, jpg);
+    @include retina-image(/images/watch/watch-bg, cover, jpg);
     background-color: #000;
     background-position: center top;
     background-repeat: no-repeat;
     min-height: 280px;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
 
     @media only screen and (max-width: $medium-screen) {
       @include retina-image(/images/watch/watch-bg-small, cover, jpg);
@@ -237,7 +240,6 @@
 
   @include media($medium-screen) {
     margin: -33px auto;
-    background-size: 100% auto;
   }
 
   &:hover {
