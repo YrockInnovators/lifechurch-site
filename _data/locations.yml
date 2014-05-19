@@ -373,14 +373,6 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring and positive mentoring relationships as well as communicating spiritual
       and moral values.
-  - id: 23
-    title: T.E.E.M (The Education and Employment Ministry)
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.teem.org/
-    description_medium: Provide consistent and compassionate male mentors who establish
-      quality relationships with OKC area adult inmates for the purpose of promoting
-      stability, support, friendship, and ultimately success in the work place and
-      personal life.
   - id: 4
     title: The Mentoring Project
     recipient: edm.serving@lifechurch.tv
@@ -405,6 +397,14 @@
     url: http://www.younglife.org/Pages/default.aspx
     description_medium: Introduce teens to Jesus and help them grow in their faith
       by weekly one-on-one mentoring.
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Provide consistent and compassionate male and female mentors
+      who establish quality relationships with OKC area adult inmates for the purpose
+      of promoting stability, support, friendship, and ultimately success in the work
+      place and personal life.
   - id: 34
     title: The Spero Project
     recipient: edm.serving@lifechurch.tv
