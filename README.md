@@ -2,9 +2,7 @@
 
 ## Requirements
 
-  * Ruby 1.9+
+  * Ruby 2.0
   * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
-  * [foundation](http://foundation.zurb.com): `gem install foundation`
+  * [grunt](http://http://gruntjs.com/.org/): `npm install -g grunt-cli`
   * [jekyll](http://jekyllrb.com): `gem install jekyll`
