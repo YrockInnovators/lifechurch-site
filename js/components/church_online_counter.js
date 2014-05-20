@@ -1,5 +1,11 @@
 jQuery(function() {
 
+  // Live color changing
+  setInterval(function() {
+    $('.nav-watch .live').toggleClass('alt');
+  }, 1000);
+
+  // The rest
   if (!window.console) console = {log: function() {}};
 
   var days, goLive, hours, intervalId, minutes, seconds;
