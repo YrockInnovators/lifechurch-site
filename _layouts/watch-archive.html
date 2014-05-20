@@ -81,8 +81,8 @@ class: header-red section-watch section-series
      <p>{{ series.description_medium | newline_to_br }}</p>
 
      <p class="detail">
-       <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-twitter"></i> Invite on Twitter</a>
-       <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-facebook"></i> Invite on Facebook</a>
+       <a onclick="return popitup('http://twitter.com/home/?status=I’d love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}');ga('send', 'event', 'Watch', 'Click', 'Invite on Twitter')" href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-twitter"></i> Invite on Twitter</a>
+       <a onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}');ga('send', 'event', 'Watch', 'Click', 'Invite on Facebook')" href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action"><i class="icon-social-facebook"></i> Invite on Facebook</a>
        <!--<a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-gplus"></i> Invite on Google+</a>-->
      </p>
   </section>
@@ -98,3 +98,11 @@ class: header-red section-watch section-series
 
 {% endif %}
 {% endfor %}
+
+<script language="javascript" type="text/javascript">
+  function popitup(url) {
+    newwindow=window.open(url,'name','height=100,width=250');
+    if (window.focus) {newwindow.focus()}
+    return false;
+  }
+</script>
