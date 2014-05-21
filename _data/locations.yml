@@ -1496,7 +1496,8 @@
     title: Relations Group Home
     recipient: sto.serving@lifechurch.tv
     url: ''
-    description_medium: Children 8 thru18 receive help and mentorship.
+    description_medium: 'Help students see their value and learn how to better engage
+      their world by mentoring, caring for, and listening to kids in your community. '
   - id: 19
     title: Tulsa Boys Home
     recipient: sto.serving@lifechurch.tv
@@ -1727,12 +1728,6 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-  - id: 46
-    title: No Boundaries International
-    recipient: soc.serving@lifechurch.tv
-    url: http://nbint.org/
-    description_medium: Train and deploy the body of Christ into areas impacted by
-      human trafficking.
   - id: 47
     title: Stand in the Gap Ministries
     recipient: soc.serving@lifechurch.tv
@@ -1746,6 +1741,13 @@
     description_medium: 'City Rescue Mission provides for the needs of the hungry
       and homeless in our community. Their mission is to provide help, hope, and healing
       under the call of Christ. '
+  - id: 46
+    title: No Boundaries International
+    recipient: soc.serving@lifechurch.tv
+    url: http://nbint.org/
+    description_medium: 'Help restore a sense of value and independence to those affected
+      by human trafficking by training and providing realistic solutions to those
+      in need. '
 - id: bnb
   title: Broadway and Britton OK Campus
   email: bnb.serving@lifechurch.tv
