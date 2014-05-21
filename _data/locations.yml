@@ -291,8 +291,8 @@
     title: Altamesa Neighborhood Needs
     recipient: ftw.serving@lifechurch.tv
     url: http://www.altamesa.org/ministries/local/neighborhood-needs/
-    description_medium: Provide food, clothing, technology access and mentorship to
-      those in need.
+    description_medium: Help our neighborhood with what they need most. Provide food,
+      clothing, technology access, and mentorship to those in our community.
 - id: edm
   title: Edmond OK Campus
   email: edm.serving@lifechurch.tv
@@ -389,21 +389,20 @@
     title: SeeWorth Foundation
     recipient: edm.serving@lifechurch.tv
     url: http://www.seeworthfoundation.org/
-    description_medium: Help students see their value and learn how to better engage
-      their world.
+    description_medium: 'Help students see their value and learn how to better engage
+      their world by mentoring, caring for, and listening to kids in your community. '
   - id: 7
     title: Young Life
     recipient: edm.serving@lifechurch.tv
     url: http://www.younglife.org/Pages/default.aspx
-    description_medium: Introduce teens to Jesus and help them grow in their faith
-      by weekly one-on-one mentoring.
+    description_medium: 'Introduce teens to Jesus and help them grow in their faith
+      by building relationships through weekly one-on-one mentoring and activities.  '
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: edm.serving@lifechurch.tv
     url: http://www.teem.org/
-    description_medium: Provide consistent and compassionate male and female mentors
-      who establish quality relationships with OKC area adult inmates for the purpose
-      of promoting stability, support, friendship, and ultimately success in the work
+    description_medium: Provide consistent and compassionate relationships with OKC
+      area adult inmates to promote stability, friendship, and success in the work
       place and personal life.
   - id: 34
     title: The Spero Project
@@ -415,8 +414,15 @@
     title: City Rescue Mission
     recipient: edm.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Help people leave the rescue mission better than when they
-      first came.
+    description_medium: 'City Rescue Mission provides for the needs of the hungry
+      and homeless in our community. Their mission is to provide help, hope, and healing
+      under the call of Christ. '
+  - id: 49
+    title: Lilyfield Christian Adoption and Foster Care
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.lilyfield.org/
+    description_medium: 'Share a meal with local foster care families and provide
+      them with support and encouragement through monthly group gatherings. '
 - id: alb
   title: Albany NY Campus
   email: alb.serving@lifechurch.tv
@@ -486,7 +492,9 @@
     title: City Mission of Schenectady
     recipient: alb.serving@lifechurch.tv
     url: http://citymission.com/
-    description_medium: Help people get out of poverty - and stay out.
+    description_medium: City Missions provides for the needs of the hungry and homeless
+      in our community. Their mission is to help people get out of poverty - and stay
+      out.
   - id: 31
     title: Habitat for Humanity
     recipient: alb.serving@lifechurch.tv
@@ -810,7 +818,8 @@
     recipient: bao.serving@lifechurch.tv
     url: http://111project.org/
     description_medium: The goal of this organization is for every child to have a
-      family and to be loved. 1 Church, 1 Family, 1 Purpose.
+      family and to be loved. You can provide hope and love to children in your community.
+      1 Church, 1 Family, 1 Purpose.
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
@@ -1002,8 +1011,9 @@
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Help people leave the rescue mission better than when they
-      first came.
+    description_medium: 'City Rescue Mission provides for the needs of the hungry
+      and homeless in our community. Their mission is to provide help, hope, and healing
+      under the call of Christ. '
 - id: ows
   title: Owasso OK Campus
   email: ows.serving@lifechurch.tv
@@ -1097,6 +1107,12 @@
     duration: 60
     type: service-time
   missions:
+  - id: 17
+    title: Southwest Foster Care
+    recipient: ows.serving@lifechurch.tv
+    url: https://www.facebook.com/southwestfostercareok
+    description_medium: Help recruit families and provide quality foster care service
+      as well as support foster care families in our community.
   - id: 1
     title: Big Brothers Big Sisters
     recipient: ows.serving@lifechurch.tv
@@ -1104,12 +1120,6 @@
     description_medium: Provide children facing adversity with strong and enduring,
       one-on-one relationships that change their lives for the better - forever. Each
       volunteer will be in a mentor relationship with a child.
-  - id: 17
-    title: Southwest Foster Care
-    recipient: ows.serving@lifechurch.tv
-    url: https://www.facebook.com/southwestfostercareok
-    description_medium: Help recruit families and provide quality foster care service
-      as well as support foster care families in our community.
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@lifechurch.tv
@@ -1176,6 +1186,13 @@
     url: http://www.first-care.org/
     description_medium: Help women make an educated decision about giving birth and
       empower them to carry out their decision without guilt or shame.
+  - id: 42
+    title: 4Kids of South Florida
+    recipient: wel.serving@lifechurch.tv
+    url: https://www.4kidsofsfl.org/
+    description_medium: 'Help care for and mentor kids in our community by providing
+      them with consistent and loving relationships. Kids in crisis can find shelter
+      and safety at SafePlace. '
   - id: 40
     title: Oasis Compassion
     recipient: wel.serving@lifechurch.tv
@@ -1183,11 +1200,6 @@
     description_medium: Restore people that have fallen on hard times by helping them
       build a resume, learn interview skills, acquire housing, and find a job while
       showing them who they are in Christ.
-  - id: 42
-    title: 4Kids of South Florida
-    recipient: wel.serving@lifechurch.tv
-    url: https://www.4kidsofsfl.org/
-    description_medium: Help care for and mentor kids in crisis at SafePlace.
   - id: 45
     title: Urban Youth Impact
     recipient: wel.serving@lifechurch.tv
@@ -1594,18 +1606,19 @@
     description_medium: Help your surrounding community where there are financial
       needs, language barriers, single parent homes, and other life concerns that
       directly affect children's experience in the classroom.
-  - id: 21
-    title: 111 Project
-    recipient: okc.serving@lifechurch.tv
-    url: http://111project.org/
-    description_medium: The goal of this organization is for every child to have a
-      family and to be loved. 1 Church, 1 Family, 1 Purpose.
   - id: 25
     title: LifeTroops
     recipient: okc.serving@lifechurch.tv
     url: http://lifetroops.tv/
     description_medium: Meet the spiritual, emotional, educational, financial, and
       physical needs of military members 24 hours a day, at home and abroad.
+  - id: 21
+    title: 111 Project
+    recipient: okc.serving@lifechurch.tv
+    url: http://111project.org/
+    description_medium: The goal of this organization is for every child to have a
+      family and to be loved. You can provide hope and love to children in your community.
+      1 Church, 1 Family, 1 Purpose.
   - id: 34
     title: The Spero Project
     recipient: okc.serving@lifechurch.tv
@@ -1708,12 +1721,12 @@
     description_medium: Build relationships between at-risk youth and caring role
       models in the OKC area through wrestling. Influence each child's actions by
       teaching positive character traits.
-  - id: 35
-    title: City Rescue Mission
+  - id: 34
+    title: The Spero Project
     recipient: soc.serving@lifechurch.tv
-    url: http://cityrescue.org/
-    description_medium: Help people leave the rescue mission better than when they
-      first came.
+    url: http://www.thesperoproject.com/
+    description_medium: Confront injustice and oppression by mobilizing the Church
+      to fully engage in a biblical response to under-resourced populations.
   - id: 46
     title: No Boundaries International
     recipient: soc.serving@lifechurch.tv
@@ -1726,12 +1739,13 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-  - id: 34
-    title: The Spero Project
+  - id: 35
+    title: City Rescue Mission
     recipient: soc.serving@lifechurch.tv
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
+    url: http://cityrescue.org/
+    description_medium: 'City Rescue Mission provides for the needs of the hungry
+      and homeless in our community. Their mission is to provide help, hope, and healing
+      under the call of Christ. '
 - id: bnb
   title: Broadway and Britton OK Campus
   email: bnb.serving@lifechurch.tv
