@@ -20,3 +20,7 @@ use Rack::TryStatic,
   ]
 
 run Rack::NotFound.new('_site/404.html')
+
+use Rack::Rewrite do
+  r301 %r{^/digerati?$}, '/digital-missions/'
+end
