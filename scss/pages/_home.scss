@@ -107,8 +107,7 @@ span[data-churchonline-counter] {
 }
 
 .next-week {
-  @include retina-image(/images/home/next-week-small, 430px auto, jpg);
-  background-size: 430px auto;
+  @include retina-image(/images/home/next-week-small, 355px auto, jpg);
   background-position: center;
   background-repeat: no-repeat;
   height: 140px;
@@ -119,13 +118,13 @@ span[data-churchonline-counter] {
   border-top: 1px solid #444;
   border-bottom: 1px solid #444;
  
-  @media screen and (min-width: 430px) {
+  @media screen and (min-width: 400px) {
     height: 190px;
-    background-size: 600px;
+    background-size: auto 190px;
   }
 
   @media screen and (min-width: 600px) {
-    @include retina-image(/images/home/next-week, 750px auto, jpg);
+    @include retina-image(/images/home/next-week, 800px auto, jpg);
     height: 160px;
   }
 
