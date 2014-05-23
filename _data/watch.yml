@@ -16,8 +16,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/outlasters/600x400.jpg?1398097230
   image_large: http://s3.amazonaws.com/lcapi.production/series/outlasters/1200x800.jpg?1398097208
   image_social: http://s3.amazonaws.com/lcapi.production/series/outlasters/400x400.jpg?1397678033
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/outlasters/1500x340.jpg?1400871741
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/outlasters/3000x680.jpg?1400871718
   messages:
   - title: Intentional Giving
     headline: ''
@@ -81,8 +81,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/600x400.jpg?1396043573
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/1200x800.jpg?1396043604
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/400x400.jpg?1395087834
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/1500x340.jpg?1400872966
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/3000x680.jpg?1400872948
   messages:
   - title: Part 2
     headline: ''
@@ -107,8 +107,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/being-rich/600x400.jpg?1396042589
   image_large: http://s3.amazonaws.com/lcapi.production/series/being-rich/1200x800.jpg?1396042616
   image_social: http://s3.amazonaws.com/lcapi.production/series/being-rich/400x400.jpg?1393367080
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/being-rich/1500x340.jpg?1400871436
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/being-rich/3000x680.jpg?1400871306
   messages:
   - title: Rich Toward God
     headline: ''
@@ -142,8 +142,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/small-things/600x400.jpg?1396042312
   image_large: http://s3.amazonaws.com/lcapi.production/series/small-things/1200x800.jpg?1396042380
   image_social: http://s3.amazonaws.com/lcapi.production/series/small-things/400x400.jpg?1393365744
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/small-things/1500x340.jpg?1400872813
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/small-things/3000x680.jpg?1400872791
   messages:
   - title: Your Habits
     headline: ''
