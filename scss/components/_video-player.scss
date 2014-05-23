@@ -10,6 +10,11 @@
   background: #000;
   z-index: 12;
 
+  .video-player-inner {
+    width: 100%;
+    height: 100%;
+  }
+
   .wistia-flex-video {
     position: initial;
     width: 100%;
