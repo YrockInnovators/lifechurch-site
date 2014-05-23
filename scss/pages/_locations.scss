@@ -390,7 +390,7 @@ padding-top: 28px;
 
   @media only screen and (max-width: $medium-screen) {
     background-size: 800px auto;
-    background-position: 0 -40px;
+    background-position: 0 -100px;
     margin-bottom: 150px;
   }
 
@@ -399,8 +399,8 @@ padding-top: 28px;
   }
 
   .pin {
-    top: 70px;
-    left: 70px;
+    top: 80px;
+    left: 110px;
     position: absolute;
 
     @include media($medium-screen) {

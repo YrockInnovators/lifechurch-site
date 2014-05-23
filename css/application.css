@@ -2833,14 +2833,14 @@ form .has-error {
   @media only screen and (max-width: 40em) {
     .locations-map {
       background-size: 800px auto;
-      background-position: 0 -40px;
+      background-position: 0 -100px;
       margin-bottom: 150px; } }
   @media screen and (min-width: 40em) {
     .locations-map {
       height: 400px; } }
   .locations-map .pin {
-    top: 70px;
-    left: 70px;
+    top: 80px;
+    left: 110px;
     position: absolute; }
     @media screen and (min-width: 40em) {
       .locations-map .pin {
