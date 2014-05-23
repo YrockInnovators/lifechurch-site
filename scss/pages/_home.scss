@@ -61,6 +61,8 @@ span[data-churchonline-counter] {
   background-color: #000;
   background-position: top center;
   background-repeat: no-repeat;
+  border-bottom: 1px solid #444;
+  min-height: 300px;
   
   @include media($medium-screen) {
     @include retina-image(/images/home/home-bg, 1500px 931px, jpg);
