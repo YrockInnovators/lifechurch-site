@@ -696,8 +696,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/600x400.jpg?1396024750
   image_large: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/1200x800.jpg?1396030792
   image_social: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/400x400.jpg?1396024713
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/1500x340.jpg?1400876731
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/3000x680.jpg?1400876710
   messages:
   - title: Steven Furtick
     headline: ''
@@ -749,8 +749,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/600x400.jpg?1396034761
   image_large: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/1200x800.jpg?1396034791
   image_social: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/400x400.jpg?1396034738
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/1500x340.jpg?1400877311
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/3000x680.jpg?1400877284
   messages:
   - title: Part 2
     headline: ''
@@ -867,8 +867,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/perspective/600x400.jpg?1396033518
   image_large: http://s3.amazonaws.com/lcapi.production/series/perspective/1200x800.jpg?1396033550
   image_social: http://s3.amazonaws.com/lcapi.production/series/perspective/400x400.jpg?1396033442
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/perspective/1500x340.jpg?1400877431
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/perspective/3000x680.jpg?1400877408
   messages:
   - title: 'A Different Perspective On Worry '
     headline: ''
@@ -899,8 +899,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/forget-you/600x400.jpg?1396032423
   image_large: http://s3.amazonaws.com/lcapi.production/series/forget-you/1200x800.jpg?1396032471
   image_social: http://s3.amazonaws.com/lcapi.production/series/forget-you/400x400.jpg?1396032365
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/forget-you/1500x340.jpg?1400876962
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/forget-you/3000x680.jpg?1400876930
   messages:
   - title: I am Less, He is More
     headline: ''
@@ -956,8 +956,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/why-2012/600x400.jpg?1396031942
   image_large: http://s3.amazonaws.com/lcapi.production/series/why-2012/1200x800.jpg?1396031995
   image_social: http://s3.amazonaws.com/lcapi.production/series/why-2012/400x400.jpg?1396031910
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/why-2012/1500x340.jpg?1400877583
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/why-2012/3000x680.jpg?1400877525
   messages:
   - title: Why would God Use Me?
     headline: ''
@@ -988,8 +988,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/found-favor/600x400.jpg?1396031652
   image_large: http://s3.amazonaws.com/lcapi.production/series/found-favor/1200x800.jpg?1396031694
   image_social: http://s3.amazonaws.com/lcapi.production/series/found-favor/400x400.jpg?1396031616
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/found-favor/1500x340.jpg?1400877128
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/found-favor/3000x680.jpg?1400877104
   messages:
   - title: Walking in the Fog
     headline: ''
@@ -1097,8 +1097,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carols/600x400.jpg?1396024923
   image_large: http://s3.amazonaws.com/lcapi.production/series/carols/1200x800.jpg?1396024948
   image_social: http://s3.amazonaws.com/lcapi.production/series/carols/400x400.jpg?1396024906
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/carols/1500x340.jpg?1400878193
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/carols/3000x680.jpg?1400878171
   messages:
   - title: Emmanuel
     headline: ''
@@ -1128,8 +1128,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/those-people/600x400.jpg?1396022900
   image_large: http://s3.amazonaws.com/lcapi.production/series/those-people/1200x800.jpg?1396022945
   image_social: http://s3.amazonaws.com/lcapi.production/series/those-people/400x400.jpg?1396022860
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/those-people/1500x340.jpg?1400879515
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/those-people/3000x680.jpg?1400879500
   messages:
   - title: Those Critical People
     headline: ''
@@ -1184,8 +1184,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/change-your-world/600x400.jpg?1396021262
   image_large: http://s3.amazonaws.com/lcapi.production/series/change-your-world/1200x800.jpg?1396021294
   image_social: http://s3.amazonaws.com/lcapi.production/series/change-your-world/400x400.jpg?1396021232
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/change-your-world/1500x340.jpg?1400878381
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/change-your-world/3000x680.jpg?1400878337
   messages:
   - title: Finishing Strong
     headline: ''
@@ -1215,8 +1215,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/twogather/600x400.jpg?1396021101
   image_large: http://s3.amazonaws.com/lcapi.production/series/twogather/1200x800.jpg?1396021134
   image_social: http://s3.amazonaws.com/lcapi.production/series/twogather/400x400.jpg?1396021065
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/twogather/1500x340.jpg?1400879622
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/twogather/3000x680.jpg?1400879595
   messages:
   - title: Where Everybody Knows Your Name
     headline: ''
@@ -1240,8 +1240,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bold/600x400.jpg?1396020833
   image_large: http://s3.amazonaws.com/lcapi.production/series/bold/1200x800.jpg?1396020862
   image_social: http://s3.amazonaws.com/lcapi.production/series/bold/400x400.jpg?1396020801
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/bold/1500x340.jpg?1400878086
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/bold/3000x680.jpg?1400878006
   messages:
   - title: Bold Obedience
     headline: ''
@@ -1272,8 +1272,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/re/600x400.jpg?1396020704
   image_large: http://s3.amazonaws.com/lcapi.production/series/re/1200x800.jpg?1396020726
   image_social: http://s3.amazonaws.com/lcapi.production/series/re/400x400.jpg?1396020661
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/re/1500x340.jpg?1400878801
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/re/3000x680.jpg?1400878755
   messages:
   - title: Remain
     headline: ''
@@ -1335,8 +1335,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/weird/600x400.jpg?1396018846
   image_large: http://s3.amazonaws.com/lcapi.production/series/weird/1200x800.jpg?1396018886
   image_social: http://s3.amazonaws.com/lcapi.production/series/weird/400x400.jpg?1396018821
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/weird/1500x340.jpg?1400879738
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/weird/3000x680.jpg?1400879703
   messages:
   - title: A Weird View of Money
     headline: ''
@@ -1369,8 +1369,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/600x400.jpg?1396016463
   image_large: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/1200x800.jpg?1396016485
   image_social: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/400x400.jpg?1396016434
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/1500x340.jpg?1400879398
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/3000x680.jpg?1400879345
   messages:
   - title: Sun Stand Still
     headline: ''
@@ -1483,8 +1483,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/first/600x400.jpg?1396014102
   image_large: http://s3.amazonaws.com/lcapi.production/series/first/1200x800.jpg?1396014131
   image_social: http://s3.amazonaws.com/lcapi.production/series/first/400x400.jpg?1396014074
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first/1500x340.jpg?1400878519
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first/3000x680.jpg?1400878499
   messages:
   - title: Firsts
     headline: ''
