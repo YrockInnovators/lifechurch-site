@@ -1,4 +1,27 @@
 ---
+- id: in-the-fire
+  title: In the Fire
+  headline: Feeling in over your head? Today, choose to fight.
+  description_small: We were created to fight and equipped to win. Learn what can
+    happen In the Fire.
+  description_medium: In over your head and out on your own? Take heart. You were
+    born to fight the very battles you face today. Let's learn what can happen when
+    we're In the Fire.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1892-in-the-fire
+  promo: ''
+  resources_url: http://resources.lifechurch.tv/products/in-the-fire/
+  image_small: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/300x200.jpg?1400172764
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/600x400.jpg?1400172786
+  image_large: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/1200x800.jpg?1400172809
+  image_social: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/400x400.jpg?1399406210
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/1500x340.jpg?1400864023
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/3000x680.jpg?1400863818
+  messages:
+  - title: I Was Born For This
+    headline: ''
+    video: 6ijptdhyzv
 - id: outlasters
   title: Outlasters
   headline: 'What are you doing today that will endure the test of time? '
