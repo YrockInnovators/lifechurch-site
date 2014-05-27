@@ -1719,8 +1719,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/600x400.jpg?1395955247
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/1200x800.jpg?1395955275
   image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/400x400.jpg?1395955226
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/1500x340.jpg?1401215270
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/3000x680.jpg?1401215245
   messages:
   - title: Unstoppable Power
     headline: ''
@@ -1813,8 +1813,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/600x400.jpg?1395954722
   image_large: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/1200x800.jpg?1395954745
   image_social: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/400x400.jpg?1395954695
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/1500x340.jpg?1401215503
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/3000x680.jpg?1401215484
   messages:
   - title: Week 5
     headline: ''
@@ -1933,8 +1933,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/this-christmas/600x400.jpg?1395945103
   image_large: http://s3.amazonaws.com/lcapi.production/series/this-christmas/1200x800.jpg?1395945170
   image_social: http://s3.amazonaws.com/lcapi.production/series/this-christmas/400x400.jpg?1395945065
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/this-christmas/1500x340.jpg?1401217777
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/this-christmas/3000x680.jpg?1401217712
   messages:
   - title: This Christmas
     headline: ''
@@ -1988,8 +1988,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/600x400.jpg?1395946485
   image_large: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/1200x800.jpg?1395946538
   image_social: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/400x400.jpg?1395946454
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/1500x340.jpg?1401217366
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/3000x680.jpg?1401217315
   messages:
   - title: The Life Of Jesus
     headline: ''
@@ -2014,8 +2014,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/ghost/600x400.jpg?1395946673
   image_large: http://s3.amazonaws.com/lcapi.production/series/ghost/1200x800.jpg?1395946702
   image_social: http://s3.amazonaws.com/lcapi.production/series/ghost/400x400.jpg?1395946651
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/ghost/1500x340.jpg?1401218699
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/ghost/3000x680.jpg?1401218390
   messages:
   - title: Filled With The Spirit
     headline: ''
@@ -2046,8 +2046,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/600x400.jpg?1395946866
   image_large: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/1200x800.jpg?1395946917
   image_social: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/400x400.jpg?1395946895
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/1500x340.jpg?1401216847
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/3000x680.jpg?1401216819
   messages:
   - title: Week 2
     headline: ''
@@ -2073,8 +2073,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/600x400.jpg?1395949158
   image_large: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/1200x800.jpg?1395949182
   image_social: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/400x400.jpg?1395949140
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/1500x340.jpg?1401216566
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/3000x680.jpg?1401215994
   messages:
   - title: How to Become Dissatisfied
     headline: ''
@@ -2132,8 +2132,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/600x400.jpg?1395949509
   image_large: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/1200x800.jpg?1395949530
   image_social: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/400x400.jpg?1395949488
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/1500x340.jpg?1401216980
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/3000x680.jpg?1401216946
   messages:
   - title: Week 3
     headline: ''
@@ -2192,8 +2192,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elijah/600x400.jpg?1395950122
   image_large: http://s3.amazonaws.com/lcapi.production/series/elijah/1200x800.jpg?1395950151
   image_social: http://s3.amazonaws.com/lcapi.production/series/elijah/400x400.jpg?1395950103
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/elijah/1500x340.jpg?1401218125
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/elijah/3000x680.jpg?1401217923
   messages:
   - title: Depression
     headline: ''
@@ -2225,8 +2225,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/600x400.jpg?1395950764
   image_large: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/1200x800.jpg?1395950790
   image_social: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/400x400.jpg?1395950743
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/1500x340.jpg?1401217125
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/3000x680.jpg?1401217109
   messages:
   - title: In Your Struggles
     headline: ''
