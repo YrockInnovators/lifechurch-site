@@ -2106,8 +2106,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/600x400.jpg?1395949351
   image_large: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/1200x800.jpg?1395949381
   image_social: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/400x400.jpg?1395949305
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/1500x340.jpg?1401220220
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/3000x680.jpg?1401220192
   messages:
   - title: Week 2
     headline: ''
@@ -2161,8 +2161,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/600x400.jpg?1395949977
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/1200x800.jpg?1395949997
   image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/400x400.jpg?1395949948
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/1500x340.jpg?1401220026
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/3000x680.jpg?1401220003
   messages:
   - title: God Is...
     headline: ''
@@ -2256,8 +2256,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/600x400.jpg?1395950919
   image_large: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/1200x800.jpg?1395950946
   image_social: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/400x400.jpg?1395950887
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/1500x340.jpg?1401219889
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/3000x680.jpg?1401219843
   messages:
   - title: '#1 Myth about Money'
     headline: ''
@@ -2317,8 +2317,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/trueish/600x400.jpg?1395951254
   image_large: http://s3.amazonaws.com/lcapi.production/series/trueish/1200x800.jpg?1395951275
   image_social: http://s3.amazonaws.com/lcapi.production/series/trueish/400x400.jpg?1395951235
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/trueish/1500x340.jpg?1401220378
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/trueish/3000x680.jpg?1401220356
   messages:
   - title: As Long As Nobody Gets Hurt
     headline: ''
