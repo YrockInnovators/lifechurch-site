@@ -245,6 +245,16 @@
     }
   }
 
+  .hero-lifemissions-3 {
+    @include retina-image(/images/lifemissions/lm-bg-3, auto 100%, jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    @include media($medium-screen) {
+      background-size: 1500px 550px;
+    }
+  }
+
 
 // Stat counter
 
