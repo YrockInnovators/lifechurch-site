@@ -242,6 +242,13 @@
     padding-top: 1em;
   }
 
+  .lifemissions {
+    .tile-restore {
+      @include retina-image(/images/giving/restore-bg-2, 100% auto, jpg);
+    }
+  }
+
+
   .hero-lifemissions-2 {
     @include retina-image(/images/lifemissions/lm-bg-2, auto 100%, jpg);
     background-repeat: no-repeat;
