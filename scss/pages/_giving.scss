@@ -244,7 +244,13 @@
 
   .lifemissions {
     .tile-restore {
-      @include retina-image(/images/giving/restore-bg-2, 100% auto, jpg);
+      @include retina-image(/images/lifemissions/lm-tile-restore, cover, jpg);
+      background-position: center;
+    }
+    
+    .tile-principles {
+      @include retina-image(/images/lifemissions/lm-tile-principles, cover, jpg);
+      background-position: center;
     }
   }
 
