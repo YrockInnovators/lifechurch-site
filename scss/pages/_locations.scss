@@ -338,6 +338,18 @@ padding-top: 28px;
   }
 }
 
+.section-locations {
+  .tile-lifegroups {
+    @include retina-image(/locations/assets/campus-tile-lifegroups, cover, jpg);
+    background-position: center;
+  }
+
+  .tile-what-to-expect {
+    @include retina-image(/locations/assets/campus-tile-what-to-expect, cover, jpg);
+    background-position: center;
+  }
+}
+
 // Hide Local Partner images
 #localpartners img {
   display: none;
