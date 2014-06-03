@@ -6,37 +6,32 @@ class: lifemissions header-red
 hero: hero-lifemissions empty
 ---
 
+  <div class="hero-inner">
+    <div class="hero-copy">
+      <h1 class="text-center">Every person on this earth matters to God.</h1>
+
+      <p>Our relief and restoration efforts share the love of Christ with people in our local and global communities. Communities aren't changed by programs but by relationships developed among the people in that community. In our missions work, we build and support relationships that inspire change.</p>
+      <p>
+        <a href="/locations/"
+           class="action"
+           onclick="ga('send', 'event', 'Missions', 'Click', 'Page Local Missions');"
+           data-my-campus="#localpartners">
+           Connect with a local partner <i class="icon icon-arrow"></i>
+        </a>
+        <a href="/giving/#relief-restoration"
+           class="action"
+           onclick="ga('send', 'event', 'Missions', 'Click', 'Page Global Missions');">
+           Give to global partners <i class="icon icon-arrow"></i>
+        </a>
+        </p>
+    </div>
+  </div>
 </section>
 
-<section class="group single">
-  <header>
-    <h1 class="text-center">Every person on this earth matters to God.</h1>
-  </header>
-
-  <article>
-    <p class="lead">Our relief and restoration efforts share the love of Christ with people in our local and global communities.</p>
-    <p>Communities aren't changed by programs but by relationships developed among the people in that community. In our missions work, we build and support relationships that inspire change.</p>
-    <p>To get involved, you can build relationships by volunteering with our local mission partners. You can also support relationships worldwide by giving to our <a href="#convoy">global partners</a>. When you give beyond your tithe to <a href="https://giving.lifechurch.tv/portal/give?fund=Relief+%26+Restoration">Relief and Restoration</a> at LifeChurch.tv, you provide disaster relief and support restorative relationships throughout the world.</p>
-    <p>
-      <a href="/locations/"
-         class="action"
-         onclick="ga('send', 'event', 'Missions', 'Click', 'Page Local Missions');"
-         data-my-campus="#localpartners">
-         Connect with our local mission partners <i class="icon icon-arrow"></i>
-      </a><br class="large-element" />
-      <a href="/lifemissions/principles/"
-         class="action"
-         onclick="ga('send', 'event', 'Missions', 'Click', 'Page Missions Principles');">
-         Learn more about our missions principles <i class="icon icon-arrow"></i>
-      </a><br class="large-element" />
-      <a href="/lifemissions/restore/"
-         class="action"
-         onclick="ga('send', 'event', 'Missions', 'Click', 'Page Restore');">
-         Discover how you can impact the community through Restore <i class="icon icon-arrow"></i>
-      </a>
-    </p>
-  </article>
-</section>
+<div class="tile-items tile-two">
+  <a class="tile-item tile-restore" href="/lifemissions/restore/" onclick="ga('send', 'event', 'Missions', 'Click', 'Info Restore');"><span>Discover how you can impact your<br /> community through Restore</span></a>
+  <a class="tile-item tile-principles" href="/lifemissions/principles/" onclick="ga('send', 'event', 'Missions', 'Click', 'Info Principles');"><span>Learn about our missions principles</span></a>
+</div>
 
 <div class="group alt">
   <div class="container">
@@ -205,12 +200,11 @@ hero: hero-lifemissions empty
      class="action text-black large"
      onclick="ga('send', 'event', 'Missions', 'Click', 'Page Local Missions');"
      data-my-campus="#localpartners">
-     View local opportunities <i class="icon icon-arrow"></i>
+     Connect with a Local Partner <i class="icon icon-arrow"></i>
   </a>
-  <br class="large-element" />
-  <a href="/lifemissions/restore/"
+  <a href="/giving/#relief-restoration"
      class="action text-black large"
-     onclick="ga('send', 'event', 'Missions', 'Click', 'Info Restore');">
-     See our missions philosophy through Restore <i class="icon icon-arrow"></i>
+     onclick="ga('send', 'event', 'Missions', 'Click', 'Page Global Missions');">
+     Give to Global Partners <i class="icon icon-arrow"></i>
   </a>
 </p>
