@@ -16,7 +16,10 @@ class: header-red section-watch section-series
      {% if series.image_banner_archive == '' %}
      style="background-image: url('{{ series.image_large }}')"
      {% else %}
-     style="background-image: url('{{ series.image_banner_archive_2x }}')"
+     style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+     data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+     data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+     data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
      {% endif %}
      data-video-player="{{message.video}}"
      class="hero section-light hero-watch-archive"
@@ -38,7 +41,10 @@ class: header-red section-watch section-series
      {% if series.image_banner_archive == '' %}
      style="background-image: url('{{ series.image_large }}')"
      {% else %}
-     style="background-image: url('{{ series.image_banner_archive_2x }}')"
+     style="background-image: url('{{ series.image_banner_archive_small }}')"
+     data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+     data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+     data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
      {% endif %}
      data-video-player="{{message.video}}"
      onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');"
