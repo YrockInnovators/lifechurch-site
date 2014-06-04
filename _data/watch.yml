@@ -18,6 +18,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/400x400.jpg?1399406210
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/1500x340.jpg?1401719755
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/3000x680.jpg?1401719809
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/480x340.jpg?1400864055
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/960x680.jpg?1400864098
   messages:
   - title: A Problem Called Praise
     headline: ''
@@ -44,6 +46,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/outlasters/400x400.jpg?1397678033
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/outlasters/1500x340.jpg?1400871741
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/outlasters/3000x680.jpg?1400871718
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/outlasters/480x340.jpg?1400871764
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/outlasters/960x680.jpg?1400871800
   messages:
   - title: Intentional Giving
     headline: ''
@@ -77,6 +81,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-counselor/400x400.jpg?1396290604
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-counselor/1500x340.jpg?1400873092
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-counselor/3000x680.jpg?1400873070
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-counselor/480x340.jpg?1400873118
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-counselor/960x680.jpg?1400873134
   messages:
   - title: Why Do You Doubt?
     headline: ''
@@ -109,6 +115,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/400x400.jpg?1395087834
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/1500x340.jpg?1400872966
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/3000x680.jpg?1400872948
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/480x340.jpg?1400872984
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/960x680.jpg?1400873009
   messages:
   - title: Part 2
     headline: ''
@@ -135,6 +143,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/being-rich/400x400.jpg?1393367080
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/being-rich/1500x340.jpg?1400871436
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/being-rich/3000x680.jpg?1400871306
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/being-rich/480x340.jpg?1400871473
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/being-rich/960x680.jpg?1400871506
   messages:
   - title: Rich Toward God
     headline: ''
@@ -170,6 +180,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/small-things/400x400.jpg?1393365744
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/small-things/1500x340.jpg?1400872813
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/small-things/3000x680.jpg?1400872791
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/small-things/480x340.jpg?1400872847
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/small-things/960x680.jpg?1400872868
   messages:
   - title: Your Habits
     headline: ''
@@ -202,6 +214,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/400x400.jpg?1393366808
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Christine Caine - Maker of Miracles
     headline: ''
@@ -224,6 +238,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/fear-not/400x400.jpg?1393349804
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/fear-not/1500x340.jpg?1400874181
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/fear-not/3000x680.jpg?1400874163
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/fear-not/480x340.jpg?1400874286
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/fear-not/960x680.jpg?1400874307
   messages:
   - title: Fear of Where You Stand with God
     headline: ''
@@ -253,6 +269,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/400x400.jpg?1393366868
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Growing Spiritually
     headline: ''
@@ -276,6 +294,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/400x400.jpg?1393350234
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/1500x340.jpg?1400875321
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/3000x680.jpg?1400875292
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/480x340.jpg?1400875359
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/960x680.jpg?1400875411
   messages:
   - title: Anger
     headline: ''
@@ -307,6 +327,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/fight/400x400.jpg?1393365772
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/fight/1500x340.jpg?1400874421
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/fight/3000x680.jpg?1400874444
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/fight/480x340.jpg?1400874483
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/fight/960x680.jpg?1400874509
   messages:
   - title: Fight
     headline: ''
@@ -329,6 +351,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/400x400.jpg?1393365695
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/1500x340.jpg?1400875155
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/3000x680.jpg?1400875094
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/480x340.jpg?1400875182
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/960x680.jpg?1400875205
   messages:
   - title: Sowing and Reaping
     headline: ''
@@ -358,6 +382,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/friending/400x400.jpg?1393350403
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/friending/1500x340.jpg?1400874609
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/friending/3000x680.jpg?1400874569
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/friending/480x340.jpg?1400874638
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/friending/960x680.jpg?1400874663
   messages:
   - title: Unfriending
     headline: ''
@@ -390,6 +416,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1393366956
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Rescue
     headline: ''
@@ -412,6 +440,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/elisha/400x400.jpg?1393350339
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/elisha/1500x340.jpg?1399994393
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/elisha/3000x680.jpg?1399994440
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/elisha/480x340.jpg?1399994498
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/elisha/960x680.jpg?1399994520
   messages:
   - title: Ridiculous Recovery
     headline: ''
@@ -444,6 +474,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/on-the-road/400x400.jpg?1396039506
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/on-the-road/1500x340.jpg?1400875620
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/on-the-road/3000x680.jpg?1400875593
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/on-the-road/480x340.jpg?1400875663
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/on-the-road/960x680.jpg?1400875692
   messages:
   - title: On the Road Part 4
     headline: ''
@@ -472,6 +504,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/400x400.jpg?1396038984
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/1500x340.jpg?1400874929
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/3000x680.jpg?1400874893
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/480x340.jpg?1400874987
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/just-getting-started/960x680.jpg?1400875028
   messages:
   - title: Just Getting Started
     headline: ''
@@ -494,6 +528,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1396039162
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Helping the Hurting
     headline: ''
@@ -516,6 +552,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/400x400.jpg?1396038323
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/1500x340.jpg?1400874039
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/3000x680.jpg?1400873999
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/480x340.jpg?1400874060
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/bless-this-home/960x680.jpg?1400874078
   messages:
   - title: Persecuted
     headline: ''
@@ -547,6 +585,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/400x400.jpg?1396037447
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/1500x340.jpg?1400874760
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/3000x680.jpg?1400874718
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/480x340.jpg?1400874797
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-am-jesus/960x680.jpg?1400874849
   messages:
   - title: I Am the Vine
     headline: ''
@@ -578,6 +618,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/new/400x400.jpg?1396037299
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/new/1500x340.jpg?1400875492
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/new/3000x680.jpg?1400875470
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/new/480x340.jpg?1400875512
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/new/960x680.jpg?1400875535
   messages:
   - title: New From Old - Week 3
     headline: ''
@@ -607,6 +649,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/altar-ego/400x400.jpg?1396036259
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/altar-ego/1500x340.jpg?1398870819
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/altar-ego/3000x680.jpg?1398870801
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/altar-ego/480x340.jpg?1398890218
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/altar-ego/960x680.jpg?1398890255
   messages:
   - title: My Longing For Approval
     headline: ''
@@ -638,6 +682,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/my-story/400x400.jpg?1396036128
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/my-story/1500x340.jpg?1399995955
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/my-story/3000x680.jpg?1399995934
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/my-story/480x340.jpg?1399996005
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/my-story/960x680.jpg?1399995978
   messages:
   - title: I Decided to Go
     headline: ''
@@ -669,6 +715,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/400x400.jpg?1396035463
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Lead Like Jesus
     headline: ''
@@ -692,6 +740,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/like-a-child/400x400.jpg?1396035290
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/like-a-child/1500x340.jpg?1399995768
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/like-a-child/3000x680.jpg?1399995744
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/like-a-child/480x340.jpg?1399995834
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/like-a-child/960x680.jpg?1399995793
   messages:
   - title: My God Can Do Anything
     headline: ''
@@ -724,6 +774,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/400x400.jpg?1396024713
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/1500x340.jpg?1400876731
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/3000x680.jpg?1400876710
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/480x340.jpg?1400876865
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/because-of-you-2012/960x680.jpg?1400876780
   messages:
   - title: Steven Furtick
     headline: ''
@@ -749,6 +801,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-end/400x400.jpg?1396034904
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-end/1500x340.jpg?1399998622
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-end/3000x680.jpg?1399998602
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-end/480x340.jpg?1399998669
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-end/960x680.jpg?1399998647
   messages:
   - title: Snapshots of Revelation
     headline: ''
@@ -777,6 +831,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/400x400.jpg?1396034738
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/1500x340.jpg?1400877311
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/3000x680.jpg?1400877284
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/480x340.jpg?1400877333
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/love-and-hate/960x680.jpg?1400877358
   messages:
   - title: Part 2
     headline: ''
@@ -803,6 +859,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/strapped/400x400.jpg?1396034589
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/strapped/1500x340.jpg?1399998236
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/strapped/3000x680.jpg?1399998211
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/strapped/480x340.jpg?1399998285
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/strapped/960x680.jpg?1399998263
   messages:
   - title: Q and A
     headline: ''
@@ -838,6 +896,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/400x400.jpg?1396034447
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/1500x340.jpg?1399997481
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/3000x680.jpg?1399997366
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/480x340.jpg?1399997608
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/from-this-day-forward/960x680.jpg?1399997538
   messages:
   - title: Never Give Up
     headline: ''
@@ -873,6 +933,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/400x400.jpg?1396033996
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: More Than Dust
     headline: ''
@@ -895,6 +957,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/perspective/400x400.jpg?1396033442
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/perspective/1500x340.jpg?1400877431
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/perspective/3000x680.jpg?1400877408
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/perspective/480x340.jpg?1400877448
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/perspective/960x680.jpg?1400877471
   messages:
   - title: 'A Different Perspective On Worry '
     headline: ''
@@ -927,6 +991,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/forget-you/400x400.jpg?1396032365
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/forget-you/1500x340.jpg?1400876962
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/forget-you/3000x680.jpg?1400876930
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/forget-you/480x340.jpg?1400876982
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/forget-you/960x680.jpg?1400877006
   messages:
   - title: I am Less, He is More
     headline: ''
@@ -952,6 +1018,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/soul-detox/400x400.jpg?1396032196
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/soul-detox/1500x340.jpg?1399998050
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/soul-detox/3000x680.jpg?1399998026
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/soul-detox/480x340.jpg?1399998111
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/soul-detox/960x680.jpg?1399998088
   messages:
   - title: The Seduced Soul
     headline: ''
@@ -984,6 +1052,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/why-2012/400x400.jpg?1396031910
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/why-2012/1500x340.jpg?1400877583
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/why-2012/3000x680.jpg?1400877525
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/why-2012/480x340.jpg?1400877626
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/why-2012/960x680.jpg?1400877658
   messages:
   - title: Why would God Use Me?
     headline: ''
@@ -1016,6 +1086,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/found-favor/400x400.jpg?1396031616
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/found-favor/1500x340.jpg?1400877128
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/found-favor/3000x680.jpg?1400877104
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/found-favor/480x340.jpg?1400877152
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/found-favor/960x680.jpg?1400877225
   messages:
   - title: Walking in the Fog
     headline: ''
@@ -1041,6 +1113,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/samson-2012/400x400.jpg?1396031106
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/samson-2012/1500x340.jpg?1399997694
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/samson-2012/3000x680.jpg?1399997659
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/samson-2012/480x340.jpg?1399997748
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/samson-2012/960x680.jpg?1399997725
   messages:
   - title: Failing Forward
     headline: ''
@@ -1072,6 +1146,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/better/400x400.jpg?1396025709
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/better/1500x340.jpg?1399997228
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/better/3000x680.jpg?1399997204
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/better/480x340.jpg?1399997305
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/better/960x680.jpg?1399997249
   messages:
   - title: Better is a Good Name
     headline: ''
@@ -1103,6 +1179,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1396025924
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Problem or a Miracle
     headline: ''
@@ -1125,6 +1203,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/carols/400x400.jpg?1396024906
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/carols/1500x340.jpg?1400878193
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/carols/3000x680.jpg?1400878171
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/carols/480x340.jpg?1400878212
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/carols/960x680.jpg?1400878244
   messages:
   - title: Emmanuel
     headline: ''
@@ -1156,6 +1236,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/those-people/400x400.jpg?1396022860
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/those-people/1500x340.jpg?1400879515
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/those-people/3000x680.jpg?1400879500
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/those-people/480x340.jpg?1400879532
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/those-people/960x680.jpg?1400879551
   messages:
   - title: Those Critical People
     headline: ''
@@ -1187,6 +1269,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/400x400.jpg?1396022493
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1500x340.jpg?1401375523
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/3000x680.jpg?1401375473
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/480x340.jpg?1401375561
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/960x680.jpg?1401375541
   messages:
   - title: When We Test God
     headline: ''
@@ -1212,6 +1296,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/change-your-world/400x400.jpg?1396021232
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/change-your-world/1500x340.jpg?1400878381
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/change-your-world/3000x680.jpg?1400878337
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/change-your-world/480x340.jpg?1400878406
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/change-your-world/960x680.jpg?1400878445
   messages:
   - title: Finishing Strong
     headline: ''
@@ -1243,6 +1329,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/twogather/400x400.jpg?1396021065
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/twogather/1500x340.jpg?1400879622
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/twogather/3000x680.jpg?1400879595
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/twogather/480x340.jpg?1400879640
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/twogather/960x680.jpg?1400879656
   messages:
   - title: Where Everybody Knows Your Name
     headline: ''
@@ -1268,6 +1356,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/bold/400x400.jpg?1396020801
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/bold/1500x340.jpg?1400878086
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/bold/3000x680.jpg?1400878006
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/bold/480x340.jpg?1400878104
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/bold/960x680.jpg?1400878122
   messages:
   - title: Bold Obedience
     headline: ''
@@ -1300,6 +1390,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/re/400x400.jpg?1396020661
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/re/1500x340.jpg?1400878801
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/re/3000x680.jpg?1400878755
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/re/480x340.jpg?1400878819
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/re/960x680.jpg?1400878845
   messages:
   - title: Remain
     headline: ''
@@ -1332,6 +1424,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/400x400.jpg?1396019416
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/1500x340.jpg?1399998910
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/3000x680.jpg?1399998860
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/480x340.jpg?1399999149
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/960x680.jpg?1399998955
   messages:
   - title: Getting Past Your Personal Failures
     headline: ''
@@ -1363,6 +1457,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/weird/400x400.jpg?1396018821
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/weird/1500x340.jpg?1400879738
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/weird/3000x680.jpg?1400879703
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/weird/480x340.jpg?1400879757
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/weird/960x680.jpg?1400879775
   messages:
   - title: A Weird View of Money
     headline: ''
@@ -1397,6 +1493,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/400x400.jpg?1396016434
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/1500x340.jpg?1400879398
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/3000x680.jpg?1400879345
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/480x340.jpg?1400879419
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/sun-stand-still/960x680.jpg?1400879442
   messages:
   - title: Sun Stand Still
     headline: ''
@@ -1422,6 +1520,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/400x400.jpg?1396015809
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/1500x340.jpg?1399999667
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/3000x680.jpg?1399999610
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/480x340.jpg?1399999768
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/who-do-you-think-you-are/960x680.jpg?1399999704
   messages:
   - title: Disciple
     headline: ''
@@ -1455,6 +1555,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/i-quit/400x400.jpg?1396018600
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/i-quit/1500x340.jpg?1399999235
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-quit/3000x680.jpg?1399999213
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-quit/480x340.jpg?1399999297
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-quit/960x680.jpg?1399999263
   messages:
   - title: I Quit Comparing
     headline: ''
@@ -1488,6 +1590,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1396017729
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: 15-Year Anniversary
     headline: ''
@@ -1511,6 +1615,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/first/400x400.jpg?1396014074
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first/1500x340.jpg?1400878519
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first/3000x680.jpg?1400878499
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first/480x340.jpg?1400878600
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first/960x680.jpg?1400878638
   messages:
   - title: Firsts
     headline: ''
@@ -1533,6 +1639,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/400x400.jpg?1395957517
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Never Lose Heart
     headline: ''
@@ -1555,6 +1663,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/christmas10/400x400.jpg?1395958120
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/christmas10/1500x340.jpg?1401210083
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/christmas10/3000x680.jpg?1401210056
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/christmas10/480x340.jpg?1401210131
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/christmas10/960x680.jpg?1401210199
   messages:
   - title: Hope Shines Through
     headline: ''
@@ -1576,6 +1686,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/masquerade/400x400.jpg?1395956160
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/masquerade/1500x340.jpg?1400003126
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/masquerade/3000x680.jpg?1400003100
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/masquerade/480x340.jpg?1400003175
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/masquerade/960x680.jpg?1400003152
   messages:
   - title: Hiding Your Hurt
     headline: ''
@@ -1610,6 +1722,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/planted/400x400.jpg?1395956017
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/planted/1500x340.jpg?1400005324
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/planted/3000x680.jpg?1400005299
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/planted/480x340.jpg?1400005367
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/planted/960x680.jpg?1400005342
   messages:
   - title: Week 2
     headline: ''
@@ -1636,6 +1750,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/chazown/400x400.jpg?1395955870
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/chazown/1500x340.jpg?1401209047
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/chazown/3000x680.jpg?1401209020
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/chazown/480x340.jpg?1401209068
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/chazown/960x680.jpg?1401209088
   messages:
   - title: Chazown
     headline: ''
@@ -1659,6 +1775,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/400x400.jpg?1395955731
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/1500x340.jpg?1401214741
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/3000x680.jpg?1401214712
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/480x340.jpg?1401214771
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-believe-in-you/960x680.jpg?1401214806
   messages:
   - title: Week 4
     headline: ''
@@ -1690,6 +1808,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/toxic/400x400.jpg?1395955566
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/toxic/1500x340.jpg?1400005428
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/toxic/3000x680.jpg?1400005402
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/toxic/480x340.jpg?1400005486
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/toxic/960x680.jpg?1400005455
   messages:
   - title: Toxic Religion
     headline: ''
@@ -1724,6 +1844,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/400x400.jpg?1395955226
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/1500x340.jpg?1401215270
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/3000x680.jpg?1401215245
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/480x340.jpg?1401215328
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-10/960x680.jpg?1401215358
   messages:
   - title: Unstoppable Power
     headline: ''
@@ -1755,6 +1877,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/400x400.jpg?1395954880
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/1500x340.jpg?1401214610
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/3000x680.jpg?1401214590
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/480x340.jpg?1401214633
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/forgotten-virtues/960x680.jpg?1401214662
   messages:
   - title: Gratitude
     headline: ''
@@ -1789,6 +1913,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/faq/400x400.jpg?1395955395
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/faq/1500x340.jpg?1401210514
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/faq/3000x680.jpg?1401210494
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/faq/480x340.jpg?1401210534
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/faq/960x680.jpg?1401210550
   messages:
   - title: Week 1
     headline: ''
@@ -1818,6 +1944,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/400x400.jpg?1395954695
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/1500x340.jpg?1401215503
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/3000x680.jpg?1401215484
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/480x340.jpg?1401215534
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/960x680.jpg?1401215557
   messages:
   - title: Week 5
     headline: ''
@@ -1853,6 +1981,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/400x400.jpg?1395954476
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/1500x340.jpg?1401215091
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/3000x680.jpg?1401215056
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/480x340.jpg?1401215122
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/once-upon-a-marriage/960x680.jpg?1401215178
   messages:
   - title: Unfailing Love
     headline: ''
@@ -1885,6 +2015,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/margin/400x400.jpg?1395954043
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/margin/1500x340.jpg?1401214915
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/margin/3000x680.jpg?1401214887
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/margin/480x340.jpg?1401214936
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/margin/960x680.jpg?1401214956
   messages:
   - title: Moral Margin
     headline: ''
@@ -1917,6 +2049,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/one-thing/400x400.jpg?1395952136
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: New Years 2010
     headline: ''
@@ -1938,6 +2072,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/this-christmas/400x400.jpg?1395945065
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/this-christmas/1500x340.jpg?1401217777
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/this-christmas/3000x680.jpg?1401217712
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/this-christmas/480x340.jpg?1401217809
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/this-christmas/960x680.jpg?1401217831
   messages:
   - title: This Christmas
     headline: ''
@@ -1960,6 +2096,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/blessed-life/400x400.jpg?1395946164
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Heart Of Serving
     headline: ''
@@ -1993,6 +2131,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/400x400.jpg?1395946454
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/1500x340.jpg?1401217366
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/3000x680.jpg?1401217315
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/480x340.jpg?1401217400
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/960x680.jpg?1401217417
   messages:
   - title: The Life Of Jesus
     headline: ''
@@ -2019,6 +2159,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/ghost/400x400.jpg?1395946651
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/ghost/1500x340.jpg?1401218699
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/ghost/3000x680.jpg?1401218390
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/ghost/480x340.jpg?1401219773
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/ghost/960x680.jpg?1401219798
   messages:
   - title: Filled With The Spirit
     headline: ''
@@ -2051,6 +2193,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/400x400.jpg?1395946895
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/1500x340.jpg?1401216847
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/3000x680.jpg?1401216819
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/480x340.jpg?1401216874
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/960x680.jpg?1401216905
   messages:
   - title: Week 2
     headline: ''
@@ -2078,6 +2222,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/400x400.jpg?1395949140
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/1500x340.jpg?1401216566
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/3000x680.jpg?1401215994
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/480x340.jpg?1401216596
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/960x680.jpg?1401216764
   messages:
   - title: How to Become Dissatisfied
     headline: ''
@@ -2111,6 +2257,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/400x400.jpg?1395949305
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/1500x340.jpg?1401220220
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/3000x680.jpg?1401220192
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/480x340.jpg?1401220248
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/960x680.jpg?1401220285
   messages:
   - title: Week 2
     headline: ''
@@ -2137,6 +2285,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/400x400.jpg?1395949488
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/1500x340.jpg?1401216980
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/3000x680.jpg?1401216946
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/480x340.jpg?1401217001
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/960x680.jpg?1401217044
   messages:
   - title: Week 3
     headline: ''
@@ -2166,6 +2316,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/400x400.jpg?1395949948
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/1500x340.jpg?1401220026
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/3000x680.jpg?1401220003
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/480x340.jpg?1401220059
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/one-prayer-09/960x680.jpg?1401220124
   messages:
   - title: God Is...
     headline: ''
@@ -2197,6 +2349,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/elijah/400x400.jpg?1395950103
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/elijah/1500x340.jpg?1401218125
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/elijah/3000x680.jpg?1401217923
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/elijah/480x340.jpg?1401218148
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/elijah/960x680.jpg?1401218215
   messages:
   - title: Depression
     headline: ''
@@ -2230,6 +2384,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/400x400.jpg?1395950743
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/1500x340.jpg?1401217125
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/3000x680.jpg?1401217109
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/480x340.jpg?1401217179
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/960x680.jpg?1401217205
   messages:
   - title: In Your Struggles
     headline: ''
@@ -2261,6 +2417,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/400x400.jpg?1395950887
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/1500x340.jpg?1401219889
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/3000x680.jpg?1401219843
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/480x340.jpg?1401219911
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/960x680.jpg?1401219953
   messages:
   - title: '#1 Myth about Money'
     headline: ''
@@ -2291,6 +2449,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/the-vow/400x400.jpg?1395951105
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-vow/1500x340.jpg?1400005786
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-vow/3000x680.jpg?1400005760
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-vow/480x340.jpg?1400005850
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-vow/960x680.jpg?1400005806
   messages:
   - title: The Vow Of Purity
     headline: ''
@@ -2322,6 +2482,8 @@
   image_social: http://s3.amazonaws.com/lcapi.production/series/trueish/400x400.jpg?1395951235
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/trueish/1500x340.jpg?1401220378
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/trueish/3000x680.jpg?1401220356
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/trueish/480x340.jpg?1401220396
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/trueish/960x680.jpg?1401220416
   messages:
   - title: As Long As Nobody Gets Hurt
     headline: ''
@@ -2353,6 +2515,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Invasions - Week 2
     headline: 
@@ -2377,6 +2541,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: What Child Is This
     headline: 
@@ -2398,6 +2564,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Praying Like Jesus Prayed
     headline: 
@@ -2426,6 +2594,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Whispers
     headline: 
@@ -2451,6 +2621,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: I Believe in God , But I Don’t Know Him
     headline: 
@@ -2483,6 +2655,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Called To Make Disciples
     headline: 
@@ -2514,6 +2688,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Week 4
     headline: 
@@ -2545,6 +2721,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Heaven
     headline: 
@@ -2578,6 +2756,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Make Us Passionate
     headline: 
@@ -2614,6 +2794,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Fanatic 2
     headline: 
@@ -2640,6 +2822,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Habakkuk - Week 3
     headline: 
@@ -2669,6 +2853,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Passionate Warrior
     headline: 
@@ -2704,6 +2890,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Lies
     headline: 
@@ -2737,6 +2925,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Unstoppable Idiots
     headline: 
@@ -2766,6 +2956,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Prince of Peace
     headline: 
@@ -2798,6 +2990,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Angels
     headline: 
@@ -2833,6 +3027,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Porn
     headline: 
@@ -2856,6 +3052,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Blessed to Share His Story
     headline: 
@@ -2889,6 +3087,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Fighting for Peace
     headline: 
@@ -2922,6 +3122,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Jonahs Anger
     headline: 
@@ -2956,6 +3158,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: David and Goliath
     headline: 
@@ -2990,6 +3194,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Runaway
     headline: 
@@ -3021,6 +3227,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Baptism
     headline: 
@@ -3052,6 +3260,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: What Satan is Telling Single Adults
     headline: 
@@ -3087,6 +3297,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Sin Legends
     headline: 
@@ -3121,6 +3333,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Vision 2007
     headline: 
@@ -3145,6 +3359,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Opening Blind Eyes
     headline: 
@@ -3184,6 +3400,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Buck Starts Here
     headline: 
@@ -3216,6 +3434,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Goes Out
     headline: 
@@ -3251,6 +3471,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Secret Shame
     headline: 
@@ -3284,6 +3506,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Bitterness
     headline: 
@@ -3319,6 +3543,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages: []
 - id: meds
   title: Meds
@@ -3339,6 +3565,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Know Pain, Know Gain
     headline: 
@@ -3366,6 +3594,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: I Am What I Do
     headline: 
@@ -3398,6 +3628,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Finding the One
     headline: 
@@ -3431,6 +3663,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Emmanuel
     headline: 
@@ -3466,6 +3700,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Parents Priority
     headline: 
@@ -3499,6 +3735,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Prayer Request Gossiper
     headline: 
@@ -3529,6 +3767,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: My Will or Thy Will?
     headline: 
@@ -3562,6 +3802,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Released From Depression
     headline: 
@@ -3594,6 +3836,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Vision 2005
     headline: 
@@ -3620,6 +3864,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Lost
     headline: 
@@ -3643,6 +3889,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Changed Legacy
     headline: 
@@ -3670,6 +3918,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Hypocritical People
     headline: 
@@ -3702,6 +3952,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Be The One
     headline: 
@@ -3726,6 +3978,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: I Doubt God Can Use Me
     headline: 
@@ -3759,6 +4013,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: When God Lets You Down
     headline: 
@@ -3784,6 +4040,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Till Death Do Us Part
     headline: 
@@ -3823,6 +4081,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages: []
 - id: Invasion-2004
   title: Invasion 2004
@@ -3844,6 +4104,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Invasion 2004
     headline: 
@@ -3868,6 +4130,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Confidence
     headline: 
@@ -3891,6 +4155,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Bitter or Better
     headline: 
@@ -3919,6 +4185,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Q and A 2004 - Message 1
     headline: 
@@ -3949,6 +4217,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Work Life
     headline: 
@@ -3986,6 +4256,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Love Made Me Do It
     headline: 
@@ -4010,6 +4282,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Go
     headline: 
@@ -4034,6 +4308,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Fear of Losing Control
     headline: 
@@ -4068,6 +4344,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Attitude of Gratitude
     headline: 
@@ -4102,6 +4380,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Jehovahs Witnesses
     headline: 
@@ -4130,6 +4410,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Today You Will Be With Me In Paradise
     headline: 
@@ -4162,6 +4444,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: True Worshippers
     headline: 
@@ -4189,6 +4473,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: A Dangerous Church
     headline: 
@@ -4213,6 +4499,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Faithful
     headline: 
@@ -4237,6 +4525,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: A Peace in the Action
     headline: 
@@ -4270,6 +4560,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Change the World
     headline: 
@@ -4298,6 +4590,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Truth or Dont You Dare
     headline: 
@@ -4336,6 +4630,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: I Dont Like a Lot of Christians
     headline: 
@@ -4367,6 +4663,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Slave or Son
     headline: 
@@ -4399,6 +4697,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: The Pain of Rejection
     headline: 
@@ -4428,6 +4728,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Dwight L. Moody
     headline: 
@@ -4459,6 +4761,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Great Sexpectations
     headline: 
@@ -4491,6 +4795,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Ally
     headline: 
@@ -4523,6 +4829,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Hell No
     headline: 
@@ -4556,6 +4864,8 @@
   image_social: ''
   image_banner_archive: ''
   image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Forgetting
     headline: 
