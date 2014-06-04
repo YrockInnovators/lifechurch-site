@@ -226,14 +226,34 @@
 // LifeMissions page
 
   .hero-lifemissions  {
-    @include retina-image(/images/lifemissions/lm-lifemissions, auto 100%, jpg);
+    @include retina-image(/images/lifemissions/lm-lifemissions, 650px auto, jpg);
+    background-color: #F9F9F9;
     background-repeat: no-repeat;
-    background-position: center top;
+    background-position: center bottom;
+    padding-bottom: 7em;
 
     @include media($medium-screen) {
-      background-size: 1500px 450px;
+      background-size: 1500px 315px;
+      padding-bottom: 13em;
     }
   }
+
+  .lifemissions-learnmore {
+    padding-top: 1em;
+  }
+
+  .lifemissions {
+    .tile-restore {
+      @include retina-image(/images/lifemissions/lm-tile-restore, cover, jpg);
+      background-position: center;
+    }
+    
+    .tile-principles {
+      @include retina-image(/images/lifemissions/lm-tile-principles, cover, jpg);
+      background-position: center;
+    }
+  }
+
 
   .hero-lifemissions-2 {
     @include retina-image(/images/lifemissions/lm-bg-2, auto 100%, jpg);
