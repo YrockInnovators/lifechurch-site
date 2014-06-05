@@ -21,7 +21,7 @@ hero: locations-hero
           <li><a href="#serving">Serving</a></li>
           <li><a href="#localpartners">Local Partners</a></li>
           <li><a href="#events">Events</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="#connect">Connect</a></li>
         </ul>
       </div>
     </header>
@@ -240,9 +240,9 @@ hero: locations-hero
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Open Door" />
             <hr />
             <h6>Get Connected</h6>
-            <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
-            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
@@ -255,7 +255,8 @@ hero: locations-hero
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-chazown.jpg" data-retina="/locations/assets/event-chazown@2x.jpg" alt="Chazown" />
         <h6>Chazown</h6>
-        <p class="detail">Discover your God-given purpose by identifying your core values and gifts. Attend the next Chazown Experience at your campus. <a href="/chazown/">Learn More</a></p>
+        <p class="detail">Discover your God-given purpose by identifying your core values and gifts. Attend the next Chazown Experience at your campus.<br />
+        <a href="/chazown/">Learn More</a></p>
 
         <div class="cta">
           <p>
@@ -271,9 +272,9 @@ hero: locations-hero
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Chazown" />
             <hr />
             <h6>Get Connected</h6>
-            <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
-            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
@@ -302,13 +303,45 @@ hero: locations-hero
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Baptism" />
             <hr />
             <h6>Get Connected</h6>
-            <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
-            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Baptism');" />
+          </form>
+        </div>
+      </li>
+
+      <!-- Restore -->
+      <li class="grid-item panel involved-item">
+        <img src="/locations/assets/event-restore.jpg" data-retina="/locations/assets/event-restore@2x.jpg" alt="Restore" />
+        <h6>Restore</h6>
+        <p class="detail">Restore will help you identify how God has called you to help others, evaluate the best way to respond, and commit to your next step.<br />
+        <a href="/lifemissions/restore/">Learn more</a></p>
+
+        <div class="cta">
+          <p>
+            <a href="#"
+               class="action get-involved"
+               onclick="ga('send', 'event', 'Locations', 'Click', 'Expand Restore');">
+               Get Involved <i class="icon icon-arrow"></i>
+            </a>
+          </p>
+
+          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
+            <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
+            <input type="hidden" class="title" name="subject" value="{{ location.title }} - Restore" />
+            <hr />
+            <h6>Get Connected</h6>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
+            <input type="text" class="details" name="name" placeholder="Name" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
+            <input type="submit"
+                   class="button small submit-involved"
+                   value="Send to LifeChurch.tv"
+                   onclick="ga('send', 'event', 'Locations', 'Click', 'New Restore');" />
           </form>
         </div>
       </li>
@@ -318,7 +351,7 @@ hero: locations-hero
 
 <hr />
 
-<section id="contact" class="group single">
+<section id="connect" class="group single">
   <header class="text-center">
     <h2>Connect with {{ location.title }}</h2>
     <p>We love to hear from the great people who visit and attend LifeChurch.tv.</p>
