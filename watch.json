@@ -13,9 +13,9 @@
       "link": "{{ site.url }}{{ post.url }}",
       "date": "{{ post.date }}",
       "tags": "{{ post.tags }}",
-      "image": "{{ series.image_medium }}"
+      "image": "{{ series.image_medium }}",
+      "tags": "{% for category in series.categories %} {% for tags in site.data.watch-categories %} {% if tags.title == category.name %} {{ category.name }}, {{ tags.tags }} {% endif %} {% endfor %} {% endfor %}"
     }
-  
   {% endif %}
   {% endfor %}
 

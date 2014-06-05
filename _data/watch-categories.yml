@@ -1,0 +1,16 @@
+---
+- id: money
+  title: Money
+  tags: finances, debt, budgets
+- id: marriage
+  title: Marriage
+  tags: divorce, love, respect
+- id: sin
+  title: Sin
+  tags: lies, lying, repentance, forgiveness
+- id: worship
+  title: Worship    
+  tags: fasting, prayers, praises
+- id: family
+  title: Family
+  tags: kids, children, parenting 
