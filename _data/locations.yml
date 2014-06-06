@@ -504,7 +504,7 @@
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
-  phone: (405) 237-4844
+  phone: 405-237-4844
   address: 2916 S. Telephone Rd. Moore, OK 73160
   facebook: '409843575804511'
   times:
@@ -584,8 +584,8 @@
 - id: klr
   title: Keller TX Campus
   email: klr.serving@lifechurch.tv
-  phone: (682) 593-1140
-  address: 1075 Keller Pkwy Keller, TX 76248
+  phone: 682-593-1140
+  address: 1075 Keller Pkwy. Keller, TX 76248
   facebook: '343331435797233'
   times:
   - title: 10:00AM
@@ -1615,12 +1615,6 @@
     description_medium: The goal of this organization is for every child to have a
       family and to be loved. You can provide hope and love to children in your community.
       1 Church, 1 Family, 1 Purpose.
-  - id: 34
-    title: The Spero Project
-    recipient: okc.serving@lifechurch.tv
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
 - id: soc
   title: South Oklahoma City OK Campus
   email: soc.serving@lifechurch.tv
