@@ -1,187 +1,153 @@
 .home {
 
-background-color: black;
+  .home-menu {
+    background: white;
+    padding: 0 1em;
+    margin-bottom: -10px;
 
-.action {
-  color: #86def7;
-}
+    @include media($medium-screen) {
+      display: none;
+    }
+    
+    a {
+      @include transition (background .1s);
+      @include row();
+      padding: .8em 1em;
+      margin: 0 -1em;
+      border-bottom: 1px solid $medium-gray;
+    }
 
-.home-menu {
-  background: white;
-  padding: 0 1em;
-  margin-bottom: -10px;
+    dl {
+      margin-top: 0;
+    }
 
-  @include media($medium-screen) {
-    display: none;
-  }
-  
-  a {
-    @include transition (background .1s);
-    @include row();
-    padding: .8em 1em;
-    margin: 0 -1em;
-    border-bottom: 1px solid $medium-gray;
-  }
+    dt {
+      @extend h4;
+      font-weight: bold;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
 
-  dl {
-    margin-top: 0;
-  }
-
-  dt {
-    @extend h4;
-    font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  dd {
-    color: $black;
-  }
-}
-
-// Timer
-///////////////////////////////////////////////////////////////////////////////
-
-.action-live {
-  position: relative;
-}
-
-span[data-churchonline-counter] {
-  font-size: 0.6em;
-  display: block;
-  position: absolute;
-  margin-top: -2px;
-}
-
-// Feature 
-///////////////////////////////////////////////////////////////////////////////
-
-.hero.top {
-  @include retina-image(/images/home/home-bg-small, cover, jpg);
-  background-color: #000;
-  background-position: top center;
-  background-repeat: no-repeat;
-  border-bottom: 1px solid #444;
-  min-height: 300px;
-  
-  @include media($medium-screen) {
-    @include retina-image(/images/home/home-bg, 1500px 931px, jpg);
-    min-height: 670px;
-    background-position: center -80px;
+    dd {
+      color: $black;
+    }
   }
 
-  h1 {
-    @include hide-text;
+  // Timer
+  ///////////////////////////////////////////////////////////////////////////////
+
+  .action-live {
+    position: relative;
   }
 
-  .hero-copy {
-    color: white;
-    margin-top: 100px;
+  span[data-churchonline-counter] {
+    font-size: 0.6em;
+    display: block;
+    position: absolute;
+    margin-top: -2px;
+  }
+
+  // Feature 
+  ///////////////////////////////////////////////////////////////////////////////
+
+  .hero {
+    background: #f0f0f0;
+  }
+
+  .hero .hero-inner {
+    @include retina-image(/images/home/home-bg-small, auto 150px);
+    background-position: top center;
+    background-repeat: no-repeat;
+    min-height: 300px;
+
+    blockquote {
+      margin-top: 12em;
+    }
     
     @include media($medium-screen) {
-      margin-top: 360px;
-    }
-  }
-}
-
-// Closing
-///////////////////////////////////////////////////////////////////////////////
-
-.closing {
-  background: black;
-  padding-top: 0;
-
-  .container {
-    border: none;
-  }
-}
-
-// Next Week
-
-.coming-up {
-  max-width: 1500px;
-  margin: 0 auto;
-  height: 140px;
-
-  @media screen and (min-width: 750px) {
-    height: 320px;
-  }
-}
-
-.next-week {
-  @include retina-image(/images/home/next-week-small, 355px auto);
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  background: #f0f0f0;
-  height: 140px;
-  display: block;
-  position: relative;
-  text-indent: -999em;
-  width: 100%;
-  height: 190px;
-  background-size: 80% autox;
-
-  @media screen and (min-width: 750px) {
-    @include retina-image(/images/home/next-week, 748px auto);
-    height: 320px;
-  }
-}
-
-.easter {
-  @include retina-image(/images/home-easter-small, 355px 140px);
-  background-position: center top;
-  background-repeat: no-repeat;
-  height: 140px;
-  display: block;
-  text-indent: -999em;
-  position: relative;
-  float: left;
-  width: 50%;
-  
-  @media screen and (min-width: 750px) {
-    @include retina-image(/images/home/easter, 750px 327px);
-    height: 320px;
-    background-size: 750px 327px;
-    border: 2px solid white;
-    
-    &:after {
-      @include transition-property(background);
-      @include transition-duration(.25s);
-      content: "";
-      width: 100%;
-      height: 316px;
-      position: absolute;
-      top: 0;
-      left: 0;
-      background: rgba(0,0,0,0);
+      @include retina-image(/images/home/home-bg, 370px auto);
+      min-height: 470px;
+      background-position: right top;
     }
 
-    // Tile hover action
-    &:hover:after {
-      background: rgba(0,0,0,.3);
-    } 
-  }  
-}
+    @include media($large-screen) {
+      background-size: 570px auto;
+      min-height: 600px;
+    }
 
-.home-nav-small {
-  a {
-    border-bottom: 1px solid #eee;
+    h1 {
+      @include hide-text;
+    }
+
+    blockquote {
+      margin-bottom: 2em;
+    }
+
+    .hero-copy {
+      @include media($medium-screen) {
+        @include span-columns(5);
+        text-align: left;
+        margin-top: 0;
+
+        blockquote {
+          margin-top: 0;
+        }
+      }
+
+      @include media($large-screen) {
+        @include span-columns(4);
+        margin-top: 5em;
+      }
+    }
+  }
+
+  // Closing
+  ///////////////////////////////////////////////////////////////////////////////
+
+  .closing {
+    padding-top: 0;
+
+    .container {
+      border: none;
+    }
+  }
+
+  .next-week {
+    @include retina-image(/images/home/next-week-small, 355px auto);
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background: #f0f0f0;
+    height: 140px;
     display: block;
-    padding: 3px 15px;
+    position: relative;
+    text-indent: -999em;
+    width: 100%;
+    height: 190px;
+    background-size: 80% autox;
+
+    @media screen and (min-width: 750px) {
+      @include retina-image(/images/home/next-week, 748px auto);
+      height: 320px;
+    }
   }
 
-  h4 {
-    margin-bottom: 2px;
-  }
+  .home-nav-small {
+    a {
+      border-bottom: 1px solid #eee;
+      display: block;
+      padding: 3px 15px;
+    }
 
-  p {
-    margin-bottom: 7px;
-    font-size: .8em;
+    h4 {
+      margin-bottom: 2px;
+    }
+
+    p {
+      margin-bottom: 7px;
+      font-size: .8em;
+    }
   }
 }
-
-}
-
 
 .lt-ie9 .home-menu {
   display: none !important;
