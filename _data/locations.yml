@@ -1320,12 +1320,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -1353,11 +1353,6 @@
     type: lifekids
   - title: 06:30PM
     time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 09:00PM
-    time: 21-00
     day: sun
     duration: 60
     type: service-time
