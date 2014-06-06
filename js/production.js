@@ -784,6 +784,4 @@ $(document).ready(function(){
     }
   }
 
-
-
 });

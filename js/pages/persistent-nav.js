@@ -22,12 +22,12 @@ $(document).ready(function () {
     });
   });
 
-  var t = $(".campus-navigation-wrapper").offset().top;
+  var t = $(".persistent-navigation-wrapper").offset().top;
   $(window).scroll(function () { 
     if($(this).scrollTop() > t) {   
-      $('#campus-navigation').addClass("top");
+      $('#persistent-navigation').addClass("top");
     } else {
-      $('#campus-navigation').removeClass("top");
+      $('#persistent-navigation').removeClass("top");
     }
   });
 
@@ -35,11 +35,11 @@ $(document).ready(function () {
 
 function onScroll(event){
   var scrollPos = $(document).scrollTop();
-  $('#campus-navigation a').each(function () {
+  $('#persistent-navigation a').each(function () {
     var currLink = $(this);
     var refElement = $(currLink.attr("href"));
     if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
-      $('#campus-navigation a').removeClass("active");
+      $('#persistent-navigation a').removeClass("active");
       currLink.addClass("active");
     }
     else{

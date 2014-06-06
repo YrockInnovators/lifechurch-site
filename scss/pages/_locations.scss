@@ -355,42 +355,6 @@ padding-top: 28px;
   display: none;
 }
 
-.campus-navigation-wrapper {
-  height: 60px;
-}
-
-#campus-navigation {
-  width: 100%;
-  height: 60px;
-  margin-bottom: 1.5em;
-
-  &.top {
-    background: white;
-    border-bottom: 1px solid $medium-gray;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 10;
-  }
-
-  li {
-    display: inline-block;
-    margin: .7em 0;
-  }
-
-  a {
-    @extend .button;
-    background: transparent;
-    color: $dark-gray;
-    font-size: 15px;
-  }
-  
-  .active {
-    background: $blue;
-    color: white;
-  }
-}
-
 // Map
 .locations-map {
   background-color: #fff; 
