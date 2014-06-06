@@ -102,8 +102,44 @@ class: header-red section-watch section-series
 
 <div class="series-locator">series-{{ series.id }}</div>
 
+{% unless series.categories == empty %}
+<div class="group alt">
+  <div class="container">
+    <h2>Related Series</h2> 
+
+    <div class="grid-items grid-three">
+    {% for category in series.categories %}
+
+    {% for related in site.data.watch %}
+    {% for categories in related.categories %}
+    {% if categories.name == category.name %}
+    {% unless related.title == series.title %}
+
+    <!-- Archive Item -->
+    <div class="grid-item watch-item">
+      <a href="{{ related.url }}">
+        <div class="panel">
+          <img src="{{ related.image_small }}" data-retina="{{ related.image_medium }}" />
+          <h6>{{ related.title }}</h6>
+        </div>
+      </a>
+    </div>
+
+    {% endunless %}
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+
+    {% endfor %}
+  </div>
+</div>
+{% endunless %}
+
+
 {% endif %}
 {% endfor %}
+
+
 
 <script language="javascript" type="text/javascript">
   function popitup(url) {
