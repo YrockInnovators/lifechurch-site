@@ -1,4 +1,31 @@
 ---
+- id: puzzled
+  title: Puzzled
+  headline: Trying to make sense of life? Find out what to do when life leaves you
+    Puzzled.
+  description_small: What can you do when life is rough around the edges and the pieces
+    don't seem to fit? Learn how to make the most out of feeling Puzzled.
+  description_medium: 'Making sense of your life can feel like a puzzle. But what
+    if the big picture isn’t turning out how you expected? Find out what to do when
+    you feel Puzzled. '
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1898-puzzled
+  promo: ''
+  resources_url: http://resources.lifechurch.tv/products/puzzled/
+  categories: []
+  image_small: http://s3.amazonaws.com/lcapi.production/series/puzzled/300x200.jpg?1401807842
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/puzzled/600x400.jpg?1401807867
+  image_large: http://s3.amazonaws.com/lcapi.production/series/puzzled/1200x800.jpg?1401807892
+  image_social: http://s3.amazonaws.com/lcapi.production/series/puzzled/400x400.jpg?1400685700
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/puzzled/1500x340.jpg?1401912178
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/puzzled/3000x680.jpg?1401912148
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/puzzled/480x340.jpg?1401912237
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/puzzled/960x680.jpg?1401912263
+  messages:
+  - title: Week 1
+    headline: ''
+    video: zcw4vmg6yi
 - id: in-the-fire
   title: In the Fire
   headline: Feeling in over your head? Today, choose to fight.
