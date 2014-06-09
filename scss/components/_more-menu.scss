@@ -9,7 +9,7 @@ $more-transition: .25s ease-in-out;
 
 .more-menu {
   @include transition(all $more-transition);
-  background: white;
+  background: rgba(255, 255, 255, .97);
   z-index: 5;
   padding-bottom: 2em;
 
@@ -50,7 +50,6 @@ $more-transition: .25s ease-in-out;
   .more-inner {
     @include outer-container();
     @include transition(all $more-transition);
-    background: white;
     padding: 0 1em;
     
     .js & {
@@ -66,7 +65,6 @@ $more-transition: .25s ease-in-out;
   a {
     @include transition (background .1s);
     @include row();
-    background: white;
     padding: .8em 1em;
     margin: 0 -1em;
 
