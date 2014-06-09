@@ -37,6 +37,12 @@ hero: digital-missions-bg
          onclick="ga('send', 'event', 'Digital Missions', 'Click', 'Bible Site');">
          Visit site <i class="icon icon-play"></i>
       </a> 
+      <a href="javascript:void(0);"
+         data-video-player="crz6zgjz69"
+         class="action"
+         onclick="_gaq.push(['_trackEvent', 'Digital MIssions', 'Watch', 'Bible Video']);">
+         Watch video <i class="icon icon-arrow"></i>
+      </a>
     </div>
     <div class="bible-kids">
       <figure class="bible-kids-image">
@@ -51,15 +57,19 @@ hero: digital-missions-bg
            onclick="ga('send', 'event', 'Digital Missions', 'Click', 'Bible Kids Site');">
            Visit site <i class="icon icon-arrow"></i>
         </a>
-        <a href="http://becauseofyou.lifechurch.tv/2013-2014-winter/bible-app-for-kids-goes-live"
+        <a href="javascript:void(0);"
+           data-video-player="o7chvnwm70"
            class="action small"
-           onclick="ga('send', 'event', 'Digital Missions', 'Click', 'Bible Kids Video');">
-           Watch video <i class="icon icon-play"></i>
-         </a>
+           onclick="_gaq.push(['_trackEvent', 'Digital MIssions', 'Watch', 'Bible Kids Video']);">
+           Watch video <i class="icon icon-arrow"></i>
+        </a>
        </p>
     </div>
   </div>
 </section>
+
+{% include video-player.html id='crz6zgjz69' %}
+{% include video-player.html id='o7chvnwm70' %}
 
 <div class="group alt">
   <div class="single text-center">
