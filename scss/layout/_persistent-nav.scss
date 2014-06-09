@@ -3,6 +3,7 @@
 }
 
 #persistent-navigation {
+  @include transition(top .25s ease-in-out);
   width: 100%;
   min-height: 60px;
 
@@ -32,3 +33,7 @@
     color: white;
   }
 }
+
+#persistent-navigation.excuse-me {
+  top: 79px !important;
+} 
