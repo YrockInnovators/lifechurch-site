@@ -349,34 +349,105 @@ hero: locations-hero
   </div>
 </section>
 
-<hr />
-
-<section id="connect" class="group single">
+<section id="connect" class="group single alt">
   <header class="text-center">
     <h2>Connect with {{ location.title }}</h2>
     <p>We love to hear from the great people who visit and attend LifeChurch.tv.</p>
-    <p><a href="https://www.facebook.com/{{ location.facebook }}" class="action">Connect with us on Facebook <i class="icon icon-arrow"></i></a></p>
   </header>
 
-  <article class="padded">
-    <form class="form-contact panel" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
-      <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
-      <input type="hidden" class="subject" name="subject" value="Campus Contact Form" />
-      <h3>Ask us a question</h3><br />
-      <label>What is your specific question, comment, or issue?</label>
-      <p class="detail">The more we know, the better we can help you.</p>
-      <textarea name="message" placeholder="Your message"></textarea>
-      <hr />
-      <label>What is the best way to reach you?</label>
-      <p class="detail">Please share your name and email address below. <span class="text-gray">(If you are in the US and it's best to reach you by phone, please share your phone number instead.)</span></p>
-      <input name="name" type="text" placeholder="Enter your name" />
-      <input name="phone" type="text" placeholder="Enter your email address or phone number" />
-      <hr />
-      <input type="submit" class="button small submit-contact" value="Submit this contact form" />
-      <p class="detail"><em>(We are generally able to respond within one to three days of your request.)</em></p>
-    </form>
+  <div class="container">
+    <ul class="grid-items grid-three involved-list padded">
+
+      {% for pastor in site.data.pastors %}
+      {% if pastor.id == page.location-id %}
+
+      <li class="grid-item panel involved-item involved-item-textarea">
+        <img src="{{ pastor.photo_portrait }}" data-retina="{{ pastor.photo_portrait_2x }}" alt="Campus Pastor" />
+        <h6>Contact the Pastor</h6>
+        <p class="detail">At LifeChurch.tv, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
+
+        <div class="cta">
+          <p>
+            <a href="#"
+               class="action get-involved"
+               onclick="ga('send', 'event', 'Locations', 'Click', 'Expand Contact Pastor');">
+               Contact the Campus Pastor <i class="icon icon-arrow"></i>
+            </a>
+          </p>
+
+          <!-- This form will need modifying to take the additional textarea -->
+          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+            <input type="hidden" class="recipient" name="recipient" value="{{ pastor.email }}" />
+            <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Pastor" />
+            <hr />
+            <h6>Get Connected</h6>
+            <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
+            <input type="text" class="details" name="name" placeholder="Name" />
+            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <textarea class="details" name="message" placeholder="Your Message"></textarea>
+            <input type="submit"
+                   class="button small submit-involved"
+                   value="Send to the Campus Pastor"
+                   onclick="ga('send', 'event', 'Locations', 'Click', 'New Contact Pastor');" />
+          </form>
+        </div>
+      </li>
+
+      <li class="grid-item panel involved-item involved-item-textarea">
+        <img src="{{ pastor.photo_campus }}" data-retina="{{ pastor.photo_campus_2x }}" alt="Campus" />
+        <h6>Contact the Campus</h6>
+        <p class="detail">At your local campus, you can connect with others in your community and worship with people who care about you and your family. To find out how you can give, serve, and grow, just ask our team!</p>
+
+        <div class="cta">
+          <p>
+            <a href="#"
+               class="action get-involved"
+               onclick="ga('send', 'event', 'Locations', 'Click', 'Expand Contact Campus');">
+               Contact the Campus <i class="icon icon-arrow"></i>
+            </a>
+          </p>
+
+          <!-- This form will need modifying to take the additional textarea -->
+          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+            <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
+            <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Campus" />
+            <hr />
+            <h6>Get Connected</h6>
+            <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
+            <input type="text" class="details" name="name" placeholder="Name" />
+            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <textarea class="details" name="message" placeholder="Your Message"></textarea>
+            <input type="submit"
+                   class="button small submit-involved"
+                   value="Send to LifeChurch.tv"
+                   onclick="ga('send', 'event', 'Locations', 'Click', 'New Contact Campus');" />
+          </form>
+        </div>
+      </li>
+
+      {% endif %}
+      {% endfor %}
+
+      <li class="grid-item panel involved-item">
+        <img src="/locations/assets/connect-facebook.jpg" data-retina="/locations/assets/connect-facebook@2x.jpg" alt="Open Door" />
+        <h6>Connect with us on Facebook</h6>
+        <p class="detail">On the {{ location.title }} Facebook page, you can find upcoming events, get updates, engage with your community, and see behind-the-scenes pictures and posts from our staff. </p>
+
+        <div class="cta">
+          <p>
+            <a href="https://www.facebook.com/{{ location.facebook }}"
+               class="action"
+               target="_blank" 
+               onclick="ga('send', 'event', 'Locations', 'Click', 'Contact Facebook');">
+               Visit the Campus Facebook Page <i class="icon icon-window"></i>
+            </a>
+          </p>
+        </div>
+      </li>
+
+    </ul>
   </div>
-</article>
+
 </section>
 
 {% endif %}

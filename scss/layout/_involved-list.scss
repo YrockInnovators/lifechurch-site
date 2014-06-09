@@ -13,17 +13,32 @@
     &.open {
       height: 300px;
 
+
       @include media($medium-screen) {
         height: 370px;
       }
 
       @include media($large-screen) {
         height: 320px;
+
       }  
     }
 
     &.sent {
       height: 80px;
+    }
+  }
+
+  .involved-item-textarea .cta.open {
+    height: 480px;
+
+    @include media($medium-screen) {
+      height: 610px;
+    }
+
+    @include media($large-screen) {
+      height: 560px;
+
     }
   }
 
