@@ -34,7 +34,7 @@
     background-position: left center;
 
     @include media($large-screen) {
-      @include span-columns(4);
+      @include span-columns(3);
     }
   }
 
@@ -44,7 +44,7 @@
     margin-top: 4px;   
 
     @include media($large-screen) {
-      @include span-columns(8);
+      @include span-columns(9);
     }
 
     a {
@@ -71,18 +71,31 @@
   }
 }
 
-#navigation .live {
-  position: absolute;
-  top: -7px;
-  margin-left: -10px;
-  font-size: 9px;
-}
+#navigation .nav-live {
+  color: $dark-gray;
+  position: relative;
 
-.nav-watch .live {
-  color: $red;
+  .header-light & {
+    color: rgba(255, 255, 255, .5);
+  }
 
-  &.alt {
-    color: lighten($red, 20%);
+  &.is-live {
+    color: $red !important;
+
+    &.alt {
+      color: lighten($red, 20%) !important;
+    }
+
+    span {
+      display: none;
+    }
+  }
+
+  span {
+    position: absolute;
+    bottom: -16px;
+    left: 0;
+    font-size: 9px;
   }
 }
 
@@ -119,6 +132,10 @@
     .more-line-3 {
       background: #444;
     }
+  }
+
+  .nav-live {
+    color: $dark-gray;
   }
 
 }
