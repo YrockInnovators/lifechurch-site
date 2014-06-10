@@ -9,17 +9,6 @@
   image_medium: ''
   image_large: ''
 
-- id: serving-2
-  title: LifeGroups
-  location: Campus
-  url: ''
-  description_small: 'In a group environment, people can develop their relationship with God and others.'
-  description_medium: 'In a group environment, people can develop their relationship with God and others. LifeGroup volunteers gain leadership skills and support personal growth by serving as group leaders, hosts, or administrative support.'
-  website: http://google.com
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-
 - id: serving-3
   title: LifeKids.tv
   location: Campus
