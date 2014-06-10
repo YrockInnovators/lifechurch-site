@@ -4,7 +4,7 @@ jQuery(function() {
 
   // Live color changing
   setInterval(function() {
-    $('.nav-watch .live').toggleClass('alt');
+    $('.nav-live.is-live').toggleClass('alt');
   }, 1000);
 
   // The rest
@@ -12,7 +12,7 @@ jQuery(function() {
 
   var days, goLive, hours, intervalId, minutes, seconds;
   goLive = function() {
-    $('.nav-watch .live').removeClass('hide');
+    $('.nav-live').addClass('is-live');
     $('[data-churchonline-counter]').text("Live Now").addClass("live");
   };
   days = void 0;
