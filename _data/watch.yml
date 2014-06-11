@@ -13,7 +13,15 @@
   open_url: http://open.lifechurch.tv/groups/1898-puzzled
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/puzzled/
-  categories: []
+  categories:
+  - id: 60
+    name: Sam Roberts
+    created_at: '2014-06-11T15:48:49.991Z'
+    updated_at: '2014-06-11T15:48:49.991Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/puzzled/300x200.jpg?1401807842
   image_medium: http://s3.amazonaws.com/lcapi.production/series/puzzled/600x400.jpg?1401807867
   image_large: http://s3.amazonaws.com/lcapi.production/series/puzzled/1200x800.jpg?1401807892
@@ -44,6 +52,14 @@
     name: Worship
     created_at: '2014-06-05T19:23:33.805Z'
     updated_at: '2014-06-05T19:23:33.805Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 74
+    name: Carl Lentz
+    created_at: '2014-06-11T16:14:48.792Z'
+    updated_at: '2014-06-11T16:14:48.792Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/300x200.jpg?1400172764
   image_medium: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/600x400.jpg?1400172786
   image_large: http://s3.amazonaws.com/lcapi.production/series/in-the-fire/1200x800.jpg?1400172809
@@ -116,7 +132,15 @@
   open_url: http://open.lifechurch.tv/groups/1873-the-counselor
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/the-counselor/
-  categories: []
+  categories:
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-counselor/300x200.jpg?1396290251
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-counselor/600x400.jpg?1396296632
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-counselor/1200x800.jpg?1396290667
@@ -151,7 +175,11 @@
   open_url: http://open.lifechurch.tv/groups/1871-the-artisan-soul
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/the-artisan-soul/
-  categories: []
+  categories:
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/300x200.jpg?1396043492
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/600x400.jpg?1396043573
   image_large: http://s3.amazonaws.com/lcapi.production/series/the-artisan-soul/1200x800.jpg?1396043604
@@ -222,7 +250,11 @@
   open_url: http://open.lifechurch.tv/groups/1847-small-things-big-difference
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/small-things-big-difference/
-  categories: []
+  categories:
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/small-things/300x200.jpg?1396042267
   image_medium: http://s3.amazonaws.com/lcapi.production/series/small-things/600x400.jpg?1396042312
   image_large: http://s3.amazonaws.com/lcapi.production/series/small-things/1200x800.jpg?1396042380
@@ -257,7 +289,15 @@
   open_url: http://open.lifechurch.tv/groups/1857-maker-of-miracles
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/maker-of-miracles/
-  categories: []
+  categories:
+  - id: 49
+    name: Christine Caine
+    created_at: '2014-06-11T15:27:08.231Z'
+    updated_at: '2014-06-11T15:27:08.231Z'
+  - id: 40
+    name: Miracles
+    created_at: '2014-06-11T15:21:20.475Z'
+    updated_at: '2014-06-11T15:21:20.475Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1396038137
   image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1396038218
   image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1396038239
@@ -282,7 +322,11 @@
   open_url: http://open.lifechurch.tv/groups/1835-fear-not
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/fear-not/
-  categories: []
+  categories:
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/fear-not/300x200.jpg?1396042061
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fear-not/600x400.jpg?1396042126
   image_large: http://s3.amazonaws.com/lcapi.production/series/fear-not/1200x800.jpg?1396042178
@@ -314,7 +358,19 @@
   open_url: http://open.lifechurch.tv/groups/1846-growing-spiritually-with-kevin-durant-and-carl-lent
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/growing-spiritually/
-  categories: []
+  categories:
+  - id: 50
+    name: Kevin Durant
+    created_at: '2014-06-11T15:27:20.154Z'
+    updated_at: '2014-06-11T15:27:20.154Z'
+  - id: 22
+    name: Spiritual Growth
+    created_at: '2014-06-11T15:16:13.079Z'
+    updated_at: '2014-06-11T15:16:13.079Z'
+  - id: 74
+    name: Carl Lentz
+    created_at: '2014-06-11T16:14:48.792Z'
+    updated_at: '2014-06-11T16:14:48.792Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1396037980
   image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1396038029
   image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1396038073
@@ -342,9 +398,9 @@
   resources_url: http://resources.lifechurch.tv/products/necessary-sins/
   categories:
   - id: 13
-    name: Sin
+    name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/300x200.jpg?1396041700
   image_medium: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/600x400.jpg?1396041749
   image_large: http://s3.amazonaws.com/lcapi.production/series/necessary-sins/1200x800.jpg?1396041777
@@ -378,7 +434,11 @@
   open_url: http://open.lifechurch.tv/groups/1832-fight
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/fight/
-  categories: []
+  categories:
+  - id: 38
+    name: For Men
+    created_at: '2014-06-11T15:20:48.371Z'
+    updated_at: '2014-06-11T15:20:48.371Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/fight/300x200.jpg?1396041413
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fight/600x400.jpg?1396041470
   image_large: http://s3.amazonaws.com/lcapi.production/series/fight/1200x800.jpg?1396041534
@@ -403,7 +463,15 @@
   open_url: http://open.lifechurch.tv/groups/1821-multiply
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/multiply/
-  categories: []
+  categories:
+  - id: 62
+    name: Robert Morris
+    created_at: '2014-06-11T15:49:13.579Z'
+    updated_at: '2014-06-11T15:49:13.579Z'
+  - id: 20
+    name: Tithe
+    created_at: '2014-06-11T15:15:22.933Z'
+    updated_at: '2014-06-11T15:15:22.933Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/300x200.jpg?1396041297
   image_medium: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/600x400.jpg?1396041347
   image_large: http://s3.amazonaws.com/lcapi.production/series/multiply-2013/1200x800.jpg?1396041369
@@ -435,7 +503,11 @@
   open_url: http://open.lifechurch.tv/groups/1780-friending
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/friending/
-  categories: []
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/friending/300x200.jpg?1396040901
   image_medium: http://s3.amazonaws.com/lcapi.production/series/friending/600x400.jpg?1396041037
   image_large: http://s3.amazonaws.com/lcapi.production/series/friending/1200x800.jpg?1396041057
@@ -470,7 +542,15 @@
   open_url: http://open.lifechurch.tv/groups/1796-rescue
   promo: ''
   resources_url: http://resources.lifechurch.tv/products/rescue/
-  categories: []
+  categories:
+  - id: 51
+    name: Ed Young
+    created_at: '2014-06-11T15:27:31.681Z'
+    updated_at: '2014-06-11T15:27:31.681Z'
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1396037750
   image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1396037853
   image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1396037915
@@ -1106,9 +1186,9 @@
   resources_url: ''
   categories:
   - id: 13
-    name: Sin
+    name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/soul-detox/300x200.jpg?1396032146
   image_medium: http://s3.amazonaws.com/lcapi.production/series/soul-detox/600x400.jpg?1396032219
   image_large: http://s3.amazonaws.com/lcapi.production/series/soul-detox/1200x800.jpg?1396032245
@@ -2042,9 +2122,9 @@
   resources_url: ''
   categories:
   - id: 13
-    name: Sin
+    name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/faq/300x200.jpg?1395955372
   image_medium: http://s3.amazonaws.com/lcapi.production/series/faq/600x400.jpg?1395955419
   image_large: http://s3.amazonaws.com/lcapi.production/series/faq/1200x800.jpg?1395955438
