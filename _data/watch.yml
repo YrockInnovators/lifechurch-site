@@ -2544,7 +2544,23 @@
   open_url: http://open.lifechurch.tv/groups/1461-red-letter-day
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 18
+    name: Death
+    created_at: '2014-06-11T15:15:02.642Z'
+    updated_at: '2014-06-11T15:15:02.642Z'
+  - id: 41
+    name: God
+    created_at: '2014-06-11T15:22:41.520Z'
+    updated_at: '2014-06-11T15:22:41.520Z'
+  - id: 64
+    name: Miles Paludan
+    created_at: '2014-06-11T15:50:02.989Z'
+    updated_at: '2014-06-11T15:50:02.989Z'
+  - id: 70
+    name: Joel A'Bell
+    created_at: '2014-06-11T15:51:31.851Z'
+    updated_at: '2014-06-11T15:51:31.851Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/300x200.jpg?1395954671
   image_medium: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/600x400.jpg?1395954722
   image_large: http://s3.amazonaws.com/lcapi.production/series/red-letter-day/1200x800.jpg?1395954745
@@ -2621,7 +2637,11 @@
   open_url: http://open.lifechurch.tv/groups/1447-margin
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 5
+    name: Money
+    created_at: '2014-02-03T22:38:58.881Z'
+    updated_at: '2014-06-05T19:12:14.043Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/margin/300x200.jpg?1395954017
   image_medium: http://s3.amazonaws.com/lcapi.production/series/margin/600x400.jpg?1395954063
   image_large: http://s3.amazonaws.com/lcapi.production/series/margin/1200x800.jpg?1395954090
@@ -2656,7 +2676,11 @@
   open_url: http://open.lifechurch.tv/groups/1446-one-thing
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/one-thing/300x200.jpg?1395952110
   image_medium: http://s3.amazonaws.com/lcapi.production/series/one-thing/600x400.jpg?1395936667
   image_large: http://s3.amazonaws.com/lcapi.production/series/one-thing/1200x800.jpg?1395936568
@@ -2680,7 +2704,11 @@
   open_url: http://open.lifechurch.tv/groups/1445-christmas-2009
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 41
+    name: God
+    created_at: '2014-06-11T15:22:41.520Z'
+    updated_at: '2014-06-11T15:22:41.520Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/this-christmas/300x200.jpg?1395945033
   image_medium: http://s3.amazonaws.com/lcapi.production/series/this-christmas/600x400.jpg?1395945103
   image_large: http://s3.amazonaws.com/lcapi.production/series/this-christmas/1200x800.jpg?1395945170
@@ -2731,17 +2759,28 @@
   title: Carbon Copy
   headline: ''
   description_small: ''
-  description_medium: "A life well lived. Sounds good, right? But how do we achieve
+  description_medium: A life well lived. Sounds good, right? But how do we achieve
     that when we get conflicting advice everywhere we turn? It doesn’t have to be
     so complicated. In fact, we already have a blueprint for our private and public
-    lives. Come see what we can learn from being a Carbon Copy.\r\n<br /><br /> \r\nSeries
-    begins November 21st."
+    lives. Come see what we can learn from being a Carbon Copy.
   quote: ''
   quote_cite: ''
-  open_url: 
+  open_url: ''
   promo: ''
-  resources_url: 
-  categories: []
+  resources_url: ''
+  categories:
+  - id: 41
+    name: God
+    created_at: '2014-06-11T15:22:41.520Z'
+    updated_at: '2014-06-11T15:22:41.520Z'
+  - id: 61
+    name: Chris Beall
+    created_at: '2014-06-11T15:49:00.818Z'
+    updated_at: '2014-06-11T15:49:00.818Z'
+  - id: 64
+    name: Miles Paludan
+    created_at: '2014-06-11T15:50:02.989Z'
+    updated_at: '2014-06-11T15:50:02.989Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/300x200.jpg?1395946430
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/600x400.jpg?1395946485
   image_large: http://s3.amazonaws.com/lcapi.production/series/carbon-copy/1200x800.jpg?1395946538
@@ -2770,7 +2809,11 @@
   open_url: http://open.lifechurch.tv/groups/1431-the-ghost
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 73
+    name: Supernatural
+    created_at: '2014-06-11T15:52:47.494Z'
+    updated_at: '2014-06-11T15:52:47.494Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/ghost/300x200.jpg?1395946626
   image_medium: http://s3.amazonaws.com/lcapi.production/series/ghost/600x400.jpg?1395946673
   image_large: http://s3.amazonaws.com/lcapi.production/series/ghost/1200x800.jpg?1395946702
@@ -2805,7 +2848,19 @@
   open_url: http://open.lifechurch.tv/groups/1428-a-place-for-everyone
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
+  - id: 61
+    name: Chris Beall
+    created_at: '2014-06-11T15:49:00.818Z'
+    updated_at: '2014-06-11T15:49:00.818Z'
+  - id: 71
+    name: Andy Stanley
+    created_at: '2014-06-11T15:52:23.089Z'
+    updated_at: '2014-06-11T15:52:23.089Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/300x200.jpg?1395946819
   image_medium: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/600x400.jpg?1395946866
   image_large: http://s3.amazonaws.com/lcapi.production/series/place-for-everyone/1200x800.jpg?1395946917
@@ -2835,7 +2890,15 @@
   open_url: http://open.lifechurch.tv/groups/1425-5-easy-steps-to-wreck-your-life
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 12
+    name: Marriage
+    created_at: '2014-06-05T19:14:26.586Z'
+    updated_at: '2014-06-05T19:14:26.586Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/300x200.jpg?1395949098
   image_medium: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/600x400.jpg?1395949158
   image_large: http://s3.amazonaws.com/lcapi.production/series/five-easy-steps/1200x800.jpg?1395949182
@@ -2871,7 +2934,19 @@
   open_url: http://open.lifechurch.tv/groups/1420-stop-acting-like-a-christian
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
+  - id: 49
+    name: Christine Caine
+    created_at: '2014-06-11T15:27:08.231Z'
+    updated_at: '2014-06-11T15:27:08.231Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/300x200.jpg?1395949281
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/600x400.jpg?1395949351
   image_large: http://s3.amazonaws.com/lcapi.production/series/stop-acting-like-a-christian/1200x800.jpg?1395949381
@@ -2897,10 +2972,22 @@
     you’re making in the world. Join us as we step Behind the Curtain.
   quote: ''
   quote_cite: ''
-  open_url: 
+  open_url: ''
   promo: ''
-  resources_url: 
-  categories: []
+  resources_url: ''
+  categories:
+  - id: 28
+    name: Serving
+    created_at: '2014-06-11T15:17:48.142Z'
+    updated_at: '2014-06-11T15:17:48.142Z'
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
+  - id: 46
+    name: Church Vision
+    created_at: '2014-06-11T15:25:52.761Z'
+    updated_at: '2014-06-11T15:25:52.761Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/300x200.jpg?1395949464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/600x400.jpg?1395949509
   image_large: http://s3.amazonaws.com/lcapi.production/series/behind-the-curtain/1200x800.jpg?1395949530
@@ -2933,6 +3020,10 @@
   promo: ''
   resources_url: ''
   categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
   - id: 14
     name: Worship
     created_at: '2014-06-05T19:23:33.805Z'
@@ -2970,7 +3061,15 @@
   open_url: http://open.lifechurch.tv/groups/1397-elijah
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805Z'
+    updated_at: '2014-06-05T19:23:33.805Z'
+  - id: 40
+    name: Miracles
+    created_at: '2014-06-11T15:21:20.475Z'
+    updated_at: '2014-06-11T15:21:20.475Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/elijah/300x200.jpg?1395950082
   image_medium: http://s3.amazonaws.com/lcapi.production/series/elijah/600x400.jpg?1395950122
   image_large: http://s3.amazonaws.com/lcapi.production/series/elijah/1200x800.jpg?1395950151
@@ -3006,7 +3105,15 @@
   open_url: http://open.lifechurch.tv/groups/1395-can-you-see-him
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/300x200.jpg?1395950540
   image_medium: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/600x400.jpg?1395950764
   image_large: http://s3.amazonaws.com/lcapi.production/series/can-you-see-him/1200x800.jpg?1395950790
