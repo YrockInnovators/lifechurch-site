@@ -1551,7 +1551,15 @@
   open_url: http://open.lifechurch.tv/groups/1602-carols
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805Z'
+    updated_at: '2014-06-05T19:23:33.805Z'
+  - id: 60
+    name: Sam Roberts
+    created_at: '2014-06-11T15:48:49.991Z'
+    updated_at: '2014-06-11T15:48:49.991Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/carols/300x200.jpg?1396024882
   image_medium: http://s3.amazonaws.com/lcapi.production/series/carols/600x400.jpg?1396024923
   image_large: http://s3.amazonaws.com/lcapi.production/series/carols/1200x800.jpg?1396024948
@@ -1585,7 +1593,11 @@
   open_url: http://open.lifechurch.tv/groups/1597-those-people
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/those-people/300x200.jpg?1396022828
   image_medium: http://s3.amazonaws.com/lcapi.production/series/those-people/600x400.jpg?1396022900
   image_large: http://s3.amazonaws.com/lcapi.production/series/those-people/1200x800.jpg?1396022945
@@ -1619,7 +1631,19 @@
   open_url: http://open.lifechurch.tv/groups/1595-passing-the-test
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 21
+    name: Fruits of the Spirit
+    created_at: '2014-06-11T15:15:50.342Z'
+    updated_at: '2014-06-11T15:15:50.342Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 63
+    name: James MacDonald
+    created_at: '2014-06-11T15:49:34.518Z'
+    updated_at: '2014-06-11T15:49:34.518Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/300x200.jpg?1396022464
   image_medium: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/600x400.jpg?1396022525
   image_large: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1200x800.jpg?1396022575
@@ -1647,7 +1671,11 @@
   open_url: http://open.lifechurch.tv/groups/1592-change-your-world-in-52-days
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 72
+    name: Leadership
+    created_at: '2014-06-11T15:52:33.291Z'
+    updated_at: '2014-06-11T15:52:33.291Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/change-your-world/300x200.jpg?1396021202
   image_medium: http://s3.amazonaws.com/lcapi.production/series/change-your-world/600x400.jpg?1396021262
   image_large: http://s3.amazonaws.com/lcapi.production/series/change-your-world/1200x800.jpg?1396021294
@@ -1681,7 +1709,15 @@
   open_url: http://open.lifechurch.tv/groups/1589-twogather
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 47
+    name: Chris Hodges
+    created_at: '2014-06-11T15:26:28.191Z'
+    updated_at: '2014-06-11T15:26:28.191Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/twogather/300x200.jpg?1396021016
   image_medium: http://s3.amazonaws.com/lcapi.production/series/twogather/600x400.jpg?1396021101
   image_large: http://s3.amazonaws.com/lcapi.production/series/twogather/1200x800.jpg?1396021134
@@ -1709,7 +1745,15 @@
   open_url: http://open.lifechurch.tv/groups/1582-bold
   promo: ''
   resources_url: ''
-  categories: []
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805Z'
+    updated_at: '2014-06-05T19:23:33.805Z'
+  - id: 40
+    name: Miracles
+    created_at: '2014-06-11T15:21:20.475Z'
+    updated_at: '2014-06-11T15:21:20.475Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/bold/300x200.jpg?1396020776
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bold/600x400.jpg?1396020833
   image_large: http://s3.amazonaws.com/lcapi.production/series/bold/1200x800.jpg?1396020862
