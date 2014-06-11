@@ -1,16 +1,17 @@
 ---
 - id: money
   title: Money
-  tags: finances, debt, budgets
+  tags: finances, debt, budgets, dave ramsey, investing, saving money, spending money, riches, taxes, wealth, greedy, poverty, stewardship, loans, money management, student loans, cash, investments, save money 
 - id: marriage
   title: Marriage
-  tags: divorce, love, respect
-- id: sin
-  title: Sin
-  tags: lies, lying, repentance, forgiveness
+  tags: divorce, love, respect, adultery, cheating, loving, sex, honor, unity, desires, couples therapy, relationships, counseling 
+- id: sins
+  title: Sins
+  tags: lies, lying, repentance, forgiveness, deception, repent, lust, lying, addiction, anger, gossip, regret, shame, sinful, temptation, cults, worry, bitterness
 - id: worship
   title: Worship    
   tags: fasting, prayers, praises
 - id: family
   title: Family
-  tags: kids, children, parenting 
+  tags: kids, children, parenting, adoption, parents, teenagers, young adults, fighting, legacy, generation
+
