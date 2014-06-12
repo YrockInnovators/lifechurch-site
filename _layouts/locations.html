@@ -376,14 +376,14 @@ hero: locations-hero
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->
-          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+          <form class="form-contact" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
             <input type="hidden" class="recipient" name="recipient" value="{{ pastor.email }}" />
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Pastor" />
             <hr />
             <h6>Get Connected</h6>
             <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
             <input type="text" class="details" name="name" placeholder="Name" />
-            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
             <textarea class="details" name="message" placeholder="Your Message"></textarea>
             <input type="submit"
                    class="button small submit-involved"
@@ -408,14 +408,14 @@ hero: locations-hero
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->
-          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+          <form class="form-contact" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
             <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Campus" />
             <hr />
             <h6>Get Connected</h6>
             <p class="detail">Give us your name and email address or phone number and we'll get back to you on how to get started. <span class="text-gray">(Email only outside of US, please.)</span></p>
             <input type="text" class="details" name="name" placeholder="Name" />
-            <input type="text" class="details" name="phone" placeholder="Email or Phone number" />
+            <input type="text" class="details" name="phone" placeholder="Email" />
             <textarea class="details" name="message" placeholder="Your Message"></textarea>
             <input type="submit"
                    class="button small submit-involved"
