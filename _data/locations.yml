@@ -1461,6 +1461,14 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+- id: bnb
+  title: Broadway and Britton OK Campus
+  email: bnb.serving@lifechurch.tv
+  phone: (405) 213-0248
+  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
+  facebook: '227205990810209'
+  times: []
+  missions: []
 - id: ows
   title: Owasso OK Campus
   email: ows.serving@lifechurch.tv
@@ -1737,11 +1745,3 @@
     url: http://www.roomintheinn.org/
     description_medium: For those who call the streets of Nashville home, volunteers
       will help provide meals, sort mail, teach classes, and mentor.
-- id: bnb
-  title: Broadway and Britton OK Campus
-  email: bnb.serving@lifechurch.tv
-  phone: ''
-  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
-  facebook: '227205990810209'
-  times: []
-  missions: []
