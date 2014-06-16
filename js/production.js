@@ -754,6 +754,15 @@ $(document).ready(function(){
 $(document).ready(function(){
 
   // Search on Watch
+  if(!$('[data-search-input]').val()) {
+    $('[data-search-results]').hide();
+    $('.search-description').hide();
+    $('.group.of-grid-items').show();
+  } else {
+    $('[data-search-results]').show();
+    $('.search-description').show();
+    $('.group.of-grid-items').hide();
+  }
   $('[data-search-form]').keyup(function() {
     if(!$('[data-search-input]').val()) {
       $('[data-search-results]').hide();
