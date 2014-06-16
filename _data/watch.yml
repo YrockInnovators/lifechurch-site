@@ -31,6 +31,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/puzzled/480x340.jpg?1401912237
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/puzzled/960x680.jpg?1401912263
   messages:
+  - title: Week 2
+    headline: ''
+    video: uffm5caj7x
   - title: Week 1
     headline: ''
     video: zcw4vmg6yi
