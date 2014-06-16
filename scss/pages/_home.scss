@@ -113,7 +113,7 @@
   }
 
   .next-week {
-    @include retina-image(/images/home/next-week-small, 355px auto);
+    @include retina-image(/images/home/next-week-small, cover);
     background-position: center !important;
     background-repeat: no-repeat !important;
     background: #f0f0f0;
@@ -126,8 +126,9 @@
     background-size: 80% autox;
 
     @media screen and (min-width: 750px) {
-      @include retina-image(/images/home/next-week, 748px auto);
+      @include retina-image(/images/home/next-week, 1500px auto);
       height: 320px;
+      border-top: 2px solid white;
     }
   }
 
