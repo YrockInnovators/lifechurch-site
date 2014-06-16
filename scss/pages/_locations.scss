@@ -458,7 +458,12 @@ padding-top: 28px;
 
       &.key-lifekids figure {
         background: #69d166;
-          border: 1px solid darken(#69d166, 10%);
+        border: 1px solid darken(#69d166, 10%);
+      }
+
+      &.key-roots figure {
+        background: #f0d700;
+        border: 1px solid darken(#f0d700, 10%);
       }
     }
 
@@ -568,12 +573,19 @@ padding-top: 28px;
         background: $blue;
         border: 1px solid darken($blue, 10%);
         color: darken($blue, 20%);
+        display: none;
       }
 
       &.type-lifekids .time-box {
         background: #69d166;
         border: 1px solid darken(#69d166, 10%);
         color: darken(#69d166, 40%);
+      }
+      
+      &.type-roots .time-box {
+        background: #f0d700;
+        border: 1px solid darken(#f0d700, 10%);
+        color: darken(#f0d700, 20%);
       }
     }
 
