@@ -2,9 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 #navigation {
-  @include outer-container();
-  @include row();
-
+  @include transition(background .25s ease-in-out);
   padding-top: 1.5em;
   padding-bottom: 1.5em;
   position: relative;
@@ -92,4 +90,35 @@
   position: absolute;
   right: 0;
   top: 0;
+}
+
+#persistent-navigation.excuse-me {
+  top: 79px !important;
+} 
+
+.navigation-wrapper {
+  height: 80px;
+}
+
+#navigation.fixed {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background: rgba(255, 255, 255, .97);
+  border-bottom: 1px solid #DDD;
+
+  #header-logo {
+     @include svg-image('../images/branding/logo-red-black');
+  }
+
+  div nav a {
+    color: #444;
+
+    .more-line-1,
+    .more-line-2,
+    .more-line-3 {
+      background: #444;
+    }
+  }
+
 }

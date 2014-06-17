@@ -19,6 +19,7 @@ $tile-color-alt: $black;
     text-align: center;
     font-family: $sans-serif;
     border-bottom: 2px solid $tile-color;
+    background-size: cover !important;
 
     @include media($medium-screen) {
       height: 252px;

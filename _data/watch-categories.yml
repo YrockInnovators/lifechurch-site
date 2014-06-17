@@ -1,16 +1,109 @@
 ---
 - id: money
   title: Money
-  tags: finances, debt, budgets
+  tags: finances, debt, budgets, dave ramsey, investing, saving money, spending money, riches, taxes, wealth, greedy, poverty, stewardship, loans, money management, student loans, cash, investments, save money 
 - id: marriage
   title: Marriage
-  tags: divorce, love, respect
-- id: sin
-  title: Sin
-  tags: lies, lying, repentance, forgiveness
+  tags: divorce, love, respect, adultery, cheating, loving, sex, honor, unity, desires, couples therapy, relationships, counseling 
+- id: sins
+  title: Sins
+  tags: lies, lying, repentance, forgiveness, deception, repent, lust, lying, addiction, anger, gossip, regret, shame, sinful, temptation, cults, worry, bitterness
 - id: worship
   title: Worship    
   tags: fasting, prayers, praises
 - id: family
   title: Family
-  tags: kids, children, parenting 
+  tags: kids, children, parenting, adoption, parents, teenagers, young adults, fighting, legacy, generation
+- id: forgiveness
+  title: Forgiveness
+  tags: forgiven, forgiving
+- id: dating
+  title: Dating
+  tags: purity, cheating, love, loving, sex, honor, respect, desires, relationships, counseling, equality
+- id: death
+  title: Death
+  tags: heaven, hell, salvation, suffering, suicide, judgement, rapture, eternity, satan
+- id: jobs
+  title: Jobs
+  tags: employment, unemployment, payroll
+- id: tithe
+  title: Tithe
+  tags: tithing, giving, generosity, offering, stewardship, money
+- id: relationships
+  title: Relationships
+  tags: relationship with God, relationship with others, friendships, teamwork, peer pressure, betrayal, fighting, love
+- id: fruits of the spirit
+  title: Fruits of the Spirit
+  tags: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control, rejoice
+- id: spiritual growth
+  title: Spiritual Growth
+  tags: kevin durant, kd, maturity, passion
+- id: faith
+  title: Faith
+  tags: commitment, faithful
+- id: wisdom
+  title: Wisdom
+  tags: knowledge
+- id: fears
+  title: Fears
+  tags: worry, failures, scared, afraid, worried
+- id: insecurity
+  title: Insecurity
+  tags: insecure
+- id: pessimistic
+  title: Pessimistic
+  tags: angry, negativity, negative, anger, sad, hate
+- id: pain
+  title: Pain
+  tags: grief, hurt
+- id: optimistic
+  title: Optimistic
+  tags: happy, happiness, love, relief, kind, positive, joy, optimism
+- id: feelings
+  title: Feelings
+  tags: guilt, depressed, lazy, lonely, attitude, jealous, pride, doubts
+- id: thoughts
+  title: Thoughts
+  tags: negative thoughts, positive thoughts
+- id: for women
+  title: For Women
+  tags: christine caine, amy groeschel, sisters, godly women
+- id: for men
+  title: For Men
+  tags: fighting, strength, godly men
+- id: purpose
+  title: Purpose
+  tags: potential, failures, ego, inadequacy, chazown
+- id: miracles
+  title: Miracles
+  tags: healing, faith, obey, obedience
+- id: knowing god
+  title: Knowing God
+  tags: truth, decisions, religion, favor, true
+- id: god
+  title: God
+  tags: lord, jesus christ, i am, jehovah, messiah, son of god, yahweh, heavenly father
+- id: disciplines
+  title: Disciplines
+  tags: habits, decisions, resolutions
+- id: trials
+  title: Trials
+  tags: struggles, hardship, quarrels, testing, grief, burdens
+- id: serving
+  title: Serving
+  tags: helping, selfless, missions, giving
+- id: witnessing
+  title: Witnessing
+  tags: belief, believe, burden, salvation, testimony, trust, surrender, ambassador, christian, evangelism
+- id: virtues
+  title: Virtues
+  tags: honor, purity, loyalty, integrity, gratitude
+- id: church vision
+  title: Church Vision
+  tags: about lifechurch.tv, youversion, direction, church goals
+- id: leadership
+  title: Leadership
+  tags: leading
+- id: supernatural
+  title: Supernatural
+  tags: holy spirit, holy ghost

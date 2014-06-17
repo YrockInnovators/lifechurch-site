@@ -81,7 +81,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
 
-  if(!$('lt-ie9').length) {
+  if(!$('.lt-ie9').length) {
 
     $('.js-more-trigger').on('click', function(e) {
       $('.more-menu').toggleClass('is-visible');
@@ -464,6 +464,32 @@ $('[data-set-campus]').each(function(index) {
   }
 });
 
+$(document).ready(function () {
+  var previousScroll = 0,
+      headerOrgOffset = $('#navigation').offset().top;
+
+  $(window).scroll(function() {
+    var currentScroll = $(this).scrollTop();
+    console.log(currentScroll + " and " + previousScroll + " and " + 100);
+    if(currentScroll > 100) {
+      if (currentScroll > previousScroll) {
+        $('#navigation').fadeOut();
+        $('#persistent-navigation').removeClass('excuse-me');
+      } else {
+        $('#navigation').fadeIn();
+        $('#navigation').addClass('fixed');
+        $('#persistent-navigation').addClass('excuse-me');
+      }
+    } else {
+      $('#navigation').removeClass('fixed'); 
+      $('#navigation').fadeIn();
+      $('#persistent-navigation').removeClass('excuse-me');
+    }
+    previousScroll = currentScroll;
+  });
+
+});
+
 /**
  * A simple JSON search
  * Requires jQuery (v 1.7+)
@@ -728,6 +754,15 @@ $(document).ready(function(){
 $(document).ready(function(){
 
   // Search on Watch
+  if(!$('[data-search-input]').val()) {
+    $('[data-search-results]').hide();
+    $('.search-description').hide();
+    $('.group.of-grid-items').show();
+  } else {
+    $('[data-search-results]').show();
+    $('.search-description').show();
+    $('.group.of-grid-items').hide();
+  }
   $('[data-search-form]').keyup(function() {
     if(!$('[data-search-input]').val()) {
       $('[data-search-results]').hide();
@@ -783,7 +818,5 @@ $(document).ready(function(){
       });
     }
   }
-
-
 
 });

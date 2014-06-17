@@ -39,7 +39,7 @@
 
   // The expanded menu that drops down
   .options-list {
-    background: white;
+    background: rgba(255, 255, 255, .97);
     color: black;
     font-size: 14px;
     text-align: left;
@@ -70,8 +70,6 @@
       }
     }
 
-
-
     // Menu item within the dropdown
     li {
       a {
@@ -87,7 +85,7 @@
       }
 
       &:hover a {
-        background: $light-gray;
+        background: darken($light-gray, 5%);
       }
 
       &:first-child a {
