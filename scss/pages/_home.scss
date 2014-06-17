@@ -112,23 +112,23 @@
     }
   }
 
-  .next-week {
+  .home-tile {
     @include retina-image(/images/home/next-week-small, cover);
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background: #f0f0f0;
-    height: 140px;
-    display: block;
-    position: relative;
+    background-position: center bottom;
     text-indent: -999em;
-    width: 100%;
-    height: 190px;
-    background-size: 80% autox;
 
     @media screen and (min-width: 750px) {
       @include retina-image(/images/home/next-week, 1500px auto);
-      height: 320px;
-      border-top: 2px solid white;
+    }
+
+    &-2 {
+      @include retina-image(/images/home/next-week-small-2, cover);
+      background-position: center bottom;
+      text-indent: -999em;
+
+      @media screen and (min-width: 750px) {
+        @include retina-image(/images/home/next-week-2, 1500px auto);
+      }
     }
   }
 
