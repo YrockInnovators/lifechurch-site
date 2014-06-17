@@ -315,6 +315,12 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
+  - id: 51
+    title: Plaza Towers Elementary
+    recipient: mor.serving@lifechurch.tv
+    url: http://www.mooreschools.com/plazatowers
+    description_medium: Be part of this school’s new start and help build up the youth
+      of today to become tomorrow’s leaders.
 - id: klr
   title: Keller TX Campus
   email: klr.serving@lifechurch.tv
@@ -749,6 +755,12 @@
     url: http://www.habitat.org/
     description_medium: 'Build and renovate high quality, affordable housing and serve
       as a partner and catalyst to create healthy and sustainable communities. '
+  - id: 50
+    title: Youth for Christ
+    recipient: alb.serving@lifechurch.tv
+    url: http://www.cdyfc.org/
+    description_medium: Work together with local churches to raise up lifelong followers
+      of Christ through mentoring and building relationships with young people.
 - id: ykn
   title: Yukon OK Campus
   email: ykn.serving@lifechurch.tv
