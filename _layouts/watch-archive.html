@@ -108,6 +108,7 @@ class: header-red section-watch section-series
     <h2>Related Series</h2> 
 
     <div class="grid-items grid-three">
+
     {% for category in series.categories %}
 
     {% for related in site.data.watch %}
@@ -115,15 +116,20 @@ class: header-red section-watch section-series
     {% if categories.name == category.name %}
     {% unless related.title == series.title %}
 
+    {% for post in site.categories.watch %}{% if post.series-id == related.id %}
+
+
     <!-- Archive Item -->
     <div class="grid-item watch-item">
-      <a href="{{ related.url }}">
+      <a href="{{ post.url }}">
         <div class="panel">
           <img src="{{ related.image_small }}" data-retina="{{ related.image_medium }}" />
           <h6>{{ related.title }}</h6>
         </div>
       </a>
     </div>
+
+    {% endif %}{% endfor %}
 
     {% endunless %}
     {% endif %}

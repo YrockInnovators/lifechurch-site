@@ -76,6 +76,7 @@
 
 .messages-with-description {
   @include row(); 
+  padding-bottom: 3em;
 
   .series-messages {
     @include media($medium-screen) {
