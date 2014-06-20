@@ -4,6 +4,7 @@
 $tile-color: white;
 $tile-color-alt: $black;
 
+.tile-one,
 .tile-two,
 .tile-three {
   @include row();
@@ -65,6 +66,11 @@ $tile-color-alt: $black;
 }
 
 @include media($medium-screen) {
+  .tile-one .tile-item {
+    width: 100%;
+    border: 2px solid $tile-color;
+  }
+  
   .tile-two .tile-item {
     width: 50%;
     float: left;
@@ -87,6 +93,13 @@ $tile-color-alt: $black;
 
 .tile-alt .tile-item {
   border-color: $tile-color-alt;
+}
+
+.lt-ie9 .tile-one .tile-item {
+  width: 100%;
+  margin: 0;
+  border: none;
+  float: left;
 }
 
 .lt-ie9 .tile-two .tile-item {
