@@ -51,15 +51,12 @@
   ///////////////////////////////////////////////////////////////////////////////
 
   .hero {
+    padding-bottom: 2em;
     background: #fef3d3;
     @include retina-image(/images/home/home-bg-small, auto 300px, jpg);
     background-position: top center;
     background-repeat: no-repeat;
-    min-height: 300px;
-
-    blockquote {
-      margin-top: 12em;
-    }
+    min-height: 200px;
 
     .hero-inner .hero-copy {
       margin-top: 60px;
