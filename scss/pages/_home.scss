@@ -51,11 +51,8 @@
   ///////////////////////////////////////////////////////////////////////////////
 
   .hero {
-    background: #f0f0f0;
-  }
-
-  .hero .hero-inner {
-    @include retina-image(/images/home/home-bg-small, auto 150px);
+    background: #fef3d3;
+    @include retina-image(/images/home/home-bg-small, auto 300px, jpg);
     background-position: top center;
     background-repeat: no-repeat;
     min-height: 300px;
@@ -63,15 +60,28 @@
     blockquote {
       margin-top: 12em;
     }
+
+    .hero-inner .hero-copy {
+      margin-top: 60px;
+      
+      @include media($medium-screen) {
+        margin-top: 300px;
+
+        p {
+          font-size: 1.7em;
+          line-height: 1.3em;
+        }
+      }
+    }
     
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, 370px auto);
+      @include retina-image(/images/home/home-bg, 1500px auto, jpg);
       min-height: 470px;
-      background-position: right top;
+      background-position: center top;
     }
 
     @include media($large-screen) {
-      background-size: 570px auto;
+      background-size: 1500px auto;
       min-height: 600px;
     }
 
@@ -79,26 +89,6 @@
       @include hide-text;
     }
 
-    blockquote {
-      margin-bottom: 2em;
-    }
-
-    .hero-copy {
-      @include media($medium-screen) {
-        @include span-columns(5);
-        text-align: left;
-        margin-top: 0;
-
-        blockquote {
-          margin-top: 0;
-        }
-      }
-
-      @include media($large-screen) {
-        @include span-columns(4);
-        margin-top: 5em;
-      }
-    }
   }
 
   // Closing
@@ -119,16 +109,6 @@
 
     @media screen and (min-width: 750px) {
       @include retina-image(/images/home/next-week, 1500px auto);
-    }
-
-    &-2 {
-      @include retina-image(/images/home/next-week-small-2, cover);
-      background-position: center bottom;
-      text-indent: -999em;
-
-      @media screen and (min-width: 750px) {
-        @include retina-image(/images/home/next-week-2, 1500px auto);
-      }
     }
   }
 
