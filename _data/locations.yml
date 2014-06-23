@@ -1554,7 +1554,22 @@
   phone: (405) 213-0248
   address: 9001 N. Broadway Extension Oklahoma City, OK 73114
   facebook: '227205990810209'
-  times: []
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
   missions: []
 - id: ows
   title: Owasso OK Campus
