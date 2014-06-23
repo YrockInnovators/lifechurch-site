@@ -108,7 +108,7 @@ class: header-red section-watch section-series
     <h2>Related Series</h2> 
 
     <div class="grid-items grid-three">
-    {% for category in series.categories limit:1 %}{% for related in site.data.watch %}{% for categories in related.categories limit:1 %}{% if categories.name == category.name %}{% unless related.title == series.title %}{% for post in site.categories.watch %}{% if post.series-id == related.id limit:9 %}
+    {% for category in series.categories limit:1 %}{% for related in site.data.watch %}{% for categories in related.categories %}{% if categories.name == category.name %}{% unless related.title == series.title %}{% for post in site.categories.watch %}{% if post.series-id == related.id limit:9 %}
     <!-- Archive Item -->
     <div class="grid-item watch-item">
       <a href="{{ post.url }}" onclick="ga('send', 'event', 'Watch', 'Click', 'Related Message');">
