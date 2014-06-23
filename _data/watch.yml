@@ -1,4 +1,38 @@
 ---
+- id: love
+  title: Love
+  headline: 'Does perfect love exist? '
+  description_small: 'We look for affection from our friends and family – but no one
+    is perfect. Will we ever find true love that lasts forever? '
+  description_medium: When was the last time you felt truly loved? We were created
+    to desire this mysterious emotion but no one knows how to give or receive it perfectly.
+    Find out what it looks like to have real Love.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1899-love
+  promo: ''
+  resources_url: http://resources.lifechurch.tv/products/love/
+  categories:
+  - id: 21
+    name: Fruits of the Spirit
+    created_at: '2014-06-11T15:15:50.342Z'
+    updated_at: '2014-06-11T15:15:50.342Z'
+  - id: 59
+    name: Judah Smith
+    created_at: '2014-06-11T15:48:39.506Z'
+    updated_at: '2014-06-11T15:48:39.506Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/love/300x200.jpg?1402933720
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/love/600x400.jpg?1402933753
+  image_large: http://s3.amazonaws.com/lcapi.production/series/love/1200x800.jpg?1402933772
+  image_social: http://s3.amazonaws.com/lcapi.production/series/love/400x400.jpg?1401897347
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/love/1500x340.jpg?1403276290
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/love/3000x680.jpg?1403276266
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/love/480x340.jpg?1403276311
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/love/960x680.jpg?1403276336
+  messages:
+  - title: The One You Love
+    headline: ''
+    video: 8uki9ev1ja
 - id: puzzled
   title: Puzzled
   headline: Trying to make sense of life? Find out what to do when life leaves you
