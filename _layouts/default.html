@@ -11,7 +11,7 @@
     {% if page.hero %}<section class="hero top {{ page.hero }}">{% endif %}
     
     {% include navigation.html %}
-    {% unless page.section == 'home' %} {% unless page.section == 'watch' %} {% include tertiary.html %} {% endunless %} {% endunless %}
+    {% unless page.section == 'home' %} {% unless page.section == 'watch' %} {% unless page.section == 'watch-landing' %} {% include tertiary.html %} {% endunless %} {% endunless %} {% endunless %}
 
     {{ content }}
 

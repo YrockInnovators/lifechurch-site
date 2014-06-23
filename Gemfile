@@ -1,10 +1,8 @@
 source 'http://rubygems.org'
 
-ruby '2.0.0'
+ruby '2.1.2'
 
-gem 'compass'
-gem 'foundation'
-gem 'jekyll', '~> 1.4.3'
+gem 'jekyll', '~> 2.0.0'
 
 gem "rack-contrib", "1.1.0"
 gem "rack-rewrite", "1.4.1"
