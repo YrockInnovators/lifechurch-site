@@ -1,0 +1,60 @@
+@import "../../bourbon/bourbon";
+@import "../../bourbon/bourbon";
+@import "../../bitters/bitters";
+
+.hero {
+  background-color: black;
+  @include retina-image(/images/watch/landings/atthemovies/hero-bg, 1500px auto, jpg);
+  background-position: center bottom;
+  height: 600px;
+  color: white;
+  position: relative;
+  
+  .hero-inner,
+  .hero-closing {
+    text-shadow: 1px 0 10px #000;
+  }
+
+  h1 {
+    color: white;
+    //padding-top: 1.5em;
+    font-weight: 300;
+  }
+
+  .action {
+    color: #86def7;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+
+  .hero-closing {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 1em;
+    text-align: center;
+
+    .action {
+      color: $medium-gray;
+
+      &:hover {
+        color: white;
+      }
+    }
+  }
+}
+
+.group.about-lctv {
+  @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
+  background-position: center bottom;
+}
+
+.closing {
+  .container {
+    border: none;
+    padding-top: 0;
+  }
+}
