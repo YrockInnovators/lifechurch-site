@@ -61,6 +61,11 @@
 .icon-social-youtube:before { content: '\e80f'; }
 .icon-social-gplus:before { content: '\e80a'; }
 
+.icon-large { font-size: 2em !important;  }
+
+.icon-social-facebook.icon-color { color: #3b4998;  }
+.icon-social-twitter.icon-color { color: #4099ff;  }
+
 .icon-close:before {
   z-index: 90;
   position: relative;
