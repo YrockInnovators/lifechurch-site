@@ -67,7 +67,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 2.0.0)
+  jekyll (~> 2.0.3)
   puma (= 2.7.1)
   rack-contrib (= 1.1.0)
   rack-rewrite (= 1.4.1)
