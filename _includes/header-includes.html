@@ -10,7 +10,7 @@
 <script src="//cdn.optimizely.com/js/707930009.js"></script>
 
 <!-- General -->
-<title>{% if page.section != 'home' %}{{ page.title }} | {% endif %}LifeChurch.tv</title>
+<title>{{ page.title }}{% if page.section != 'home' %} | LifeChurch.tv{% endif %}</title>
 {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
 <link rel="stylesheet" href="/css/application.css" />
 {% if page.styles %}<link rel="stylesheet" href="/css/pages/{{ page.styles }}" />{% endif %}
