@@ -62,4 +62,5 @@ use Rack::Rewrite do
   r301 %r{^/message-archive/one-prayer/5?$}, '/watch/one-prayer-2010/'
   r301 %r{^/watch/life-money-hope/1?$}, '/watch/life-money-hope/'
   r301 %r{^/message-archive/one-prayer/2?$}, '/watch/one-prayer-2010/'
+  r301 %r{^/(.*).aspx(.*)?$}, '/'
 end
