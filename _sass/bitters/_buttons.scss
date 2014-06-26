@@ -11,6 +11,13 @@
   &.secondary {
     @extend %button-secondary;
   }
+
+  &.expand {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center;
+  }
 }
 
 // Button with options - a dropdown menu from a button

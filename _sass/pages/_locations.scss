@@ -696,7 +696,7 @@ padding-top: 28px;
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, ykn;
+$campuses: alb, bao, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, ykn;
 
 @each $campus in $campuses {
   .location-#{$campus} {
@@ -708,4 +708,20 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
       @include retina-image(/locations/assets/campus/#{$campus}-map, 1196px 398px, jpg);
     }
   }
+}
+
+.location-wch .group {
+  padding: 3em 0;
+}
+
+.location-bnb .locations-hero {
+  @include retina-image(/locations/assets/campus/bnb-bg, 1500px 750px, jpg);
+  background-size: 1500px 750px;
+  background-position: center bottom;
+}
+
+.location-wch .locations-hero {
+  @include retina-image(/locations/assets/campus/wch-bg, 1500px 750px, jpg);
+  background-size: 1500px 750px;
+  background-position: center top;
 }
