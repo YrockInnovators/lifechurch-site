@@ -56,7 +56,7 @@ use Rack::Rewrite do
   r301 %r{^/southokc_new/public/about_life/job_opportunities.php?$}, '/jobs/'
   r301 %r{^/network?$}, '/equipping-churches/'
   r301 %r{^/wichita?$}, '/locations/wch/'
-  r301 %r{^resources/lk_list/music?$}, '/kids/'
+  r301 %r{^/resources/lk_list/music?$}, '/kids/'
   r301 %r{^/okc_new/public/about_life/beliefs_scriptures.php?rv=12?$}, '/beliefs/'
   r301 %r{^/tulsa?$}, '/locations/tul/'
   r301 %r{^/message-archive/one-prayer/5?$}, '/watch/one-prayer-2010/'
