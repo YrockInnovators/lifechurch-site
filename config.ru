@@ -16,7 +16,7 @@ use Rack::TryStatic,
     [["svg"],   {'Content-Type' => 'image/svg+xml'}],
     [["jpg"],   {'Content-Type' => 'image/jpg'}],
     [["ico"],   {'Content-Type' => 'image/x-icon'}],
-    ["/", {'Cache-Control' => 'public, max-age=259200'}],
+    ["/", {'Cache-Control' => 'public, max-age=86400'}],
   ]
 
 run Rack::NotFound.new('_site/404.html')
