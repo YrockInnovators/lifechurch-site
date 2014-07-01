@@ -19,4 +19,20 @@
 <meta itemprop="name" content="{{ series.title }}">
 <meta itemprop="image" content="{{ series.image_social }}">
 <meta itemprop="description" content="{{ series.description_medium }}">
-{% endif %} {% endfor %} {% endif %}
+{% endif %} {% endfor %} {% else %}
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.lifechurch.tv{{ page.url }}" />
+<meta property="og:site_name" content="LifeChurch.tv" />
+
+<!-- Twitter Card data -->
+<meta name="twitter:site" content="@lifechurchtv">
+<meta name="twitter:title" content="{{ page.title }}">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="{{ page.title }}">
+<meta itemprop="image" content="{{ page.image_social }}">
+<meta itemprop="description" content="{{ page.description_medium }}">
+{% endif %}
