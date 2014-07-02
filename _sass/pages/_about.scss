@@ -112,10 +112,12 @@ form .has-error {
     @include retina-image(/images/about/live-hero-bg-small, cover, jpg);
     background-position: center top;
     background-repeat: no-repeat;
+    padding-bottom: 200px;
 
     @include media($medium-screen) {
       @include retina-image(/images/about/live-hero-bg, 1500px 911px, jpg);
       height: 911px;
+      padding-bottom: 3em;
     }
   }
 
