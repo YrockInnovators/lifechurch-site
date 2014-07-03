@@ -53,16 +53,29 @@
   .hero {
     padding-bottom: 2em;
     background: #fef3d3;
-    @include retina-image(/images/home/home-bg-small, auto 300px, jpg);
+    @include retina-image(/images/home/home-bg-small, cover, jpg);
     background-position: top center;
     background-repeat: no-repeat;
     min-height: 200px;
 
     .hero-inner .hero-copy {
-      margin-top: 60px;
+      margin-top: 20px;
+
+      h1,
+      p {
+        color: white;
+      }
+
+      .action {
+        color: #86def7;
+
+        &:hover {
+          color: $blue;
+        }
+      }
       
       @include media($medium-screen) {
-        margin-top: 300px;
+        margin-top: 80px;
 
         p {
           font-size: 1.7em;
@@ -74,7 +87,7 @@
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, 1500px auto, jpg);
       min-height: 470px;
-      background-position: center top;
+      background-position: center bottom;
     }
 
     @include media($large-screen) {
@@ -83,7 +96,7 @@
     }
 
     h1 {
-      @include hide-text;
+    //  @include hide-text;
     }
 
   }
