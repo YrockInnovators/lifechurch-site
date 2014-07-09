@@ -659,6 +659,12 @@
     description_medium: In partnership with this Pregnancy Wellness program, provide
       emotional support, material assistance, education and counseling, community
       referrals, and pregnancy wellness classes.
+  - id: 4
+    title: The Mentoring Project
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the fatherless story through mentoring, training,
+      resourcing, and encouraging at-risk and fatherless kids.
   - id: 34
     title: The Spero Project
     recipient: mwc.serving@lifechurch.tv
