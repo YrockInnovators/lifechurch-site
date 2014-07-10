@@ -19,7 +19,7 @@ hero: locations-hero
           <li><a href="#location">Location</a></li>
           <li><a href="#times">Service Times</a></li>
           <li><a href="#serving">Serving</a></li>
-          <li><a href="#localpartners">Local Partners</a></li>
+          {% if location.missions != empty %} <li><a href="#localpartners">Local Partners</a></li> {% endif %}
           <li><a href="#events">Events</a></li>
           <li><a href="#connect">Connect</a></li>
         </ul>
@@ -146,7 +146,7 @@ hero: locations-hero
             <li class="time duration-240">
               <label>Wednesdays</label>
             </li>
-            
+
             {% for time in location.times %}
             {% if time.day == 'wed' %}
               <li class="time time-{{ time.time }} duration-{{ time.duration }} type-{{ time.type }}">
@@ -162,7 +162,7 @@ hero: locations-hero
               </li>
             {% endif %}
             {% endfor %}
-          
+
           </ul>
         </div>-->
       </section>
@@ -202,7 +202,7 @@ hero: locations-hero
     </ul>
   </div>
 </section>
-
+{% if location.missions != empty %}
 <section id="localpartners" class="group alt">
   <div class="container">
     <div class="single">
@@ -220,6 +220,7 @@ hero: locations-hero
     </ul>
   </div>
 </section>
+{% endif %}
 
 <section id="events" class="group">
   <div class="container">
@@ -446,7 +447,7 @@ hero: locations-hero
           <p>
             <a href="https://www.facebook.com/{{ location.facebook }}"
                class="action"
-               target="_blank" 
+               target="_blank"
                onclick="ga('send', 'event', 'Locations', 'Click', 'Contact Facebook');">
                Visit the Campus Facebook Page <i class="icon icon-window"></i>
             </a>
