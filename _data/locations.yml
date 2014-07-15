@@ -568,13 +568,6 @@
     url: http://www.baschools.org/vnews/display.v/SEC/Arrowhead
     description_medium: Provide character and team building experiences and allow
       students to work with one another in a small group setting to build new friendships.
-  - id: 21
-    title: 111 Project
-    recipient: bao.serving@lifechurch.tv
-    url: http://111project.org/
-    description_medium: The goal of this organization is for every child to have a
-      family and to be loved. You can provide hope and love to children in your community.
-      1 Church, 1 Family, 1 Purpose.
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
@@ -666,6 +659,12 @@
     description_medium: In partnership with this Pregnancy Wellness program, provide
       emotional support, material assistance, education and counseling, community
       referrals, and pregnancy wellness classes.
+  - id: 4
+    title: The Mentoring Project
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the fatherless story through mentoring, training,
+      resourcing, and encouraging at-risk and fatherless kids.
   - id: 34
     title: The Spero Project
     recipient: mwc.serving@lifechurch.tv

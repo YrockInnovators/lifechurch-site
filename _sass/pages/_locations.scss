@@ -42,14 +42,14 @@ padding-top: 28px;
   // Page title links
   .main-copy {
     margin-top: -160px;
-    
+
     a {
       color: $black;
     }
 
     .action.small {
       padding-top: 1em;
-      display: inline-block; 
+      display: inline-block;
     }
   }
 
@@ -65,7 +65,7 @@ padding-top: 28px;
   }
 
   // Small screen hero
-  
+
   .hero-small-locations {
     @media only screen and (max-width: $medium-screen) {
       @include svg-image('/locations/assets/map');
@@ -357,7 +357,7 @@ padding-top: 28px;
 
 // Map
 .locations-map {
-  background-color: #fff; 
+  background-color: #fff;
   background-position: left top;
   background-repeat: no-repeat;
   height: 170px;
@@ -581,7 +581,7 @@ padding-top: 28px;
         border: 1px solid darken(#69d166, 10%);
         color: darken(#69d166, 40%);
       }
-      
+
       &.type-roots .time-box {
         background: #f0d700;
         border: 1px solid darken(#f0d700, 10%);
@@ -696,7 +696,7 @@ padding-top: 28px;
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, ykn;
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, ykn;
 
 @each $campus in $campuses {
   .location-#{$campus} {
@@ -712,12 +712,6 @@ $campuses: alb, bao, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto,
 
 .location-wch .group {
   padding: 3em 0;
-}
-
-.location-bnb .locations-hero {
-  @include retina-image(/locations/assets/campus/bnb-bg, 1500px 750px, jpg);
-  background-size: 1500px 750px;
-  background-position: center bottom;
 }
 
 .location-wch .locations-hero {
