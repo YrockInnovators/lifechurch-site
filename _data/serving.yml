@@ -50,9 +50,9 @@
   description_small: 'People are being transformed as they find hope and experience the love of Christ at Church Online.'
   description_medium: 'People are being transformed as they find hope and experience the love of Christ at Church Online. The Experience Team provides a comfortable environment by welcoming, chatting, and praying with Church Online attendees at experiences throughout the week.'
   website: ''
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-1200x800.jpg'
 
 - id: serving-7
   title: Engagement Team
@@ -62,9 +62,9 @@
   description_small: 'The Engagement Team receives, prays for, and responds to prayer requests from people all over the world.'
   description_medium: "Struggling and searching for answers aren't limited to a specific day or time. Church Online connects people to a caring community at their deepest moment of need. The Engagement Team receives, prays for, and responds to prayer requests from people all over the world."
   website: ''
-  image_small: '' 
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-300x200.jpg' 
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-1200x800.jpg'
 
 - id: serving-8
   title: Finance
@@ -74,9 +74,9 @@
   description_small: 'The Financial Operations Team assists all of our locations with budgeting, contribution processing, and accounts payable.' 
   description_medium: 'The Financial Operations Team assists all of our locations with budgeting, contribution processing, and accounts payable. Serve with the team during business hours (Monday-Friday, 8:00am-5:00pm) to help support all LifeChurch.tv locations.'
   website: ''
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-finance-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-finance-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-finance-1200x800.jpg'
 
 - id: serving-9
   title: Administrative & Special Projects
@@ -86,9 +86,9 @@
   description_small: 'You can use your administrative gifts by setting up and serving at special events, answering phones, and organizing day-to-day ministry functions.'
   description_medium: 'You can use your administrative gifts by setting up and serving at special events, answering phones, and organizing day-to-day ministry functions that, in turn, support the entire LifeChurch.tv Central Team.'
   website: ''
-  image_small: '' 
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-1200x800.jpg'
 
 - id: serving-10
   title: 'Information Technology (IT)'
@@ -97,9 +97,9 @@
   url: ''
   description_small: 'Detail-oriented volunteers provide a valuable service by maintaining the database that keeps our church running smoothly through front-end data entry and accuracy checks, which can be done from anywhere.'
   description_medium: 'Detail-oriented volunteers help by maintaining the database that keeps our church running smoothly through data entry and accuracy checks, which can be done from anywhere. Additional opportunities are available for technically skilled and trained individuals.'
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-it-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-it-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-it-1200x800.jpg'
 
 - id: serving-12
   title: Digital Missions
@@ -109,9 +109,9 @@
   description_small: ''
   description_medium: 'The Digital Missions team leverages technology to reach the world of Christ. You can impact thousands of churches by supporting tools like Open, Church Metrics, Church Online Platform, and Develop.Me. If you love interacting with the social media community, solving problems, organizing data, translating sermons, managing files, or answering questions from other churches and you also love the global Church, Digital Missions is for you.'
   website: ''
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-digitalmissions-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-digitalmissions-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-digitalmissions-1200x800.jpg'
 
 - id: serving-13
   title: Cast and Crew
@@ -121,9 +121,9 @@
   description_small: 'If you’ve ever wanted to experience life on a movie set, you can be part of LifeChurch.tv Productions Cast & Crew.'
   description_medium: 'If you’ve ever wanted to experience life on a movie set, you can be part of LifeChurch.tv Productions Cast & Crew. We are looking for actors, voice over talent, production assistants, hairstylists, grips, set builders—the list goes on and on. You can also keep up with available opportunities, casting calls, and set design projects on the <a href="https://www.facebook.com/lctvmedia?ref=br_tf">Cast & Crew Facebook page</a>.'
   website: ''
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-castcrew-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-castcrew-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-castcrew-1200x800.jpg'
 
 - id: serving-15
   title: Bible.com
@@ -133,6 +133,6 @@
   description_small: 'With millions of users worldwide, the YouVersion team relies on passionate volunteers to do extraordinary things so people can grow closer to God through His Word. '
   description_medium: 'With millions of users worldwide, the YouVersion team relies on passionate volunteers to do extraordinary things so people can grow closer to God through His Word. Whether translating interfaces, answering user support questions, leading others in prayer online, proofreading and editing reading plans, beta testing Bible App updates, or using another gift or skill, there are many ways to reach people with the story of God’s love. Visit the <a href="http://volunteer.youversion.com/become-a-volunteer">YouVersion volunteer site</a> for details.'
   website: ''
-  image_small: ''
-  image_medium: ''
-  image_large: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-bible-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-bible-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-bible-1200x800.jpg'
