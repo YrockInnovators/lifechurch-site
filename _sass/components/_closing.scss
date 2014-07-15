@@ -1,3 +1,6 @@
+// Closing - Footer section of page
+///////////////////////////////////////////////////////////////////////////////
+
 .closing {
   font-family: $sans-serif;
   padding: 2em 0;
@@ -57,6 +60,9 @@
     color: $dark-gray;
   }
 }
+
+// Legacy fallbacks
+///////////////////////////////////////////////////////////////////////////////
 
 .lt-ie9 .closing-site-links {
   display: none;

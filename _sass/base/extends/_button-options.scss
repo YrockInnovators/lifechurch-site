@@ -1,29 +1,4 @@
-// Button - standard clickable button
-///////////////////////////////////////////////////////////////////////////////
-
-.button {
-  @extend %button;
-
-  &.large {
-    @extend %button-large;
-  }
-
-  &.secondary {
-    @extend %button-secondary;
-  }
-
-  &.expand {
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-    text-align: center;
-  }
-}
-
-// Button with options - a dropdown menu from a button
-///////////////////////////////////////////////////////////////////////////////
-
-.button-with-options {
+%button-with-options {
   display: inline-block;
   
   // Little down arrow next to the button

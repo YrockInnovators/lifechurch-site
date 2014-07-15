@@ -1,3 +1,6 @@
+// Video Player
+///////////////////////////////////////////////////////////////////////////////
+
 .video-player {
   display: none;
   position: fixed;
@@ -71,7 +74,7 @@
   }
 }
 
-//for whenever the modal is visible, we don't want the body to be scrollable
+// For whenever the modal is visible, we don't want the body to be scrollable
 .noscroll {
   overflow: hidden;
 }

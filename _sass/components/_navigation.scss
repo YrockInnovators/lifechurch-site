@@ -10,8 +10,8 @@
 
   #header-logo {
     @include span-columns(8);
-    @include hide-text;
     @include svg-image('../images/branding/logo-red-black');
+    @extend %hide-text;
 
     .logo-white-white & {
       @include svg-image('../images/branding/logo-white-white');
@@ -137,5 +137,4 @@
   .nav-live {
     color: $dark-gray;
   }
-
 }
