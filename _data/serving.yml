@@ -66,6 +66,18 @@
   image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-600x400.jpg'
   image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-1200x800.jpg'
 
+- id: serving-16
+  title: Social Media Street Team
+  location: Online
+  recipient: info@lifechurch.tv
+  url: ''
+  description_small: 'This team uses the power of social media, specifically Facebook and Twitter, to reach people who are already online.'
+  description_medium: "This team uses the power of social media, specifically Facebook and Twitter, to reach people who are already online. They share information, participate in specific online conversations, invite others into the discussion, and help spread the word about Church Online at LifeChurch.tv."
+  website: ''
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+
 - id: serving-8
   title: Finance
   location: Central
