@@ -119,4 +119,5 @@ use Rack::Rewrite do
   r301 %r{^/causes/5-distinctives?$}, '/lifemissions/'
   r301 %r{^/causes/my-causes?$}, '/lifemissions/'
   r301 %r{^/(.*).php(.*)?$}, '/' 
+  r301 %r{^/wichita?$}, '/locations/wch/'
 end
