@@ -222,22 +222,17 @@
   }
 }
 
-.hero-watch-archive {
+.hero-watch {
   background-color: #f0f1eb;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: 1500px;
-  margin: -27px auto 0;
+  max-width: 1500px; 
   padding: 0;
   position: relative;
   display: block;
   color: #fff;
   min-height: 340px;
-
-  @include media($medium-screen) {
-    margin: -33px auto;
-  }
 
   &:hover {
     color: #fff;
@@ -274,5 +269,14 @@
     margin-top: 10px;
     margin-bottom: 20px;
     color: #fff !important;
+  }
+}
+
+.hero-watch-archive {
+  @extend .hero-watch;
+  margin: -27px auto 0;
+
+  @include media($medium-screen) {
+    margin: -33px auto;
   }
 }
