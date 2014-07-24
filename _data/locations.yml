@@ -568,6 +568,12 @@
     url: http://www.baschools.org/vnews/display.v/SEC/Arrowhead
     description_medium: Provide character and team building experiences and allow
       students to work with one another in a small group setting to build new friendships.
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: bao.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: 'Help restore the lives of boys and lead them to be healthy,
+      responsible young men. '
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
