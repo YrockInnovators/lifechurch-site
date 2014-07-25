@@ -951,12 +951,6 @@
     duration: 60
     type: service-time
   missions:
-  - id: 20
-    title: Switch
-    recipient: tul.serving@lifechurch.tv
-    url: ''
-    description_medium: Lead students to become fully devoted followers of Christ
-      by mentoring them on weekly basis.
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@lifechurch.tv
