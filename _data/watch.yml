@@ -1,4 +1,44 @@
 ---
+- id: atm-2014-five-easy-steps
+  title: Five Easy Steps to Wreck Your Life
+  headline: ''
+  description_small: ''
+  description_medium: Nobody plans for it to happen, but life can get pretty messy.
+    Trouble with our relationships…harmful habits…feeling far from God…we look back
+    and wonder, “How did I end up here?” Starting down that path is easier than you
+    might think, unless you know what to look for.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1425-5-easy-steps-to-wreck-your-life
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 12
+    name: Marriage
+    created_at: '2014-06-05T19:14:26.586Z'
+    updated_at: '2014-06-05T19:14:26.586Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: http://s3.amazonaws.com/lcapi.production/series/atm-2014-five-easy-steps/400x400.jpg?1404932459
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages:
+  - title: How to Become an Addict
+    headline: ''
+    video: dqb1llfx3m
+  - title: How to Drift From God
+    headline: ''
+    video: 4fhn7ydkx4
+  - title: How to Commit Adultery
+    headline: ''
+    video: m2xawcp08d
 - id: love
   title: Love
   headline: 'Does perfect love exist? '
