@@ -344,11 +344,6 @@ padding-top: 28px;
     background-position: center;
   }
 
-  .tile-lifegroups-2 {
-    @include retina-image(/locations/assets/campus-tile-lifegroups-2, cover, jpg);
-    background-position: center;
-  }
-
   .tile-what-to-expect {
     @include retina-image(/locations/assets/campus-tile-what-to-expect, cover, jpg);
     background-position: center;
