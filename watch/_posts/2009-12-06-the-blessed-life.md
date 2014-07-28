@@ -2,5 +2,5 @@
 published: true
 layout: watch-archive
 categories: watch
-series-id: the-blessed-life
+series-id: blessed-life
 ---

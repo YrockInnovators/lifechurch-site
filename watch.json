@@ -1,23 +1,15 @@
 ---
 ---
 [
-{% for post in site.categories.watch %}
-  {% if post.title != null and post.title != empty and post.search_omit != true %}
-  
-  {% for series in site.data.watch %}
-  {% if series.id == post.series-id %}
-
-    {% if forloop.index > 1 %},{% endif %}{
-      "id": "{{ post.id }}",
-      "title": "{{ post.title }}",
-      "link": "{{ site.url }}{{ post.url }}",
-      "date": "{{ post.date }}",
-      "image": "{{ series.image_medium }}",
-      "tags": "{% for category in series.categories %}{{ category.name }} {% for tags in site.data.watch-categories %}{% if tags.title == category.name %}{{ tags.tags }} {% endif %}{% endfor %}{% endfor %}"
-    }
-  {% endif %}
-  {% endfor %}
-
-  {% endif %}
-{% endfor %}
+{% for post in site.categories.watch %}{% if post.title != null and post.title != empty and post.search_omit != true %}
+  {% unless forloop.first == true %},{% endunless %}{% for series in site.data.watch %}{% if series.id == post.series-id %}{
+    "id": "{{ post.id }}",
+    "title": "{{ post.title }}",
+    "link": "{{ site.url }}{{ post.url }}",
+    "date": "{{ post.date }}",
+    "image": "{{ series.image_medium }}",
+    "tags": "{% for category in series.categories %}{{ category.name }} {% for tags in site.data.watch-categories %}{% if tags.title == category.name %}{{ tags.tags }} {% endif %}{% endfor %}{% endfor %}"
+  }
+  {% endif %}{% endfor %}
+{% endif %}{% endfor %}
 ]
