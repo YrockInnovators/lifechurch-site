@@ -1587,11 +1587,21 @@
   missions: []
 - id: wch
   title: Wichita KS Campus
-  email: ''
+  email: wch.serving@lifechurch.tv
   phone: 316-202-6640
   address: 1544 N. Governeour Rd. Wichita, KS 67206
   facebook: '1454704991443722'
-  times: []
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
   missions: []
 - id: ows
   title: Owasso OK Campus
