@@ -50,6 +50,10 @@
   // Feature 
   ///////////////////////////////////////////////////////////////////////////////
 
+   #navigation .nav-live {
+     color: #b47d5f;
+   }
+
   .hero {
     padding-bottom: 2em;
     background: #fef3d3;
@@ -61,18 +65,13 @@
     .hero-inner .hero-copy {
       margin-top: 20px;
 
-      h1,
-      p {
-        color: white;
-      }
+      //.action {
+      //  color: #86def7;
 
-      .action {
-        color: #86def7;
-
-        &:hover {
-          color: $blue;
-        }
-      }
+      //  &:hover {
+      //    color: $blue;
+      //  }
+      //}
       
       @include media($medium-screen) {
         margin-top: 80px;
@@ -87,16 +86,39 @@
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, 1500px auto, jpg);
       min-height: 470px;
-      background-position: center bottom;
+      background-position: -400px -120px
     }
 
     @include media($large-screen) {
       background-size: 1500px auto;
-      min-height: 600px;
+      min-height: 650px;
+      background-position: center bottom;
     }
 
     h1 {
-    //  @include hide-text;
+      @include hide-text;
+      @include retina-image(/images/home/home-title, 300px auto);
+      width: 300px;
+      height: 50px;
+      margin: 0 auto 20px;
+      display: block;
+
+      @include media($medium-screen) {
+        @include retina-image(/images/home/home-title, 350px 58px);
+        width: 350px;
+        height: 58px;
+        margin: 100px 0 30px;
+      }
+    }
+
+    .hero-side {
+      .action {
+        color: #09708e;
+
+        &:hover {
+          color: darken(#09708e, 20%);
+        }
+      }
     }
 
   }
