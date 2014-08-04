@@ -1,4 +1,38 @@
 ---
+- id: stand
+  title: Stand
+  headline: When push comes to shove, it might seem easier to let things slide rather
+    than fight for what’s right.
+  description_small: When your beliefs are challenged, do you have the courage to
+    Stand?
+  description_medium: When we’re pushed to our limit, we have a choice to make. Will
+    we choose the path of least resistance or will we have the courage to take a Stand?
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1909-stand
+  promo: gq9kpcrcp7
+  resources_url: http://resources.lifechurch.tv/products/stand/
+  categories:
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 40
+    name: Miracles
+    created_at: '2014-06-11T15:21:20.475Z'
+    updated_at: '2014-06-11T15:21:20.475Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/stand/300x200.jpg?1405366982
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/stand/600x400.jpg?1405367007
+  image_large: http://s3.amazonaws.com/lcapi.production/series/stand/1200x800.jpg?1405367040
+  image_social: http://s3.amazonaws.com/lcapi.production/series/stand/400x400.jpg?1404934723
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stand/1500x340.jpg?1406565165
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stand/3000x680.jpg?1406565130
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stand/480x340.jpg?1406565187
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stand/960x680.jpg?1406565217
+  messages:
+  - title: Stand Out
+    headline: ''
+    video: 2p64n4bvmp
 - id: atm-2014-five-easy-steps
   title: Five Easy Steps to Wreck Your Life
   headline: ''
