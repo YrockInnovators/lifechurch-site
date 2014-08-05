@@ -1,0 +1,22 @@
+---
+layout: default
+section: talkitover
+categories: talkitover
+class: header-red section-talkitover
+---
+
+{% for series in site.categories.watch %}
+{% if series.series-id == page.series-id %}
+
+{% for data in site.data.watch %}
+{% if data.id == page.series-id %}
+
+{% include tertiary.html %}
+
+{{ content }}
+
+{% endif %}
+{% endfor %}
+
+{% endif %}
+{% endfor %}
