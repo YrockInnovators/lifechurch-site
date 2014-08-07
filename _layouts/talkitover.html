@@ -13,7 +13,15 @@ class: header-red section-talkitover
 
 {% include tertiary.html %}
 
-{{ content }}
+<section class="single">
+  <header>
+    <h1>{{ series.title }} {{ page.title }}</h1>
+  </header>
+
+  <article>
+    {{ content }}
+  </article>
+</section>
 
 {% endif %}
 {% endfor %}
