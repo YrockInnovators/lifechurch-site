@@ -198,31 +198,31 @@ $(function() {
     var phone = form.find('input[name="phone"]').val();
     var detail = name + ": " + phone;
 
-    if ($('select[name="subject"]').val() == "select") {
-      $('select[name="subject"]').addClass('has-error');
+    if ($(this).find('select[name="subject"]').val() == "select") {
+      $(this).find('select[name="subject"]').addClass('has-error');
     } else {
-      $('select[name="subject"]').removeClass('has-error');
+      $(this).find('select[name="subject"]').removeClass('has-error');
     }
 
-    if ($('textarea[name="message"]').val() == "") {
-      $('textarea[name="message"]').addClass('has-error');
+    if ($(this).find('textarea[name="message"]').val().length === 0) {
+      $(this).find('textarea[name="message"]').addClass('has-error');
     } else {
-      $('textarea[name="message"]').removeClass('has-error');
+      $(this).find('textarea[name="message"]').removeClass('has-error');
     }
 
-    if ($('input[name="name"]').val() == "") {
-      $('input[name="name"]').addClass('has-error');
+    if ($(this).find('input[name="name"]').val().length === 0) {
+      $(this).find('input[name="name"]').addClass('has-error');
     } else {
-      $('input[name="name"]').removeClass('has-error');
+      $(this).find('input[name="name"]').removeClass('has-error');
     }
 
-    if ($('input[name="phone"]').val() == "") {
-      $('input[name="phone"]').addClass('has-error');
+    if ($(this).find('input[name="phone"]').val().length === 0) {
+      $(this).find('input[name="phone"]').addClass('has-error');
     } else {
-      $('input[name="phone"]').removeClass('has-error');
+      $(this).find('input[name="phone"]').removeClass('has-error');
     }
 
-    if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0) {
+    if (name.length === 0 || phone.length === 0 || message.length === 0) {
       return false;
     } else {
       $.post(form.attr('action'), {
