@@ -400,7 +400,7 @@ hero: locations-hero
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->
-          <form class="form-contact" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+          <form class="form-contact-simple" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
             <input type="hidden" class="recipient" name="recipient" value="{{ pastor.email }}" />
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Pastor" />
             <hr />
@@ -432,7 +432,7 @@ hero: locations-hero
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->
-          <form class="form-contact" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
+          <form class="form-contact-simple" action="http://lifechurch-site-mailer.herokuapp.com/contact" method="post">
             <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Campus" />
             <hr />
