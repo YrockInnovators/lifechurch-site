@@ -34,6 +34,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stand/480x340.jpg?1406565187
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stand/960x680.jpg?1406565217
   messages:
+  - title: Stand Up
+    headline: ''
+    video: q8igoyfefa
   - title: Stand Out
     headline: ''
     video: 2p64n4bvmp
