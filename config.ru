@@ -136,5 +136,8 @@ use Rack::Rewrite do
   r301 %r{^/locations/sto/?$}, '/southtulsa/'
   r301 %r{^/locations/ftw/?$}, '/fortworth/'
   r301 %r{^/locations/klr/?$}, '/keller/'
+  r301 %r{^/locations/wel/?$}, '/wellington/'
+  r301 %r{^/locations/alb/?$}, '/albany/'
+  r301 %r{^/locations/hnv/?$}, '/hendersonville/'
   r301 %r{^/switch?$}, '/kids/#switch'
 end
