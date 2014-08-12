@@ -19,15 +19,8 @@ hero: locations-hero
   <section class="single text-center">
     <header>
       <h1>{{ location.title }}</h1>
+      {% include locations-nav.html %}
     </header>
-
-    <article>
-      {% if page.spreadtheword == true %}
-      <p>Together, we can reach people with the love of Christ. LifeChurch.tv is excited to become part of the community at {{ page.title }}.</p>
-      {% endif %}
-
-      {% unless page.spreadtheword == true %}{% include locations-nav.html %}{% endunless %}
-    </article>
   </section>
 
 {% if page.spreadtheword == true %}
@@ -74,9 +67,7 @@ hero: locations-hero
   {% if page.spreadtheword == true %}
   <div class="single">
     <article class="text-center">
-      <h2>{{ location.title }} Location</h2>
-      <p>Some text goes here introducing the location map, Google maps link and Facebook page link that can all be found below.</p>
-      {% if page.spreadtheword %}{% include locations-nav.html %}{% endif %}
+      <h2>{{ location.title }} Location</h2> 
     </article>
   </div>
 
