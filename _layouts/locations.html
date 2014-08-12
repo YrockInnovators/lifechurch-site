@@ -9,24 +9,82 @@ hero: locations-hero
 {% for location in site.data.locations %}
 {% if location.id == page.location-id %}
 
-<section id="location" class="title-and-map group">
-  <div class="container">
-    <header class="text-center">
-      <h1>{{ location.title }}</h1>
+{% if page.spreadtheword == true %}
+<div class="group before-spreadtheword">
+{% else %}
+<div class="group">
+{% endif %}
 
-      <div class="persistent-navigation-wrapper large-element">
-        <ul id="persistent-navigation" class="large-element">
-          <li><a href="#location">Location</a></li>
-          <li><a href="#times">Service Times</a></li>
-          <li><a href="#serving">Serving</a></li>
-          {% if location.missions != empty %} <li><a href="#localpartners">Local Partners</a></li> {% endif %}
-          <li><a href="#events">Events</a></li>
-          <li><a href="#connect">Connect</a></li>
-        </ul>
-      </div>
+  <!-- Location Header -->
+  <section class="single text-center">
+    <header>
+      <h1>{{ location.title }}</h1>
     </header>
 
-    <div class="locations-map">
+    <article>
+      {% if page.spreadtheword == true %}
+      <p>Together, we can reach people with the love of Christ. LifeChurch.tv is excited to become part of the community at {{ page.title }}.</p>
+      {% endif %}
+
+      {% unless page.spreadtheword == true %}{% include locations-nav.html %}{% endunless %}
+    </article>
+  </section>
+
+{% if page.spreadtheword == true %}
+</div>
+{% endif %}
+
+{% if page.spreadtheword == true and page.mailer %}
+<!-- Spread the Word with Mailer -->
+<div class="group alt spreadtheword">
+  <div class="container">
+    <section id="spreadtheword" class="article-with-figure">
+      <article>
+        <h2>Spread the Word</h2> 
+        {% include locations-spreadtheword.html %}
+      </article>
+
+      <figure>
+        {% include locations-mailer.html %}
+      </figure>
+    </section>
+  </div>
+</div>
+{% elsif page.spreadtheword == true %}
+<!-- Spread the Word without Mailer -->
+<div class="group alt">
+  <section class="single">
+    <header class="text-center">
+      <h2>Spread the Word</h2> 
+    </header>
+    <article>
+      {% include locations-spreadtheword.html %}
+    </article>
+  </section>
+</div>
+{% endif %}
+
+{% if page.location == true %}
+{% if page.spreadtheword == true %}
+<div id="location" class="group">
+{% else %}
+<div id="location">
+{% endif %}
+  <!-- Location Map -->
+  {% if page.spreadtheword == true %}
+  <div class="single">
+    <article class="text-center">
+      <h2>{{ location.title }} Location</h2>
+      <p>Some text goes here introducing the location map, Google maps link and Facebook page link that can all be found below.</p>
+      {% if page.spreadtheword %}{% include locations-nav.html %}{% endif %}
+    </article>
+  </div>
+
+  <div class="container padded">
+  {% else %}
+  <div class="container">
+  {% endif %}
+    <section class="locations-map">
       <div class="pin"></div>
       <div class="address">
         {{ location.address }}<br />
@@ -34,10 +92,14 @@ hero: locations-hero
         <a href="http://maps.google.com/?q={{ location.address }}" class="action">Get Directions <i class="icon icon-arrow"></i></a><br class="large-element" />
         <a class="action" href="https://www.facebook.com/{{ location.facebook }}">Facebook Page <i class="icon icon-arrow"></i></a>
       </div>
-    </div>
+    </section>
   </div>
-</section>
+</div>
+{% endif %}
 
+{% if page.spreadtheword != true %}</div>{% endif %}
+
+{% if page.times == true %}
 <section id="times" class="group alt">
   <div class="container">
     <header class="text-center">
@@ -187,12 +249,14 @@ hero: locations-hero
     {% endif %}
   </div>
 </section>
+{% endif %}
 
 <div class="tile-items tile-two">
   <a class="tile-item tile-lifegroups" href="/lifegroups/" onclick="ga('send', 'event', 'Missions', 'Click', 'Info Restore');"><span>LifeGroups are the friends that you grow, laugh,<br />and serve with.</span></a>
   <a class="tile-item tile-what-to-expect" href="/what-to-expect/" onclick="ga('send', 'event', 'Missions', 'Click', 'Info Principles');"><span>No matter who you are or where you’ve been, you’re<br /> welcome here. Learn more about what you can expect.</span></a>
 </div>
 
+{% if page.serving == true %}
 <section id="serving" class="group">
   <div class="container">
     <div class="single">
@@ -212,6 +276,8 @@ hero: locations-hero
     </ul>
   </div>
 </section>
+{% endif %}
+
 {% if location.missions != empty %}
 <section id="localpartners" class="group alt">
   <div class="container">
@@ -232,6 +298,7 @@ hero: locations-hero
 </section>
 {% endif %}
 
+{% if page.events == true %}
 <section id="events" class="group">
   <div class="container">
     <header class="text-center">
@@ -240,6 +307,7 @@ hero: locations-hero
     </header>
 
     <ul class="grid-items grid-three involved-list padded">
+      {% if page.opendoor == true %}
       <!-- Open Door -->
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-opendoor.jpg" data-retina="/locations/assets/event-opendoor@2x.jpg" alt="Open Door" />
@@ -270,7 +338,9 @@ hero: locations-hero
           </form>
         </div>
       </li>
+      {% endif %}
 
+      {% if page.chazown == true %}
       <!-- Chazown -->
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-chazown.jpg" data-retina="/locations/assets/event-chazown@2x.jpg" alt="Chazown" />
@@ -302,7 +372,9 @@ hero: locations-hero
           </form>
         </div>
       </li>
+      {% endif %}
 
+      {% if page.baptism == true %}
       <!-- Baptism -->
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-baptism.jpg" data-retina="/locations/assets/event-baptism@2x.jpg" alt="Baptism" />
@@ -333,7 +405,9 @@ hero: locations-hero
           </form>
         </div>
       </li>
+      {% endif %}
 
+      {% if page.restore == true %}
       <!-- Restore -->
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-restore.jpg" data-retina="/locations/assets/event-restore@2x.jpg" alt="Restore" />
@@ -365,10 +439,13 @@ hero: locations-hero
           </form>
         </div>
       </li>
+      {% endif %}
     </ul>
   </div>
-</section>
+  </section>
+{% endif %}
 
+{% if page.connect == true %}
 <section id="connect" class="group single alt">
   <header class="text-center">
     <h2>Connect with {{ location.title }}</h2>
@@ -469,6 +546,7 @@ hero: locations-hero
   </div>
 
 </section>
+{% endif %}
 
 {% endif %}
 {% endfor %}
