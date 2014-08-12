@@ -305,7 +305,7 @@ padding-top: 28px;
 
 
 // Patch
-.title-and-map.group {
+#location.group {
   @media only screen and (max-width: $medium-screen) {
     padding-bottom: 140px;
   }
@@ -696,7 +696,7 @@ padding-top: 28px;
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, ykn;
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, wch, ykn;
 
 @each $campus in $campuses {
   .location-#{$campus} {
@@ -710,12 +710,18 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   }
 }
 
-.location-wch .group {
-  padding: 3em 0;
+.group.before-spreadtheword {
+  padding-bottom: 2em;
 }
 
-.location-wch .locations-hero {
-  @include retina-image(/locations/assets/campus/wch-bg, 1500px 750px, jpg);
-  background-size: 1500px 750px;
-  background-position: center top;
+.spreadtheword {
+  padding-top: 3em;
+}
+
+.location-wch #navigation .nav-live {
+  color: #8ca7b6;
+  
+  &:hover {
+    color: darken(#8ca7b6, 15%);
+  }
 }
