@@ -23,7 +23,7 @@ hero: locations-hero
 
     <article>
       {% if page.spreadtheword == true %}
-      <p>Together, we can reach people with the love of Christ. LifeChurch.tv is excited to become part of the community at {{ location.title }}.</p>
+      <p>Together, we can reach people with the love of Christ. LifeChurch.tv is excited to become part of the community at {{ page.title }}.</p>
       {% endif %}
 
       {% unless page.spreadtheword == true %}{% include locations-nav.html %}{% endunless %}
