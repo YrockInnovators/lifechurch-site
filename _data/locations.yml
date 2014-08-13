@@ -353,6 +353,11 @@
     day: wed
     duration: 120
     type: roots
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: switch
   missions: []
 - id: jnk
   title: Jenks OK Campus
@@ -698,32 +703,32 @@
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
+    type: service-time
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
     type: service-time
-  - title: 05:00PM
-    time: 17-00
+  - title: 11:30AM
+    time: 11-30
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
     type: lifekids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
   - title: 06:30PM
     time: 18-30
     day: sun
@@ -739,6 +744,11 @@
     day: wed
     duration: 120
     type: roots
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: switch
   missions:
   - id: 1
     title: Big Brothers Big Sisters
@@ -1568,12 +1578,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -1584,6 +1594,16 @@
     day: sun
     duration: 60
     type: lifekids
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: switch
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: roots
   missions: []
 - id: wch
   title: Wichita KS Campus
