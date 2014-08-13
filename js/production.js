@@ -481,6 +481,9 @@ $('.time-17-00.duration-120').siblings('.time-17-30, .time-18-00, .time-18-30').
 $('.time-18-00').siblings('.time-18-30').addClass('overlap').parent().parent().addClass('rows-2');
 $('.time-18-00.duration-120').siblings('.time-18-30, .time-19-00, .time-19-30').addClass('overlap').parent().parent().addClass('rows-2');
 
+// Campus calendar 6:30pm overlaps (Switch / Roots)
+$('.type-switch').siblings('.type-roots').addClass('overlap').parent().parent().addClass('rows-2');
+
 // Campus calendar 7pm overlaps
 $('.time-19-00').siblings('.time-19-30').addClass('overlap').parent().parent().addClass('rows-2');
 $('.time-19-00.duration-120').siblings('.time-19-30, .time-21-00, .time-21-30').addClass('overlap').parent().parent().addClass('rows-2');
@@ -488,7 +491,6 @@ $('.time-19-00.duration-120').siblings('.time-19-30, .time-21-00, .time-21-30').
 // Campus calendar 8pm overlaps
 $('.time-20-00').siblings('.time-20-30').addClass('overlap').parent().parent().addClass('rows-2');
 $('.time-20-00.duration-120').siblings('.time-20-30, .time-21-00, .time-21-30').addClass('overlap').parent().parent().addClass('rows-2');
-
 
 // Local storage for locations
 $('[data-set-campus]').bind("click", function() {
