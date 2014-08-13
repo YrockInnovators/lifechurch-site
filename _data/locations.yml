@@ -1597,11 +1597,21 @@
     day: sun
     duration: 60
     type: service-time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
     type: service-time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
   missions: []
 - id: ows
   title: Owasso OK Campus
