@@ -125,7 +125,7 @@ use Rack::Rewrite do
   r301 %r{^/locations/mwc/?$}, '/midwestcity/'
   r301 %r{^/locations/wch/?$}, '/wichita/'
   r301 %r{^/locations/mor/?$}, '/moore/'
-  r301 %r{^/locations/nor/?$}, '/northwestokc/'
+  r301 %r{^/locations/noc/?$}, '/northwestokc/'
   r301 %r{^/locations/soc/?$}, '/southwestokc/'
   r301 %r{^/locations/ykn/?$}, '/yukon/'
   r301 %r{^/locations/stw/?$}, '/stillwater/'
