@@ -492,6 +492,16 @@ $('.time-19-00.duration-120').siblings('.time-19-30, .time-21-00, .time-21-30').
 $('.time-20-00').siblings('.time-20-30').addClass('overlap').parent().parent().addClass('rows-2');
 $('.time-20-00.duration-120').siblings('.time-20-30, .time-21-00, .time-21-30').addClass('overlap').parent().parent().addClass('rows-2');
 
+// No Switch? Remove from legend
+if ($('.type-switch').length === 0) {
+  $('.key-switch, #serving-4').remove();
+}
+
+// No Roots? Remove from legend
+if ($('.type-roots').length === 0) {
+  $('.key-roots').remove();
+}
+
 // Local storage for locations
 $('[data-set-campus]').bind("click", function() {
   if (Modernizr.localstorage) {
