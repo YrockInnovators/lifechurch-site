@@ -348,16 +348,16 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
   - title: 07:00PM
     time: 19-00
     day: wed
     duration: 120
     type: switch
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: roots
   missions: []
 - id: jnk
   title: Jenks OK Campus
@@ -739,16 +739,16 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
   - title: 07:00PM
     time: 19-00
     day: wed
     duration: 120
     type: switch
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 120
+    type: roots
   missions:
   - id: 1
     title: Big Brothers Big Sisters
