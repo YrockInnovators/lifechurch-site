@@ -14,7 +14,7 @@
          Get Involved <i class="icon icon-arrow"></i>
       </a>
     </p>
-
+  
     <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
       {% if page.title == "Serving Opportunities" %}
         <input type="hidden" class="recipient" name="recipient" value="{{ item.recipient }}" />
@@ -28,6 +28,11 @@
       <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
       <input type="text" class="details" name="name" placeholder="Name" />
       <input type="text" class="details" name="phone" placeholder="Email" />
+
+      {% if page.title != "Serving Opportunities" %}
+      <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
+      {% endif %}
+
       <input type="submit"
              class="button small submit-involved"
              value="Send to LifeChurch.tv"
