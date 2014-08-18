@@ -11,7 +11,7 @@ $(function() {
     var name = form.find('input[name="name"]').val();
     var phone = form.find('input[name="phone"]').val();
 
-    if ( $(this).hasClass('.with-number') ) {
+    if ( $(this).hasClass('with-number') ) {
       var number = form.find('input[name="number"]').val();
       var detail = name + ": " + phone + ", " + number;
     } else {
