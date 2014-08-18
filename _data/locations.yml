@@ -51,8 +51,8 @@
     day: wed
     duration: 120
     type: roots
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
@@ -348,13 +348,13 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: roots
@@ -400,12 +400,12 @@
     time: 13-00
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -431,8 +431,8 @@
     day: wed
     duration: 120
     type: roots
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
@@ -739,13 +739,13 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: roots
@@ -787,12 +787,12 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -837,19 +837,19 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
@@ -1036,8 +1036,8 @@
     day: wed
     duration: 120
     type: roots
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
@@ -1251,12 +1251,12 @@
     time: 18-30
     day: wed
     duration: 120
-    type: roots
-  - title: 07:00PM
-    time: 19-00
+    type: switch
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
-    type: switch
+    type: roots
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -1493,12 +1493,12 @@
     time: 18-30
     day: wed
     duration: 120
-    type: roots
-  - title: 07:00PM
-    time: 19-00
+    type: switch
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
-    type: switch
+    type: roots
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -1594,16 +1594,16 @@
     day: sun
     duration: 60
     type: lifekids
-  - title: 07:00PM
-    time: 19-00
-    day: wed
-    duration: 120
-    type: switch
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
   missions: []
 - id: wch
   title: Wichita KS Campus
@@ -1674,12 +1674,12 @@
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
+    type: service-time
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: service-time
+    type: lifekids
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -1705,8 +1705,8 @@
     day: wed
     duration: 120
     type: roots
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
     type: switch
@@ -1802,12 +1802,12 @@
     time: 18-30
     day: wed
     duration: 120
-    type: roots
-  - title: 07:00PM
-    time: 19-00
+    type: switch
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
-    type: switch
+    type: roots
   missions:
   - id: 28
     title: First Care
@@ -1897,12 +1897,12 @@
     time: 18-30
     day: wed
     duration: 120
-    type: roots
-  - title: 07:00PM
-    time: 19-00
+    type: switch
+  - title: 06:30PM
+    time: 18-30
     day: wed
     duration: 120
-    type: switch
+    type: roots
   missions:
   - id: 22
     title: End Slavery
