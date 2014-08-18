@@ -136,3 +136,29 @@ form .has-error {
     }
   }
 }
+
+// Connect
+///////////////////////////////////////////////////////////////////////////////
+
+.connect {
+  background: black;
+
+  .hero {
+    @include retina-image(/images/connect/connect-bg, cover, jpg);
+    background-color: black;
+    padding-bottom: 150px;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  p {
+    color: white;
+    max-width: 25em;
+  }
+
+  form {
+    max-width: 20em;
+  }
+}
