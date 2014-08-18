@@ -15,12 +15,7 @@
       </a>
     </p>
   
-    {% if page.title == "Serving Opportunities" %}
     <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
-    {% else %}
-    <form class="form-involved with-number" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
-    {% endif %}
-
       {% if page.title == "Serving Opportunities" %}
         <input type="hidden" class="recipient" name="recipient" value="{{ item.recipient }}" />
         <input type="hidden" class="title" name="subject" value="{{ item.location }} - {{ item.title }}" />
