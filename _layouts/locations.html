@@ -33,7 +33,7 @@ hero: locations-hero
   <div class="container">
     <section id="spreadtheword" class="article-with-figure">
       <article>
-        <h2>Spread the Word</h2> 
+        <h2>Spread the Word</h2>
         {% include locations-spreadtheword.html %}
       </article>
 
@@ -48,7 +48,7 @@ hero: locations-hero
 <div class="group alt">
   <section class="single">
     <header class="text-center">
-      <h2>Spread the Word</h2> 
+      <h2>Spread the Word</h2>
     </header>
     <article>
       {% include locations-spreadtheword.html %}
@@ -67,7 +67,7 @@ hero: locations-hero
   {% if page.spreadtheword == true %}
   <div class="single">
     <article class="text-center">
-      <h2>{{ location.title }} Location</h2> 
+      <h2>{{ location.title }} Location</h2>
     </article>
   </div>
 
@@ -236,7 +236,13 @@ hero: locations-hero
 
     {% elsif page.location-id == 'ows' or page.location-id == 'sto' %}
     <p class="detail text-center"><br />Roots starts back up on August 27. Switch starts back up on August 20.</p>
-    
+
+    {% elsif page.location-id == 'hnv' %}
+    <p class="detail text-center"><br />Switch is starting back up on September 10th and Roots on August 20th.</p>
+
+    {% elsif page.location-id == 'alb' %}
+    <p class="detail text-center"><br />Switch and Roots will start on September 10th.</p>
+
     {% endif %}
   </div>
 </section>
