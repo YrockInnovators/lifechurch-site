@@ -276,3 +276,19 @@
     color: #fff !important;
   }
 }
+
+.hero-watch-archive.hero-tio {
+  min-height: 220px;
+
+  .inner {
+    padding-top: 85px;
+  }
+
+  @include media($medium-screen) {
+    min-height: 340px;
+
+    .inner {
+      padding-top: 140px;
+    }
+  }
+}
