@@ -84,8 +84,8 @@
   photo_campus: /locations/assets/campus/noc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/noc-connect-campus@2x.jpg
 - id: ows
-  name: Tim Doremus
-  email: tim.doremus@lifechurch.tv
+  name: Rob Beckley
+  email: rob.beckley@lifechurch.tv
   photo_portrait: /locations/assets/campus/ows-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ows-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ows-connect-campus.jpg
@@ -132,3 +132,10 @@
   photo_portrait_2x: /locations/assets/campus/ykn-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ykn-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/ykn-connect-campus@2x.jpg
+- id: wch
+  name: Tim Doremus
+  email: tim.doremus@lifechurch.tv
+  photo_portrait: /locations/assets/campus/wch-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/wch-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/wch-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/wch-connect-campus@2x.jpg
