@@ -217,19 +217,24 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-  - id: 35
-    title: City Rescue Mission
-    recipient: edm.serving@lifechurch.tv
-    url: http://cityrescue.org/
-    description_medium: 'City Rescue Mission provides for the needs of the hungry
-      and homeless in our community. Their mission is to provide help, hope, and healing
-      under the call of Christ. '
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
     recipient: edm.serving@lifechurch.tv
     url: http://www.lilyfield.org/
     description_medium: 'Share a meal with local foster care families and provide
       them with support and encouragement through monthly group gatherings. '
+  - id: 35
+    title: City Rescue Mission
+    recipient: edm.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Meet the needs of the hungry and homeless in our community
+      as City Rescue Mission provides help, hope, and healing under the call of Christ.
+  - id: 52
+    title: Branch15
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.branch15.com/
+    description_medium: Help provide Christ-centered transitional housing and individualized
+      support to women who are on the path toward recovery and independent living.
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -880,9 +885,8 @@
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: 'City Rescue Mission provides for the needs of the hungry
-      and homeless in our community. Their mission is to provide help, hope, and healing
-      under the call of Christ. '
+    description_medium: Meet the needs of the hungry and homeless in our community
+      as City Rescue Mission provides help, hope, and healing under the call of Christ.
 - id: tul
   title: Tulsa OK Campus
   email: tul.serving@lifechurch.tv
@@ -1303,13 +1307,6 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-  - id: 35
-    title: City Rescue Mission
-    recipient: soc.serving@lifechurch.tv
-    url: http://cityrescue.org/
-    description_medium: 'City Rescue Mission provides for the needs of the hungry
-      and homeless in our community. Their mission is to provide help, hope, and healing
-      under the call of Christ. '
   - id: 46
     title: No Boundaries International
     recipient: soc.serving@lifechurch.tv
@@ -1317,6 +1314,12 @@
     description_medium: 'Help restore a sense of value and independence to those affected
       by human trafficking by training and providing realistic solutions to those
       in need. '
+  - id: 35
+    title: City Rescue Mission
+    recipient: soc.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Meet the needs of the hungry and homeless in our community
+      as City Rescue Mission provides help, hope, and healing under the call of Christ.
 - id: okc
   title: Oklahoma City OK Campus
   email: okc.serving@lifechurch.tv
