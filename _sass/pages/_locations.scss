@@ -729,3 +729,160 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
     color: darken(#8ca7b6, 15%);
   }
 }
+
+
+
+// Swipe test
+
+.calendar {
+  height: 420px; 
+  margin-bottom: 3em;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+
+  .day header {
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+  }
+
+  .calendar-left,
+  .calendar-right {
+    z-index: 4;
+    position: absolute;
+    font-size: 19px;
+
+    @include media($medium-screen) {
+      display: none;
+    }
+  }
+
+  .calendar-right {
+    right: 0;
+  }
+
+  &.showing-saturday .calendar-left,
+  &.showing-wednesday .calendar-right {
+    opacity: 0 !important;
+  }
+
+  time {
+    display: none;
+  }
+
+  b {
+    display: block;
+    width: 100%;
+    height: 30px;
+    border-top: 1px solid #e0e4e5;
+    font-size: 11px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+  }
+
+  b.first {
+    margin-top: 30px;
+  }
+
+  .icon-arrow-left {
+    @include transform(rotate(180deg));
+    margin-left: 2px;
+  }
+
+  .saturday,
+  .sunday,
+  .wednesday {
+    height: 320px;
+    width: 100%;
+    float: left;
+    position: absolute;
+    top: 0;
+
+    @include media($medium-screen) {
+      width: 33%;
+    }
+  }
+
+  .sunday {
+    left: 100%;
+
+    @include media($medium-screen) {
+      left: 33%;
+    }
+  }
+
+  .wednesday {
+    left: 200%;
+
+    @include media($medium-screen) {
+      left: 66%;
+    }
+  }
+
+  
+
+  .event {
+    height: 20px;
+    padding: 6px 9px;
+    font-size: 11px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 18px;
+    border-radius: 3px;
+    margin-left: 10%;
+    position: absolute;
+    width: 90%;
+    color: white;
+    font-weight: bold;
+
+    &.is-service-time {
+      background: #e98f93;
+    }
+
+    &.is-switch {
+      background: #0ea9d6;
+    }
+
+    &.is-lifekids {
+      background: #69d166;
+    }
+
+    &.is-roots {
+      color: #8a7c00;
+      background: #f0d700;
+      border: 1px solid #bda900;
+    }
+  }
+
+  .time-08-00 { top: 30px; }
+  .time-08-30 { top: 45px; }
+  .time-09-00 { top: 60px; }
+  .time-09-30 { top: 75px; }
+  .time-10-00 { top: 90px; }
+  .time-10-30 { top: 105px; }
+  .time-11-00 { top: 120px; }
+  .time-11-30 { top: 135px; }
+  .time-12-00 { top: 150px; }
+  .time-12-30 { top: 165px; }
+  .time-13-00 { top: 180px; }
+  .time-13-30 { top: 195px; }
+  .time-14-00 { top: 210px; }
+  .time-14-30 { top: 225px; }
+  .time-15-00 { top: 240px; }
+  .time-15-30 { top: 255px; }
+  .time-16-00 { top: 270px; }
+  .time-16-30 { top: 285px; }
+  .time-17-00 { top: 300px; }
+  .time-17-30 { top: 315px; }
+  .time-18-00 { top: 330px; }
+  .time-18-30 { top: 345px; }
+  .time-19-00 { top: 360px; }
+  .time-19-30 { top: 375px; }
+  .time-20-00 { top: 390px; }
+
+  .duration-30  { height: 16px; }
+  .duration-60  { height: 30px; }
+  .duration-120 { height: 61px; }
+}
