@@ -1078,122 +1078,6 @@
     url: http://www.habitat.org/
     description_medium: 'Build and renovate high quality, affordable housing and serve
       as a partner and catalyst to create healthy and sustainable communities. '
-- id: sto
-  title: South Tulsa OK Campus
-  email: sto.serving@lifechurch.tv
-  phone: 918-938-0900
-  address: 7071 East 121st St. Bixby, OK 74008
-  facebook: '168831606831'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service-time
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: lifekids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service-time
-  missions:
-  - id: 18
-    title: Relations Group Home
-    recipient: sto.serving@lifechurch.tv
-    url: ''
-    description_medium: 'Help students see their value and learn how to better engage
-      their world by mentoring, caring for, and listening to kids in your community. '
-  - id: 19
-    title: Tulsa Boys Home
-    recipient: sto.serving@lifechurch.tv
-    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: 'Help restore the lives of boys and lead them to be healthy,
-      responsible young men. '
-  - id: 38
-    title: Bixby Outreach Center
-    recipient: sto.serving@lifechurch.tv
-    url: http://www.bixbyoc.org/
-    description_medium: Help people who find themselves in situations that they did
-      not expect by collecting, organizing, and distributing items.
 - id: soc
   title: South Oklahoma City OK Campus
   email: soc.serving@lifechurch.tv
@@ -1839,6 +1723,122 @@
     description_medium: Love, equip, and empower inner-city youth and their parents
       to fulfill their God-given purpose through one-on-one mentorship, academic development
       after school, and parent development classes.
+- id: sto
+  title: South Tulsa OK Campus
+  email: sto.serving@lifechurch.tv
+  phone: 918-938-0900
+  address: 7071 E. 121st Street S. Bixby, OK 74008
+  facebook: '168831606831'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: lifekids
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service-time
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: lifekids
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: service-time
+  missions:
+  - id: 18
+    title: Relations Group Home
+    recipient: sto.serving@lifechurch.tv
+    url: ''
+    description_medium: 'Help students see their value and learn how to better engage
+      their world by mentoring, caring for, and listening to kids in your community. '
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: sto.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: 'Help restore the lives of boys and lead them to be healthy,
+      responsible young men. '
+  - id: 38
+    title: Bixby Outreach Center
+    recipient: sto.serving@lifechurch.tv
+    url: http://www.bixbyoc.org/
+    description_medium: Help people who find themselves in situations that they did
+      not expect by collecting, organizing, and distributing items.
 - id: hnv
   title: Hendersonville TN Campus
   email: hnv.serving@lifechurch.tv
