@@ -790,7 +790,7 @@ $(document).ready(function(){
 
   // Watch Banner Archive - Large Standard
   if ($(window).width() > 767 && window.devicePixelRatio <= 1.4) {
-    $( "a[data-banner-archive-large]" ).each(function() {
+    $( "[data-banner-archive-large]" ).each(function() {
       var banner_large = $(this).attr('data-banner-archive-large');
       $(this).attr('style', banner_large);
       $(this).removeAttr('data-banner-archive-large');
@@ -800,7 +800,7 @@ $(document).ready(function(){
   // Watch Banner Archive - Large Retina
   if ($(window).width() > 767 && window.devicePixelRatio >= 1.4) {
     if (!$("html").hasClass("lt-ie9")) {
-      $( "a[data-banner-archive-large-2x]" ).each(function() {
+      $( "[data-banner-archive-large-2x]" ).each(function() {
         var banner_large_2x = $(this).attr('data-banner-archive-large-2x');
         $(this).attr('style', banner_large_2x);
         $(this).removeAttr('data-banner-archive-large-2x');
@@ -811,7 +811,7 @@ $(document).ready(function(){
   // Watch Banner Archive - Small Retina
   if ($(window).width() < 767 && window.devicePixelRatio >= 1.4) {
     if (!$("html").hasClass("lt-ie9")) {
-      $( "a[data-banner-archive-2x]" ).each(function() {
+      $( "[data-banner-archive-2x]" ).each(function() {
         var banner_small_2x = $(this).attr('data-banner-archive-2x');
         $(this).attr('style', banner_small_2x);
         $(this).removeAttr('data-banner-archive-2x');
