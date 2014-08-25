@@ -741,7 +741,9 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   width: 100%;
   overflow: hidden;
 
-  .day header {
+  .day header,
+  .calendar-left,
+  .calendar-right {
     text-align: center;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     text-transform: uppercase;
@@ -753,7 +755,10 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   .calendar-right {
     z-index: 4;
     position: absolute;
-    font-size: 19px;
+    
+    i {
+      font-size: 13px;
+    }
 
     @include media($medium-screen) {
       display: none;
