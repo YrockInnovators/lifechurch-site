@@ -22,16 +22,64 @@ body {
 
 .single ul li {
   list-style: disc;
-  list-style-position: inside;
+  list-style-position: outside;
   font-size: 1.25em;
   margin-bottom: .5em;
+  margin-left: 1em;
   line-height: 1.6em;
 }
 
 .single ol li {
   list-style: decimal;
-  list-style-position: inside;
+  list-style-position: outside;
   font-size: 1.25em;
   margin-bottom: .5em;
+  margin-left: 1em;
   line-height: 1.6em;
+}
+
+// Currently only for TIO
+@media only print {
+  #tertiary,
+  .navigation-wrapper,
+  .closing {
+    display: none !important;
+  }
+
+  h1 {
+    color: $red !important;
+  }
+
+  .single,
+  .single article,
+  .container {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .hero,
+  .hero-watch-archive {
+    height: 30px !important;
+    min-height: 30px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+
+    h1 {
+      color: $red !important;
+    }
+    
+    .inner {
+      height: auto !important;
+      min-height: auto !important;
+      padding: 0 !important;
+      text-align: left !important;
+
+      h1,
+      p {
+        text-align: left !important;
+      }
+    }
+  }
 }

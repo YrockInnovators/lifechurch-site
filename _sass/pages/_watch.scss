@@ -284,6 +284,18 @@
     padding-top: 85px;
   }
 
+  .logo-talkitover {
+    @include svg-image('../images/branding/logo-talkitover');
+    @extend %hide-text;
+    background-position: center;
+    display: block;
+    height: 63px;
+
+    @include media($medium-screen) {
+      height: 113px;
+    }
+  }
+
   @include media($medium-screen) {
     min-height: 340px;
 
