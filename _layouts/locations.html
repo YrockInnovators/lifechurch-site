@@ -105,9 +105,7 @@ hero: locations-hero
       <article class="saturday day">
         <header>Saturday</header>
 
-        {% for time in location.times %}
-        {% unless time.type == 'lifekids' %}
-        {% if time.day == 'sat' %}
+        {% for time in location.times %}{% unless time.type == 'lifekids' %}{% if time.day == 'sat' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
           <time>{{ time.time }}</time>
           <span>
@@ -116,16 +114,13 @@ hero: locations-hero
             {% endif %}
           </span>
         </div>
-        {% endif %}
-        {% endunless %}
-        {% endfor %}
+        {% endif %}{% endunless %}{% endfor %}
       </article>
 
       <article class="sunday day">
         <header>Sunday</header>
       
-        {% for time in location.times %}
-        {% unless time.type == 'lifekids' %}
+        {% for time in location.times %}{% unless time.type == 'lifekids' %}
         {% if time.day == 'sun' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
           <span>
@@ -135,16 +130,13 @@ hero: locations-hero
           </span>
         </div>
         {% endif %}
-        {% endunless %}
-        {% endfor %}
+        {% endunless %}{% endfor %}
       </article>
 
       <article class="wednesday day">
         <header>Wednesday</header>
         
-        {% for time in location.times %}
-        {% unless time.type == 'lifekids' %}
-        {% if time.day == 'wed' %}
+        {% for time in location.times %}{% unless time.type == 'lifekids' %}{% if time.day == 'wed' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
           <span>
             {% if time.type == 'service-time' %}Service &amp; LifeKids
@@ -152,9 +144,7 @@ hero: locations-hero
             {% endif %}
           </span>
         </div>
-        {% endif %}
-        {% endunless %}
-        {% endfor %}
+        {% endif %}{% endunless %}{% endfor %}
       </article>
  
     </section>

@@ -781,6 +781,14 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
     font-size: 11px;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 10px;
+
+    span {
+      top: -6px;
+      position: relative;
+      background: $off-white;
+      width: 20px;
+      display: block;
+    }
   }
 
   b.first {
