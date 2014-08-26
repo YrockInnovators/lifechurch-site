@@ -34,6 +34,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stand/480x340.jpg?1406565187
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stand/960x680.jpg?1406565217
   messages:
+  - title: Stand In Faith
+    headline: ''
+    video: 27bsr1nil0
   - title: Stand Strong
     headline: ''
     video: 6eqcwtp6zz
