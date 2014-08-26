@@ -15,11 +15,11 @@
 
 
       @include media($medium-screen) {
-        height: 370px;
+        height: 380px;
       }
 
       @include media($large-screen) {
-        height: 320px;
+        height: 350px;
 
       }  
     }
@@ -48,7 +48,8 @@
     width: 100%;
 
     &.validation {
-      input[type="text"] {
+      input[name="name"],
+      input[name="phone"] {
         border-color: red;
       }
     }

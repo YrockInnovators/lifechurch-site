@@ -21,6 +21,10 @@
     name: Miracles
     created_at: '2014-06-11T15:21:20.475Z'
     updated_at: '2014-06-11T15:21:20.475Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/stand/300x200.jpg?1405366982
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stand/600x400.jpg?1405367007
   image_large: http://s3.amazonaws.com/lcapi.production/series/stand/1200x800.jpg?1405367040
@@ -30,6 +34,12 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stand/480x340.jpg?1406565187
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stand/960x680.jpg?1406565217
   messages:
+  - title: Stand Strong
+    headline: ''
+    video: 6eqcwtp6zz
+  - title: Stand Up
+    headline: ''
+    video: q8igoyfefa
   - title: Stand Out
     headline: ''
     video: 2p64n4bvmp
@@ -147,7 +157,7 @@
   messages:
   - title: Week 2
     headline: ''
-    video: uffm5caj7x
+    video: ged0m0cm1k
   - title: Week 1
     headline: ''
     video: zcw4vmg6yi
@@ -444,6 +454,10 @@
     name: Fears
     created_at: '2014-06-11T15:18:18.611Z'
     updated_at: '2014-06-11T15:18:18.611Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/fear-not/300x200.jpg?1396042061
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fear-not/600x400.jpg?1396042126
   image_large: http://s3.amazonaws.com/lcapi.production/series/fear-not/1200x800.jpg?1396042178
@@ -556,6 +570,10 @@
     name: For Men
     created_at: '2014-06-11T15:20:48.371Z'
     updated_at: '2014-06-11T15:20:48.371Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/fight/300x200.jpg?1396041413
   image_medium: http://s3.amazonaws.com/lcapi.production/series/fight/600x400.jpg?1396041470
   image_large: http://s3.amazonaws.com/lcapi.production/series/fight/1200x800.jpg?1396041534
@@ -1442,6 +1460,10 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
     updated_at: '2014-06-11T16:19:31.726Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/soul-detox/300x200.jpg?1396032146
   image_medium: http://s3.amazonaws.com/lcapi.production/series/soul-detox/600x400.jpg?1396032219
   image_large: http://s3.amazonaws.com/lcapi.production/series/soul-detox/1200x800.jpg?1396032245
@@ -1560,6 +1582,10 @@
     name: For Men
     created_at: '2014-06-11T15:20:48.371Z'
     updated_at: '2014-06-11T15:20:48.371Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/samson-2012/300x200.jpg?1396031079
   image_medium: http://s3.amazonaws.com/lcapi.production/series/samson-2012/600x400.jpg?1396031139
   image_large: http://s3.amazonaws.com/lcapi.production/series/samson-2012/1200x800.jpg?1396031170
@@ -1871,6 +1897,10 @@
     name: Miracles
     created_at: '2014-06-11T15:21:20.475Z'
     updated_at: '2014-06-11T15:21:20.475Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/bold/300x200.jpg?1396020776
   image_medium: http://s3.amazonaws.com/lcapi.production/series/bold/600x400.jpg?1396020833
   image_large: http://s3.amazonaws.com/lcapi.production/series/bold/1200x800.jpg?1396020862
@@ -1969,6 +1999,10 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
     updated_at: '2014-06-11T16:19:31.726Z'
+  - id: 75
+    name: Spiritual Warfare
+    created_at: '2014-08-05T18:45:34.299Z'
+    updated_at: '2014-08-05T20:06:31.641Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/300x200.jpg?1396019390
   image_medium: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/600x400.jpg?1396019450
   image_large: http://s3.amazonaws.com/lcapi.production/series/getting-past-your-past/1200x800.jpg?1396019479

@@ -153,6 +153,7 @@ $(document).ready(function(){
 });
 
 $(function() {
+
   // Keep Involved form users on the site
   $('.form-involved').submit(function(event) {
     event.preventDefault();
@@ -163,7 +164,8 @@ $(function() {
     var subject = form.find('input[name="subject"]').val();
     var name = form.find('input[name="name"]').val();
     var phone = form.find('input[name="phone"]').val();
-    var detail = name + ": " + phone;
+    var number = form.find('input[name="number"]').val();
+    var detail = name + ": " + phone + " " + number;
 
     if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0)
     {
@@ -185,12 +187,12 @@ $(function() {
     }    
   });
 
-  // Keep Contact form users on the site
+  // Contact Us Form
   $('.form-contact').submit(function(event) {
     event.preventDefault();
 
     var form = $(this);
-
+  
     var subject = form.find('[name="subject"]').val().split("|")[0];
     var recipient = form.find('[name="subject"]').val().split("|")[1];
     var message = form.find('textarea[name="message"]').val();
@@ -198,31 +200,31 @@ $(function() {
     var phone = form.find('input[name="phone"]').val();
     var detail = name + ": " + phone;
 
-    if ($('select[name="subject"]').val() == "select") {
-      $('select[name="subject"]').addClass('has-error');
+    if ($(this).find('select[name="subject"]').val() == "select") {
+      $(this).find('select[name="subject"]').addClass('has-error');
     } else {
-      $('select[name="subject"]').removeClass('has-error');
+      $(this).find('select[name="subject"]').removeClass('has-error');
     }
 
-    if ($('textarea[name="message"]').val() == "") {
-      $('textarea[name="message"]').addClass('has-error');
+    if ($(this).find('textarea[name="message"]').val().length === 0) {
+      $(this).find('textarea[name="message"]').addClass('has-error');
     } else {
-      $('textarea[name="message"]').removeClass('has-error');
+      $(this).find('textarea[name="message"]').removeClass('has-error');
     }
 
-    if ($('input[name="name"]').val() == "") {
-      $('input[name="name"]').addClass('has-error');
+    if ($(this).find('input[name="name"]').val().length === 0) {
+      $(this).find('input[name="name"]').addClass('has-error');
     } else {
-      $('input[name="name"]').removeClass('has-error');
+      $(this).find('input[name="name"]').removeClass('has-error');
     }
 
-    if ($('input[name="phone"]').val() == "") {
-      $('input[name="phone"]').addClass('has-error');
+    if ($(this).find('input[name="phone"]').val().length === 0) {
+      $(this).find('input[name="phone"]').addClass('has-error');
     } else {
-      $('input[name="phone"]').removeClass('has-error');
+      $(this).find('input[name="phone"]').removeClass('has-error');
     }
 
-    if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0) {
+    if (name.length === 0 || phone.length === 0 || message.length === 0) {
       return false;
     } else {
       $.post(form.attr('action'), {
@@ -240,6 +242,61 @@ $(function() {
     
   });
 
+  // Simple Contact Form
+  $('.form-contact-simple').submit(function(event) {
+    event.preventDefault();
+
+    var form = $(this);
+  
+    var subject = form.find('[name="subject"]').val();
+    var recipient = form.find('[name="recipient"]').val();
+    var message = form.find('textarea[name="message"]').val();
+    var name = form.find('input[name="name"]').val();
+    var phone = form.find('input[name="phone"]').val();
+    var detail = name + ": " + phone;
+
+    if ($(this).find('select[name="subject"]').val() == "select") {
+      $(this).find('select[name="subject"]').addClass('has-error');
+    } else {
+      $(this).find('select[name="subject"]').removeClass('has-error');
+    }
+
+    if ($(this).find('textarea[name="message"]').val().length === 0) {
+      $(this).find('textarea[name="message"]').addClass('has-error');
+    } else {
+      $(this).find('textarea[name="message"]').removeClass('has-error');
+    }
+
+    if ($(this).find('input[name="name"]').val().length === 0) {
+      $(this).find('input[name="name"]').addClass('has-error');
+    } else {
+      $(this).find('input[name="name"]').removeClass('has-error');
+    }
+
+    if ($(this).find('input[name="phone"]').val().length === 0) {
+      $(this).find('input[name="phone"]').addClass('has-error');
+    } else {
+      $(this).find('input[name="phone"]').removeClass('has-error');
+    }
+
+    if (name.length === 0 || phone.length === 0 || message.length === 0) {
+      return false;
+    } else {
+      $.post(form.attr('action'), {
+        recipient: recipient,
+        subject: subject,
+        detail: detail,
+        message: message,
+        key: '345e8e6fb8'
+      });  
+
+      form.fadeOut();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
+      form.parent().find('.cta-thanks').fadeIn();
+    }
+    
+  });
+ 
   // LifeMissions Page
   if ($('.involved-list').length > 0) {
 
@@ -416,25 +473,6 @@ else {
 
 // Locations Page Content
 
-$('.time.type-lifekids').addClass('overlap').parent().parent().addClass('rows-2');
-
-// Campus calendar 5pm overlaps
-$('.time-17-00').siblings('.time-17-30').addClass('overlap').parent().parent().addClass('rows-2');
-$('.time-17-00.duration-120').siblings('.time-17-30, .time-18-00, .time-18-30').addClass('overlap').parent().parent().addClass('rows-2');
-
-// Campus calendar 6pm overlaps
-$('.time-18-00').siblings('.time-18-30').addClass('overlap').parent().parent().addClass('rows-2');
-$('.time-18-00.duration-120').siblings('.time-18-30, .time-19-00, .time-19-30').addClass('overlap').parent().parent().addClass('rows-2');
-
-// Campus calendar 7pm overlaps
-$('.time-19-00').siblings('.time-19-30').addClass('overlap').parent().parent().addClass('rows-2');
-$('.time-19-00.duration-120').siblings('.time-19-30, .time-21-00, .time-21-30').addClass('overlap').parent().parent().addClass('rows-2');
-
-// Campus calendar 8pm overlaps
-$('.time-20-00').siblings('.time-20-30').addClass('overlap').parent().parent().addClass('rows-2');
-$('.time-20-00.duration-120').siblings('.time-20-30, .time-21-00, .time-21-30').addClass('overlap').parent().parent().addClass('rows-2');
-
-
 // Local storage for locations
 $('[data-set-campus]').bind("click", function() {
   if (Modernizr.localstorage) {
@@ -463,6 +501,130 @@ $('[data-set-campus]').each(function(index) {
     $(this).parent().addClass('my-campus');
   }
 });
+
+
+
+// Locations Page Dates/Times scripts
+
+if ($('.section-locations').length > 0) {
+
+  $('<b class="first">8</b><b>9</b><b>10</b><b>11</b><b>12</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b><b>6</b><b>7</b><b>8</b>').appendTo('.calendar');
+  $('.calendar b').wrapInner('<span></span>');
+
+  if ($(window).width() < 767) {
+
+    $('.saturday, .sunday, .wednesday').on('movestart', function(e) {
+      if ((e.distX > e.distY && e.distX < -e.distY) || (e.distX < e.distY && e.distX > -e.distY)) {
+        e.preventDefault();
+      }
+    });
+
+    $('.saturday').on("swipeleft",function(){
+      $('.calendar').removeClass().addClass('calendar showing-sunday');
+    });
+
+    $('.sunday').on("swipeleft",function(){
+      $('.calendar').removeClass().addClass('calendar showing-wednesday');
+    });
+
+    $('.sunday').on("swiperight",function(){
+      $('.calendar').removeClass().addClass('calendar showing-saturday');
+    });
+
+    $('.wednesday').on("swiperight",function(){
+      $('.calendar').removeClass().addClass('calendar showing-sunday');
+    });
+
+    $('#times').on('click', '.showing-saturday .calendar-right', function() {
+      $('.calendar').removeClass().addClass('calendar showing-sunday');
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "-=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });
+
+    $('#times').on('click', '.showing-sunday .calendar-right', function() {
+      $('.calendar').removeClass().addClass('calendar showing-wednesday');
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "-=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });
+
+    $('#times').on('click', '.showing-sunday .calendar-left', function() {
+      $('.calendar').removeClass().addClass('calendar showing-saturday');
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "+=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });
+
+    $('#times').on('click', '.showing-wednesday .calendar-left', function() {
+      $('.calendar').removeClass().addClass('calendar showing-sunday');
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "+=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });
+
+    $(".saturday, .sunday").on("swipeleft",function(){
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "-=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });               
+
+    $(".sunday, .wednesday").on("swiperight",function(){
+      $(".saturday, .sunday, .wednesday").animate({
+        left: "+=100%"
+      }, {
+        duration: 400,
+        specialEasing: {
+          width: "easeOutBounce",
+          height: "easeOutBounce"
+        },
+        complete: function() {
+        }
+      });
+    });
+
+  }
+}
 
 $(document).ready(function () {
   var previousScroll = 0,
