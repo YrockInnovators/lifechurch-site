@@ -1,0 +1,44 @@
+---
+layout: default
+section: talkitover
+categories: talkitover
+class: header-red section-talkitover
+---
+
+{% for series in site.categories.watch %}
+{% if series.series-id == page.series-id %}
+
+{% for data in site.data.watch %}
+{% if data.id == page.series-id %}
+
+{% include tertiary.html %}
+
+<div {% if data.image_banner_archive == '' %}
+   style="background-image: url('{{ data.image_large }}')"
+   {% else %}
+   style="background-image: url('{{ data.image_banner_archive_small_2x }}')" 
+   data-banner-archive-2x="background-image: url('{{ data.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ data.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ data.image_banner_archive_2x }}')"
+   {% endif %}
+   class="hero section-light hero-watch-archive hero-tio">
+   
+  <div class="inner">
+    <span class="logo-talkitover">Talk it over</span>
+  </div>
+</div>
+
+<section class="single padded">
+  <header>
+    <h1>{{ data.title }} {{ page.title }}</h1>
+  </header>
+  <article>
+    {{ content }}
+  </article>
+</section>
+
+{% endif %}
+{% endfor %}
+
+{% endif %}
+{% endfor %}
