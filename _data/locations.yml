@@ -687,6 +687,13 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+  - id: 25
+    title: LifeTroops
+    recipient: mwc.serving@lifechurch.tv
+    url: http://lifetroops.tv/
+    description_medium: Meet the spiritual, emotional, educational, financial, and
+      physical needs of military members 24 hours a day, at home and abroad.
+
 - id: alb
   title: Albany NY Campus
   email: alb.serving@lifechurch.tv
