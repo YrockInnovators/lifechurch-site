@@ -33,7 +33,7 @@ hero: locations-hero
   <div class="container">
     <section id="spreadtheword" class="article-with-figure">
       <article>
-        <h2>Spread the Word</h2> 
+        <h2>Spread the Word</h2>
         {% include locations-spreadtheword.html %}
       </article>
 
@@ -48,7 +48,7 @@ hero: locations-hero
 <div class="group alt">
   <section class="single">
     <header class="text-center">
-      <h2>Spread the Word</h2> 
+      <h2>Spread the Word</h2>
     </header>
     <article>
       {% include locations-spreadtheword.html %}
@@ -67,7 +67,7 @@ hero: locations-hero
   {% if page.spreadtheword == true %}
   <div class="single">
     <article class="text-center">
-      <h2>{{ location.title }} Location</h2> 
+      <h2>{{ location.title }} Location</h2>
     </article>
   </div>
 
@@ -97,135 +97,61 @@ hero: locations-hero
       <h2>{{ page.title }} Service Times</h2>
     </header>
 
-    <ul class="times-legend">
-      <li class="calendar-key key-service-time">
-        <figure></figure>
-        <a href="/watch/">LifeChurch.tv Service</a>
-      </li>
+    <section class="calendar showing-saturday">
 
-      <li class="calendar-key key-switch">
-        <figure></figure>
-        <a href="/kids/#switch">Switch Youth Ministry</a>
-      </li>
+      <a class="calendar-left" href="javascript:void(0);"><i class="icon icon-arrow icon-arrow-left"></i> Previous</a>
+      <a class="calendar-right" href="javascript:void(0);">Next <i class="icon icon-arrow"></i></a>
 
-      <li class="calendar-key key-lifekids">
-        <figure></figure>
-        <a href="/kids/#lifekids">LifeKids &amp; Loop Ministries</a>
-      </li>
+      <article class="saturday day">
+        <header>Saturday</header>
 
-      <li class="calendar-key key-roots">
-        <figure></figure>
-        <a href="/kids/#loop">Roots Youth Ministry</a>
-      </li>
-    </ul>
-
-    <!-- The calendar -->
-    <div class="days-times">
-      <section class="experience">
-
-        <!-- Time Lines -->
-        <div class="day time-lines large-element">
-          <div class="time time-07-00"><label>7<span>AM</span></label><div class="time-line"></div></div>
-          <div class="time time-08-00"><label>8<span>AM</span></label><div class="time-line"></div></div>
-          <div class="time time-09-00"><label>9<span>AM</span></label><div class="time-line"></div></div>
-          <div class="time time-10-00"><label>10<span>AM</span></label><div class="time-line"></div></div>
-          <div class="time time-11-00"><label>11<span>AM</span></label><div class="time-line"></div></div>
-          <div class="time time-12-00"><label>12<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-13-00"><label>1<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-14-00"><label>2<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-15-00"><label>3<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-16-00"><label>4<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-17-00"><label>5<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-18-00"><label>6<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-19-00"><label>7<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-20-00"><label>8<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-21-00"><label>9<span>PM</span></label><div class="time-line"></div></div>
-          <div class="time time-22-00"><label>10<span>PM</span></label><div class="time-line"></div></div>
-        </div>
-
-        <!-- Saturday Times -->
-        <div class="day saturday">
-          <ul class="times">
-            <li class="time duration-240">
-              <label>Saturdays</label>
-            </li>
-
-            {% for time in location.times %}
-            {% if time.day == 'sat' %}
-              <li class="time time-{{ time.time }} duration-{{ time.duration }} type-{{ time.type }}">
-
-                <span class="calendar-key key-{{ time.type }} small-element">
-                  <figure></figure>
-                </span>
-
-                <span class="time-box">
-                  <span class="time-box-time">{{ time.title }}</span>
-                  <span class="time-box-duration"> ({{ time.duration }} mins)</span>
-                </span>
-              </li>
+        {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sat' %}
+        <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+          <time>{{ time.time }}</time>
+          <span>
+            {% if time.type == 'service-time' %}Service &amp; LifeKids
+            {% elsif time.type == 'switch' %}Switch &amp; Roots
             {% endif %}
-            {% endfor %}
-          </ul>
+          </span>
         </div>
+        {% endif %}{% endunless %}{% endfor %}
+      </article>
 
-        <!-- Sunday Times -->
-        <div class="day sunday">
-          <ul class="times">
-            <li class="time duration-240">
-              <label>Sundays</label>
-            </li>
-
-            {% for time in location.times %}
-            {% if time.day == 'sun' %}
-              <li class="time time-{{ time.time }} duration-{{ time.duration }} type-{{ time.type }}">
-
-                <span class="calendar-key key-{{ time.type }} small-element">
-                  <figure></figure>
-                </span>
-
-                <span class="time-box">
-                  <span class="time-box-time">{{ time.title }}</span>
-                  <span class="time-box-duration"> ({{ time.duration }} mins)</span>
-                </span>
-              </li>
+      <article class="sunday day">
+        <header>Sunday</header>
+      
+        {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sun' %}
+        <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+          <span>
+            {% if time.type == 'service-time' %}Service &amp; LifeKids
+            {% elsif time.type == 'switch' %}Switch &amp; Roots
             {% endif %}
-            {% endfor %}
-          </ul>
+          </span>
         </div>
+        {% endif %}{% endunless %}{% endfor %}
+      </article>
 
-        <!-- Wednesday Times -->
-        <div class="day wednesday">
-          <ul class="times">
-            <li class="time duration-240">
-              <label>Wednesdays</label>
-            </li>
-
-            {% for time in location.times %}
-            {% if time.day == 'wed' %}
-              <li class="time time-{{ time.time }} duration-{{ time.duration }} type-{{ time.type }}">
-
-                <span class="calendar-key key-{{ time.type }} small-element">
-                  <figure></figure>
-                </span>
-
-                <span class="time-box">
-                  <span class="time-box-time">{{ time.title }}</span>
-                  <span class="time-box-duration"> ({{ time.duration }} mins)</span>
-                </span>
-              </li>
+      <article class="wednesday day">
+        <header>Wednesday</header>
+        
+        {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'wed' %}
+        <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+          <span>
+            {% if time.type == 'service-time' %}Service &amp; LifeKids
+            {% elsif time.type == 'switch' %}Switch &amp; Roots
             {% endif %}
-            {% endfor %}
-
-          </ul>
+          </span>
         </div>
-      </section>
+        {% endif %}{% endunless %}{% endfor %}
+      </article>
     </div>
     <!-- End calendar -->
 
-    {% if page.location-id == 'edm' or page.location-id == 'ftw' or page.location-id == 'hnv' or page.location-id == 'mwc' or page.location-id == 'noc' or page.location-id == 'okc' or page.location-id == 'soc' or page.location-id == 'wel' %}
+    <!--
+      {% if page.location-id == 'edm' or page.location-id == 'ftw' or page.location-id == 'mwc' or page.location-id == 'noc' or page.location-id == 'okc' or page.location-id == 'soc' or page.location-id == 'wel' %}
     <p class="detail text-center"><br />Switch and Roots start back up on August 20.</p>
 
-    {% elsif page.location-id == 'klr' or page.location-id == 'alb' %}
+    {% elsif page.location-id == 'klr' %}
     <p class="detail text-center"><br />Roots start back up on September 10.</p>
 
     {% elsif page.location-id == 'bao' or page.location-id == 'bnb' or page.location-id == 'jnk' or page.location-id == 'stw' or page.location-id == 'tul' or page.location-id == 'ykn' %}
@@ -235,10 +161,17 @@ hero: locations-hero
     <p class="detail text-center"><br />Switch starts back up on August 27. Roots starts back up on August 20.</p>
 
     {% elsif page.location-id == 'ows' or page.location-id == 'sto' %}
-    <p class="detail text-center"><br />Roots starts back up on August 27. Switch starts back up on August 20.</p>
-    
-    {% endif %}
+    <p class="detail text-center"><br />Switch and Roots start back up on August 27.</p>
+
+    {% elsif page.location-id == 'hnv' %}
+    <p class="detail text-center"><br />Switch is starting back up on September 10th and Roots on August 20th.</p>
+
+    {% elsif page.location-id == 'alb' %}
+    <p class="detail text-center"><br />Switch and Roots will start on September 10th.</p>
+
+    {% endif %} -->
   </div>
+
 </section>
 {% endif %}
 
@@ -322,6 +255,7 @@ hero: locations-hero
             <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
             <input type="text" class="details" name="phone" placeholder="Email" />
+            <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
@@ -356,6 +290,7 @@ hero: locations-hero
             <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
             <input type="text" class="details" name="phone" placeholder="Email" />
+            <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
@@ -389,6 +324,7 @@ hero: locations-hero
             <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
             <input type="text" class="details" name="phone" placeholder="Email" />
+            <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
@@ -420,9 +356,10 @@ hero: locations-hero
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Restore" />
             <hr />
             <h6>Get Connected</h6>
-            <p class="detail">Give us your name and email address and we'll get back to you with upcoming opportunities for you to go through Restore.</p>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
             <input type="text" class="details" name="name" placeholder="Name" />
             <input type="text" class="details" name="phone" placeholder="Email" />
+            <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
                    value="Send to LifeChurch.tv"
