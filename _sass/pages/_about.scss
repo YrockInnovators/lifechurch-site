@@ -162,3 +162,26 @@ form .has-error {
     max-width: 20em;
   }
 }
+
+.connect-thankyou {
+  .closing .container {
+    border: none;
+    padding-top: 0;
+  }
+
+  .hero-connect-thankyou {
+    @include retina-image(/images/connect/connect-bg-2, cover, jpg);
+    background-color: black;
+  }
+
+  .group.about-lctv {
+    @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
+    background-size: cover;
+    background-position: center bottom;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
+      background-size: 1500px auto;
+    }
+  }
+}
