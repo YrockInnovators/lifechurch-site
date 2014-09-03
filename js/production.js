@@ -508,7 +508,7 @@ $('[data-set-campus]').each(function(index) {
 
 if ($('.section-locations').length > 0) {
 
-  $('<b class="first">8</b><b>9</b><b>10</b><b>11</b><b>12</b><b>1</b><b>2</b><b>3</b><b>4</b><b>5</b><b>6</b><b>7</b><b>8</b>').appendTo('.calendar');
+  $('<b class="first">8<i>AM</i></b><b>9<i>AM</i></b><b>10<i>AM</i></b><b>11<i>AM</i></b><b>12<i>PM</i></b><b>1<i>PM</i></b><b>2<i>PM</i></b><b>3<i>PM</i></b><b>4<i>PM</i></b><b>5<i>PM</i></b><b>6<i>PM</i></b><b>7<i>PM</i></b><b>8<i>PM</i></b>').appendTo('.calendar');
   $('.calendar b').wrapInner('<span></span>');
 
   if ($(window).width() < 767) {
