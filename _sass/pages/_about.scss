@@ -161,6 +161,11 @@ form .has-error {
   form {
     max-width: 20em;
   }
+
+  .field-location,
+  .location-identifier {
+    display: none;
+  }
 }
 
 .connect-thankyou {
