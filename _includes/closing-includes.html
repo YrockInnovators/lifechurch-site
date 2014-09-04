@@ -11,10 +11,12 @@
 
 <script src="/js/production.min.js"></script>
 
-{% if page.section == "locations" %}
+{% if page.section == "locations" or page.title == "LifeMissions" %}
 <script src="/js/pages/persistent-nav.js"></script>
-{% elsif page.title == "LifeMissions" %}
-<script src="/js/pages/persistent-nav.js"></script>
+{% endif %}
+
+{% if page.hero == "hero-connect" %}
+<script src="/js/pages/connect.js"></script>
 {% endif %}
 
 <!-- Crazy Egg -->
