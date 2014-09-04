@@ -15,7 +15,7 @@
       <a class="current" href="#">{{ page.title }}</a>
     </nav>
     <div class="resources">
-      {% if page.section == "watch" %}
+      {% if page.section == "watch" or page.section == "watch-promo" %}
       <div class="button-with-options">
         <a class="button secondary" href="#" onclick="ga('send', 'event', 'Series', 'Click', 'Resources Expand');">Downloads &amp; Resources</a>
         {% include watch-resources.html %}

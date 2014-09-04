@@ -26,7 +26,7 @@
   {% endif %}
   {% endfor %}
 
-  {% unless series.resources_url == '' %}
+  {% unless series.resources_url == '' or page.section == 'watch-promo' %}
   <li>
     <a href="{% unless series.resources_url == '' %}{{ series.resources_url }}{% else %}http://resources.lifechurch.tv{% endunless %}"
        class="watch-talkitover"
@@ -36,6 +36,7 @@
   </li>
   {% endunless %}
 
+  {% unless page.section == 'watch-promo' %}
   <li>
     <a href="{% unless series.open_url == '' %}{{ series.open_url }}{% else %}http://open.lifechurch.tv{% endunless %}"
        class="watch-open"
@@ -43,4 +44,5 @@
        For Churches
     </a>
   </li>
+  {% endunless %}
 </ul>

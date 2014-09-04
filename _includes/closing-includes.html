@@ -19,6 +19,16 @@
 <script src="/js/pages/connect.js"></script>
 {% endif %}
 
+{% if page.section == "home" %}
+<script>
+jQuery(function() {
+  setInterval(function() {
+    $('.struggles-figure span').toggleClass('is-visible');
+  }, 750);
+});
+</script>
+{% endif %}
+
 <!-- Crazy Egg -->
 <script type="text/javascript">
   setTimeout(function(){var a=document.createElement("script");
