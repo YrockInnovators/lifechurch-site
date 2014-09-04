@@ -15,7 +15,7 @@
   </li>
 
   {% for talkitover in site.categories.talkitover reversed %}
-  {% if series.id == talkitover.series-id %}
+  {% if page.series-id == talkitover.series-id %}
   <li>
     <a href="{{ talkitover.url }}"
        class="watch-talkitover"
