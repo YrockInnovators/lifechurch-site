@@ -1,4 +1,60 @@
 ---
+- id: struggles
+  title: '#Struggles'
+  headline: 'Let’s be real with our #Struggles.'
+  description_small: 'It''s hard to be true to ourselves when we control what the
+    world sees about us online. Let’s learn to be real with our #Struggles.'
+  description_medium: 'As you scroll through your day, does it feel like everyone
+    else has it all together? Someone always has the best job, cutest kid, or happiest
+    relationship. We''re pressured to measure up to other people''s status updates
+    and left with more #struggles.'
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1938-struggles
+  promo: n0xy2v2cwk
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147Z'
+    updated_at: '2014-06-11T15:18:45.147Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/struggles/300x200.jpg?1409340494
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/struggles/600x400.jpg?1409340573
+  image_large: http://s3.amazonaws.com/lcapi.production/series/struggles/1200x800.jpg?1409340621
+  image_social: http://s3.amazonaws.com/lcapi.production/series/struggles/400x400.jpg?1409340641
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/struggles/1500x340.jpg?1409340694
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/3000x680.jpg?1409340672
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/struggles/480x340.jpg?1409340722
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/960x680.jpg?1409340737
+  messages: []
 - id: stand
   title: Stand
   headline: When push comes to shove, it might seem easier to let things slide rather
