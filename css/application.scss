@@ -83,3 +83,21 @@ body {
     }
   }
 }
+
+// Rapid Feedback Form Button
+
+.rapid-feedback a {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background: white;
+  padding: 5px 13px 4px;
+  border-radius: 3px 0 0 0;
+  font-size: 13px;
+  font-family: "myriad-pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+  &:hover {
+    background: $blue;
+    color: white;
+  }
+}
