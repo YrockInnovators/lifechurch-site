@@ -4,18 +4,21 @@ section: watch-promo
 class: header-red section-watch section-series
 ---
 
+{% for series in site.data.watch %}
+{% if series.id == page.series-id %}
+
 <a href="javascript:void(0)"  
-   style="background-image: url('{{ page.image_banner_archive_small_2x }}')" 
-   data-banner-archive-2x="background-image: url('{{ page.image_banner_archive_small_2x }}')"
-   data-banner-archive-large="background-image: url('{{ page.image_banner_archive }}')"
-   data-banner-archive-large-2x="background-image: url('{{ page.image_banner_archive_2x }}')"
-   data-video-player="{{ page.promo }}"
+   style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
+   data-video-player="{{ series.promo }}"
    class="hero section-light hero-watch-archive"
    onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
    
   <div class="inner">
     <span class="play-large"></span>
-    <h1>{{ page.title }}</h1>
+    <h1>{{ series.title }}</h1>
     Watch the promo
   </div>
 </a>
@@ -23,9 +26,9 @@ class: header-red section-watch section-series
 <div class="group">
   <section class="single">
     <article class="text-center">
-      <p>{{ page.description_medium | newline_to_br }}</p><br /><br />
+      <p>{{ series.description_medium | newline_to_br }}</p><br /><br />
 
-      <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ page.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
+      <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
 
       <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-facebook"></i> Invite on Facebook</a>
 
@@ -34,4 +37,7 @@ class: header-red section-watch section-series
   </section>
 </div>
 
-{% include video-player.html id=page.promo %}
+{% include video-player.html id=series.promo %}
+
+{% endif %}
+{% endfor %}
