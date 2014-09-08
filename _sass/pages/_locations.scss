@@ -775,7 +775,8 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   }
 
   time {
-    display: none;
+    float: right;
+    opacity: .7;
   }
 
   b {
@@ -856,11 +857,15 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     line-height: 18px;
     border-radius: 3px;
-    margin-left: 13%;
+    margin-left: 9%;
     position: absolute;
     width: 90%;
     color: white;
     font-weight: bold;
+
+    @include media($medium-screen) {
+      margin-left: 13%;
+    }
 
     &.is-service-time {
       background: #e98f93;

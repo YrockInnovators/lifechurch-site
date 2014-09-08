@@ -107,7 +107,7 @@ hero: locations-hero
 
         {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sat' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
-          <time>{{ time.time }}</time>
+          <time>{{ time.title }}</time>
           <span>
             {% if time.type == 'service-time' %}Service &amp; LifeKids
             {% elsif time.type == 'switch' %}Switch &amp; Roots
@@ -122,6 +122,7 @@ hero: locations-hero
       
         {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sun' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+          <time>{{ time.title }}</time>
           <span>
             {% if time.type == 'service-time' %}Service &amp; LifeKids
             {% elsif time.type == 'switch' %}Switch &amp; Roots
@@ -136,6 +137,7 @@ hero: locations-hero
         
         {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'wed' %}
         <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+          <time>{{ time.title }}</time>
           <span>
             {% if time.type == 'service-time' %}Service &amp; LifeKids
             {% elsif time.type == 'switch' %}Switch &amp; Roots
