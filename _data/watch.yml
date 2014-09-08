@@ -54,7 +54,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/3000x680.jpeg?1409866971
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/struggles/480x340.jpg?1409340722
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/960x680.jpg?1409340737
-  messages: []
+  messages:
+  - title: Contentment
+    headline: ''
+    video: f5inyspcmy
 - id: stand
   title: Stand
   headline: When push comes to shove, it might seem easier to let things slide rather
