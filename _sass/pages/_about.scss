@@ -144,13 +144,24 @@ form .has-error {
   background: black;
 
   .hero {
-    @include retina-image(/images/connect/connect-bg, cover, jpg);
+    @include retina-image(/images/connect/connect-bg-small, 559px auto, jpg);
     background-color: black;
-    padding-bottom: 150px;
+    background-position: right top;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/connect/connect-bg, cover, jpg);
+      background-color: black;
+      padding-bottom: 150px;
+      background-position: center;
+    }
   }
 
   h1 {
     color: white;
+
+    @media screen and (max-width: 767px) {
+      margin-top: 0;
+    }
   }
 
   p {
