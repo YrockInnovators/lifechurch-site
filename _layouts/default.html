@@ -9,10 +9,10 @@
   {% if page.class %}<body id="skrollr-body" class="{{ page.class }}">{% else %}<body id="skrollr-body">{% endif %}
     {% include announcement.html %}
     {% if page.hero %}<section class="hero top {{ page.hero }}">{% endif %}
-    
+
     {% include navigation.html %}
-    {% unless page.section == 'live' or page.section == 'home' or page.section == 'watch' or page.section == 'talkitover' or page.section == 'watch-landing' or page.section == 'landing' %} {% include tertiary.html %} {% endunless %}
-    
+    {% unless page.section == 'live' or page.section == 'home' or page.section == 'watch' or page.section == 'talkitover' or page.section == 'watch-landing' or page.section == 'jobs' or page.section == 'landing' %} {% include tertiary.html %} {% endunless %}
+
     {{ content }}
 
     {% unless page.section == 'landing' %}
@@ -20,6 +20,6 @@
     {% include closing.html %}
     {% endunless %}
 
-    {% include closing-includes.html %}  
+    {% include closing-includes.html %}
   </body>
 </html>
