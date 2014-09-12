@@ -223,18 +223,19 @@
     url: http://www.lilyfield.org/
     description_medium: 'Share a meal with local foster care families and provide
       them with support and encouragement through monthly group gatherings. '
-  - id: 35
-    title: City Rescue Mission
-    recipient: edm.serving@lifechurch.tv
-    url: http://cityrescue.org/
-    description_medium: Meet the needs of the hungry and homeless in our community
-      as City Rescue Mission provides help, hope, and healing under the call of Christ.
   - id: 52
     title: Branch15
     recipient: edm.serving@lifechurch.tv
     url: http://www.branch15.com/
     description_medium: Help provide Christ-centered transitional housing and individualized
       support to women who are on the path toward recovery and independent living.
+  - id: 35
+    title: City Rescue Mission
+    recipient: edm.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -891,8 +892,9 @@
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Meet the needs of the hungry and homeless in our community
-      as City Rescue Mission provides help, hope, and healing under the call of Christ.
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
 - id: tul
   title: Tulsa OK Campus
   email: tul.serving@lifechurch.tv
@@ -1208,8 +1210,9 @@
     title: City Rescue Mission
     recipient: soc.serving@lifechurch.tv
     url: http://cityrescue.org/
-    description_medium: Meet the needs of the hungry and homeless in our community
-      as City Rescue Mission provides help, hope, and healing under the call of Christ.
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
 - id: okc
   title: Oklahoma City OK Campus
   email: okc.serving@lifechurch.tv
