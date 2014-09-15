@@ -34,7 +34,7 @@
 .jobs {
 
   .section-jobs-top { 
-    @include retina-image(/images/jobs/jobs-bg-small, 472px auto, jpg);
+    @include retina-image(/images/jobs/jobs-bg-small, cover, jpg);
     min-height: 300px;
 
 
