@@ -144,9 +144,10 @@ hero: digital-missions-bg
            </a>
           <a href="http://becauseofyou.lifechurch.tv/2013-2014-winter/open-for-discussion"
              class="action small"
+             target="_blank"
              onclick="ga('send', 'event', 'Digital Missions', 'Click', 'OPEN Video');">
-             Watch video <i class="icon icon-play"></i>
-           </a>
+             Watch video <i class="icon icon-window"></i>
+          </a>
         </p>
       </div>
 
@@ -161,10 +162,11 @@ hero: digital-missions-bg
              onclick="ga('send', 'event', 'Digital Missions', 'Click', 'Church Metrics Site');">
              Visit site <i class="icon icon-arrow"></i>
           </a>
-          <a href="https://www.churchmetrics.com/app"
+          <a href="#"
              class="action small"
-             onclick="ga('send', 'event', 'Digital Aissions', 'Click', 'Church Metrics Download');">
-             Download app <i class="icon icon-arrow"></i>
+             data-video-player="my96n3qm3n"
+             onclick="ga('send', 'event', 'Digital Missions', 'Click', 'Church Metrics Video');">
+             Watch video <i class="icon icon-arrow"></i>
           </a>
         </p>
       </div>
@@ -227,4 +229,5 @@ hero: digital-missions-bg
   </div>
 </section>
 
+{% include video-player.html id='my96n3qm3n' %}
 {% include video-player.html id='ecek0eoyxt' %}
