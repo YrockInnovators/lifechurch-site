@@ -1,0 +1,10 @@
+<ul>
+  {% for location in site.data.locations %}
+  <li>
+    <a href="/locations/{{ location.id }}">
+      <h4>{{ location.title }}</h4>
+      <p class="detail">{{ location.address }}</p>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
