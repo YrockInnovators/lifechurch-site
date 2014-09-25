@@ -4,125 +4,193 @@ title: Locations
 class: page-locations section-locations logo-black-black
 ---
 
-<section class="small-element">
-  <figure class="hero hero-small-locations"></figure>
+<section class="map">
+
+  <figure id="map-oklahoma" class="map-visual"></figure>
+  <figure id="map-texas" class="map-visual"></figure>
+  <figure id="map-tennessee" class="map-visual"></figure>
+  <figure id="map-florida" class="map-visual"></figure>
+  <figure id="map-kansas" class="map-visual"></figure>
+  <figure id="map-newyork" class="map-visual"></figure>
+  <figure id="map-default" class="map-visual"></figure>
 
   <article class="container">
-    <h4>Online</h4>
-    <ul class="no-disc">
-      <li><a class="action" href="http://live.lifechurch.tv">Church Online Campus <i class="icon icon-arrow"></i></a></li>
-    </ul>
+    <div class="map-panel">
+      <div id="online" class="location-state">
+        <h4 class="state-title"><a href="http://live.lifechurch.tv">Online <i class="icon icon-arrow"></i></a></h4>
+      </div>
 
-    <h4>Oklahoma City Metro (OK)</h4>
-    <ul class="no-disc">
-      <li><a class="action" href="/broadwaybritton/">Broadway & Britton OK <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/edmond/">Edmond OK <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/midwestcity/">Midwest City OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/moore/">Moore OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/northwestokc/">NW Oklahoma City OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/okc/">Oklahoma City OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/southokc/">South Oklahoma City OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/yukon/">Yukon OK  <i class="icon icon-arrow"></i></a></li>
-    </ul>
+      <div id="oklahoma" class="location-state">
+        <h4 class="state-title"><a href="#oklahoma" onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom OK');">Oklahoma, US</a></h4>
 
-    <h4>Tulsa Metro (OK)</h4>
-    <ul class="no-disc">
-      <li><a class="action" href="/brokenarrow/">Broken Arrow OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/jenks/">Jenks OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/owasso/">Owasso OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/tulsa/">Tulsa OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/southtulsa/">South Tulsa OK  <i class="icon icon-arrow"></i></a></li>
-    </ul>
+        <div id="okc-metro" class="map-list">
+          <h5>Oklahoma City Metro OK</h5>
+          <ul>
+            <li><a id="bnb" href="/broadwaybritton/">
+              <span class="marker">A</span>
+              <h6>Broadway & Britton OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
 
-    <h4>Nationwide, USA</h4>
-    <ul class="no-disc">
-      <li><a class="action" href="/stillwater/">Stillwater OK  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/keller/">Keller TX  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/fortworth/">Fort Worth TX  <i class="icon icon-arrow"></i></a>
-      <li><a class="action" href="/hendersonville/">Hendersonville TN  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" class="action arrow-blue" href="/wellington/">Wellington FL  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/wichita/">Wichita KS  <i class="icon icon-arrow"></i></a></li>
-      <li><a class="action" href="/albany/">Albany NY  <i class="icon icon-arrow"></i></a></li>
-    </ul>
+            <li><a id="edm" href="/edmond/">
+              <span class="marker">B</span>
+              <h6>Edmond OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
 
-    <h4>International</h4>
-    <ul class="no-disc">
-      <li><a class="action" href="http://www.networkchurches.tv">View our Network Churches  <i class="icon icon-arrow"></i></a></li>
-    </ul>
-    <br />
+            <li><a id="mwc" href="/midwestcity/">
+              <span class="marker">C</span>
+              <h6>Midwest City OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="mor" href="/moore/">
+              <span class="marker">D</span>
+              <h6>Moore OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="noc" href="/northwestokc/">
+              <span class="marker">E</span>
+              <h6>NW Oklahoma City OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="okc" href="/okc/">
+              <span class="marker">F</span>
+              <h6>Oklahoma City OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="soc" href="/southokc/">
+              <span class="marker">G</span>
+              <h6>South Oklahoma City OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="ykn" href="/yukon/">
+              <span class="marker">H</span>
+              <h6>Yukon OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+          </ul>
+        </div>
+
+        <div id="tulsa-metro" class="map-list">
+          <h5>Tulsa Metro OK</h5>
+          <ul>
+            <li><a id="bao" href="/brokenarrow/">
+              <span class="marker">I</span>
+              <h6>Broken Arrow OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="jnk" href="/jenks/">
+              <span class="marker">J</span>
+              <h6>Jenks OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="ows" href="/owasso/">
+              <span class="marker">K</span>
+              <h6>Owasso OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="tul" href="/tulsa/">
+              <span class="marker">L</span>
+              <h6>Tulsa OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+
+            <li><a id="sto" href="/southtulsa/">
+              <span class="marker">M</span>
+              <h6>South Tulsa OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+          </ul>
+        </div>
+
+        <div id="stillwater" class="map-list">
+          <h5>Stillwater OK</h5>
+          <ul>
+            <li><a id="stw" href="/stillwater/">
+              <span class="marker">N</span>
+              <h6>Stillwater OK</h6>
+              <p class="detail">Address goes here</p>
+            </a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div id="texas" class="location-state">
+        <h4 class="state-title"><a href="#texas" onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom TX');">Texas, US</a></h4>
+        <ul class="map-list">
+          <li><a id="klr" href="/keller/">
+            <span class="marker">A</span>
+            <h6>Keller TX</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+
+          <li><a id="ftw" href="/fortworth/">
+            <span class="marker">B</span>
+            <h6>Fort Worth TX</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="tennessee" class="location-state">
+        <h4 class="state-title"><a href="#tennessee">Tennessee, US</a></h4>
+        <ul class="map-list">
+          <li><a id="hnv" href="/hendersonville/">
+            <span class="marker">A</span>
+            <h6>Hendersonville TN</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="florida" class="location-state">
+        <h4 class="state-title"><a href="#florida">Florida, US</a></h4>
+        <ul class="map-list">
+          <li><a id="wel" href="/wellington/">
+            <span class="marker">A</span>
+            <h6>Wellington FL</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="kansas" class="location-state">
+        <h4 class="state-title"><a href="#kansas">Kansas, US</a></h4>
+        <ul class="map-list">
+          <li><a id="wch" href="/wichita/">
+            <span class="marker">A</span>
+            <h6>Wichita KS</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="newyork" class="location-state">
+        <h4 class="state-title"><a href="#newyork">New York, US</a></h4>
+        <ul class="map-list">
+          <li><a id="alb" href="/albany/">
+            <span class="marker">A</span>
+            <h6>Albany NY</h6>
+            <p class="detail">Address goes here</p>
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="international" class="location-state">
+        <h4 class="state-title">International</h4>
+        <ul>
+          <li><a id="network" href="http://www.networkchurches.tv">View our Network Churches  <i class="icon icon-arrow"></i></a></li>
+        </ul>
+      </div>
+      <br />
+    </div>
   </article>
-</section>
-
-<div class="map-wrapper large-element">
-  <section class="map"></section>
-
-  <div class="container">
-    <a href="#"
-       class="map-back button tiny small"
-       style="display: none;"
-       onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom Out');">
-       &larr; Back to full map
-    </a>
-  </div>
-
-  <a href="#"
-     class="pin pin-state pin-ok"
-     onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom OK');">
-     Oklahoma&nbsp;(14)
-  </a>
-  <a href="#"
-     class="pin pin-state pin-tx"
-     onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom TX');">
-     Texas&nbsp;(2)
-  </a>
-  <a class="pin pin-state pin-tn" href="/hendersonville/">Hendersonville,&nbsp;TN</a>
-  <a class="pin pin-state pin-fl" href="/wellington/">Wellington,&nbsp;FL</a>
-  <a class="pin pin-state pin-ny" href="/albany/">Albany,&nbsp;NY</a>
-  <a class="pin pin-state pin-ks" href="/wichita/">Wichita,&nbsp;KS</a>
-
-  <div class="pin pin-campus-ok pin-okc" href="#" style="display: none;"></div>
-  <div class="pin pin-campus-ok pin-tulsa" href="#" style="display: none;"></div>
-  <div class="pin pin-campus-ok pin-stillwater" href="#" style="display: none;"></div>
-
-  <a class="pin pin-campus-tx pin-keller" href="/keller/" style="display: none;">Keller,&nbsp;TX</a>
-  <a class="pin pin-campus-tx pin-fortworth" href="/fortworth/" style="display: none;">Fort&nbsp;Worth,&nbsp;TX</a>
-
-  <ul class="map-list map-list-ok map-list-okc" style="display: none;">
-    <li><a href="/broadwaybritton/">Broadway &amp; Britton</a></li>
-    <li><a href="/edmond/">Edmond</a></li>
-    <li><a href="/midwestcity/">Midwest City</a></li>
-    <li><a href="/moore/">Moore</a></li>
-    <li><a href="/northwestokc/">NW Oklahoma City</a></li>
-    <li><a href="/okc/">Oklahoma City</a></li>
-    <li><a href="/southokc/">South Oklahoma City</a></li>
-    <li><a href="/yukon/">Yukon</a></li>
-  </ul>
-
-  <ul class="map-list map-list-ok map-list-tulsa" style="display: none;">
-    <li><a href="/brokenarrow/">Broken Arrow</a></li>
-    <li><a href="/jenks/">Jenks</a></li>
-    <li><a href="/owasso/">Owasso</a></li>
-    <li><a href="/tulsa/">Tulsa</a></li>
-    <li><a href="/southtulsa/">South Tulsa</a></li>
-  </ul>
-
-  <ul class="map-list map-list-ok map-list-stillwater" style="display: none;">
-    <li><a href="/stillwater/">Stillwater</a></li>
-  </ul>
-</div>
-
-<section class="main-copy container large-element">
-  <p>
-    <a href="http://live.lifechurch.tv"
-       class="action large"
-       onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
-       Join us at one of our campuses <br />or at Church Online. <i class="icon icon-arrow"></i>
-    </a>
-    <br />
-    <a href="http://www.networkchurches.tv"
-       class="action small"
-       onclick="ga('send', 'event', 'Locations', 'Click', 'Network Churches');">
-       Or, search for a Network Church near you. <i class="icon icon-arrow-1"></i>
-    </a>
-  </p>
 </section>

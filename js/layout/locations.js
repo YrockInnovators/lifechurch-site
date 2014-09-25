@@ -4,18 +4,65 @@ if ($('.alert-box').length > 0) {
   $('body').addClass('has-alerts');
 };
 
+  // Zoom out
+  $("body").delegate(".breadcrumb .current", "click", function() {
+    $('.map').removeClass().addClass('map');
+  });
+
+  // Oklahoma
+  $(".map").delegate("#oklahoma .state-title a", "click", function() {
+    $(".map").toggleClass("is-oklahoma");
+    return false;
+  });
+  
+  // Texas
+  $(".map").delegate("#texas .state-title a", "click", function() {
+    $(".map").toggleClass("is-texas");
+    return false;
+  });
+
+  // Tennessee
+  $(".map").delegate("#tennessee .state-title a", "click", function() {
+    $(".map").toggleClass("is-tennessee");
+    return false;
+  });
+  
+  // Florida
+  $(".map").delegate("#florida .state-title a", "click", function() {
+    $(".map").toggleClass("is-florida");
+    return false;
+  });
+
+  // Kansas
+  $(".map").delegate("#kansas .state-title a", "click", function() {
+    $(".map").toggleClass("is-kansas");
+    return false;
+  });
+
+  // New York
+  $(".map").delegate("#newyork .state-title a", "click", function() {
+    $(".map").toggleClass("is-newyork");
+    return false;
+  });
+
+
+
+
 if ($(window).width() < 767) {
-}
-// If the screen is wide:
-else {
+  // If the screen is small:
+  
+
+} else {
+  // If the screen is wide:
+
   // General pin zoom
-  $( ".map-wrapper" ).delegate( ".pin-ok, .pin-tx", "click", function() {
-    $(".pin-state").fadeOut(200);
+  $( ".mapX" ).delegate( "#oklahoma, #texas", "click", function() {
+    $(".state-title").fadeOut(200);
     $(".map-back").fadeIn(500);
   });
 
   // OK pin zoom
-  $( ".map-wrapper" ).delegate( ".pin-ok", "click", function() {
+  $( ".mapX" ).delegate( "#oklahoma", "click", function() {
     $(".map").addClass("map-ok");
     $(".pin-campus-ok").delay(300).fadeIn(300);
     $(".map-list-okc").delay(400).fadeIn(300);
@@ -24,17 +71,17 @@ else {
   });
 
   // TX pin zoom
-  $( ".map-wrapper" ).delegate( ".pin-tx", "click", function() {
+  $( ".mapX" ).delegate( "#texas", "click", function() {
     $(".map").addClass("map-tx");
     $(".pin-campus-tx").delay(300).fadeIn(300);
   });
 
   // Back / Zoom out
-  $( ".map-wrapper" ).delegate( ".map-back", "click", function() {
+  $( ".mapX" ).delegate( ".map-back", "click", function() {
     $(".map").removeClass().addClass("map");
     $(".pin, .map-list").fadeOut(200);
     $(".map-back").fadeOut(500);
-    $(".pin-state").delay(300).fadeIn(300);
+    $(".state-title").delay(300).fadeIn(300);
   });
 }
 

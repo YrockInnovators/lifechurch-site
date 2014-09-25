@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="61.3 18.3 1100 532.7" enable-background="new 61.3 18.3 1100 532.7" xml:space="preserve">
+<g id="land">
+	<path fill="#F6F0EF" d="M49.8,12.8c-0.4,0-0.7,0-1-0.1v545.1h1124.1V12.8H49.8z"/>
+</g>
+<g id="roads">
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="958.9,130 1089,210 1108,281.9 	"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="1128,18.3 1007,128 1002,168 980,168 
+		980,101.5 1015,68 1015,18.3 	"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="965" y1="128" x2="971" y2="18.3"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="713.6,75 762,75 783,110 891,122 958,128 
+			"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="671.9,300.7 667,326.6 520,453 515,551 	
+		"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="682.3,278.6 671.9,278.3 671.9,300.7 
+		781,305 967,294.6 1161.3,278.3 	"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="298,18.3 479,201 513,201 546,275.1 
+		635,281.9 648,286.1 692.2,286.1 692.2,253.1 	"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="62.6,350 295,332 443,279.1 645,271.3 
+		654,252.1 759,240.1 897,203 958,128 1167,122 	"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="709.9,12.8 716.7,128 682.3,290 
+		682.3,342.5 751.4,518 751.4,551 	"/>
+</g>
+<g id="marker">
+	<path id="pin_1_" fill="#B9252D" d="M683,257.4c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L683,257.4z"/>
+	<text id="id" transform="matrix(1 0 0 1 669.704 256.1449)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">A</text>
+</g>
+<g id="marker_1_">
+	<path id="pin_2_" fill="#B9252D" d="M700.4,238.8c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L700.4,238.8z"/>
+	
+		<text id="id_1_" transform="matrix(1 0 0 1 687.0546 237.5023)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">B</text>
+</g>
+<g id="marker_2_">
+	<path id="pin_3_" fill="#B9252D" d="M702.7,278.7c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L702.7,278.7z"/>
+	
+		<text id="id_2_" transform="matrix(1 0 0 1 689.4055 277.434)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">C</text>
+</g>
+<g id="marker_9_">
+	<path id="pin_10_" fill="#B9252D" d="M957.3,147.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L957.3,147.6z"/>
+	
+		<text id="id_9_" transform="matrix(1 0 0 1 944.0029 146.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">H</text>
+</g>
+<g id="marker_10_">
+	<path id="pin_11_" fill="#B9252D" d="M1000.3,97.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L1000.3,97.6z"/>
+	
+		<text id="id_10_" transform="matrix(1 0 0 1 990.0029 96.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">I</text>
+</g>
+<g id="marker_8_">
+	<path id="pin_9_" fill="#B9252D" d="M1006.7,147.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L1006.7,147.6z"/>
+	
+		<text id="id_8_" transform="matrix(1 0 0 1 993.4053 146.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">G</text>
+</g>
+<g id="marker_12_">
+	<path id="pin_13_" fill="#B9252D" d="M985.7,160.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L985.7,160.6z"/>
+	
+		<text id="id_12_" transform="matrix(1 0 0 1 972.4053 159.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">K</text>
+</g>
+<g id="marker_11_">
+	<path id="pin_12_" fill="#B9252D" d="M980.7,128.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L980.7,128.6z"/>
+	
+		<text id="id_11_" transform="matrix(1 0 0 1 967.4053 128.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">J</text>
+</g>
+<g id="marker_5_">
+	<path id="pin_6_" fill="#B9252D" d="M667,240.4c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L667,240.4z"/>
+	
+		<text id="id_5_" transform="matrix(1 0 0 1 653.6752 239.1765)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">F</text>
+</g>
+<g id="marker_4_">
+	<path id="pin_5_" fill="#B9252D" d="M664.3,269.7c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L664.3,269.7z"/>
+	
+		<text id="id_4_" transform="matrix(1 0 0 1 650.9738 268.4033)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">E</text>
+</g>
+<g id="marker_7_">
+	<path id="pin_8_" fill="#B9252D" d="M644,279c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L644,279z"/>
+	
+		<text id="id_7_" transform="matrix(1 0 0 1 630.7037 277.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">H</text>
+</g>
+<g id="marker_6_">
+	<path id="pin_7_" fill="#B9252D" d="M682,295c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L682,295z"/>
+	
+		<text id="id_6_" transform="matrix(1 0 0 1 668.7037 293.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">G</text>
+</g>
+<g id="marker_3_">
+	<path id="pin_4_" fill="#B9252D" d="M697,313c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L697,313z"/>
+	
+		<text id="id_3_" transform="matrix(1 0 0 1 683.7037 311.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">D</text>
+</g>
+</svg>

@@ -2,29 +2,215 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .pin {
-@include svg-image('/locations/assets/pin');
-background-repeat: no-repeat;
-background-position: center top;
-color: #ada5a5;
-font-family: $sans-serif;
-font-size: 9px;
-text-align: center;
-text-indent: 6px;
-text-transform: uppercase;
-width: 44px;
-height: 33px;
-padding-top: 28px;
+  @include svg-image('/locations/assets/pin');
+  background-repeat: no-repeat;
+  background-position: center top;
+  color: #ada5a5;
+  font-family: $sans-serif;
+  font-size: 9px;
+  text-align: center;
+  text-indent: 6px;
+  text-transform: uppercase;
+  width: 44px;
+  height: 33px;
+  padding-top: 28px;
 }
 
 .pin-state.pin-ok,
 .pin-state.pin-tx {
-@include svg-image('/locations/assets/pin2');
+  @include svg-image('/locations/assets/pin2');
 }
 
 // Locations Overview
 ///////////////////////////////////////////////////////////////////////////////
 
+.map {
+  top: -145px;
+  width: 100%;
+  position: relative;
+  padding-top: 145px;
+  margin-bottom: -145px;
+
+  .map-visual {
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100;
+    z-index: 0;
+  }
+
+  #map-default.map-visual {
+    @include transition (all 0.3s ease-in-out);
+    background-color: #a2ddf5;
+    @include svg-image('/locations/assets/map-default-large');
+    background-size: 1300px auto;
+    background-position: center top;
+    opacity: 1;
+  }
+
+  .map-panel {
+    @extend .panel;
+    position: relative;
+    max-width: 400px;
+  }
+
+  .location-state {
+    @include transition (all 0.3s ease-in-out);
+    overflow: hidden;
+    max-height: 1200px;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    .state-title {
+      @include transition (all 0.3s ease-in-out);
+      margin: .5em 0 0;
+      padding-bottom: .5em;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .state-title a:before {
+      @include transition (all 0.3s ease-in-out);
+      opacity: 0;
+      font-family: 'lctv';
+      font-size: .8em;
+      content: '\e816';
+      max-width: 0;
+      display: inline-block; 
+    }
+  }
+
+  .map-list {
+    @include transition (all 0.3s ease-in-out);
+    max-height: 0;
+    overflow: hidden;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    li {
+      border-bottom: 1px solid #ddd;
+
+      &:last-child {
+        border: none;
+      }
+    }
+
+    li a {
+      display: block;
+      margin: 0 -1em;
+      padding: .35em 1em .1em 3em;
+
+      p {
+        color: $base-font-color;
+      }
+
+      &:hover {
+        background: #fafafa;
+      }
+    }
+  }
+
+  .marker {
+    background: $red;
+    width: 25px;
+    display: block;
+    height: 25px;
+    border-radius: 100px;
+    text-align: center;
+    color: white;
+    line-height: 1.7em;
+    float: left;
+    margin: 3px 0 0 -2em;
+    font-family: $sans-serif;
+  }
+
+  .marker:after {
+    content: "";
+    display: block;
+    width: 0;
+    height: 0;
+    border-left: 9px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 10px solid $red;
+    top: -5px;
+    position: relative;
+    left: 4px;
+  }
+
+  &.is-oklahoma #map-oklahoma {
+    @include svg-image('/locations/assets/map-oklahoma-large');
+    background-size: 1300px auto;
+    background-position: center top;
+  }
+
+  &.is-texas #map-texas {
+    background: blue;
+  }
+  
+  &.is-tennessee #map-tennessee {
+    background: green;
+  }
+}
+
+$states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
+
+@each $state in $states{
+  .map.is-#{$state} {
+  
+    #map-#{$state} {
+      opacity: 1;
+    }
+
+    #map-default {
+      opacity: 0;
+    }
+
+    .location-state {
+      max-height: 0;
+
+      .state-title {
+        border-bottom: 1px solid white;
+      }
+    }
+
+    // Make the 'up' arrow
+    ##{$state} .state-title a:before {
+      opacity: 1;
+      max-width: 50px;
+      margin-right: 4px;
+    }
+    
+    ##{$state},
+    ##{$state} .map-list,
+    ##{$state} .location-state {
+      max-height: 1200px;  
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .page-locations {
+  .closing .container {
+    border: none;
+  }
+}
+
+#map {
 
   // Wrapper around all the large screen location content
   .map-wrapper {
@@ -42,6 +228,7 @@ padding-top: 28px;
   // Page title links
   .main-copy {
     margin-top: -160px;
+    height: 160px;
 
     a {
       color: $black;
@@ -52,11 +239,7 @@ padding-top: 28px;
       display: inline-block;
     }
   }
-
-  .closing .container {
-    border: none;
-  }
-
+  
   // Hide tertiary links
   .page-tertiary {
     @include media($medium-screen) {
