@@ -29,49 +29,65 @@ class: page-locations section-locations logo-black-black
             <li><a id="bnb" href="/broadwaybritton/">
               <span class="marker">A</span>
               <h6>Broadway & Britton OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'bnb' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="edm" href="/edmond/">
               <span class="marker">B</span>
               <h6>Edmond OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'edm' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="mwc" href="/midwestcity/">
               <span class="marker">C</span>
               <h6>Midwest City OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'mwc' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="mor" href="/moore/">
               <span class="marker">D</span>
               <h6>Moore OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'mor' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="noc" href="/northwestokc/">
               <span class="marker">E</span>
               <h6>NW Oklahoma City OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'noc' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="okc" href="/okc/">
               <span class="marker">F</span>
               <h6>Oklahoma City OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'okc' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="soc" href="/southokc/">
               <span class="marker">G</span>
               <h6>South Oklahoma City OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'soc' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="ykn" href="/yukon/">
               <span class="marker">H</span>
               <h6>Yukon OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'ykn' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
           </ul>
         </div>
@@ -82,31 +98,41 @@ class: page-locations section-locations logo-black-black
             <li><a id="bao" href="/brokenarrow/">
               <span class="marker">I</span>
               <h6>Broken Arrow OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'bao' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="jnk" href="/jenks/">
               <span class="marker">J</span>
               <h6>Jenks OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'jnk' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="ows" href="/owasso/">
               <span class="marker">K</span>
               <h6>Owasso OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'ows' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="tul" href="/tulsa/">
               <span class="marker">L</span>
               <h6>Tulsa OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'tul' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
 
             <li><a id="sto" href="/southtulsa/">
               <span class="marker">M</span>
               <h6>South Tulsa OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'sto' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
           </ul>
         </div>
@@ -117,7 +143,9 @@ class: page-locations section-locations logo-black-black
             <li><a id="stw" href="/stillwater/">
               <span class="marker">N</span>
               <h6>Stillwater OK</h6>
-              <p class="detail">Address goes here</p>
+              {% for location in site.data.locations %}
+              {% if location.id == 'stw' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
             </a></li>
           </ul>
         </div>
@@ -129,13 +157,17 @@ class: page-locations section-locations logo-black-black
           <li><a id="klr" href="/keller/">
             <span class="marker">A</span>
             <h6>Keller TX</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'klr' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
 
           <li><a id="ftw" href="/fortworth/">
             <span class="marker">B</span>
             <h6>Fort Worth TX</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'ftw' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
         </ul>
       </div>
@@ -146,7 +178,9 @@ class: page-locations section-locations logo-black-black
           <li><a id="hnv" href="/hendersonville/">
             <span class="marker">A</span>
             <h6>Hendersonville TN</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'hnv' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
         </ul>
       </div>
@@ -157,7 +191,9 @@ class: page-locations section-locations logo-black-black
           <li><a id="wel" href="/wellington/">
             <span class="marker">A</span>
             <h6>Wellington FL</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'wel' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
         </ul>
       </div>
@@ -168,7 +204,9 @@ class: page-locations section-locations logo-black-black
           <li><a id="wch" href="/wichita/">
             <span class="marker">A</span>
             <h6>Wichita KS</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'wch' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
         </ul>
       </div>
@@ -179,7 +217,9 @@ class: page-locations section-locations logo-black-black
           <li><a id="alb" href="/albany/">
             <span class="marker">A</span>
             <h6>Albany NY</h6>
-            <p class="detail">Address goes here</p>
+            {% for location in site.data.locations %}
+            {% if location.id == 'alb' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
           </a></li>
         </ul>
       </div>
@@ -190,7 +230,6 @@ class: page-locations section-locations logo-black-black
           <li><a id="network" href="http://www.networkchurches.tv">View our Network Churches  <i class="icon icon-arrow"></i></a></li>
         </ul>
       </div>
-      <br />
     </div>
   </article>
 </section>
