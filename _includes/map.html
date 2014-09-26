@@ -18,7 +18,7 @@
       <div id="florida" class="location-state">
         <h4 class="state-title"><a href="#florida">Florida, US</a></h4>
         <ul class="map-list">
-          <li><a id="wel" href="/wellington/">
+          <li><a id="wel" href="/wellington/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">A</span>
             <h6>Wellington FL</h6>
             {% for location in site.data.locations %}
@@ -31,7 +31,7 @@
       <div id="kansas" class="location-state">
         <h4 class="state-title"><a href="#kansas">Kansas, US</a></h4>
         <ul class="map-list">
-          <li><a id="wch" href="/wichita/">
+          <li><a id="wch" href="/wichita/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">A</span>
             <h6>Wichita KS</h6>
             {% for location in site.data.locations %}
@@ -44,7 +44,7 @@
       <div id="newyork" class="location-state">
         <h4 class="state-title"><a href="#newyork">New York, US</a></h4>
         <ul class="map-list">
-          <li><a id="alb" href="/albany/">
+          <li><a id="alb" href="/albany/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">A</span>
             <h6>Albany NY</h6>
             {% for location in site.data.locations %}
@@ -60,7 +60,7 @@
         <div id="okc-metro" class="map-list">
           <h5>Oklahoma City Metro OK</h5>
           <ul>
-            <li><a id="bnb" href="/broadwaybritton/">
+            <li><a id="bnb" href="/broadwaybritton/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">A</span>
               <h6>Broadway & Britton OK</h6>
               {% for location in site.data.locations %}
@@ -68,7 +68,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="edm" href="/edmond/">
+            <li><a id="edm" href="/edmond/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">B</span>
               <h6>Edmond OK</h6>
               {% for location in site.data.locations %}
@@ -76,7 +76,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="mwc" href="/midwestcity/">
+            <li><a id="mwc" href="/midwestcity/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">C</span>
               <h6>Midwest City OK</h6>
               {% for location in site.data.locations %}
@@ -84,7 +84,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="mor" href="/moore/">
+            <li><a id="mor" href="/moore/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">D</span>
               <h6>Moore OK</h6>
               {% for location in site.data.locations %}
@@ -92,7 +92,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="noc" href="/northwestokc/">
+            <li><a id="noc" href="/northwestokc/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">E</span>
               <h6>NW Oklahoma City OK</h6>
               {% for location in site.data.locations %}
@@ -100,7 +100,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="okc" href="/okc/">
+            <li><a id="okc" href="/okc/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">F</span>
               <h6>Oklahoma City OK</h6>
               {% for location in site.data.locations %}
@@ -108,7 +108,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="soc" href="/southokc/">
+            <li><a id="soc" href="/southokc/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">G</span>
               <h6>South Oklahoma City OK</h6>
               {% for location in site.data.locations %}
@@ -116,7 +116,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="ykn" href="/yukon/">
+            <li><a id="ykn" href="/yukon/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">H</span>
               <h6>Yukon OK</h6>
               {% for location in site.data.locations %}
@@ -129,7 +129,7 @@
         <div id="tulsa-metro" class="map-list">
           <h5>Tulsa Metro OK</h5>
           <ul>
-            <li><a id="bao" href="/brokenarrow/">
+            <li><a id="bao" href="/brokenarrow/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">I</span>
               <h6>Broken Arrow OK</h6>
               {% for location in site.data.locations %}
@@ -137,7 +137,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="jnk" href="/jenks/">
+            <li><a id="jnk" href="/jenks/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">J</span>
               <h6>Jenks OK</h6>
               {% for location in site.data.locations %}
@@ -145,7 +145,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="ows" href="/owasso/">
+            <li><a id="ows" href="/owasso/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">K</span>
               <h6>Owasso OK</h6>
               {% for location in site.data.locations %}
@@ -153,7 +153,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="tul" href="/tulsa/">
+            <li><a id="tul" href="/tulsa/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">L</span>
               <h6>Tulsa OK</h6>
               {% for location in site.data.locations %}
@@ -161,7 +161,7 @@
               {% endfor %}
             </a></li>
 
-            <li><a id="sto" href="/southtulsa/">
+            <li><a id="sto" href="/southtulsa/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">M</span>
               <h6>South Tulsa OK</h6>
               {% for location in site.data.locations %}
@@ -174,7 +174,7 @@
         <div id="stillwater" class="map-list">
           <h5>Stillwater OK</h5>
           <ul>
-            <li><a id="stw" href="/stillwater/">
+            <li><a id="stw" href="/stillwater/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
               <span class="marker">N</span>
               <h6>Stillwater OK</h6>
               {% for location in site.data.locations %}
@@ -188,7 +188,7 @@
       <div id="tennessee" class="location-state">
         <h4 class="state-title"><a href="#tennessee">Tennessee, US</a></h4>
         <ul class="map-list">
-          <li><a id="hnv" href="/hendersonville/">
+          <li><a id="hnv" href="/hendersonville/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">A</span>
             <h6>Hendersonville TN</h6>
             {% for location in site.data.locations %}
@@ -201,7 +201,7 @@
       <div id="texas" class="location-state">
         <h4 class="state-title"><a href="#texas" onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom TX');">Texas, US</a></h4>
         <ul class="map-list">
-          <li><a id="klr" href="/keller/">
+          <li><a id="klr" href="/keller/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">A</span>
             <h6>Keller TX</h6>
             {% for location in site.data.locations %}
@@ -209,7 +209,7 @@
             {% endfor %}
           </a></li>
 
-          <li><a id="ftw" href="/fortworth/">
+          <li><a id="ftw" href="/fortworth/{% if include.for == 'lifemissions' %}#localpartners{% endif %}">
             <span class="marker">B</span>
             <h6>Fort Worth TX</h6>
             {% for location in site.data.locations %}
