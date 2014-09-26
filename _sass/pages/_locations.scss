@@ -48,7 +48,7 @@
     @include transition (all 0.3s ease-in-out);
     background-color: #a2ddf5;
     @include svg-image('/locations/assets/map-default-large');
-    background-size: 1300px auto;
+    background-size: auto 680px;
     background-position: center top;
     opacity: 1;
   }
@@ -170,7 +170,7 @@
 
   &.is-oklahoma #map-oklahoma {
     @include svg-image('/locations/assets/map-oklahoma-large');
-    background-size: 1300px auto;
+    background-size: auto 680px;
     background-position: center top;
   }
 
