@@ -16,8 +16,43 @@ class: page-locations section-locations logo-black-black
 
   <article class="container">
     <div class="map-panel">
-      <div id="online" class="location-state">
-        <h4 class="state-title"><a href="http://live.lifechurch.tv">Online <i class="icon icon-arrow"></i></a></h4>
+      <div id="florida" class="location-state">
+        <h4 class="state-title"><a href="#florida">Florida, US</a></h4>
+        <ul class="map-list">
+          <li><a id="wel" href="/wellington/">
+            <span class="marker">A</span>
+            <h6>Wellington FL</h6>
+            {% for location in site.data.locations %}
+            {% if location.id == 'wel' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="kansas" class="location-state">
+        <h4 class="state-title"><a href="#kansas">Kansas, US</a></h4>
+        <ul class="map-list">
+          <li><a id="wch" href="/wichita/">
+            <span class="marker">A</span>
+            <h6>Wichita KS</h6>
+            {% for location in site.data.locations %}
+            {% if location.id == 'wch' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
+          </a></li>
+        </ul>
+      </div>
+
+      <div id="newyork" class="location-state">
+        <h4 class="state-title"><a href="#newyork">New York, US</a></h4>
+        <ul class="map-list">
+          <li><a id="alb" href="/albany/">
+            <span class="marker">A</span>
+            <h6>Albany NY</h6>
+            {% for location in site.data.locations %}
+            {% if location.id == 'alb' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
+          </a></li>
+        </ul>
       </div>
 
       <div id="oklahoma" class="location-state">
@@ -151,6 +186,19 @@ class: page-locations section-locations logo-black-black
         </div>
       </div>
 
+      <div id="tennessee" class="location-state">
+        <h4 class="state-title"><a href="#tennessee">Tennessee, US</a></h4>
+        <ul class="map-list">
+          <li><a id="hnv" href="/hendersonville/">
+            <span class="marker">A</span>
+            <h6>Hendersonville TN</h6>
+            {% for location in site.data.locations %}
+            {% if location.id == 'hnv' %}<p class="detail">{{ location.address }}</p>{% endif %}
+            {% endfor %}
+          </a></li>
+        </ul>
+      </div>
+
       <div id="texas" class="location-state">
         <h4 class="state-title"><a href="#texas" onclick="ga('send', 'event', 'Locations', 'Click', 'Zoom TX');">Texas, US</a></h4>
         <ul class="map-list">
@@ -172,63 +220,9 @@ class: page-locations section-locations logo-black-black
         </ul>
       </div>
 
-      <div id="tennessee" class="location-state">
-        <h4 class="state-title"><a href="#tennessee">Tennessee, US</a></h4>
-        <ul class="map-list">
-          <li><a id="hnv" href="/hendersonville/">
-            <span class="marker">A</span>
-            <h6>Hendersonville TN</h6>
-            {% for location in site.data.locations %}
-            {% if location.id == 'hnv' %}<p class="detail">{{ location.address }}</p>{% endif %}
-            {% endfor %}
-          </a></li>
-        </ul>
-      </div>
-
-      <div id="florida" class="location-state">
-        <h4 class="state-title"><a href="#florida">Florida, US</a></h4>
-        <ul class="map-list">
-          <li><a id="wel" href="/wellington/">
-            <span class="marker">A</span>
-            <h6>Wellington FL</h6>
-            {% for location in site.data.locations %}
-            {% if location.id == 'wel' %}<p class="detail">{{ location.address }}</p>{% endif %}
-            {% endfor %}
-          </a></li>
-        </ul>
-      </div>
-
-      <div id="kansas" class="location-state">
-        <h4 class="state-title"><a href="#kansas">Kansas, US</a></h4>
-        <ul class="map-list">
-          <li><a id="wch" href="/wichita/">
-            <span class="marker">A</span>
-            <h6>Wichita KS</h6>
-            {% for location in site.data.locations %}
-            {% if location.id == 'wch' %}<p class="detail">{{ location.address }}</p>{% endif %}
-            {% endfor %}
-          </a></li>
-        </ul>
-      </div>
-
-      <div id="newyork" class="location-state">
-        <h4 class="state-title"><a href="#newyork">New York, US</a></h4>
-        <ul class="map-list">
-          <li><a id="alb" href="/albany/">
-            <span class="marker">A</span>
-            <h6>Albany NY</h6>
-            {% for location in site.data.locations %}
-            {% if location.id == 'alb' %}<p class="detail">{{ location.address }}</p>{% endif %}
-            {% endfor %}
-          </a></li>
-        </ul>
-      </div>
-
-      <div id="international" class="location-state">
-        <h4 class="state-title">International</h4>
-        <ul>
-          <li><a id="network" href="http://www.networkchurches.tv">View our Network Churches  <i class="icon icon-arrow"></i></a></li>
-        </ul>
+      <div class="more-options">
+        <h4>Not near you?</h4>
+        <p class="detail"><a href="#">Let us know where you'd like us to build next</a>. Alternatively, <a href="//www.networkchurches.tv">visit a Network Church</a> or <a href="//live.lifechurch.tv">join Church Online <i class="icon icon-arrow"></i></a>.</a>
       </div>
     </div>
   </article>
