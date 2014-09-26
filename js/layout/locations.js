@@ -7,6 +7,7 @@ if ($('.alert-box').length > 0) {
   // Zoom out
   $("body").delegate(".breadcrumb .current", "click", function() {
     $('.map').removeClass().addClass('map');
+    return false;
   });
 
   // Oklahoma

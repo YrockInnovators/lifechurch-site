@@ -25,13 +25,10 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .map { 
+  position: relative;
+
   // Container for all map content
   @include media(1050px) {
-    width: 100%;
-    top: -145px;
-    position: relative;
-    padding-top: 145px;
-    margin-bottom: -145px;
     height: 650px;
   }
 
@@ -277,6 +274,14 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
 .page-locations {
   .closing .container {
     border: none;
+  }
+
+  .map { 
+    @include media(1050px) {
+      top: -145px;
+      padding-top: 145px;
+      margin-bottom: -145px;
+    }
   }
 }
 
