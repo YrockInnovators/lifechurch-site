@@ -2,9 +2,9 @@
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="61.3 18.3 1100 532.7" enable-background="new 61.3 18.3 1100 532.7" xml:space="preserve">
+	 viewBox="193 18.3 940 570.7" enable-background="new 193 18.3 940 570.7" xml:space="preserve">
 <g id="land">
-	<path fill="#F6F0EF" d="M49.8,12.8c-0.4,0-0.7,0-1-0.1v545.1h1124.1V12.8H49.8z"/>
+	<path fill="#F6F0EF" d="M179.8,12.8c-0.4,0-0.7,0-1-0.1v585.1h964.1V12.8H179.8z"/>
 </g>
 <g id="roads">
 	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="958.9,130 1089,210 1108,281.9 	"/>
@@ -13,16 +13,16 @@
 	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="965" y1="128" x2="971" y2="18.3"/>
 	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="713.6,75 762,75 783,110 891,122 958,128 
 			"/>
-	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="671.9,300.7 667,326.6 520,453 515,551 	
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="671.9,300.7 667,326.6 520,453 515,591 	
 		"/>
 	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="682.3,278.6 671.9,278.3 671.9,300.7 
-		781,305 967,294.6 1161.3,278.3 	"/>
+		781,305 967,294.6 1131.3,278.3 	"/>
 	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="298,18.3 479,201 513,201 546,275.1 
 		635,281.9 648,286.1 692.2,286.1 692.2,253.1 	"/>
-	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="62.6,350 295,332 443,279.1 645,271.3 
-		654,252.1 759,240.1 897,203 958,128 1167,122 	"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="192.6,350 295,332 443,279.1 645,271.3 
+		654,252.1 759,240.1 897,203 958,128 1137,122 	"/>
 	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="709.9,12.8 716.7,128 682.3,290 
-		682.3,342.5 751.4,518 751.4,551 	"/>
+		682.3,342.5 751.4,518 751.4,591 	"/>
 </g>
 <g id="marker">
 	<path id="pin_1_" fill="#B9252D" d="M683,257.4c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
@@ -54,19 +54,19 @@
 		<text id="id_10_" transform="matrix(1 0 0 1 990.0029 96.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">I</text>
 </g>
 <g id="marker_8_">
-	<path id="pin_9_" fill="#B9252D" d="M1006.7,147.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+	<path id="pin_9_" fill="#B9252D" d="M1006.7,147.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L1006.7,147.6z"/>
 	
 		<text id="id_8_" transform="matrix(1 0 0 1 993.4053 146.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">G</text>
 </g>
 <g id="marker_12_">
-	<path id="pin_13_" fill="#B9252D" d="M985.7,160.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+	<path id="pin_13_" fill="#B9252D" d="M985.7,160.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L985.7,160.6z"/>
 	
 		<text id="id_12_" transform="matrix(1 0 0 1 972.4053 159.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">K</text>
 </g>
 <g id="marker_11_">
-	<path id="pin_12_" fill="#B9252D" d="M980.7,128.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
+	<path id="pin_12_" fill="#B9252D" d="M980.7,128.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L980.7,128.6z"/>
 	
 		<text id="id_11_" transform="matrix(1 0 0 1 967.4053 128.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">J</text>
