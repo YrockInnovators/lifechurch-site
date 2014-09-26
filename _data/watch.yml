@@ -46,15 +46,24 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
     updated_at: '2014-06-11T16:19:31.726Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/struggles/300x200.jpg?1409340494
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/struggles/600x400.jpg?1409340573
-  image_large: http://s3.amazonaws.com/lcapi.production/series/struggles/1200x800.jpg?1409340621
-  image_social: http://s3.amazonaws.com/lcapi.production/series/struggles/400x400.jpg?1409340641
+  image_small: http://s3.amazonaws.com/lcapi.production/series/struggles/300x200.jpg?1410207282
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/struggles/600x400.jpg?1410207346
+  image_large: http://s3.amazonaws.com/lcapi.production/series/struggles/1200x800.jpg?1410207407
+  image_social: http://s3.amazonaws.com/lcapi.production/series/struggles/400x400.jpg?1410476333
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/struggles/1500x340.jpeg?1409866940
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/3000x680.jpeg?1409866971
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/struggles/480x340.jpg?1409340722
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/960x680.jpg?1409340737
-  messages: []
+  messages:
+  - title: Authenticity
+    headline: ''
+    video: 83lx2wkink
+  - title: Relationships
+    headline: ''
+    video: 2yv9vufl9r
+  - title: Contentment
+    headline: ''
+    video: f5inyspcmy
 - id: stand
   title: Stand
   headline: When push comes to shove, it might seem easier to let things slide rather
@@ -77,6 +86,10 @@
     name: Miracles
     created_at: '2014-06-11T15:21:20.475Z'
     updated_at: '2014-06-11T15:21:20.475Z'
+  - id: 61
+    name: Chris Beall
+    created_at: '2014-06-11T15:49:00.818Z'
+    updated_at: '2014-06-11T15:49:00.818Z'
   - id: 75
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299Z'
@@ -829,7 +842,7 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/on-the-road/480x340.jpg?1400875663
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/on-the-road/960x680.jpg?1400875692
   messages:
-  - title: On the Road Part 4
+  - title: Fear of Failure
     headline: ''
     video: uxbzn8isg5
   - title: The Strongest Link

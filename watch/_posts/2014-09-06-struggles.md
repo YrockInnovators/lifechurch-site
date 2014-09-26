@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-promo
+layout: watch-archive
 categories: promo
 series-id: struggles
 ---
