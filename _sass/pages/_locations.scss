@@ -277,11 +277,9 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
   }
 
   .map { 
-    @include media(1050px) {
-      top: -145px;
-      padding-top: 145px;
-      margin-bottom: -145px;
-    }
+    top: -145px;
+    padding-top: 145px;
+    margin-bottom: -145px;
   }
 }
 
