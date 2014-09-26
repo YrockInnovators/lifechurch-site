@@ -49,22 +49,31 @@
       height: 370px;
     }
 
-    @include media($large-screen) {
+    @include media(1050px) {
       height: 680px;
       bottom: 0;
     }
   }
 
   #map-default.map-visual {
+    .svg & { background-image: url('/locations/assets/map-default-small.svg'); }
+    .no-svg & { background-image: url('/locations/assets/map-default-small.gif'); }
+
     @include transition (all 0.3s ease-in-out);
     background-color: #a2ddf5;
-    @include svg-image('/locations/assets/map-default-large');
-    background-size: auto 350px;
+    background-size: auto 270px;
     background-position: center top;
+    background-repeat: no-repeat;
     opacity: 1;
 
     @include media($medium-screen) {
-      background-size: auto 680px;
+      background-size: auto 390px;
+    }
+
+    @include media(1050px) {
+      background-size: auto 750px;
+      .svg & { background-image: url('/locations/assets/map-default-large.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-default-large.gif'); }
     }
   }
 
@@ -79,7 +88,7 @@
       margin: 190px auto 0;
     }
 
-    @include media($large-screen) {
+    @include media(1050px) {
       margin: 0;  
       max-height: 520px;
       overflow: auto;
@@ -194,26 +203,22 @@
   }
 
   &.is-oklahoma #map-oklahoma {
-    @include svg-image('/locations/assets/map-oklahoma-small');
+    .svg & { background-image: url('/locations/assets/map-oklahoma-small.svg'); }
+    .no-svg & { background-image: url('/locations/assets/map-oklahoma-small.gif'); }
+
     background-size: auto 350px;
     background-position: center top;
+    background-repeat: no-repeat;
+    background-color: #f6f0ef;
 
     @include media($medium-screen) {
       background-size: auto 460px;
     }
 
-    @include media($large-screen) {
-      @include svg-image('/locations/assets/map-oklahoma-large');
-      background-color: #f6f0ef;
-      background-size: auto 680px;
-      background-position: -100px top;
-    }
-
-    @include media(960px) {
-      background-size: auto 730px;
-    }
-
     @include media(1050px) {
+      .svg & { background-image: url('/locations/assets/map-oklahoma-large.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-oklahoma-large.gif'); }
+
       background-size: auto 790px;
       background-position: center top;
     }
