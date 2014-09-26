@@ -11,37 +11,37 @@ if ($('.alert-box').length > 0) {
 
   // Oklahoma
   $(".map").delegate("#oklahoma .state-title a", "click", function() {
-    $(".map").toggleClass("is-oklahoma");
+    $(".map").toggleClass("is-oklahoma is-zoomed");
     return false;
   });
   
   // Texas
   $(".map").delegate("#texas .state-title a", "click", function() {
-    $(".map").toggleClass("is-texas");
+    $(".map").toggleClass("is-texas is-zoomed");
     return false;
   });
 
   // Tennessee
   $(".map").delegate("#tennessee .state-title a", "click", function() {
-    $(".map").toggleClass("is-tennessee");
+    $(".map").toggleClass("is-tennessee is-zoomed");
     return false;
   });
   
   // Florida
   $(".map").delegate("#florida .state-title a", "click", function() {
-    $(".map").toggleClass("is-florida");
+    $(".map").toggleClass("is-florida is-zoomed");
     return false;
   });
 
   // Kansas
   $(".map").delegate("#kansas .state-title a", "click", function() {
-    $(".map").toggleClass("is-kansas");
+    $(".map").toggleClass("is-kansas is-zoomed");
     return false;
   });
 
   // New York
   $(".map").delegate("#newyork .state-title a", "click", function() {
-    $(".map").toggleClass("is-newyork");
+    $(".map").toggleClass("is-newyork is-zoomed");
     return false;
   });
 
