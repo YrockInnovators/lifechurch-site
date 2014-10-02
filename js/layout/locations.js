@@ -4,87 +4,81 @@ if ($('.alert-box').length > 0) {
   $('body').addClass('has-alerts');
 };
 
-  // Zoom out
-  $("body").delegate(".breadcrumb .current", "click", function() {
-    $('.map').removeClass().addClass('map');
-    return false;
-  });
+// Zoom out
+$("body").delegate(".breadcrumb .current", "click", function() {
+  $('.map').removeClass().addClass('map');
+  return false;
+});
 
-  // Oklahoma
-  $(".map").delegate("#oklahoma .state-title a", "click", function() {
-    $(".map").toggleClass("is-oklahoma is-zoomed");
-    return false;
-  });
-  
-  // Texas
-  $(".map").delegate("#texas .state-title a", "click", function() {
-    $(".map").toggleClass("is-texas is-zoomed");
-    return false;
-  });
+// Oklahoma
+$(".map").delegate("#oklahoma .state-title a", "click", function() {
+  $(".map").toggleClass("is-oklahoma is-zoomed");
+  return false;
+});
 
-  // Tennessee
-  $(".map").delegate("#tennessee .state-title a", "click", function() {
-    $(".map").toggleClass("is-tennessee is-zoomed");
-    return false;
-  });
-  
-  // Florida
-  $(".map").delegate("#florida .state-title a", "click", function() {
-    $(".map").toggleClass("is-florida is-zoomed");
-    return false;
-  });
+// Texas
+$(".map").delegate("#texas .state-title a", "click", function() {
+  $(".map").toggleClass("is-texas is-zoomed");
+  return false;
+});
 
-  // Kansas
-  $(".map").delegate("#kansas .state-title a", "click", function() {
-    $(".map").toggleClass("is-kansas is-zoomed");
-    return false;
-  });
+// Tennessee
+$(".map").delegate("#tennessee .state-title a", "click", function() {
+  $(".map").toggleClass("is-tennessee is-zoomed");
+  return false;
+});
 
-  // New York
-  $(".map").delegate("#newyork .state-title a", "click", function() {
-    $(".map").toggleClass("is-newyork is-zoomed");
-    return false;
-  });
+// Florida
+$(".map").delegate("#florida .state-title a", "click", function() {
+  $(".map").toggleClass("is-florida is-zoomed");
+  return false;
+});
 
+// Kansas
+$(".map").delegate("#kansas .state-title a", "click", function() {
+  $(".map").toggleClass("is-kansas is-zoomed");
+  return false;
+});
 
+// New York
+$(".map").delegate("#newyork .state-title a", "click", function() {
+  $(".map").toggleClass("is-newyork is-zoomed");
+  return false;
+});
 
 
-if ($(window).width() < 767) {
-  // If the screen is small:
-  
+// Geolocation for Locations map
 
-} else {
-  // If the screen is wide:
+if ($('.map').length > 0) {
+  $.get("http://ipinfo.io", function(response) {
+    console.log(response.region);
 
-  // General pin zoom
-  $( ".mapX" ).delegate( "#oklahoma, #texas", "click", function() {
-    $(".state-title").fadeOut(200);
-    $(".map-back").fadeIn(500);
-  });
+    if (response.region == 'Florida') {
+      $('.map').addClass('is-florida');
+    }
 
-  // OK pin zoom
-  $( ".mapX" ).delegate( "#oklahoma", "click", function() {
-    $(".map").addClass("map-ok");
-    $(".pin-campus-ok").delay(300).fadeIn(300);
-    $(".map-list-okc").delay(400).fadeIn(300);
-    $(".map-list-stillwater").delay(440).fadeIn(300);
-    $(".map-list-tulsa").delay(480).fadeIn(300);
-  });
+    if (response.region == 'Kansas') {
+      $('.map').addClass('is-kansas');
+    }
 
-  // TX pin zoom
-  $( ".mapX" ).delegate( "#texas", "click", function() {
-    $(".map").addClass("map-tx");
-    $(".pin-campus-tx").delay(300).fadeIn(300);
-  });
+    if (response.region == 'New York') {
+      $('.map').addClass('is-newyork');
+    }
 
-  // Back / Zoom out
-  $( ".mapX" ).delegate( ".map-back", "click", function() {
-    $(".map").removeClass().addClass("map");
-    $(".pin, .map-list").fadeOut(200);
-    $(".map-back").fadeOut(500);
-    $(".state-title").delay(300).fadeIn(300);
-  });
-}
+    if (response.region == 'Oklahoma') {
+      $('.map').addClass('is-oklahoma');
+    }
+
+    if (response.region == 'Tennessee') {
+      $('.map').addClass('is-tennessee');
+    }
+
+    if (response.region == 'Texas') {
+      $('.map').addClass('is-texas');
+    }
+
+  }, "jsonp");
+};
 
 
 // Locations Page Content
