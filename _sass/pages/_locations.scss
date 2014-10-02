@@ -268,12 +268,25 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
   }
 }
 
+// Add the water to Florida
+.map.is-florida #map-florida {
+  background-color: #a2ddf5;
+}
 
 // Locations page
 ///////////////////////////////////////////////////////////////////////////////
 .page-locations {
   .closing .container {
     border: none;
+  }
+
+  #tertiary {
+    visibility: hidden;
+
+    @include media($medium-screen) {
+      visibility: visible;
+      border-bottom: none;
+    }
   }
 
   .map { 
