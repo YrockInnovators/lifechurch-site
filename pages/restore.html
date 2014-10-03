@@ -63,11 +63,11 @@ hero: section-restore-1
     </blockquote>
 
     <p class="text-center">
-      <a href="/locations/"
+      <a href="#map"
          class="action large text-lprimary"
          data-my-campus="#events" 
-         onclick="ga('send', 'event', 'Missions', 'Click', 'New Restore');">
-         Take the course <i class="icon icon-arrow"></i>
+         onclick="ga('send', 'event', 'Missions', 'Click', 'Restore Map');">
+         Take the course <i class="icon icon-down"></i>
       </a>
 
       <a href="/giving/"
@@ -78,3 +78,5 @@ hero: section-restore-1
     </p>
   </div>
 </section>
+
+{% include map.html for='events' %}
