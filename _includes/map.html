@@ -1,5 +1,4 @@
-<section class="map">
-
+<section id="map" class="map">
   <figure id="map-oklahoma" class="map-visual"></figure>
   <figure id="map-texas" class="map-visual"></figure>
   <figure id="map-tennessee" class="map-visual"></figure>
@@ -9,11 +8,6 @@
   <figure id="map-default" class="map-visual"></figure>
 
   <article class="container">
-
-    {% if include.for == 'lifemissions' %}
-    <h2>Connect with a Local Partner</h2>
-    {% endif %}    
-
     <div class="map-panel">
       <div id="florida" class="location-state">
         <h4 class="state-title"><a href="javascript:void(0);">Florida, US</a></h4>
@@ -222,7 +216,8 @@
       {% if include.for == 'locations' %}
       <div class="more-options">
         <h4>Not near you?</h4>
-        <p class="detail"><a href="#">Let us know where you'd like us to build next</a>. Alternatively, <a href="//www.networkchurches.tv">visit a Network Church</a> or <a href="//live.lifechurch.tv">join Church Online <i class="icon icon-arrow"></i></a>.</a>
+        <p class="detail"><!--<a href="#">Let us know where you'd like us to build next</a>. Alternatively, <a href="//www.networkchurches.tv">visit a Network Church</a> or <a href="//live.lifechurch.tv">join Church Online <i class="icon icon-arrow"></i></a>.</a>-->
+        <p class="detail"><a href="//www.networkchurches.tv">Visit a Network Church</a> or <a href="//live.lifechurch.tv">join Church Online <i class="icon icon-arrow"></i></a></a>
       </div>
       {% endif %}
     </div>

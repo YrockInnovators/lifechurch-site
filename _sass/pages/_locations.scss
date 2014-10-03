@@ -29,7 +29,8 @@
 
   // Container for all map content
   @include media(1050px) {
-    height: 650px;
+    height: 680px;
+    overflow: hidden;
   }
 
   // General map visual styles
@@ -81,16 +82,16 @@
   .map-panel {
     @extend .panel;
     position: relative;
-    margin: 120px 0 0;
+    margin: 265px 0 0;
     max-width: 100%;
-
+    
     @include media($medium-screen) {
       max-width: 400px;
-      margin: 190px auto 0;
+      margin: 330px auto 0;
     }
 
     @include media(1050px) {
-      margin: 0;  
+      margin: 50px 0 0;
       max-height: 520px;
       overflow: auto;
       overflow-y: auto;
@@ -293,6 +294,18 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
     top: -145px;
     padding-top: 145px;
     margin-bottom: -145px;
+  }
+
+  .map-panel {
+    margin: 120px 0 0;
+
+    @include media($medium-screen) {
+      margin: 190px auto 0;
+    }
+
+    @include media(1050px) {
+      margin: 0;
+    }
   }
 }
 
