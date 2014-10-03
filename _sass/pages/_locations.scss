@@ -2,292 +2,313 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .pin {
-@include svg-image('/locations/assets/pin');
-background-repeat: no-repeat;
-background-position: center top;
-color: #ada5a5;
-font-family: $sans-serif;
-font-size: 9px;
-text-align: center;
-text-indent: 6px;
-text-transform: uppercase;
-width: 44px;
-height: 33px;
-padding-top: 28px;
+  @include svg-image('/locations/assets/pin');
+  background-repeat: no-repeat;
+  background-position: center top;
+  color: #ada5a5;
+  font-family: $sans-serif;
+  font-size: 9px;
+  text-align: center;
+  text-indent: 6px;
+  text-transform: uppercase;
+  width: 44px;
+  height: 33px;
+  padding-top: 28px;
 }
 
 .pin-state.pin-ok,
 .pin-state.pin-tx {
-@include svg-image('/locations/assets/pin2');
+  @include svg-image('/locations/assets/pin2');
 }
 
-// Locations Overview
+// Maps General
 ///////////////////////////////////////////////////////////////////////////////
 
-.page-locations {
+.map { 
+  position: relative;
 
-  // Wrapper around all the large screen location content
-  .map-wrapper {
-    background: #A4DDF4;
+  // Container for all map content
+  @include media(1050px) {
+    height: 680px;
+    overflow: hidden;
+  }
+
+  // General map visual styles
+  .map-visual {
+    opacity: 0;
+    z-index: 0;
     width: 100%;
-    height: 400px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    @include media($medium-screen) {
+      height: 370px;
+    }
+
+    @include media(1050px) {
+      height: 680px;
+      bottom: 0;
+    }
+  }
+
+  // The default map view, loads over all the others
+  #map-default.map-visual {
+    @include transition (all 0.3s ease-in-out);
+    background-color: #a2ddf5;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto 270px;
+    opacity: 1;
+
+    .svg & { background-image: url('/locations/assets/map-default-small.svg'); }
+    .no-svg & { background-image: url('/locations/assets/map-default-small.gif'); }
+
+    @include media($medium-screen) {
+      background-size: auto 390px;
+    }
+
+    @include media(1050px) {
+      background-size: auto 750px;
+
+      .svg & { background-image: url('/locations/assets/map-default-large.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-default-large.gif'); }
+    }
+  }
+
+  // Main panel on the map with all the content in
+  .map-panel {
+    @extend .panel;
     position: relative;
-    top: -145px;
-  }
-
-  &.has-alerts .map-wrapper {
-    top: 43px;
-  }
-
-  // Page title links
-  .main-copy {
-    margin-top: -160px;
-
-    a {
-      color: $black;
+    margin: 265px 0 0;
+    max-width: 100%;
+    
+    @include media($medium-screen) {
+      max-width: 400px;
+      margin: 330px auto 0;
     }
 
-    .action.small {
-      padding-top: 1em;
-      display: inline-block;
+    @include media(1050px) {
+      margin: 50px 0 0;
+      max-height: 520px;
+      overflow: auto;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    // Pretend scrollbars on Webkit to keep them in view
+    &::-webkit-scrollbar {
+      -webkit-appearance: none;
+    }
+
+    &::-webkit-scrollbar:vertical {
+      width: 11px;
+    }
+
+    &::-webkit-scrollbar:horizontal {
+      height: 11px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      border-radius: 8px;
+      border: 2px solid white; /* should match background, can't be transparent */
+      background-color: rgba(0, 0, 0, .5);
+    }
+
+    &::-webkit-scrollbar-track { 
+      background-color: #fafafa;
+      border-radius: 8px; 
+    } 
+  }
+
+  // Main sections within the map panel
+  .location-state {
+    @include transition (all 0.3s ease-in-out);
+    overflow: hidden;
+    max-height: 1400px;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    // Names of states in the main panel view
+    .state-title {
+      @include transition (all 0.3s ease-in-out);
+      margin: .5em 0 0;
+      padding-bottom: .5em;
+      border-bottom: 1px solid #ddd;
+    }
+
+    // Add the "up" icon on state titles
+    .state-title a:before {
+      @include transition (all 0.3s ease-in-out);
+      content: '\e816';
+      display: inline-block; 
+      font-family: 'lctv';
+      font-size: .8em;
+      max-width: 0;
+      opacity: 0;
     }
   }
 
+  // Lists of campus locations in each state
+  .map-list {
+    @include transition (all 0.3s ease-in-out);
+    max-height: 0;
+    overflow: hidden;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    // Container around each listing
+    li {
+      border-bottom: 1px solid #ddd;
+
+      &:last-child {
+        border: none;
+      }
+
+      // Listing link
+      a {
+        display: block;
+        margin: 0 -1em;
+        padding: .35em 1em .1em 3em;
+
+        p {
+          color: $base-font-color;
+        }
+
+        &:hover {
+          background: #fafafa;
+        }
+      }
+    }
+  }
+
+  // Red markers relating to the map visual
+  .marker {
+    background: $red;
+    border-radius: 100px;
+    color: white;
+    display: block;
+    font-family: $sans-serif;
+    float: left;
+    height: 25px;
+    line-height: 1.7em;
+    margin: 3px 0 0 -2em;
+    text-align: center;
+    width: 25px;
+    
+    // Tail on the marker
+    &:after {
+      content: "";
+      display: block;
+      border-left: 9px solid transparent;
+      border-right: 8px solid transparent;
+      border-top: 10px solid $red;
+      height: 0;
+      left: 4px;
+      position: relative;
+      top: -5px;
+      width: 0;
+    }
+  }
+}
+
+$states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
+
+@each $state in $states{
+  .map.is-#{$state} {
+  
+    #map-#{$state} {
+      opacity: 1;
+      background-size: auto 350px;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-color: #f6f0ef;
+
+      @include media($medium-screen) {
+        background-size: auto 460px;
+      }
+
+      .svg & { background-image: url('/locations/assets/map-#{$state}-small.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-#{$state}-small.gif'); }
+
+      @include media(1050px) {
+        background-size: auto 790px;
+        background-position: center top;
+
+        .svg & { background-image: url('/locations/assets/map-#{$state}-large.svg'); }
+        .no-svg & { background-image: url('/locations/assets/map-#{$state}-large.gif'); }
+      }
+    }
+
+    #map-default {
+      opacity: 0;
+    }
+
+    .location-state {
+      max-height: 0;
+
+      .state-title {
+        border-bottom: 1px solid white;
+      }
+    }
+
+    // Make the 'up' arrow
+    ##{$state} .state-title a:before {
+       margin-right: 4px;     
+      max-width: 50px;
+      opacity: 1;
+    }
+    
+    ##{$state},
+    ##{$state} .map-list,
+    ##{$state} .location-state {
+      max-height: 1400px;  
+    }
+  }
+}
+
+// Add the water to Florida
+.map.is-florida #map-florida {
+  background-color: #a2ddf5;
+}
+
+// Locations page
+///////////////////////////////////////////////////////////////////////////////
+.page-locations {
   .closing .container {
     border: none;
   }
 
-  // Hide tertiary links
-  .page-tertiary {
+  #tertiary {
+    visibility: hidden;
+
     @include media($medium-screen) {
-      visibility: hidden;
+      visibility: visible;
+      border-bottom: none;
     }
   }
 
-  // Small screen hero
+  .map { 
+    top: -145px;
+    padding-top: 145px;
+    margin-bottom: -145px;
+  }
 
-  .hero-small-locations {
-    @media only screen and (max-width: $medium-screen) {
-      @include svg-image('/locations/assets/map');
-      background-color: #a2ddf5;
-      background-repeat: no-repeat;
-      background-position: center top;
-      background-size: auto 100%;
-      min-height: 200px;
-      margin-top: -130px;
-      margin-bottom: 1em;
+  .map-panel {
+    margin: 120px 0 0;
+
+    @include media($medium-screen) {
+      margin: 190px auto 0;
     }
-  }
 
-  // Make locations top section even shorter on small landscape screens
-  @media only screen and (max-width: $medium-screen) and (orientation: landscape) {
-    .hero-small-locations {
-      height: 70px;
+    @include media(1050px) {
+      margin: 0;
     }
-  }
-
-  // The map itself
-  .map {
-    @include svg-image('/locations/assets/map');
-    background-color: #a2ddf5;
-    background-repeat: no-repeat;
-    background-position: center top;
-    width: 100%;
-    height: 550px;
-    position: absolute;
-    top: 0;
-    background-size: auto 620px;
-    @include transition-property(all);
-    @include transition-duration(.5s);
-  }
-
-  // Map when zoomed into Oklahoma
-  .map-ok {
-    background-size: auto 2400px;
-    background-position: center -1050px;
-  }
-
-  // Map when zoomed into Texas
-  .map-tx {
-    background-size: auto 2400px;
-    background-position: center -1250px;
-  }
-
-  // US Map fallback for CSS3-less users
-  .no-backgroundsize .map {
-    background: url('/locations/assets/map-1.jpg') center top no-repeat !important;
-  }
-
-  // Oklahoma Map fallback for CSS3-less users
-  .no-backgroundsize .map-ok {
-    background: url('/locations/assets/map-2.jpg') center top no-repeat !important;
-  }
-
-  // Texas Map fallback for CSS3-less users
-  .no-backgroundsize .map-tx {
-    background: url('/locations/assets/map-3.jpg') center top no-repeat !important;
-  }
-
-  // Back button when zoomed in on the map
-  .map-back {
-    position: relative;
-    z-index: 6;
-    top: 80px;
-  }
-
-  // List box styles
-  .map-list {
-    background: #fff;
-    position: absolute;
-    z-index: 6;
-    list-style: none;
-    padding: 5px 10px;
-    box-shadow: rgba(0,0,0,.1) 0 2px 0;
-    border-radius: 3px;
-    @include transition-property(margin-left);
-    @include transition-duration(1s);
-  }
-
-  // List box styles for OKC
-  .map-list-okc {
-    left: 50%;
-    top: 140px;
-    margin-left: -240px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 50px;
-      right: -10px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-left: 10px solid #fff;
-    }
-  }
-
-  // List box styles for Tulsa
-  .map-list-tulsa {
-    left: 50%;
-    top: 140px;
-    margin-left: 80px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 20px;
-      left: -10px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-right: 10px solid #fff;
-    }
-  }
-
-  // List box styles for Stillwater
-  .map-list-stillwater {
-    left: 50%;
-    top: 210px;
-    margin-left: -40px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: -20px;
-      left: 30px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-right: 10px solid transparent;
-      border-left: 10px solid transparent;
-      border-bottom: 10px solid #fff;
-    }
-  }
-
-  // Page-specific pin styles
-  .pin {
-    left: 50%;
-    right: 0;
-    position: absolute;
-    z-index: 3;
-    @include transition-property(background-position);
-    @include transition-duration(.2s);
-  }
-
-  // Recolor pin text for Wellington, since it's on the water
-  .pin-fl {
-    color: #4ea6c9;
-  }
-
-  // Pin-push animation where pins are clickable
-  .pin-state:hover,
-  .pin-keller:hover,
-  .pin-fortworth:hover {
-    background-position: center 5px;
-  }
-
-  // Pin positioning
-
-  .pin-ok {
-    margin-left: -40px;
-    top: 300px;
-  }
-
-  .pin-tx {
-    margin-left: -60px;
-    top: 360px;
-  }
-
-  .pin-tn {
-    margin-left: 150px;
-    top: 285px;
-  }
-
-  .pin-fl {
-    margin-left: 235px;
-    top: 465px;
-  }
-
-  .pin-ny {
-    margin-left: 335px;
-    top: 160px;
-  }
-
-  .pin-ks {
-    margin-left: -35px;
-    top: 245px;
-  }
-
-  .pin-okc {
-    margin-left: -75px;
-    top: 190px;
-  }
-
-  .pin-tulsa {
-    margin-left: 35px;
-    top: 160px;
-  }
-
-  .pin-stillwater {
-    margin-left: -22px;
-    top: 160px;
-  }
-
-  .pin-keller {
-    margin-left: -40px;
-    top: 200px;
-  }
-
-  .pin-fortworth {
-    margin-left: -70px;
-    top: 240px;
   }
 }
+
 
 // Campus page
 ///////////////////////////////////////////////////////////////////////////////
