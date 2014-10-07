@@ -50,7 +50,7 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/struggles/600x400.jpg?1410207346
   image_large: http://s3.amazonaws.com/lcapi.production/series/struggles/1200x800.jpg?1410207407
   image_social: http://s3.amazonaws.com/lcapi.production/series/struggles/400x400.jpg?1410476333
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/struggles/1500x340.jpeg?1409866940
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/struggles/1500x340.jpg?1412710466
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/3000x680.jpeg?1409866971
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/struggles/480x340.jpg?1409340722
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/struggles/960x680.jpg?1409340737
@@ -1873,7 +1873,7 @@
   image_large: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1200x800.jpg?1396022575
   image_social: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/400x400.jpg?1396022493
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/1500x340.jpg?1401375523
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/3000x680.jpg?1401375473
+  image_banner_archive_2x: ''
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/480x340.jpg?1401375561
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/passing-the-test/960x680.jpg?1401375541
   messages:
