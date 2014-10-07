@@ -21,6 +21,7 @@
 
   @include media($medium-screen) {
     @include retina-image(/images/serving/serving-online-bg, 1500px 499px, jpg);
+    background-size: 1500px 499px;
     padding-top: 330px;
   }
 }
