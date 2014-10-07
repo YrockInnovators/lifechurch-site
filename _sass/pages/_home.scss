@@ -52,89 +52,40 @@
 
   .hero {
     padding-bottom: 2em;
-    background: #121920;
-    @include retina-image(/images/home/home-bg-small, cover, jpg);
+    background: #fff;
+    @include retina-image(/images/home/home-bg, 330px 750px, jpg);
     background-position: bottom center;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     min-height: 200px;
 
     .hero-inner .hero-copy {
-      margin-top: 20px;
-
-      p {
-        color: white;
-      }
-
-      @include media($large-screen) {
-        margin-top: 80px;
-
-        p {
-          font-size: 1.7em;
-          line-height: 1.3em;
-        }
-      }
+      margin-top: 0;
     }
     
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, 1500px auto, jpg);
-      min-height: 650px;
+      @include retina-image(/images/home/home-bg, 330px 750px, jpg);
+      min-height: 400px;
     }
 
     @include media($large-screen) {
-      background-size: 1500px auto;
       min-height: 750px;
     }
 
     h1 {
       @include hide-text;
-      @include retina-image(/images/home/home-title, 264px 58px);
-      width: 264px;
-      height: 58px;
-      margin: 0 auto 30px;
+      @include retina-image(/images/home/home-title, 115px 348px);
+      width: 114px;
+      height: 341px;
+      margin: -160px auto 10px;
       display: block;
-    }
 
-    .struggles-figure {
       @include media($medium-screen) {
-        opacity: .75;
-        width: 299px;
-        height: 94px;
-        @include retina-image(/images/home/home-figure, 299px 94px);
-        position: absolute;
-        margin-top: 190px;
-
-        span {
-          background: white;
-          width: 2px;
-          height: 24px;
-          display: block;
-          position: absolute;
-          right: 11px;
-          top: 36px;
-          opacity: 0;
-          @include transition (all 0.4s ease-in-out);
-
-          &.is-visible {
-            opacity: 1;
-          }
-        }
-      }
-
-      @include media($large-screen) {
-        margin-top: 150px;
+        @include retina-image(/images/home/home-title, 165px 408px);
+        width: 165px;
+        height: 408px;
+        margin: -80px auto 30px;
       }
     }
-
-    .hero-side {
-      .action {
-        color: #09708e;
-
-        &:hover {
-          color: darken(#09708e, 20%);
-        }
-      }
-    }
-
   }
 
   // Closing
