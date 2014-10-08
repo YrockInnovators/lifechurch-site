@@ -550,10 +550,14 @@ $('[data-set-campus]').each(function(index) {
 
 if ($('.section-locations').length > 0) {
 
-  $('<b class="first">8<i>AM</i></b><b>9<i>AM</i></b><b>10<i>AM</i></b><b>11<i>AM</i></b><b>12<i>PM</i></b><b>1<i>PM</i></b><b>2<i>PM</i></b><b>3<i>PM</i></b><b>4<i>PM</i></b><b>5<i>PM</i></b><b>6<i>PM</i></b><b>7<i>PM</i></b><b>8<i>PM</i></b>').appendTo('.calendar');
-  $('.calendar b').wrapInner('<span></span>');
 
-  if ($(window).width() < 767) {
+  if ($(window).width() > 767) {
+    $('<b class="first">8<i>AM</i></b><b>9<i>AM</i></b><b>10<i>AM</i></b><b>11<i>AM</i></b><b>12<i>PM</i></b><b>1<i>PM</i></b><b>2<i>PM</i></b><b>3<i>PM</i></b><b>4<i>PM</i></b><b>5<i>PM</i></b><b>6<i>PM</i></b><b>7<i>PM</i></b><b>8<i>PM</i></b>').appendTo('.calendar');
+    $('.calendar b').wrapInner('<span></span>');
+  }
+
+
+/*  if ($(window).width() < 767) {
 
     $('.saturday, .sunday, .wednesday').on('movestart', function(e) {
       if ((e.distX > e.distY && e.distX < -e.distY) || (e.distX < e.distY && e.distX > -e.distY)) {
@@ -665,7 +669,7 @@ if ($('.section-locations').length > 0) {
       });
     });
 
-  }
+  }*/
 }
 
 $(document).ready(function () {
