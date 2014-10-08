@@ -80,7 +80,14 @@ hero: locations-hero
       <div class="address">
         {{ location.address }}<br />
         {{ location.phone }}<br />
+
+        {% if location.id == 'bnb' %}
+        <a href="http://maps.google.com/?q=LifeChurch.tv Broadway and Britton Campus" class="action">Get Directions <i class="icon icon-arrow"></i></a><br class="large-element" />
+        {% elsif location.id == 'wel' %}
+        <a href="http://maps.google.com/?q=LifeChurch.tv Wellington" class="action">Get Directions <i class="icon icon-arrow"></i></a><br class="large-element" />
+        {% else %}
         <a href="http://maps.google.com/?q={{ location.address }}" class="action">Get Directions <i class="icon icon-arrow"></i></a><br class="large-element" />
+        {% endif %}
         <a class="action" href="https://www.facebook.com/{{ location.facebook }}">Facebook Page <i class="icon icon-arrow"></i></a>
       </div>
     </section>
