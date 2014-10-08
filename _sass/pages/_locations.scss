@@ -712,16 +712,16 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
 
 
 
-// Swipe test
-
-
+// Swipe
 @include media(max-width 767px) {
   .calendar {
-
     .day {
       border-bottom: 1px solid #ddd;
       padding: .6em 0 1em;
 
+      &:last-child {
+        border-bottom: none;
+      }
     }
 
     .day header {
