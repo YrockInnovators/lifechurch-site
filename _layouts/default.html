@@ -6,9 +6,9 @@
     {% include header-social.html %}
   </head>
 
-  {% if page.class %}<body id="skrollr-body" class="{{ page.class }}">{% else %}<body id="skrollr-body">{% endif %}
+  {% if page.class %}<body class="{{ page.class }}">{% else %}<body id="skrollr-body">{% endif %}
     {% include announcement.html %}
-    {% if page.hero %}<section class="hero top {{ page.hero }}">{% endif %}
+    {% if page.hero %}<section id="hero" class="hero top {{ page.hero }}">{% endif %}
 
     {% include navigation.html %}
     {% unless page.section == 'live' or page.section == 'home' or page.section == 'watch' or page.section == 'talkitover' or page.section == 'watch-landing' or page.section == 'jobs' or page.section == 'landing' %} {% include tertiary.html %} {% endunless %}

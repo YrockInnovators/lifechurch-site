@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="193 18.6 940 430.4" enable-background="new 193 18.6 940 430.4" xml:space="preserve">
+<g id="land">
+	<path fill="#F6F0EF" d="M179.8,12.3c-0.4,0-0.7,0-1-1.6v442.6l964.1,1.5V12.3H179.8z"/>
+</g>
+<g id="greenery">
+	<polygon fill="#A2DDF5" points="1005,16 1006,58 1042,112 1033,136 980,75 987,18.6 	"/>
+	<polygon fill="#A2DDF5" points="585,50 586,70 597,74 599,58 	"/>
+	<polygon fill="#DEECD2" points="624.7,320.7 627.3,404.7 460,402.7 425.3,210.7 438,183.3 419.3,52.7 367.3,38 373.3,16 461.3,16 
+		461.3,172 479.3,178 492.7,262.7 548,312 	"/>
+	<polygon fill="#A2DDF5" points="582,213 580,243 565,283 557,365 599,368 610,266 595,246 605,215 	"/>
+</g>
+<g id="smallroads">
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="867.3,170 489.3,170 489.3,31.3 552,31.3 
+		552,169.3 	"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M489.3,170c0,0-4,103.3,62,125.3
+		s92.7,15.3,92.7,15.3"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M649.3,168.7c0,2,0.7,86.7,0.7,86.7l-14.7,82v75.3"
+		/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="643.3" y1="293.3" x2="732" y2="293.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="650.7" y1="230" x2="696" y2="230"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="818.7" y1="130.7" x2="870" y2="130.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="820" y1="67.3" x2="869.3" y2="67.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="781.3" y1="117.3" x2="781.3" y2="272"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="734,118.7 734,239.3 779.3,239.3 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="679.3" y1="96" x2="679.3" y2="168"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="614" y1="100" x2="614" y2="170.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="496" y1="222.7" x2="556" y2="222.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="636" y1="362.7" x2="742" y2="362.7"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="193,235.3 420,235.3 420,377.3 193,377.3 
+			"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="300.7" y1="236.7" x2="300.7" y2="412"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="416.7" y1="284" x2="190.7" y2="284"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="416.7" y1="328" x2="190.7" y2="328"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="431.3" y1="413.3" x2="431.3" y2="449"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="190,154 376.7,154 376.7,48.7 193,48.7 	
+		"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="375.3" y1="132" x2="412.7" y2="132"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="261.3" y1="129.3" x2="261.3" y2="154.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="208" y1="127.3" x2="208" y2="153.3"/>
+</g>
+<g id="roads_1_">
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M1184,386"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M1207,598"/>
+	<line fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" x1="1073" y1="16" x2="1073" y2="449"/>
+	<line fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" x1="1083" y1="16" x2="1083" y2="449"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="1058" y1="16" x2="1058" y2="449"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="1100" y1="16" x2="1100" y2="449"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="1099" y1="411" x2="1133" y2="411"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="1056" y1="412" x2="193" y2="412"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="869" y1="14" x2="869" y2="449"/>
+</g>
+<g id="marker">
+	<path id="pin_1_" fill="#B9252D" d="M878,110c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L878,110z"/>
+</g>
+<text transform="matrix(1 0 0 1 773.3334 416)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">SW 34TH ST</text>
+<text transform="matrix(4.489659e-11 1 -1 4.489659e-11 866.9434 192.6307)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S TELEPHONE RD</text>
+<text transform="matrix(4.489659e-11 1 -1 4.489659e-11 1054.9434 195.6307)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S I-35 SERVICE RD</text>
+<text transform="matrix(4.489659e-11 1 -1 4.489659e-11 1096.9434 195.6307)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S I-35 SERVICE RD</text>
+<g id="sign">
+	<path fill="#FFFFFF" d="M1078.2,171c15.5-5.1,7.6-19.3,7.6-19.3s-4.9,1.1-7.6-0.2h0c-2.7,1.3-7.6,0.2-7.6,0.2
+		S1062.7,165.9,1078.2,171L1078.2,171z"/>
+	<path fill="#0EA9D6" d="M1086.3,155.8c0,0,3.6,10-8.1,13.9c-11.7-3.9-8.1-13.9-8.1-13.9H1086.3z"/>
+	<path fill="#D72631" d="M1078.2,155h7.8c0,0-0.3-1.4-0.8-1.9c0,0-4.2,0.6-7-0.3c-2.9,1-7,0.3-7,0.3c-0.5,0.5-0.8,1.9-0.8,1.9
+		H1078.2z"/>
+	<text transform="matrix(1 0 0 1 1073.1266 164.0884)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="8.7129">35</text>
+</g>
+</svg>
