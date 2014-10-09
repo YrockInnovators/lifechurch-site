@@ -48,7 +48,6 @@ $(".map").delegate("#newyork .state-title a", "click", function() {
 
 
 // Geolocation for Locations map
-
 if ($('.map').length > 0) {
   $.get("http://ipinfo.io", function(response) {
     console.log(response.region);
@@ -78,4 +77,20 @@ if ($('.map').length > 0) {
     }
 
   }, "jsonp");
+};
+
+
+// Hide calendar dates that are empty
+if ($('.map-panel #times').length > 0) {
+  if (!$('#times .saturday .event').length > 0) {
+    $('#times .saturday').remove();
+  };
+
+  if (!$('#times .sunday .event').length > 0) {
+    $('#times .sunday').remove();
+  };
+  
+  if (!$('#times .wednesday .event').length > 0) {
+    $('#times .wednesday').remove();
+  };
 };

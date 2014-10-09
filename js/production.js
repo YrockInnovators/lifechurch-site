@@ -512,6 +512,21 @@ if ($('.map').length > 0) {
   }, "jsonp");
 };
 
+
+if ($('.map-panel #times').length > 0) {
+  if (!$('#times .saturday .event').length > 0) {
+    $('#times .saturday').remove();
+  };
+
+  if (!$('#times .sunday .event').length > 0) {
+    $('#times .sunday').remove();
+  };
+  
+  if (!$('#times .wednesday .event').length > 0) {
+    $('#times .wednesday').remove();
+  };
+};
+
 $(document).ready(function () {
   var previousScroll = 0,
       headerOrgOffset = $('#navigation').offset().top;
