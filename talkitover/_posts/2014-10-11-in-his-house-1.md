@@ -51,8 +51,8 @@ _“The thing of which I am a part is greater than any part I play.”_
 <p class="lead">Want to dig into more Scripture? Read through these together to introduce a new angle into your discussion.</p>
 
 * [Romans 12:1-8](https://www.bible.com/bible/111/rom.12.1-8.niv)
-* [Mark 10:35-45](https://www.bible.com/bible/111/mar.10.35-45.niv)
-* [Mark 9:33-37](https://www.bible.com/bible/111/mar.9.33-37.niv)
+* [Mark 10:35-45](https://www.bible.com/bible/111/mrk.10.35-45.niv)
+* [Mark 9:33-37](https://www.bible.com/bible/111/mrk.9.33-37.niv)
 * [John 13:12-17](https://www.bible.com/bible/111/joh.13.12-17.niv)
 
 * * *
