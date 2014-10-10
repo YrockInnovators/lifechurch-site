@@ -1,4 +1,40 @@
 ---
+- id: in-his-house
+  title: In His House
+  headline: You never know where the journey will take you when it begins In His House.
+  description_small: When we find the place we’re meant to be, we can discover more
+    about ourselves than we thought possible. Learn more In His House.
+  description_medium: 'When we find the place we’re meant to be, we can discover more
+    about ourselves than we thought possible. But the search for purpose sometimes
+    leads to unexpected places. You never know where the journey will take you when
+    it begins In His House. '
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1969-in-his-house
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 20
+    name: Tithe
+    created_at: '2014-06-11T15:15:22.933Z'
+    updated_at: '2014-06-11T15:15:22.933Z'
+  - id: 28
+    name: Serving
+    created_at: '2014-06-11T15:17:48.142Z'
+    updated_at: '2014-06-11T15:17:48.142Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/in-his-house/300x200.jpeg?1412709197
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/in-his-house/600x400.jpeg?1412709219
+  image_large: http://s3.amazonaws.com/lcapi.production/series/in-his-house/1200x800.jpeg?1412709249
+  image_social: http://s3.amazonaws.com/lcapi.production/series/in-his-house/400x400.jpg?1412352498
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/in-his-house/1500x340.jpg?1412950029
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/in-his-house/3000x680.jpg?1412950014
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/in-his-house/480x340.jpg?1412781947
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/in-his-house/960x680.jpg?1412781977
+  messages: []
 - id: struggles
   title: Struggles
   headline: 'Let’s be real with our #struggles.'
