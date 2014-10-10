@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="193 18.6 940 430.4" enable-background="new 193 18.6 940 430.4" xml:space="preserve">
+<g id="land">
+	<path fill="#F6F0EF" d="M179.8,12.3c-0.4,0-0.7,0-1-1.6v442.6l964.1,1.5V12.3H179.8z"/>
+</g>
+<g id="greenery">
+	<polygon fill="#A2DDF5" points="307,151 364,187 318,270 300,275 270,362 208,455 190,454 187,420 251,328 290,228 	"/>
+</g>
+<g id="smallroads">
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="756" y1="16" x2="756" y2="105"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="851,105 851,35 884,13 	"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="368,147 401,87 452,87 452,15 	"/>
+</g>
+<g id="roads_1_">
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M1207,598"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M1163,16"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M1180,16"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="190" y1="50" x2="920" y2="449"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="170" y1="50" x2="900" y2="449"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="577" y1="106" x2="1133" y2="106"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="1037" y1="106" x2="1037" y2="14"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="1095,13 1090,145 968,423 976,449 	"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M605,14c0,0,24,27,24,100c0,74.4,0,72.6,0,335"/>
+</g>
+<g id="marker">
+	<path id="pin_1_" fill="#B9252D" d="M880,159c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L880,159z"/>
+</g>
+<text transform="matrix(1 0 0 1 810.3334 110)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">W WILSHIRE BLVD</text>
+<text transform="matrix(0.875 0.484 -0.484 0.875 654.2731 308.1048)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">NORTHWEST EXPY</text>
+</svg>

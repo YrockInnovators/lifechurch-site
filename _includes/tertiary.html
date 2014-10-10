@@ -21,23 +21,6 @@
         {% include watch-resources.html %}
       </div>
       {% endif %}
-
-      {% if page.section == "locations" %}
-      <div>
-      <a href="#"
-         data-set-campus="{{page.location-id}}"
-         class="locations-mycampus button tiny"
-         onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Mine');">
-         Save as your campus?
-      </a>
-      <a href="#"
-         data-unset-campus
-         class="locations-mycampus button tiny secondary"
-         onclick="ga('send', 'event', 'Locations', 'Click', 'Campus Not Mine');">
-         Not your campus?
-      </a>
-      </div>
-      {% endif %}
     </div>
   </section>
 </div> 

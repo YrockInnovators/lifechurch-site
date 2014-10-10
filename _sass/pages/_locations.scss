@@ -2,319 +2,322 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .pin {
-@include svg-image('/locations/assets/pin');
-background-repeat: no-repeat;
-background-position: center top;
-color: #ada5a5;
-font-family: $sans-serif;
-font-size: 9px;
-text-align: center;
-text-indent: 6px;
-text-transform: uppercase;
-width: 44px;
-height: 33px;
-padding-top: 28px;
+  @include svg-image('/locations/assets/pin');
+  background-repeat: no-repeat;
+  background-position: center top;
+  color: #ada5a5;
+  font-family: $sans-serif;
+  font-size: 9px;
+  text-align: center;
+  text-indent: 6px;
+  text-transform: uppercase;
+  width: 44px;
+  height: 33px;
+  padding-top: 28px;
 }
 
 .pin-state.pin-ok,
 .pin-state.pin-tx {
-@include svg-image('/locations/assets/pin2');
+  @include svg-image('/locations/assets/pin2');
 }
 
-// Locations Overview
+// Maps General
 ///////////////////////////////////////////////////////////////////////////////
 
-.page-locations {
+.map { 
+  position: relative;
 
-  // Wrapper around all the large screen location content
-  .map-wrapper {
-    background: #A4DDF4;
+  // Container for all map content
+  @include media(1050px) {
+    height: 680px;
+    overflow: hidden;
+  }
+
+  // General map visual styles
+  .map-visual {
+    opacity: 0;
+    z-index: 0;
     width: 100%;
-    height: 400px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    @include media($medium-screen) {
+      height: 370px;
+    }
+
+    @include media(1050px) {
+      height: 680px;
+      bottom: 0;
+    }
+  }
+
+  // The default map view, loads over all the others
+  #map-default.map-visual {
+    @include transition (all 0.3s ease-in-out);
+    background-color: #a2ddf5;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: auto 270px;
+    opacity: 1;
+
+    .svg & { background-image: url('/locations/assets/map-default-small.svg'); }
+    .no-svg & { background-image: url('/locations/assets/map-default-small.gif'); }
+
+    @include media($medium-screen) {
+      background-size: auto 390px;
+    }
+
+    @include media(1050px) {
+      background-size: auto 750px;
+
+      .svg & { background-image: url('/locations/assets/map-default-large.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-default-large.gif'); }
+    }
+  }
+
+  // Main panel on the map with all the content in
+  .map-panel {
+    @extend .panel;
     position: relative;
-    top: -145px;
-  }
-
-  &.has-alerts .map-wrapper {
-    top: 43px;
-  }
-
-  // Page title links
-  .main-copy {
-    margin-top: -160px;
-
-    a {
-      color: $black;
+    margin: 265px 0 0;
+    max-width: 100%;
+    
+    @include media($medium-screen) {
+      max-width: 400px;
+      margin: 330px auto 0;
     }
 
-    .action.small {
-      padding-top: 1em;
-      display: inline-block;
+    @include media(1050px) {
+      margin: 50px 0 0;
+      max-height: 520px;
+      overflow: auto;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    // Pretend scrollbars on Webkit to keep them in view
+    &::-webkit-scrollbar {
+      -webkit-appearance: none;
+    }
+
+    &::-webkit-scrollbar:vertical {
+      width: 11px;
+    }
+
+    &::-webkit-scrollbar:horizontal {
+      height: 11px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      border-radius: 8px;
+      border: 2px solid white; /* should match background, can't be transparent */
+      background-color: rgba(0, 0, 0, .5);
+    }
+
+    &::-webkit-scrollbar-track { 
+      background-color: #fafafa;
+      border-radius: 8px; 
+    } 
+  }
+
+  // Main sections within the map panel
+  .location-state {
+    @include transition (all 0.3s ease-in-out);
+    overflow: hidden;
+    max-height: 1400px;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    // Names of states in the main panel view
+    .state-title {
+      @include transition (all 0.3s ease-in-out);
+      margin: .5em 0 0;
+      padding-bottom: .5em;
+      border-bottom: 1px solid #ddd;
+    }
+
+    // Add the "up" icon on state titles
+    .state-title a:before {
+      @include transition (all 0.3s ease-in-out);
+      content: '\e816';
+      display: inline-block; 
+      font-family: 'lctv';
+      font-size: .8em;
+      max-width: 0;
+      opacity: 0;
     }
   }
 
+  // Lists of campus locations in each state
+  .map-list {
+    @include transition (all 0.3s ease-in-out);
+    max-height: 0;
+    overflow: hidden;
+    margin: 0 -1em;
+    padding: 0 1em;
+
+    // Container around each listing
+    li {
+      border-bottom: 1px solid #ddd;
+
+      &:last-child {
+        border: none;
+      }
+
+      // Listing link
+      a {
+        display: block;
+        margin: 0 -1em;
+        padding: .35em 1em .1em 3em;
+
+        p {
+          color: $base-font-color;
+        }
+
+        &:hover {
+          background: #fafafa;
+        }
+      }
+    }
+  }
+
+  // Red markers relating to the map visual
+  .marker {
+    background: $red;
+    border-radius: 100px;
+    color: white;
+    display: block;
+    font-family: $sans-serif;
+    float: left;
+    height: 25px;
+    line-height: 1.7em;
+    margin: 3px 0 0 -2em;
+    text-align: center;
+    width: 25px;
+    
+    // Tail on the marker
+    &:after {
+      content: "";
+      display: block;
+      border-left: 9px solid transparent;
+      border-right: 8px solid transparent;
+      border-top: 10px solid $red;
+      height: 0;
+      left: 4px;
+      position: relative;
+      top: -5px;
+      width: 0;
+    }
+  }
+}
+
+$states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
+
+@each $state in $states{
+  .map.is-#{$state} {
+  
+    #map-#{$state} {
+      opacity: 1;
+      background-size: auto 350px;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-color: #f6f0ef;
+
+      @include media($medium-screen) {
+        background-size: auto 460px;
+      }
+
+      .svg & { background-image: url('/locations/assets/map-#{$state}-small.svg'); }
+      .no-svg & { background-image: url('/locations/assets/map-#{$state}-small.gif'); }
+
+      @include media(1050px) {
+        background-size: auto 790px;
+        background-position: center top;
+
+        .svg & { background-image: url('/locations/assets/map-#{$state}-large.svg'); }
+        .no-svg & { background-image: url('/locations/assets/map-#{$state}-large.gif'); }
+      }
+    }
+
+    #map-default {
+      opacity: 0;
+    }
+
+    .location-state {
+      max-height: 0;
+
+      .state-title {
+        border-bottom: 1px solid white;
+      }
+    }
+
+    // Make the 'up' arrow
+    ##{$state} .state-title a:before {
+       margin-right: 4px;     
+      max-width: 50px;
+      opacity: 1;
+    }
+    
+    ##{$state},
+    ##{$state} .map-list,
+    ##{$state} .location-state {
+      max-height: 1400px;  
+    }
+  }
+}
+
+// Add the water to Florida
+.map.is-florida #map-florida {
+  background-color: #a2ddf5;
+}
+
+// Locations page
+///////////////////////////////////////////////////////////////////////////////
+.section-locations {
+  #tertiary {
+    border-bottom: none;
+  }
+}
+
+.page-locations {
   .closing .container {
     border: none;
   }
 
-  // Hide tertiary links
-  .page-tertiary {
+  #tertiary {
+    visibility: hidden;
+
     @include media($medium-screen) {
-      visibility: hidden;
+      visibility: visible;
+      border-bottom: none;
     }
   }
+ 
+  .map { 
+    top: -145px;
+    padding-top: 145px;
+    margin-bottom: -145px;
+  }
 
-  // Small screen hero
+  .map-panel {
+    margin: 120px 0 0;
 
-  .hero-small-locations {
-    @media only screen and (max-width: $medium-screen) {
-      @include svg-image('/locations/assets/map');
-      background-color: #a2ddf5;
-      background-repeat: no-repeat;
-      background-position: center top;
-      background-size: auto 100%;
-      min-height: 200px;
-      margin-top: -130px;
-      margin-bottom: 1em;
+    @include media($medium-screen) {
+      margin: 190px auto 0;
     }
-  }
 
-  // Make locations top section even shorter on small landscape screens
-  @media only screen and (max-width: $medium-screen) and (orientation: landscape) {
-    .hero-small-locations {
-      height: 70px;
+    @include media(1050px) {
+      margin: 0;
     }
-  }
-
-  // The map itself
-  .map {
-    @include svg-image('/locations/assets/map');
-    background-color: #a2ddf5;
-    background-repeat: no-repeat;
-    background-position: center top;
-    width: 100%;
-    height: 550px;
-    position: absolute;
-    top: 0;
-    background-size: auto 620px;
-    @include transition-property(all);
-    @include transition-duration(.5s);
-  }
-
-  // Map when zoomed into Oklahoma
-  .map-ok {
-    background-size: auto 2400px;
-    background-position: center -1050px;
-  }
-
-  // Map when zoomed into Texas
-  .map-tx {
-    background-size: auto 2400px;
-    background-position: center -1250px;
-  }
-
-  // US Map fallback for CSS3-less users
-  .no-backgroundsize .map {
-    background: url('/locations/assets/map-1.jpg') center top no-repeat !important;
-  }
-
-  // Oklahoma Map fallback for CSS3-less users
-  .no-backgroundsize .map-ok {
-    background: url('/locations/assets/map-2.jpg') center top no-repeat !important;
-  }
-
-  // Texas Map fallback for CSS3-less users
-  .no-backgroundsize .map-tx {
-    background: url('/locations/assets/map-3.jpg') center top no-repeat !important;
-  }
-
-  // Back button when zoomed in on the map
-  .map-back {
-    position: relative;
-    z-index: 6;
-    top: 80px;
-  }
-
-  // List box styles
-  .map-list {
-    background: #fff;
-    position: absolute;
-    z-index: 6;
-    list-style: none;
-    padding: 5px 10px;
-    box-shadow: rgba(0,0,0,.1) 0 2px 0;
-    border-radius: 3px;
-    @include transition-property(margin-left);
-    @include transition-duration(1s);
-  }
-
-  // List box styles for OKC
-  .map-list-okc {
-    left: 50%;
-    top: 140px;
-    margin-left: -240px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 50px;
-      right: -10px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-left: 10px solid #fff;
-    }
-  }
-
-  // List box styles for Tulsa
-  .map-list-tulsa {
-    left: 50%;
-    top: 140px;
-    margin-left: 80px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: 20px;
-      left: -10px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-bottom: 10px solid transparent;
-      border-right: 10px solid #fff;
-    }
-  }
-
-  // List box styles for Stillwater
-  .map-list-stillwater {
-    left: 50%;
-    top: 210px;
-    margin-left: -40px;
-
-    &:after {
-      content: "";
-      display: block;
-      position: absolute;
-      top: -20px;
-      left: 30px;
-      width: 0;
-      height: 0;
-      border-top: 10px solid transparent;
-      border-right: 10px solid transparent;
-      border-left: 10px solid transparent;
-      border-bottom: 10px solid #fff;
-    }
-  }
-
-  // Page-specific pin styles
-  .pin {
-    left: 50%;
-    right: 0;
-    position: absolute;
-    z-index: 3;
-    @include transition-property(background-position);
-    @include transition-duration(.2s);
-  }
-
-  // Recolor pin text for Wellington, since it's on the water
-  .pin-fl {
-    color: #4ea6c9;
-  }
-
-  // Pin-push animation where pins are clickable
-  .pin-state:hover,
-  .pin-keller:hover,
-  .pin-fortworth:hover {
-    background-position: center 5px;
-  }
-
-  // Pin positioning
-
-  .pin-ok {
-    margin-left: -40px;
-    top: 300px;
-  }
-
-  .pin-tx {
-    margin-left: -60px;
-    top: 360px;
-  }
-
-  .pin-tn {
-    margin-left: 150px;
-    top: 285px;
-  }
-
-  .pin-fl {
-    margin-left: 235px;
-    top: 465px;
-  }
-
-  .pin-ny {
-    margin-left: 335px;
-    top: 160px;
-  }
-
-  .pin-ks {
-    margin-left: -35px;
-    top: 245px;
-  }
-
-  .pin-okc {
-    margin-left: -75px;
-    top: 190px;
-  }
-
-  .pin-tulsa {
-    margin-left: 35px;
-    top: 160px;
-  }
-
-  .pin-stillwater {
-    margin-left: -22px;
-    top: 160px;
-  }
-
-  .pin-keller {
-    margin-left: -40px;
-    top: 200px;
-  }
-
-  .pin-fortworth {
-    margin-left: -70px;
-    top: 240px;
   }
 }
+
 
 // Campus page
 ///////////////////////////////////////////////////////////////////////////////
-
-// "My Campus" buttons
-
-[data-unset-campus] {
-  display: none;
-}
-
-.my-campus {
-  [data-unset-campus] {
-    display: inline-block;
-  }
-
-  [data-set-campus] {
-    display: none;
-  }
-}
-
-
-// Patch
-#location.group {
-  @media only screen and (max-width: $medium-screen) {
-    padding-bottom: 140px;
-  }
-}
 
 // Page hero section
 
@@ -324,22 +327,42 @@ padding-top: 28px;
   max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
-  min-height: 150px;
+  position: relative;
 
   @include media($medium-screen) {
-    min-height: 300px;
+    min-height: 620px;
+    height: auto;
   }
-}
 
-.locations-hero-promo {
-  background-color: #f9f5ed;
-}
+  .map-panel {
+    @extend .panel;
+    max-width: 400px;
+    text-align: left;
+  }
 
-.location-promo .closing {
-  padding-top: 0;
+  h1 {
+    margin: 0 0 .3em;
+  }
 
-  .container {
-    border: none;
+  h5 {
+    margin: -4px 0px 25px;
+  }
+
+  .event time {
+    width: 80px;
+    display: inline-block;
+  }
+
+  .day {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: .7em;
+    margin-bottom: .8em;
+
+    &:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -360,338 +383,6 @@ padding-top: 28px;
   display: none;
 }
 
-// Map
-.locations-map {
-  background-color: #fff;
-  background-position: left top;
-  background-repeat: no-repeat;
-  height: 170px;
-  border: 1px solid #ddd;
-  position: relative;
-
-  @media only screen and (max-width: $medium-screen) {
-    background-size: 800px auto;
-    background-position: 0 -100px;
-    margin-bottom: 150px;
-  }
-
-  @include media($medium-screen) {
-    height: 400px;
-  }
-
-  .pin {
-    top: 80px;
-    left: 110px;
-    position: absolute;
-
-    @include media($medium-screen) {
-      top: 180px;
-      left: 110px;
-    }
-  }
-
-  .address {
-    background: transparent;
-    padding: 15px 0;
-    width: 100%;
-    top: 172px;
-    position: relative;
-
-    a {
-      margin-right: 0;
-    }
-
-    @include media($medium-screen) {
-      padding: 15px;
-      position: absolute;
-      color: #fff;
-      width: 250px;
-      top: 165px;
-      left: 160px;
-      background: rgba(0,0,0,.8);
-      border-radius: 6px;
-
-      a {
-        color: #86def7;
-      }
-
-      &:after {
-        content: "";
-        display: block;
-        position: absolute;
-        top: 14px;
-        left: -10px;
-        width: 0;
-        height: 0;
-        border-top: 10px solid transparent;
-        border-bottom: 10px solid transparent;
-        border-right: 10px solid rgba(0,0,0,.8);
-      }
-    }
-  }
-}
-
-
-// Experience Calendar
-
-  // Calendar Key
-
-    .calendar-key {
-
-      // Keep the links in the key on the same line as the colors
-      a {
-        float: left;
-      }
-
-      figure {
-        width: 20px;
-        height: 20px;
-        float: left;
-        margin: 2px 7px 0 0;
-        border-radius: 3px;
-      }
-
-      &.key-service-time figure {
-        background: lighten($red, 30%);
-        border: 1px solid lighten($red, 20%);
-      }
-
-      &.key-switch figure {
-        background: $blue;
-        border: 1px solid darken($blue, 10%);
-      }
-
-      &.key-lifekids figure {
-        background: #69d166;
-        border: 1px solid darken(#69d166, 10%);
-      }
-
-      &.key-roots figure {
-        background: #f0d700;
-        border: 1px solid darken(#f0d700, 10%);
-      }
-    }
-
-
-// New Experience Calendar
-
-@include media($medium-screen) {
-  .times-legend {
-    text-align: center;
-  }
-
-  .times-legend li {
-    display: inline-block;
-    margin: 1em .5em;
-  }
-}
-
-.times {
-  list-style: none;
-  margin-left: 0;
-
-  label {
-    margin-top: .3em;
-    display: inline-block;
-  }
-}
-
-.time,
-.calendar-key {
-  clear: both;
-}
-
-@include media($medium-screen) {
-  .days-times {
-    border: 1px solid #bbb;
-    background: #fff;
-    position: relative;
-    width: 100%;
-
-    h4 {
-      display: none;
-    }
-
-    // Day wrapper
-    .day {
-      height: 40px;
-      width: 100%;
-      background: #fff;
-
-      &:nth-child(even) {
-        background: #f9f9f9 !important;
-      }
-    }
-
-    // Entry wrapper
-    .times {
-      padding: 0;
-      margin: 0;
-      position: relative;
-
-      // Day title
-      label {
-        margin-left: 10px;
-      }
-    }
-
-    // Entry
-    .time {
-      height: 40px;
-      width: 5%; // default time 1 hour
-      position: absolute;
-      overflow: hidden;
-
-      label span {
-        display: none;
-      }
-
-      .time-box {
-        display: block;
-        width: 100%;
-        height: 40px;
-        font-family: $helvetica;
-        font-size: 10px;
-        background: #aaa;
-        border-radius: 2px;
-        border: 1px solid #999;
-        font-size: rem-calc(11);
-
-        .time-box-time-label,
-        .time-box-duration,
-        .time-box-duration-label {
-          display: none;
-        }
-
-        .time-box-time {
-          margin: 0px 0 0 3px;
-        }
-      }
-
-      &.type-service-time .time-box {
-        background: lighten($red, 30%);
-        border: 1px solid lighten($red, 20%);
-        color: $red;
-      }
-
-      &.type-switch .time-box {
-        background: $blue;
-        border: 1px solid darken($blue, 10%);
-        color: darken($blue, 20%);
-      }
-
-      &.type-lifekids .time-box {
-        background: #69d166;
-        border: 1px solid darken(#69d166, 10%);
-        color: darken(#69d166, 40%);
-      }
-
-      &.type-roots .time-box {
-        background: #f0d700;
-        border: 1px solid darken(#f0d700, 10%);
-        color: darken(#f0d700, 20%);
-      }
-    }
-
-    .time-07-00 { left: 20%; }
-    .time-07-30 { left: 22.5%; }
-    .time-08-00 { left: 25%; }
-    .time-08-30 { left: 27.5%; }
-    .time-09-00 { left: 30%; }
-    .time-09-30 { left: 32.5%; }
-    .time-10-00 { left: 35%; }
-    .time-10-30 { left: 37.5%; }
-    .time-11-00 { left: 40%; }
-    .time-11-30 { left: 42.5%; }
-    .time-12-00 { left: 45%; }
-    .time-12-30 { left: 47.5%; }
-    .time-13-00 { left: 50%; }
-    .time-13-30 { left: 52.5%; }
-    .time-14-00 { left: 55%; }
-    .time-14-30 { left: 57.5%; }
-    .time-15-00 { left: 60%; }
-    .time-15-30 { left: 62.5%; }
-    .time-16-00 { left: 65%; }
-    .time-16-30 { left: 67.5%; }
-    .time-17-00 { left: 70%; }
-    .time-17-30 { left: 72.5%; }
-    .time-18-00 { left: 75%; }
-    .time-18-30 { left: 77.5%; }
-    .time-19-00 { left: 80%; }
-    .time-19-30 { left: 82.5%; }
-    .time-20-00 { left: 85%; }
-    .time-20-30 { left: 87.5%; }
-    .time-21-00 { left: 90%; }
-    .time-21-30 { left: 92.5%; }
-    .time-22-00 { left: 95%; }
-
-    .overlap {
-      margin-top: 40px;
-    }
-
-    .overlap-2 {
-      margin-top: 80px;
-    }
-
-    .rows-2 {
-      height: 80px;
-    }
-
-    .rows-3 {
-      height: 120px;
-    }
-
-    // 1 hour entry
-    .duration-60 {
-      width: 5%;
-    }
-
-    // 2 hour entry
-    .duration-120 {
-      width: 10%
-    }
-
-    // 3 hour entry
-    .duration-180 {
-      width: 15%;
-    }
-
-    // 4 hour entry
-    .duration-240 {
-      width: 20%;
-    }
-
-    .time-lines .time {
-      height: 100%;
-
-      .time-line {
-        margin-top: 40px;
-        border-left: 1px solid #ccc;
-        height: 100%;
-      }
-
-      label {
-        margin: 0;
-        width: 100%;
-        height: 30px;
-        overflow: hidden;
-        position: absolute;
-        top: 11px;
-        font-size: rem-calc(13);
-      }
-    }
-
-  }
-
-}
-
-@include media($large-screen) {
-  // Day title
-  .days-times .time label span {
-    display: inline;
-  }
-}
-
 // Campus contact forms
 .form-contact {
   max-width: 600px;
@@ -703,14 +394,10 @@ padding-top: 28px;
 $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc, sto, stw, tul, wel, wch, ykn;
 
 @each $campus in $campuses {
-  .location-#{$campus} {
-    .locations-hero {
-      @include retina-image(/locations/assets/campus/#{$campus}-bg, 1500px 350px, jpg);
-    }
-
-    .locations-map {
-      @include retina-image(/locations/assets/campus/#{$campus}-map, 1196px 398px, jpg);
-    }
+  .location-#{$campus} .locations-hero {
+    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.svg'); }
+    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.gif'); }
+    background-size: cover;
   }
 }
 
@@ -728,191 +415,4 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   &:hover {
     color: darken(#8ca7b6, 15%);
   }
-}
-
-
-
-// Swipe test
-
-.calendar {
-  height: 420px; 
-  margin-bottom: 3em;
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-
-  .day header,
-  .calendar-left,
-  .calendar-right {
-    text-align: center;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: 13px;
-  }
-
-  .calendar-left,
-  .calendar-right {
-    z-index: 4;
-    position: absolute;
-    
-    i {
-      font-size: 13px;
-    }
-
-    @include media($medium-screen) {
-      display: none;
-    }
-  }
-
-  .calendar-right {
-    right: 0;
-  }
-
-  &.showing-saturday .calendar-left,
-  &.showing-wednesday .calendar-right {
-    opacity: 0 !important;
-  }
-
-  time {
-    float: right;
-    opacity: .7;
-  }
-
-  b {
-    display: block;
-    width: 100%;
-    height: 30px;
-    border-top: 1px solid #e0e4e5;
-    font-size: 11px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 10px;
-
-    span {
-      top: -6px;
-      position: relative;
-      background: $off-white;
-      width: 4%;
-      height: 30px;
-      display: block;
-      text-align: right;
-      padding-right: 10px;
-
-      i {
-        display: none;
-
-        @include media($large-screen) {
-          display: inline;
-          font-style: normal;
-        }
-      }
-    }
-  }
-
-  b.first {
-    margin-top: 30px;
-  }
-
-  .icon-arrow-left {
-    @include transform(rotate(180deg));
-    margin-left: 2px;
-  }
-
-  .saturday,
-  .sunday,
-  .wednesday {
-    height: 320px;
-    width: 100%;
-    float: left;
-    position: absolute;
-    top: 0;
-
-    @include media($medium-screen) {
-      width: 33%;
-    }
-  }
-
-  .sunday {
-    left: 100%;
-
-    @include media($medium-screen) {
-      left: 33%;
-    }
-  }
-
-  .wednesday {
-    left: 200%;
-
-    @include media($medium-screen) {
-      left: 66%;
-    }
-  }
-
-  
-
-  .event {
-    height: 20px;
-    padding: 6px 9px;
-    font-size: 11px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    line-height: 18px;
-    border-radius: 3px;
-    margin-left: 9%;
-    position: absolute;
-    width: 90%;
-    color: white;
-    font-weight: bold;
-
-    @include media($medium-screen) {
-      margin-left: 13%;
-    }
-
-    &.is-service-time {
-      background: #e98f93;
-    }
-
-    &.is-switch {
-      background: #0ea9d6;
-    }
-
-    &.is-lifekids {
-      background: #69d166;
-    }
-
-    &.is-roots {
-      color: #8a7c00;
-      background: #f0d700;
-      border: 1px solid #bda900;
-    }
-  }
-
-  .time-08-00 { top: 30px; }
-  .time-08-30 { top: 45px; }
-  .time-09-00 { top: 60px; }
-  .time-09-30 { top: 75px; }
-  .time-10-00 { top: 90px; }
-  .time-10-30 { top: 105px; }
-  .time-11-00 { top: 120px; }
-  .time-11-30 { top: 135px; }
-  .time-12-00 { top: 150px; }
-  .time-12-30 { top: 165px; }
-  .time-13-00 { top: 180px; }
-  .time-13-30 { top: 195px; }
-  .time-14-00 { top: 210px; }
-  .time-14-30 { top: 225px; }
-  .time-15-00 { top: 240px; }
-  .time-15-30 { top: 255px; }
-  .time-16-00 { top: 270px; }
-  .time-16-30 { top: 285px; }
-  .time-17-00 { top: 300px; }
-  .time-17-30 { top: 315px; }
-  .time-18-00 { top: 330px; }
-  .time-18-30 { top: 345px; }
-  .time-19-00 { top: 360px; }
-  .time-19-30 { top: 375px; }
-  .time-20-00 { top: 390px; }
-
-  .duration-30  { height: 16px; }
-  .duration-60  { height: 30px; }
-  .duration-120 { height: 61px; }
 }
