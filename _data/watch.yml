@@ -1,4 +1,40 @@
 ---
+- id: love-song
+  title: Love Song
+  headline: Don't fumble your way through love and sex - learn from the original Love
+    Song.
+  description_small: When it comes to love and romance, we really have no clue. But
+    there's a Love Song out there - created just for you.
+  description_medium: God knew what He was doing when He created love and sex. In
+    fact, He wrote the book on it. You’ll be amazed at what God had in mind when He
+    wrote the ultimate Love Song.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1967-love-song
+  promo: fx7rndi5cf
+  resources_url: ''
+  categories:
+  - id: 12
+    name: Marriage
+    created_at: '2014-06-05T19:14:26.586Z'
+    updated_at: '2014-06-05T19:14:26.586Z'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 17
+    name: Dating
+    created_at: '2014-06-11T15:14:52.700Z'
+    updated_at: '2014-06-11T15:14:52.700Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/love-song/300x200.jpg?1413230455
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/love-song/600x400.jpg?1413230483
+  image_large: http://s3.amazonaws.com/lcapi.production/series/love-song/1200x800.jpg?1413230508
+  image_social: http://s3.amazonaws.com/lcapi.production/series/love-song/400x400.jpg?1413231026
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/love-song/1500x340.jpg?1413231071
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/love-song/3000x680.jpg?1413231048
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/love-song/480x340.jpg?1413231100
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/love-song/960x680.jpg?1413231147
+  messages: []
 - id: in-his-house
   title: In His House
   headline: You never know where the journey will take you when it begins In His House.
