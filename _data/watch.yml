@@ -34,7 +34,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/in-his-house/3000x680.jpg?1412950014
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/in-his-house/480x340.jpg?1412781947
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/in-his-house/960x680.jpg?1412781977
-  messages: []
+  messages:
+  - title: Embrace Your Place
+    headline: ''
+    video: cuz3evux16
 - id: struggles
   title: Struggles
   headline: 'Let’s be real with our #struggles.'
