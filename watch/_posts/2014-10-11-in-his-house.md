@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-novideo
+layout: watch-archive
 categories: promo
 series-id: in-his-house
 title: In His House
