@@ -10,7 +10,7 @@ class: section-talkitover header-red
 {% for tio in site.categories.talkitover limit:1 %}
 
 {% for data in site.data.watch %}
-{% if data.id == series.series-id %}
+{% if data.id == tio.series-id %}
 
 {% include tertiary.html %}
 
