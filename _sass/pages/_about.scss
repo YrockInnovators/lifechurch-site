@@ -65,6 +65,7 @@
   }
 }
 
+
 // 404
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -73,6 +74,7 @@
     display: none;
   }
 }
+
 
 // Challenge
 ///////////////////////////////////////////////////////////////////////////////
@@ -88,6 +90,7 @@
   }
 }
 
+
 // Contact 
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -99,6 +102,7 @@
 form .has-error {
   border-color: $red;
 }
+
 
 // About Live
 ///////////////////////////////////////////////////////////////////////////////
@@ -140,6 +144,7 @@ form .has-error {
     }
   }
 }
+
 
 // Connect
 ///////////////////////////////////////////////////////////////////////////////
@@ -238,5 +243,31 @@ form .has-error {
       @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
       background-size: 1500px auto;
     }
+  }
+}
+
+
+// Whats Next
+///////////////////////////////////////////////////////////////////////////////
+
+.whatsnext {
+  #accept-christ .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-1, cover, jpg);
+    background-position: center;
+  }
+
+  #basic-beliefs .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-2, cover, jpg);
+    background-position: center;
+  }
+
+  #grow-faith .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-3, cover, jpg);
+    background-position: center;
+  }
+
+  #next-steps .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-4, cover, jpg);
+    background-position: center;
   }
 }
