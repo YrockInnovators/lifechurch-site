@@ -240,3 +240,28 @@ form .has-error {
     }
   }
 }
+
+
+// Churches
+///////////////////////////////////////////////////////////////////////////////
+
+.equipping-churches {
+  #bible-engagement h2,
+  #partnered-products h2{
+    margin-top: .35em;
+  }
+
+  .feature.padded {
+    padding-top: 7em;
+  }
+
+  #bible-engagement article img {
+    padding-top: 3em;
+  }
+
+  #partnered-products {
+    margin-top: -10em;
+    z-index: 2;
+    position: relative
+  }
+}
