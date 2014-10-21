@@ -271,3 +271,36 @@ form .has-error {
     background-position: center;
   }
 }
+
+// Local Partners
+///////////////////////////////////////////////////////////////////////////////
+
+.localpartners {
+  .hero {
+    @include retina-image(/images/localpartners/lp-hero-small, cover, jpg);
+    background-position: center top;
+    height: 720px;
+
+    .hero-copy,
+    .hero-copy h1 {
+      margin-top: 0;
+    }
+
+    @include media($medium-screen) {
+      @include retina-image(/images/localpartners/lp-hero, 1500px auto, jpg);
+    }
+  }
+
+  #partnership {
+    background-color: #dbd5c9;
+    @include retina-image(/images/localpartners/lp-hero2-small, contain, jpg);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding-bottom: 400px;
+
+    @include media(500px) {
+      @include retina-image(/images/localpartners/lp-hero2, 1500px auto, jpg);
+      padding-bottom: 600px;
+    }
+  }
+}
