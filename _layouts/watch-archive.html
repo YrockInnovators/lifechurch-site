@@ -9,55 +9,100 @@ class: header-red section-watch section-series
 
 {% include tertiary.html %}
 
-{% if forloop.first %}
-  {% for message in series.messages %}
-  {% if forloop.first %}
-  <a href="javascript:void(0)"  
-     {% if series.image_banner_archive == '' %}
-     style="background-image: url('{{ series.image_large }}')"
-     {% else %}
-     style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
-     data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
-     data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
-     data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
-     {% endif %}
-     data-video-player="{{message.video}}"
-     class="hero section-light hero-watch-archive"
-     onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
-     
-    <div class="inner">
-      <span class="play-large"></span>
-      <h1>{{ series.title }}</h1>
-      Watch latest video
-    </div>
-  </a>
-  {% endif %}
-  {% endfor %}
-{% else %}
-  {% for message in series.messages reversed %}
-  {% if forloop.first %}
-  <a href="javascript:void(0)"
-     class="hero section-light hero-watch-archive"
-     {% if series.image_banner_archive == '' %}
-     style="background-image: url('{{ series.image_large }}')"
-     {% else %}
-     style="background-image: url('{{ series.image_banner_archive_small }}')"
-     data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
-     data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
-     data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
-     {% endif %}
-     data-video-player="{{message.video}}"
-     onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');"
-     >
-    <div class="inner">
-      <span class="play-large"></span>
-      <h1>{{ series.title }}</h1>
-      Watch week 1
-    </div>
-  </a>
-  {% endif %}
-  {% endfor %}
-{% endif%}
+{% for firstseries in site.data.watch limit:1 %}{% if firstseries.messages %}{% assign firsthas = 'some' %}{% endif %}
+{% unless firstseries.messages %}{% assign firsthas = 'none' %}{% endunless %}{% endfor %}
+
+{% if forloop.index == 1 and firsthas == 'some' %}
+<!--FIRST HAS SOME, I AM FIRST-->
+<a href="javascript:void(0)"  
+   {% if series.image_banner_archive == '' %}
+   style="background-image: url('{{ series.image_large }}')"
+   {% else %}
+   style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
+   {% endif %}
+   data-video-player="{{message.video}}"
+   class="hero section-light hero-watch-archive"
+   onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
+   
+  <div class="inner">
+    <span class="play-large"></span>
+    <h1>{{ series.title }}</h1>
+    Watch latest video
+  </div>
+</a>
+{% endif %}
+
+{% if forloop.index == 2 and firsthas == 'none' %}
+<!--FIRST HAS NONE, I AM SECOND-->
+<a href="javascript:void(0)"  
+   {% if series.image_banner_archive == '' %}
+   style="background-image: url('{{ series.image_large }}')"
+   {% else %}
+   style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
+   {% endif %}
+   data-video-player="{{message.video}}"
+   class="hero section-light hero-watch-archive"
+   onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
+   
+  <div class="inner">
+    <span class="play-large"></span>
+    <h1>{{ series.title }}</h1>
+    Watch latest video
+  </div>
+</a>
+{% endif %}
+
+{% if forloop.index != 1 and firsthas == 'some' %}
+<!--FIRST HAS SOME, I AM NOT FIRST-->
+<a href="javascript:void(0)"
+   class="hero section-light hero-watch-archive"
+   {% if series.image_banner_archive == '' %}
+   style="background-image: url('{{ series.image_large }}')"
+   {% else %}
+   style="background-image: url('{{ series.image_banner_archive_small }}')"
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
+   {% endif %}
+   data-video-player="{{message.video}}"
+   onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');"
+   >
+  <div class="inner">
+    <span class="play-large"></span>
+    <h1>{{ series.title }}</h1>
+    Watch week 1
+  </div>
+</a>
+{% endif %}
+
+{% if forloop.index != 1 and forloop.index != 2 and firsthas == 'none' %}
+<!--FIRST HAS NONE, I AM NOT FIRST OR SECOND-->
+<a href="javascript:void(0)"
+   class="hero section-light hero-watch-archive"
+   {% if series.image_banner_archive == '' %}
+   style="background-image: url('{{ series.image_large }}')"
+   {% else %}
+   style="background-image: url('{{ series.image_banner_archive_small }}')"
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
+   {% endif %}
+   data-video-player="{{message.video}}"
+   onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');"
+   >
+  <div class="inner">
+    <span class="play-large"></span>
+    <h1>{{ series.title }}</h1>
+    Watch week 1
+  </div>
+</a>
+{% endif %}
 
 <div class="container messages-with-description">
   <section class="series-messages">
