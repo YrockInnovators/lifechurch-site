@@ -13,6 +13,8 @@ class: header-red section-watch section-series
 {% unless firstseries.messages %}{% assign firsthas = 'none' %}{% endunless %}{% endfor %}
 
 {% if forloop.index == 1 and firsthas == 'some' %}
+{% for message in series.messages %}
+{% if forloop.first %}
 <!--FIRST HAS SOME, I AM FIRST-->
 <a href="javascript:void(0)"  
    {% if series.image_banner_archive == '' %}
@@ -34,8 +36,12 @@ class: header-red section-watch section-series
   </div>
 </a>
 {% endif %}
+{% endfor %}
+{% endif %}
 
 {% if forloop.index == 2 and firsthas == 'none' %}
+{% for message in series.messages %}
+{% if forloop.first %}
 <!--FIRST HAS NONE, I AM SECOND-->
 <a href="javascript:void(0)"  
    {% if series.image_banner_archive == '' %}
@@ -57,8 +63,12 @@ class: header-red section-watch section-series
   </div>
 </a>
 {% endif %}
+{% endfor %}
+{% endif %}
 
 {% if forloop.index != 1 and firsthas == 'some' %}
+{% for message in series.messages reversed %}
+{% if forloop.first %}
 <!--FIRST HAS SOME, I AM NOT FIRST-->
 <a href="javascript:void(0)"
    class="hero section-light hero-watch-archive"
@@ -80,8 +90,12 @@ class: header-red section-watch section-series
   </div>
 </a>
 {% endif %}
+{% endfor %}
+{% endif %}
 
 {% if forloop.index != 1 and forloop.index != 2 and firsthas == 'none' %}
+{% for message in series.messages reversed %}
+{% if forloop.first %}
 <!--FIRST HAS NONE, I AM NOT FIRST OR SECOND-->
 <a href="javascript:void(0)"
    class="hero section-light hero-watch-archive"
@@ -102,6 +116,8 @@ class: header-red section-watch section-series
     Watch week 1
   </div>
 </a>
+{% endif %}
+{% endfor %}
 {% endif %}
 
 <div class="container messages-with-description">
