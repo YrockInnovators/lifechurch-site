@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Talk It Over (Latest)
-section: talkitover
 permalink: /talkitover/
 class: section-talkitover header-red
 ---
@@ -11,8 +10,6 @@ class: section-talkitover header-red
 
 {% for data in site.data.watch %}
 {% if data.id == tio.series-id %}
-
-{% include tertiary.html %}
 
 <div {% if data.image_banner_archive == '' %}
    style="background-image: url('{{ data.image_large }}')"
