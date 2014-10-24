@@ -265,3 +265,64 @@ form .has-error {
     position: relative
   }
 }
+
+.video-thumb {
+  position: relative;
+  width: 200px;
+  height: 130px;
+  display: block;
+  padding-top: 25px;
+  font-size: .8em;
+  font-family: $sans-serif;
+  background: #eee;
+  display: inline-block;
+  border-radius: 4px;
+  color: white;
+
+  &:before {
+    content: "";
+    background: rgba(0,0,0,.15);
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    border-radius: 4px;
+  }
+
+  span {
+    position: relative;
+    z-index: 1;
+  }
+
+  &:hover {
+    color: white;
+  }
+
+  &:hover .play-small {
+    background-color: rgba(0,0,0,1);   
+  }
+}
+
+
+.video-thumb .play-small {
+  @include svg-image('/images/watch/watch-play-large');
+  width: 44px;
+  height: 53px;
+  padding: 30px;
+  background-size: 20px auto;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border-radius: 100px;
+  background-color: rgba(0,0,0,.6);
+  display: block;
+  margin: 0 auto 3px;
+}
+
+.video-thumb-network-1 {
+  @include retina-image(/images/equipping-churches/ec-network-thumb-1, cover, jpg);
+}
+
+.video-thumb-network-2 {
+  @include retina-image(/images/equipping-churches/ec-network-thumb-2, cover, jpg);
+}
