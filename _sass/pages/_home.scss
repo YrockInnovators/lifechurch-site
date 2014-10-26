@@ -52,10 +52,10 @@
 
   .hero {
     padding-bottom: 2em;
-    background: #fff;
-    @include retina-image(/images/home/home-bg, 330px 750px, jpg);
-    background-position: bottom center;
-    background-repeat: repeat-x;
+    background: #1e0a0d;
+    @include retina-image(/images/home/home-bg-small, 861px 429px, jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
     min-height: 200px;
 
     .hero-inner .hero-copy {
@@ -63,27 +63,23 @@
     }
     
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, 330px 750px, jpg);
-      min-height: 400px;
-    }
-
-    @include media($large-screen) {
-      min-height: 640px;
+      @include retina-image(/images/home/home-bg, 1500px 796px, jpg);
+      min-height: 790px;
     }
 
     h1 {
       @include hide-text;
-      @include retina-image(/images/home/home-title, 115px 348px);
-      width: 114px;
-      height: 341px;
-      margin: -160px auto 10px;
+      @include retina-image(/images/home/home-title, contain);
+      background-repeat: no-repeat;
+      width: 160px;
+      height: 160px;
       display: block;
+      margin: 0 auto 20px;
 
       @include media($medium-screen) {
-        @include retina-image(/images/home/home-title, 165px 408px);
-        width: 165px;
-        height: 408px;
-        margin: -80px auto 30px;
+        @include retina-image(/images/home/home-title, 246px 232px);
+        width: 246px;
+        height: 232px;
       }
     }
   }
