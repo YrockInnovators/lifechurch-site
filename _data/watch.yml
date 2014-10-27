@@ -34,6 +34,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/love-song/3000x680.jpg?1413231048
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/love-song/480x340.jpg?1413231100
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/love-song/960x680.jpg?1413231147
+  messages:
+  - title: Faithful Attraction
+    headline: ''
+    video: blncn9dw4s
 - id: in-his-house
   title: In His House
   headline: You never know where the journey will take you when it begins In His House.
