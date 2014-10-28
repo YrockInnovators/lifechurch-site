@@ -69,64 +69,28 @@ hero: locations-hero
             </div>
             {% endif %}{% endunless %}{% endfor %}
           </article>
-        </div>
+        </section>
         <!-- End calendar -->
-      </div>
+      </section>
+      {% endif %}
 
-    </section>
-    {% endif %}
+      {% if page.mailer and page.times == true %}
+      <hr />
+      {% endif %}
 
-
+      {% if page.mailer %}
+      {% include locations-mailer.html %}
+      {% endif %}
     </div>
   </div>
 </section>
 
-{% if page.spreadtheword == true %}
-<div class="before-spreadtheword">
-{% else %}
-<div>
+{% if page.serving == true or location.missions != empty or page.events == true %}
+<!-- Location Header -->
+<section class="single text-center">
+  {% include locations-nav.html %}
+</section>
 {% endif %}
-
-  <!-- Location Header -->
-  <section class="single text-center">
-    {% include locations-nav.html %}
-  </section>
-
-{% if page.spreadtheword == true %}
-</div>
-{% endif %}
-
-{% if page.spreadtheword == true and page.mailer %}
-<!-- Spread the Word with Mailer -->
-<div class="group alt spreadtheword">
-  <div class="container">
-    <section id="spreadtheword" class="article-with-figure">
-      <article>
-        <h2>Spread the Word</h2>
-        {% include locations-spreadtheword.html %}
-      </article>
-
-      <figure>
-        {% include locations-mailer.html %}
-      </figure>
-    </section>
-  </div>
-</div>
-{% elsif page.spreadtheword == true %}
-<!-- Spread the Word without Mailer -->
-<div class="group alt">
-  <section class="single">
-    <header class="text-center">
-      <h2>Spread the Word</h2>
-    </header>
-    <article>
-      {% include locations-spreadtheword.html %}
-    </article>
-  </section>
-</div>
-{% endif %}
-
-{% if page.spreadtheword != true %}</div>{% endif %}
 
 <div class="tile-items tile-two">
   <a class="tile-item tile-lifegroups" href="/lifegroups/" onclick="ga('send', 'event', 'Missions', 'Click', 'Info Restore');"><span>LifeGroups are the friends that you grow, laugh, and serve with.</span></a>
