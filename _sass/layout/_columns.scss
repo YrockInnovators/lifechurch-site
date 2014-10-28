@@ -56,6 +56,16 @@
     figure {
       @include span-columns(5);
     }
+
+    &.reverse figure {
+      @include shift(0);
+      float: left;
+    }
+
+    &.reverse article {
+      float: right;
+      margin-right: 0;
+    }
   }
 }
 
