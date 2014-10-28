@@ -260,9 +260,13 @@ form .has-error {
   }
 
   #partnered-products {
-    margin-top: -10em;
+    margin-top: -7em;
     z-index: 2;
-    position: relative
+    position: relative;
+
+    @include media($medium-screen) {
+      margin-top: -10em;
+    }
   }
 }
 
@@ -275,9 +279,15 @@ form .has-error {
   font-size: .8em;
   font-family: $sans-serif;
   background: #eee;
-  display: inline-block;
+  display: block;
+  margin: 0 auto 1em;
   border-radius: 4px;
   color: white;
+
+  @include media($medium-screen) {
+    display: inline-block;
+    margin: .5em;
+  }
 
   &:before {
     content: "";
