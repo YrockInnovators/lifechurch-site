@@ -2100,14 +2100,6 @@
     url: http://www.bixbyoc.org/
     description_medium: Help people who find themselves in situations that they did
       not expect by collecting, organizing, and distributing items.
-- id: sba
-  title: South Broken Arrow OK Campus
-  email: ''
-  phone: 539-664-7600
-  address: 5801 S. Elm Place Broken Arrow, OK 74011
-  facebook: '539342819532615'
-  times: []
-  missions: []
 - id: hnv
   title: Hendersonville TN Campus
   email: hnv.serving@lifechurch.tv
@@ -2208,3 +2200,11 @@
     url: http://www.roomintheinn.org/
     description_medium: For those who call the streets of Nashville home, volunteers
       will help provide meals, sort mail, teach classes, and mentor.
+- id: sba
+  title: South Broken Arrow OK Campus
+  email: sba.serving@lifechurch.tv
+  phone: 539-664-7600
+  address: 5801 S. Elm Place Broken Arrow, OK 74011
+  facebook: '539342819532615'
+  times: []
+  missions: []
