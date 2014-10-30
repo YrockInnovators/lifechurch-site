@@ -768,12 +768,6 @@
     description_medium: In partnership with this Pregnancy Wellness program, provide
       emotional support, material assistance, education and counseling, community
       referrals, and pregnancy wellness classes.
-  - id: 4
-    title: The Mentoring Project
-    recipient: mwc.serving@lifechurch.tv
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the fatherless story through mentoring, training,
-      resourcing, and encouraging at-risk and fatherless kids.
   - id: 25
     title: LifeTroops
     recipient: mwc.serving@lifechurch.tv
@@ -1647,62 +1641,6 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-- id: bnb
-  title: Broadway and Britton OK Campus
-  email: bnb.serving@lifechurch.tv
-  phone: (405) 213-0248
-  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
-  facebook: '227205990810209'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  missions: []
 - id: wch
   title: Wichita KS Campus
   email: wch.serving@lifechurch.tv
@@ -2207,4 +2145,60 @@
   address: 5801 S. Elm Place Broken Arrow, OK 74011
   facebook: '539342819532615'
   times: []
+  missions: []
+- id: bnb
+  title: Broadway and Britton OK Campus
+  email: bnb.serving@lifechurch.tv
+  phone: 405-213-0248
+  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
+  facebook: '227205990810209'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
   missions: []
