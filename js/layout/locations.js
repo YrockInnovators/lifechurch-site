@@ -11,37 +11,37 @@ $("body").delegate(".breadcrumb .current", "click", function() {
 });
 
 // Oklahoma
-$(".map").delegate("#oklahoma .state-title a", "click", function() {
+$(".map").delegate("#oklahoma .state-title a, #oklahoma .view-all-states", "click", function() {
   $(".map").toggleClass("is-oklahoma is-zoomed");
   return false;
 });
 
 // Texas
-$(".map").delegate("#texas .state-title a", "click", function() {
+$(".map").delegate("#texas .state-title a, #texas .view-all-states", "click", function() {
   $(".map").toggleClass("is-texas is-zoomed");
   return false;
 });
 
 // Tennessee
-$(".map").delegate("#tennessee .state-title a", "click", function() {
+$(".map").delegate("#tennessee .state-title a, #tennessee .view-all-states", "click", function() {
   $(".map").toggleClass("is-tennessee is-zoomed");
   return false;
 });
 
 // Florida
-$(".map").delegate("#florida .state-title a", "click", function() {
+$(".map").delegate("#florida .state-title a, #florida .view-all-states", "click", function() {
   $(".map").toggleClass("is-florida is-zoomed");
   return false;
 });
 
 // Kansas
-$(".map").delegate("#kansas .state-title a", "click", function() {
+$(".map").delegate("#kansas .state-title a, #kansas .view-all-states", "click", function() {
   $(".map").toggleClass("is-kansas is-zoomed");
   return false;
 });
 
 // New York
-$(".map").delegate("#newyork .state-title a", "click", function() {
+$(".map").delegate("#newyork .state-title a, #newyork .view-all-states", "click", function() {
   $(".map").toggleClass("is-newyork is-zoomed");
   return false;
 });

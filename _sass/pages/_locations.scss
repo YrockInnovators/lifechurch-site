@@ -134,20 +134,18 @@
     // Names of states in the main panel view
     .state-title {
       @include transition (all 0.3s ease-in-out);
-      margin: .5em 0 0;
-      padding-bottom: .5em;
+      margin: 10px 0 0;
+      padding-bottom: 10px;
       border-bottom: 1px solid #ddd;
     }
 
     // Add the "up" icon on state titles
-    .state-title a:before {
+    .state-title a span:before {
       @include transition (all 0.3s ease-in-out);
-      content: '\e816';
+      content: '\e816 ';
       display: inline-block; 
       font-family: 'lctv';
       font-size: .8em;
-      max-width: 0;
-      opacity: 0;
     }
   }
 
@@ -253,14 +251,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
         border-bottom: 1px solid white;
       }
     }
-
-    // Make the 'up' arrow
-    ##{$state} .state-title a:before {
-       margin-right: 4px;     
-      max-width: 50px;
-      opacity: 1;
-    }
-    
+ 
     ##{$state},
     ##{$state} .map-list,
     ##{$state} .location-state {
@@ -414,5 +405,31 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, soc,
   
   &:hover {
     color: darken(#8ca7b6, 15%);
+  }
+}
+
+
+.view-all-states {
+  @include transition (all 0.3s ease-in-out);
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+  display: block;
+  font-family: $sans-serif;
+  font-weight: 300;
+}
+
+$locations: florida, kansas, newyork, oklahoma, tennessee, texas;
+
+@each $location in $locations {
+  .is-#{$location} ##{$location} {
+    .state-title {
+      font-size: 2em;
+    }
+
+    .view-all-states {
+      opacity: 1;
+      height: auto;
+    }
   }
 }
