@@ -6,7 +6,6 @@
       {% if page.section == "locations-promo" %}<a href="/locations/">Locations</a>{% endif %}
       {% if page.section == "watch"           %}<a href="/watch/">Watch</a>{% endif %}
       {% if page.section == "watch archive"   %}<a href="/watch/">Watch</a>{% endif %}
-      {% if page.section == "watch recent"   %}<a href="/watch/">Latest Series</a>{% endif %}
       {% if page.section == "about"           %}<a href="/who-we-are/">About</a>{% endif %}
       {% if page.section == "giving"          %}<a href="/giving/">Giving</a>{% endif %}
       {% if page.section == "lifemissions"    %}<a href="/lifemissions/">LifeMissions</a>{% endif %}
@@ -16,7 +15,7 @@
       <a class="current" href="#">{{ page.title }}</a>
     </nav>
     <div class="resources">
-      {% if page.section == "watch" or page.section == "watch-promo" or page.section == "watch-novideo" or page.section == "watch recent" %}
+      {% if page.section == "watch" or page.section == "watch-promo" or page.section == "watch-novideo" or page.section == "watch latest" %}
       <div class="button-with-options">
         <a class="button secondary" href="#" onclick="ga('send', 'event', 'Series', 'Click', 'Resources Expand');">Downloads &amp; Resources</a>
         {% include watch-resources.html %}

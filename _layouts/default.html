@@ -11,7 +11,7 @@
     {% if page.hero %}<section id="hero" class="hero top {{ page.hero }}">{% endif %}
 
     {% include navigation.html %}
-    {% unless page.section == 'live' or page.section == 'home' or page.section == 'watch' or page.section == 'watch recent' or page.section == 'talkitover' or page.section == 'watch-landing' or page.section == 'jobs' or page.section == 'landing' %} {% include tertiary.html %} {% endunless %}
+    {% unless page.section == 'live' or page.section == 'home' or page.section == 'watch' or page.section == 'watch latest' or page.section == 'talkitover' or page.section == 'watch-landing' or page.section == 'jobs' or page.section == 'landing' %} {% include tertiary.html %} {% endunless %}
 
     {{ content }}
 
