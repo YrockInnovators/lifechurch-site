@@ -1,0 +1,103 @@
+.section-talkitover {
+
+  // Hero section
+
+  .hero-watch-archive.hero-tio {
+    min-height: 220px;
+
+    .inner {
+      padding-top: 85px;
+    }
+
+    .logo-talkitover {
+      @include svg-image('../images/branding/logo-talkitover');
+      @extend %hide-text;
+      background-position: center;
+      display: block;
+      height: 63px;
+
+      @include media($medium-screen) {
+        height: 113px;
+      }
+    }
+
+    @include media($medium-screen) {
+      min-height: 340px;
+
+      .inner {
+        padding-top: 140px;
+      }
+    }
+  }
+
+
+  // Print styles
+  @media only print { 
+    font-size: .6em !important;
+
+    h1 {
+      margin-bottom: -10px;
+      color: black;
+      text-align: left;
+    }
+
+    h2 {
+      font-size: 2em;
+      color: black;
+    }
+    
+    .single article ul li {
+      line-height: 1.3em;
+    }
+
+    p {
+      line-height: 1.3em;
+    }
+
+    a {
+      color: black !important;
+      text-decoration: underline;
+    }
+
+    .lead {
+      font-size: 1.4em;
+      margin: 0 0 .5em;
+    }
+
+    .navigation-wrapper,
+    #tertiary,
+    .hero-tio,
+    .closing,
+    .rapid-feedback {
+      display: none;
+    }
+
+    .container,
+    .single,
+    .single header {
+      max-width: 100%;
+    }
+
+    .single article:nth-child(1) {
+      width: 100%;
+    }
+
+    .single article:nth-child(2) {
+      width: 30%;
+      float: left;
+      padding-right: 4%;
+    }
+
+    .single article:nth-child(3) {
+      width: 70%;
+      float: left;
+    }
+
+    .padded {
+      padding-top: 1em;
+    }
+
+    .single article {
+    }
+  }
+}

@@ -66,4 +66,9 @@ $(document).ready(function(){
     }
   }
 
+  if ($('.section-talkitover').length > 0) {
+    var boundary = $('.single article h2:contains("Discussion Questions")');
+    $("<article>").insertAfter(boundary.parent()).append(boundary.nextAll().andSelf());
+  }
+
 });
