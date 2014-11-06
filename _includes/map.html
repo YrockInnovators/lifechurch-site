@@ -166,6 +166,14 @@
               {% if location.id == 'sto' %}<p class="detail">{{ location.address }}</p>{% endif %}
               {% endfor %}
             </a></li>
+
+            <li><a id="sba" href="/southbrokenarrow/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus STO);">
+              <span class="marker">N</span>
+              <h6>South Broken Arrow OK</h6>
+              {% for location in site.data.locations %}
+              {% if location.id == 'sba' %}<p class="detail">{{ location.address }}</p>{% endif %}
+              {% endfor %}
+            </a></li>
           </ul>
         </div>
 
@@ -173,7 +181,7 @@
           <h5>Stillwater OK</h5>
           <ul>
             <li><a id="stw" href="/stillwater/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus STW);">
-              <span class="marker">N</span>
+              <span class="marker">O</span>
               <h6>Stillwater OK</h6>
               {% for location in site.data.locations %}
               {% if location.id == 'stw' %}<p class="detail">{{ location.address }}</p>{% endif %}
