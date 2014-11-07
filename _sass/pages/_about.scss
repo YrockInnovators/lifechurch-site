@@ -65,6 +65,7 @@
   }
 }
 
+
 // 404
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -73,6 +74,7 @@
     display: none;
   }
 }
+
 
 // Challenge
 ///////////////////////////////////////////////////////////////////////////////
@@ -88,6 +90,7 @@
   }
 }
 
+
 // Contact 
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -99,6 +102,7 @@
 form .has-error {
   border-color: $red;
 }
+
 
 // About Live
 ///////////////////////////////////////////////////////////////////////////////
@@ -140,6 +144,7 @@ form .has-error {
     }
   }
 }
+
 
 // Connect
 ///////////////////////////////////////////////////////////////////////////////
@@ -335,4 +340,35 @@ form .has-error {
 
 .video-thumb-network-2 {
   @include retina-image(/images/equipping-churches/ec-network-thumb-2, cover, jpg);
+}
+
+
+// Local Partners
+///////////////////////////////////////////////////////////////////////////////
+
+$connect-locally-orange: #ff4611;
+
+.localpartners {
+  #navigation .nav-live.is-live.alt {
+    color: darken($connect-locally-orange, 25%) !important;
+  }
+
+  .connectlocally-logo {
+    @include svg-image('../images/branding/connectlocally-white');
+    width: 250px;
+    height: 115px;
+    margin: 0 auto;
+  }
+
+  .hero {
+    background: $connect-locally-orange;
+
+    .hero-inner .hero-copy.alt a {
+      color: white;
+
+      &:hover {
+        color: darken($connect-locally-orange, 15%);
+      }
+    }
+  }
 }
