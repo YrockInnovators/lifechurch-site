@@ -433,3 +433,106 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
     }
   }
 }
+
+.map {
+  .state-title,
+  .view-all-states,
+  .map-list,
+  h5,
+  li,
+  .form-contact-simple,
+  .detail,
+  .prepend-connect,
+  .close-connect-form {
+    @include transition (all 0.3s ease-in-out); 
+  }
+
+  .prepend-connect,
+  .close-connect-form {
+    max-width: 0;
+    max-height: 0;
+    display: inline-block;
+    overflow: hidden;
+    opacity: 0;
+  }
+
+  .close-connect-form {
+    display: block;
+  }
+
+  .close-connect-form {
+    font-family: $sans-serif;
+    font-weight: 300;
+  }
+
+  .state-title,
+  .view-all-states,
+  h5,
+  li,
+  .detail {
+    max-height: 1000px;
+  }
+
+  .form-contact-simple {
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+  }
+}
+
+.map.is-connect {
+  .state-title,
+  .view-all-states,
+  h5,
+  li,
+  .detail,
+  .more-options {
+    opacity: 0;
+    max-height: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  .show-form .prepend-connect,
+  .close-connect-form {
+    max-width: 400px;
+    opacity: 1;
+    max-height: 16px;
+  }
+
+  .close-connect-form {
+    max-height: 22px;
+  }
+
+  .show-form,
+  .show-form .form-contact-simple {
+    opacity: 1 !important;
+    max-height: 1000px !important;
+    position: relative;
+    z-index: 4;
+  }
+
+  .show-form .form-contact-simple {
+    margin-top: 10px;
+  }
+
+  .show-form {
+    border-color: white;
+  }
+
+  li a {
+    cursor: default;
+
+    h6,
+    h6:hover {
+      color: $base-font-color;
+    }
+
+    &:hover {
+      background: white;
+    }
+  }
+
+  
+}

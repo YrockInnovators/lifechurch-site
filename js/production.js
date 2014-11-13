@@ -527,6 +527,19 @@ if ($('.map-panel #times').length > 0) {
   };
 };
 
+
+$(".whatsnext .map").delegate(".location-state ul li a", "click", function() {
+  $(this).parent().addClass("show-form");
+  $(".map").addClass("is-connect");
+  return false;
+});
+
+$(".whatsnext .map").delegate(".close-connect-form", "click", function() {
+  $(".show-form").removeClass("show-form");
+  $(".map").removeClass("is-connect");
+  return false;
+});
+
 $(document).ready(function () {
   var previousScroll = 0,
       headerOrgOffset = $('#navigation').offset().top;
@@ -882,13 +895,9 @@ $(document).ready(function(){
     }
   }
 
-
   if ($('.section-talkitover').length > 0) {
-
-var boundary = $('.single article h2:contains("Discussion Questions")');
-$("<article>").insertAfter(boundary.parent()).append(boundary.nextAll().andSelf());
-
-
+    var boundary = $('.single article h2:contains("Discussion Questions")');
+    $("<article>").insertAfter(boundary.parent()).append(boundary.nextAll().andSelf());
   }
 
 });
