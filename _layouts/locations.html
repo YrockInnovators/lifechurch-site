@@ -79,7 +79,10 @@ hero: locations-hero
       <hr />
       {% endif %}
 
-      {% if page.mailer %}
+      {% if page.form %}
+      <p><a class="button large expand" href="{{ page.form }}" onclick="ga('send', 'event', 'Locations', 'Click', '{{ location.title }} Form');">Get updates</a></p>
+      <p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');">Visit our Facebook Page </a></p>
+      {% elsif page.mailer %}
       {% include locations-mailer.html %}
       {% endif %}
     </div>
