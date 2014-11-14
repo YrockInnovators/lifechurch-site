@@ -23,6 +23,7 @@ $(function() {
         recipient: recipient,
         subject: subject,
         detail: detail,
+        user: email,
         key: '345e8e6fb8'
       });
 
@@ -78,6 +79,7 @@ $(function() {
         subject: subject,
         detail: detail,
         message: message,
+        user: email,
         key: '345e8e6fb8'
       });  
 
@@ -132,6 +134,7 @@ $(function() {
         recipient: recipient,
         subject: subject,
         detail: detail,
+        user: email,
         message: message,
         key: '345e8e6fb8'
       });  
