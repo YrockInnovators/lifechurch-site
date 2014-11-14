@@ -163,9 +163,9 @@ $(function() {
     var recipient = form.find('input[name="recipient"]').val();
     var subject = form.find('input[name="subject"]').val();
     var name = form.find('input[name="name"]').val();
-    var phone = form.find('input[name="phone"]').val();
+    var email = form.find('input[name="email"]').val();
     var number = form.find('input[name="number"]').val();
-    var detail = name + ": " + phone + " " + number;
+    var detail = name + ": " + email + " " + number;
 
     if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0)
     {
@@ -197,8 +197,8 @@ $(function() {
     var recipient = form.find('[name="subject"]').val().split("|")[1];
     var message = form.find('textarea[name="message"]').val();
     var name = form.find('input[name="name"]').val();
-    var phone = form.find('input[name="phone"]').val();
-    var detail = name + ": " + phone;
+    var email = form.find('input[name="email"]').val();
+    var detail = name + ": " + email;
 
     if ($(this).find('select[name="subject"]').val() == "select") {
       $(this).find('select[name="subject"]').addClass('has-error');
@@ -218,13 +218,13 @@ $(function() {
       $(this).find('input[name="name"]').removeClass('has-error');
     }
 
-    if ($(this).find('input[name="phone"]').val().length === 0) {
-      $(this).find('input[name="phone"]').addClass('has-error');
+    if ($(this).find('input[name="email"]').val().length === 0) {
+      $(this).find('input[name="email"]').addClass('has-error');
     } else {
-      $(this).find('input[name="phone"]').removeClass('has-error');
+      $(this).find('input[name="email"]').removeClass('has-error');
     }
 
-    if (name.length === 0 || phone.length === 0 || message.length === 0) {
+    if (name.length === 0 || email.length === 0 || message.length === 0) {
       return false;
     } else {
       $.post(form.attr('action'), {
@@ -252,8 +252,8 @@ $(function() {
     var recipient = form.find('[name="recipient"]').val();
     var message = form.find('textarea[name="message"]').val();
     var name = form.find('input[name="name"]').val();
-    var phone = form.find('input[name="phone"]').val();
-    var detail = name + ": " + phone;
+    var email = form.find('input[name="email"]').val();
+    var detail = name + ": " + email;
 
     if ($(this).find('select[name="subject"]').val() == "select") {
       $(this).find('select[name="subject"]').addClass('has-error');
@@ -273,13 +273,13 @@ $(function() {
       $(this).find('input[name="name"]').removeClass('has-error');
     }
 
-    if ($(this).find('input[name="phone"]').val().length === 0) {
-      $(this).find('input[name="phone"]').addClass('has-error');
+    if ($(this).find('input[name="email"]').val().length === 0) {
+      $(this).find('input[name="email"]').addClass('has-error');
     } else {
-      $(this).find('input[name="phone"]').removeClass('has-error');
+      $(this).find('input[name="email"]').removeClass('has-error');
     }
 
-    if (name.length === 0 || phone.length === 0 || message.length === 0) {
+    if (name.length === 0 || email.length === 0 || message.length === 0) {
       return false;
     } else {
       $.post(form.attr('action'), {
