@@ -167,7 +167,7 @@ $(function() {
     var number = form.find('input[name="number"]').val();
     var detail = name + ": " + email + " " + number;
 
-    if (name.replace(/ /g,'').length == 0 || phone.replace(/ /g,'').length == 0)
+    if (name.replace(/ /g,'').length == 0 || email.replace(/ /g,'').length == 0)
     {
       form.addClass('validation');
       return false;
