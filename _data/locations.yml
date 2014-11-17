@@ -264,6 +264,14 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+- id: sba
+  title: South Broken Arrow OK Campus
+  email: sba.serving@lifechurch.tv
+  phone: 539-664-7600
+  address: 5801 S. Elm Place Broken Arrow, OK 74011
+  facebook: '539342819532615'
+  times: []
+  missions: []
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -2138,14 +2146,6 @@
     url: http://www.roomintheinn.org/
     description_medium: For those who call the streets of Nashville home, volunteers
       will help provide meals, sort mail, teach classes, and mentor.
-- id: sba
-  title: South Broken Arrow OK Campus
-  email: sba.serving@lifechurch.tv
-  phone: 539-664-7600
-  address: 5801 S. Elm Place Broken Arrow, OK 74011
-  facebook: '539342819532615'
-  times: []
-  missions: []
 - id: bnb
   title: Broadway and Britton OK Campus
   email: bnb.serving@lifechurch.tv
