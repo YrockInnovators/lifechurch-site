@@ -10,7 +10,6 @@ sass:
   style: :compressed
 
 prose:
-  rooturl: 'announcements/_posts'
   siteurl: 'http://www.lifechurch.tv/'
   metadata:
     _posts:
