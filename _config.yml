@@ -4,6 +4,7 @@ markdown: rdiscount
 excerpt_separator: ""
 relative_permalinks: false
 exclude: ["vendor","gruntfile.js","package.json","README.md","Rakefile","Procfile","Gemfile","Gemfile.lock","CNAME","config.ru","node_modules"]
+future: false
 
 sass:
   sass_dir: _sass

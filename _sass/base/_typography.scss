@@ -182,6 +182,12 @@ figure {
   margin: 0 0 .5em;
 }
 
+time.meta {
+  margin: -20px 0 10px;
+  display: block;
+  color: $dark-gray;
+}
+
 abbr, acronym {
   border-bottom: 1px dotted $base-border-color;
   cursor: help;
