@@ -33,34 +33,6 @@
       }
     }
   }
-
-  .ribbon-wrapper {
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 105px;
-    height: 90px;
-    font-family: $sans-serif;
-    font-size: 1.3em;
-
-    .ribbon {
-      font-size: .8em;
-      font-weight: 800;
-      text-align: center;
-      transform:rotate(45deg);
-      -ms-transform:rotate(45deg); /* IE 9 */
-      -webkit-transform:rotate(45deg); /* Opera, Chrome, and Safari */
-      position: relative;
-      padding: 2px 7px;
-      left: 31px;
-      top: -26px;
-      width: 120px;
-      background-color: $red;
-      color: white;
-      padding-top: 50px;
-    }
-  }
 }
 
 .lt-ie9 .ribbon-wrapper {

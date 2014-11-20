@@ -58,10 +58,6 @@ hero: watch-hero
       <div class="grid-item watch-item">
         <a href="{{ post.url }}">
           <div class="panel">
-            {% if post.live == true %}
-            <div class="ribbon-wrapper"><div class="ribbon">LIVE</div></div>
-            {% endif %}
-
             <img src="{{ series.image_small }}" data-retina="{{ series.image_medium }}" />
             <h6>{{ series.title }}</h6>
           </div>

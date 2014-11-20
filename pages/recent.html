@@ -7,14 +7,13 @@ title: Latest Message
 ---
 
 {% for series in site.data.watch %}
+{% for post in site.categories.watch %}
+{% if post.live == true %}
+{% if series.id == post.series-id %}
 
-{% for firstseries in site.data.watch limit:1 %}{% if firstseries.messages %}{% assign firsthas = 'some' %}{% endif %}
-{% unless firstseries.messages %}{% assign firsthas = 'none' %}{% endunless %}{% endfor %}
-
-{% if forloop.index == 1 and firsthas == 'some' %}
 {% include tertiary.html %}
 
-{% for message in series.messages %}
+{% for message in series.messages reverse limit:1 %}
 <a href="javascript:void(0)"
    {% if series.image_banner_archive == '' %}
    style="background-image: url('{{ series.image_large }}')"
@@ -187,8 +186,10 @@ title: Latest Message
   </div>
 </div>
 {% endunless %}
-{% endif %}
 
+{% endif %}
+{% endif %}
+{% endfor %}
 {% endfor %}
 
 <script language="javascript" type="text/javascript">
