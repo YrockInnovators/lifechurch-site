@@ -74,6 +74,49 @@
     }
   }
 
+  &.cometoworship {
+    @include retina-image(/images/home/cometoworship-bg, 566px 796px, jpg);
+    background: white;
+    background-position: top center;
+    background-repeat: repeat-x;
+  }
+
+  &.cometoworship .hero {
+    min-height: 200px;
+    background: transparent;
+
+    .hero-inner .hero-copy {
+      margin-top: 0;
+
+      p {
+        color: #8d7732;
+      }
+
+      a {
+        color: black;
+      }
+    }
+    
+    @include media($medium-screen) {
+      min-height: 300px;
+    }
+    
+    h1 {
+      @include hide-text;
+      @include retina-image(/images/home/cometoworship-title, contain);
+      background-repeat: no-repeat;
+      width: 200px;
+      height: 180px;
+      display: block;
+      margin: 0 auto 30px;
+
+      @include media($medium-screen) {
+        width: 307px;
+        height: 263px;
+      }
+    }
+  }
+
 
   /* Tile: Christmas */
 
@@ -91,13 +134,13 @@
   // Closing
   ///////////////////////////////////////////////////////////////////////////////
 
-  //.closing {
-  //  padding-top: 0;
+  .closing {
+    padding-top: 0;
 
-  //  .container {
-  //    border: none;
-  //  }
-  //}
+    .container {
+      border: none;
+    }
+  }
 
   .home-tile {
     @include retina-image(/images/home/next-week-small, cover, jpg);
