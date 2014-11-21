@@ -361,7 +361,6 @@ form .has-error {
   }
 }
 
-
 .video-thumb .play-small {
   @include svg-image('/images/watch/watch-play-large');
   width: 44px;
@@ -374,6 +373,10 @@ form .has-error {
   background-color: rgba(0,0,0,.6);
   display: block;
   margin: 0 auto 3px;
+}
+
+.video-thumb-open-1 {
+  @include retina-image(/images/equipping-churches/ec-open-thumb-1, cover, jpg);
 }
 
 .video-thumb-network-1 {
