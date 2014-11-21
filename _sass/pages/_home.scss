@@ -50,36 +50,26 @@
   // Feature 
   ///////////////////////////////////////////////////////////////////////////////
 
-  .hero {
-    padding-bottom: 2em;
-    background: #1e0a0d;
-    @include retina-image(/images/home/home-bg-small, 861px 429px, jpg);
-    background-position: top center;
+  &.generic {
+    @include retina-image(/images/home/generic-bg, 200px auto, jpg);
+    background-position: top left;
     background-repeat: no-repeat;
-    min-height: 200px;
 
-    .hero-inner .hero-copy {
-      margin-top: 0;
+    .hero {
+      background: transparent;
     }
-    
-    @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, 1500px 796px, jpg);
-      min-height: 790px;
-    }
+  }
 
+  &.unlikely {
     h1 {
       @include hide-text;
-      @include retina-image(/images/home/home-title, contain);
-      background-repeat: no-repeat;
-      width: 160px;
-      height: 160px;
-      display: block;
+      @include retina-image(/images/home/unlikely-title, contain);
+      max-width: 212px;
+      height: 27px;
       margin: 0 auto 20px;
 
       @include media($medium-screen) {
-        @include retina-image(/images/home/home-title, 246px 232px);
-        width: 246px;
-        height: 232px;
+        margin: 80px auto;
       }
     }
   }
@@ -101,13 +91,13 @@
   // Closing
   ///////////////////////////////////////////////////////////////////////////////
 
-  .closing {
-    padding-top: 0;
+  //.closing {
+  //  padding-top: 0;
 
-    .container {
-      border: none;
-    }
-  }
+  //  .container {
+  //    border: none;
+  //  }
+  //}
 
   .home-tile {
     @include retina-image(/images/home/next-week-small, cover, jpg);
