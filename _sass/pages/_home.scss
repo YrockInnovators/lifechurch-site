@@ -60,27 +60,45 @@
     }
   }
 
-  .tile-christmas {
-    @include retina-image(/images/home/tile-christmas-small, cover, jpg);
-    background-position: center bottom;
-    text-indent: -999em;
+  .hero {
+    min-height: 200px;
+    background: transparent;
 
-    @media screen and (min-width: 750px) {
-      @include retina-image(/images/home/tile-christmas, 1500px auto, jpg);
+    .hero-inner .hero-copy {
+      margin-top: 0;
+    }
+    
+    @include media($medium-screen) {
+      min-height: 300px;
+    }
+    
+    h1 {
+      @include hide-text;
+      @include retina-image(/images/home/home-title, contain);
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 100%;
+      max-width: 336px;
+      height: 200px;
+      display: block;
+      margin: -80px auto 30px;
+
+      @include media($medium-screen) {
+        height: 398px;
+      }
     }
   }
-
 
   // Closing
   ///////////////////////////////////////////////////////////////////////////////
 
-  .closing {
-    //padding-top: 0;
+  //.closing {
+  //  padding-top: 0;
 
-    //.container {
-      //border: none;
-    //}
-  }
+  //  .container {
+  //    border: none;
+  //  }
+  //}
 
   .home-tile {
     @include retina-image(/images/home/next-week-small, cover, jpg);
