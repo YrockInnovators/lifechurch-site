@@ -1,4 +1,38 @@
 ---
+- id: unlikely
+  title: Unlikely
+  headline: God uses the Unlikely to do great things.
+  description_small: We can find ourselves in places we didn't expect – but that doesn't
+    have to be the end of our story.
+  description_medium: Broken, vulnerable, and in need of compassion – we can find
+    ourselves in places we didn’t expect. But that doesn’t have to be the end of our
+    story. Learn how God uses the Unlikely to do great things.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1995-unlikely
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 24
+    name: Mercy
+    created_at: '2014-06-11T15:16:57.275Z'
+    updated_at: '2014-06-11T15:16:57.275Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1416523819
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1416523839
+  image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1416523858
+  image_social: http://s3.amazonaws.com/lcapi.production/series/unlikely/400x400.jpg?1416523886
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/unlikely/1500x340.jpg?1416523926
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1416523904
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1416523969
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1416523992
 - id: love-song
   title: Love Song
   headline: Don't fumble your way through love and sex - learn from the original Love
