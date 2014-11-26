@@ -1,4 +1,38 @@
 ---
+- id: come-to-worship
+  title: Come to Worship
+  headline: When we experience His love, we can’t help but Come to Worship.
+  description_small: Jesus’ gift to the world is acceptance, forgiveness, and the
+    chance to feel complete.
+  description_medium: Everything changed in a moment. When Jesus was born, He gave
+    us the chance to be known, accepted, and forgiven. When we experience His love,
+    we can’t help but Come to Worship.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/1990-come-to-worship
+  promo: rohelsodgm
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805Z'
+    updated_at: '2014-06-05T19:23:33.805Z'
+  - id: 22
+    name: Spiritual Growth
+    created_at: '2014-06-11T15:16:13.079Z'
+    updated_at: '2014-06-11T15:16:13.079Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/300x200.jpg?1416522949
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/600x400.jpg?1416522970
+  image_large: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/1200x800.jpg?1416523001
+  image_social: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/400x400.jpg?1416523030
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/1500x340.jpg?1416523071
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/3000x680.jpg?1416523052
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/480x340.jpg?1416523095
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/960x680.jpg?1416523120
 - id: unlikely
   title: Unlikely
   headline: God uses the Unlikely to do great things.
