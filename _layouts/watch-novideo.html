@@ -4,23 +4,26 @@ section: watch-promo
 class: header-red section-watch section-series
 ---
 
-<div style="background-image: url('{{ page.image_banner_archive_small_2x }}')" 
-   data-banner-archive-2x="background-image: url('{{ page.image_banner_archive_small_2x }}')"
-   data-banner-archive-large="background-image: url('{{ page.image_banner_archive }}')"
-   data-banner-archive-large-2x="background-image: url('{{ page.image_banner_archive_2x }}')"
+{% for series in site.data.watch %}
+{% if series.id == page.series-id %}
+
+<div style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
+   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
+   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
    class="hero section-light hero-watch-archive hero-watch-novideo">
    
   <div class="inner">
-    <h1>{{ page.title }}</h1>
+    <h1>{{ series.title }}</h1>
   </div>
 </div>
 
 <div class="group">
   <section class="single">
     <article class="text-center">
-      <p>{{ page.description_medium | newline_to_br }}</p><br /><br />
+      <p>{{ series.description_medium | newline_to_br }}</p><br /><br />
 
-      <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ page.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
+      <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
 
       <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-facebook"></i> Invite on Facebook</a>
 
@@ -28,3 +31,6 @@ class: header-red section-watch section-series
     </article>
   </section>
 </div>
+
+{% endif %}
+{% endfor %}
