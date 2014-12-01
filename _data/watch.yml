@@ -67,6 +67,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1416523904
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1416523969
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1416523992
+  messages:
+  - title: The Story Of Mephibosheth
+    headline: ''
+    video: x8vfkh2u9u
 - id: love-song
   title: Love Song
   headline: Don't fumble your way through love and sex - learn from the original Love
