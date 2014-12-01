@@ -3462,9 +3462,9 @@
   title: Elijah
   headline: ''
   description_small: ''
-  description_medium: <p>An angry king. Devastating drought. Epic opposition. And
+  description_medium: "<p>An angry king. Devastating drought. Epic opposition. And
     one man who overcomes it all. <br /><br /> When the world around us is spinning
-    out of control, where do we turn? Join us as we learn from Elijah.</p>
+    out of control, where do we turn? Join us as we learn from Elijah.</p>"
   quote: ''
   quote_cite: ''
   open_url: http://open.lifechurch.tv/groups/1397-elijah
@@ -3574,7 +3574,7 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/480x340.jpg?1401219911
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/life-money-hope/960x680.jpg?1401219953
   messages:
-  - title: '#1 Myth about Money'
+  - title: "#1 Myth about Money"
     headline: ''
     video: yy97ux96pf
   - title: Breaking The Bondage Of Debt
@@ -3721,8 +3721,8 @@
   title: Prayer
   headline: 
   description_small: 
-  description_medium: <p>Everyone knows it’s important but not everyone knows how
-    to do it.</p>
+  description_medium: "<p>Everyone knows it’s important but not everyone knows how
+    to do it.</p>"
   quote: 
   quote_cite: 
   open_url: 
@@ -3751,9 +3751,9 @@
   title: Whispers
   headline: 
   description_small: 
-  description_medium: <p>A whisper. It’s spoken softly in quiet tones. It’s hard to
-    hear and easy to miss. And it’s often how God communicates with us. Find out what
-    happens when we pay attention to the Whispers of God.</p>
+  description_medium: "<p>A whisper. It’s spoken softly in quiet tones. It’s hard
+    to hear and easy to miss. And it’s often how God communicates with us. Find out
+    what happens when we pay attention to the Whispers of God.</p>"
   quote: 
   quote_cite: 
   open_url: 
