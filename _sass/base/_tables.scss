@@ -3,18 +3,20 @@ table {
   margin: ($base-line-height / 2) 0;
   table-layout: fixed;
   width: 100%;
+  border: 1px solid $base-border-color;
 }
 
 th {
+  @extend h6;
   border-bottom: 1px solid darken($base-border-color, 15%);
-  font-weight: bold;
-  padding: ($base-line-height / 2) 0;
+  background: lighten($base-border-color, 7.5%);
+  padding: ($base-line-height / 2);
   text-align: left;
 }
 
 td {
   border-bottom: 1px solid $base-border-color;
-  padding: ($base-line-height / 2) 0;
+  padding: ($base-line-height / 2);
 }
 
 tr, td, th {

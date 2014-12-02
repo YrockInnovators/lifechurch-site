@@ -96,7 +96,6 @@ use Rack::Rewrite do
   r301 %r{^/leadership-team?$}, '/who-we-are/'
   r301 %r{^/volunteer?$}, '/serving/'
   r301 %r{^/lifekids_resources/toon_town/series/road-trip?$}, '/kids/'
-  r301 %r{^/christmas?$}, '/watch/'
   r301 %r{^/leadership-development?$}, '/digital-missions/'
   r301 %r{^/leadershipxp?$}, '/jobs/'
   r301 %r{^/talkitover?$}, '/watch/'
