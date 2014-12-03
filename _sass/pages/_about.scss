@@ -279,7 +279,7 @@ form .has-error {
     margin: 0 auto;
     margin-bottom: -40px;
     position: relative;
-    z-index: 6; 
+    z-index: 4; 
   }
 }
 
@@ -415,5 +415,58 @@ $connect-locally-orange: #ff4611;
         color: darken($connect-locally-orange, 15%);
       }
     }
+  }
+}
+
+
+// Prayer
+///////////////////////////////////////////////////////////////////////////////
+
+.prayer {
+  background: black;
+  
+  .hero {
+    @include retina-image(/images/prayer/prayer-bg-small, 559px auto, jpg);
+    background-color: black;
+    background-position: center top;
+    min-height: 200px;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/prayer/prayer-bg, 1500px auto, jpg);
+      background-color: black;
+      padding-bottom: 40px;
+      background-position: center top;
+    }
+  }
+
+  .hero:after {
+    @include media($medium-screen) {
+      @include triangle(40px, black, down);
+      content: "";
+      display: block;
+      margin: 0 auto;
+      margin-bottom: -40px;
+      position: relative;
+      z-index: 4; 
+      top: 40px;
+    }
+  }
+
+  h1 {
+    color: white;
+
+    @include media($medium-screen) {
+      margin-top: 7em;
+    }
+  }
+
+  .hero p {
+    color: white;
+    margin: 0 auto;
+  }
+
+  .closing .container {
+    border: none;
+    padding-top: 0;
   }
 }
