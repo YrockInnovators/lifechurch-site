@@ -54,7 +54,7 @@ We invite you to join us at LifeChurch.tv this Christmas to celebrate the gifts 
 </tr>
 
 <tr>
-  <th colspan="2">Fort Worth, OK <a class="right" href="/fortworth/">View campus <i class="icon icon-arrow"></i></a></th>
+  <th colspan="2">Fort Worth, TX <a class="right" href="/fortworth/">View campus <i class="icon icon-arrow"></i></a></th>
 </tr>
 <tr>
   <td>Tuesday, December 23</td>
@@ -90,7 +90,7 @@ We invite you to join us at LifeChurch.tv this Christmas to celebrate the gifts 
 </tr>
 
 <tr>
-  <th colspan="2">Keller, OK <a class="right" href="/keller/">View campus <i class="icon icon-arrow"></i></a></th>
+  <th colspan="2">Keller, TX <a class="right" href="/keller/">View campus <i class="icon icon-arrow"></i></a></th>
 </tr>
 <tr>
   <td>Tuesday, December 23</td>
