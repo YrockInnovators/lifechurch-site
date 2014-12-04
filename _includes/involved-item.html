@@ -4,7 +4,11 @@
   <noscript><img src="{{ item.image_small }}" alt="{{ item.title }}" /></noscript>
   {% endunless %}
   <h6>{{ item.title }}</h6>
+  {% unless item.location == "Online" %}
   <p class="detail">{{ item.description_medium | newline_to_br }}</p>
+  {% else %}
+  <p class="detail">{{ item.description_small | newline_to_br }}</p>
+  {% endunless %}
 
   <div class="cta">
     <p>

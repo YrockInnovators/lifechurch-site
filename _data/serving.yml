@@ -78,6 +78,18 @@
   image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-socialstreetteam-600x400.jpg'
   image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-socialstreetteam-1200x800.jpg'
 
+- id: serving-17
+  title: Online LifeGroups
+  location: Online
+  recipient: info@lifechurch.tv
+  url: ''
+  description_small: 'When you join a Church Online LifeGroup, you’ll find a group of people who want to know you and journey through life alongside you.'
+  description_medium: "You don’t have to take the next step alone. When you join a Church Online LifeGroup, you’ll find a group of people who want to know you and journey through life alongside you."
+  website: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-host-1200x800.jpg'
+
 - id: serving-8
   title: Finance
   location: Central

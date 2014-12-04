@@ -41,6 +41,8 @@
 
     @include media($medium-screen) {
       @include span-columns(3);
+      margin-right: 2%;
+      width: 23.5%;
       @include omega(4n);
     } 
   }
