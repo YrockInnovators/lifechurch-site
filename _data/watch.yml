@@ -59,6 +59,10 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086Z'
     updated_at: '2014-06-11T15:21:10.086Z'
+  - id: 60
+    name: Sam Roberts
+    created_at: '2014-06-11T15:48:49.991Z'
+    updated_at: '2014-06-11T15:48:49.991Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1416523819
   image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1416523839
   image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1416523858
