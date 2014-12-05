@@ -270,7 +270,55 @@
   phone: 539-664-7600
   address: 5801 S. Elm Place Broken Arrow, OK 74011
   facebook: '539342819532615'
-  times: []
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
   missions: []
 - id: mor
   title: Moore OK Campus
