@@ -127,7 +127,7 @@
   .location-state {
     @include transition (all 0.3s ease-in-out);
     overflow: hidden;
-    max-height: 1400px;
+    max-height: 1500px;
     margin: 0 -1em;
     padding: 0 1em;
 
@@ -255,7 +255,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
     ##{$state},
     ##{$state} .map-list,
     ##{$state} .location-state {
-      max-height: 1400px;  
+      max-height: 1500px;  
     }
   }
 }
