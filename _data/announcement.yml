@@ -6,6 +6,6 @@
 
 - active: true
   type: notice
-  icon: calendar
-  message: Celebrate Christmas with us! Check out our special service times.
-  url: /christmas/
+  icon: money
+  message: 2014 Year-End Giving information
+  url: /endofyeargiving/
