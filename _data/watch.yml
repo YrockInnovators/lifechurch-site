@@ -33,6 +33,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/3000x680.jpg?1416523052
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/480x340.jpg?1416523095
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/960x680.jpg?1416523120
+  messages:
+  - title: Lift Your Hands
+    headline: ''
+    video: jiguhvv6ad
 - id: unlikely
   title: Unlikely
   headline: God uses the Unlikely to do great things.
