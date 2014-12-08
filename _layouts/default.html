@@ -6,7 +6,7 @@
     {% include header-social.html %}
   </head>
 
-  {% if page.class %}<body class="{{ page.class }}">{% else %}<body id="skrollr-body">{% endif %}
+  <body class="{% if page.class %}{{ page.class }}{% endif %}{% for announcement in site.data.announcement %}{% if announcement.active == true %} has-announcement{% endif %}{% endfor %}">
     {% include announcement.html %}
     {% if page.hero %}<section id="hero" class="hero top {{ page.hero }}">{% endif %}
 
