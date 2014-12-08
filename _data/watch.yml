@@ -1,4 +1,38 @@
 ---
+- id: jesus-and-we
+  title: Jesus and We
+  headline: Don't go it alone--there's power in Jesus and We.
+  description_small: We're called to follow God together, not apart. We have strength
+    in numbers. Find out how in Jesus and We.
+  description_medium: Seven billion people occupy this tiny slice of history. And
+    it's not by accident. God chose our generation to make a difference–but He doesn’t
+    want us to do it alone. Find out how in Jesus and We.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.lifechurch.tv/groups/2000-jesus-and-we
+  promo: s7aj95pepm
+  resources_url: ''
+  categories:
+  - id: 28
+    name: Serving
+    created_at: '2014-06-11T15:17:48.142Z'
+    updated_at: '2014-06-11T15:17:48.142Z'
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
+  - id: 46
+    name: Church Vision
+    created_at: '2014-06-11T15:25:52.761Z'
+    updated_at: '2014-06-11T15:25:52.761Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/300x200.jpg?1417023216
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/600x400.jpg?1417023345
+  image_large: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/1200x800.jpg?1417023578
+  image_social: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/400x400.jpg?1417023456
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/1500x340.jpg?1417023698
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/3000x680.jpg?1417023654
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/480x340.jpg?1417023899
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/960x680.jpg?1417023987
 - id: come-to-worship
   title: Come to Worship
   headline: When we experience His love, we can’t help but Come to Worship.
