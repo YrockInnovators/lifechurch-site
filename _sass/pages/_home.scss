@@ -93,13 +93,13 @@
   // Closing
   ///////////////////////////////////////////////////////////////////////////////
 
-  //.closing {
-  //  padding-top: 0;
+  .closing {
+    padding-top: 0;
 
-  //  .container {
-  //    border: none;
-  //  }
-  //}
+    .container {
+      border: none;
+    }
+  }
 
   .home-tile {
     @include retina-image(/images/home/next-week-small, cover, jpg);
