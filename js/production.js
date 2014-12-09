@@ -188,6 +188,39 @@ $(function() {
     }    
   });
 
+
+  // Keep Involved form (HubSpot flavor, for Church Online)
+  $('.form-involved-hubspot').submit(function(event) {
+    event.preventDefault();
+
+    var form = $(this);
+
+    var name = form.find('input[name="name"]').val();
+    var email = form.find('input[name="email"]').val();
+    var fullname = name.split(' '),
+        firstname = fullname[0],
+        lastname = fullname[fullname.length - 1];
+
+    if (name.replace(/ /g,'').length == 0 || email.replace(/ /g,'').length == 0)
+    {
+      form.addClass('validation');
+      return false;
+    }
+    else {
+      $.post(form.attr('action'), {
+        firstname: firstname,
+        lastname: lastname,
+        email: email
+      });
+
+      form.parent().fadeOut();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll be in touch soon.</em></div>").fadeIn();
+      form.parent().parent('.cta').removeClass('open').addClass('sent');
+      form.parent().parent().find('.cta-thanks').fadeIn();
+    }    
+  });
+
+
   // Contact Us Form
   $('.form-contact').submit(function(event) {
     event.preventDefault();

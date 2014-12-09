@@ -66,8 +66,7 @@ hero: serving-bg
     <div class="grid-items grid-four involved-list">
       {% for item in site.data.serving %}
       {% if item.location == "Online" %}
-      {% capture type %}Serving{% endcapture %}
-      {% include involved-item.html %}
+      {% include involved-item.html for='hubspot' %}
       {% endif %}
       {% endfor %}
     </div>
