@@ -572,13 +572,7 @@
     duration: 60
     type: service-time
     type_name: Service time
-  missions:
-  - id: 41
-    title: New Hope Oklahoma
-    recipient: jnk.serving@lifechurch.tv
-    url: http://www.newhopeoklahoma.org/
-    description_medium: New Hope helps end generational incarceration one child at
-      a time through after-school programs, summer camps, and holiday parties.
+  missions: []
 - id: bao
   title: Broken Arrow OK Campus
   email: bao.serving@lifechurch.tv
@@ -1360,38 +1354,12 @@
     type: service-time
     type_name: Service time
   missions:
-  - id: 5
-    title: Inner City Action Group
-    recipient: soc.serving@lifechurch.tv
-    url: http://icag.org/
-    description_medium: Build mentoring relationships between at-risk youth in OKC
-      and Christian role models who encourage positive character.
-  - id: 12
-    title: Warriors Mentoring
-    recipient: soc.serving@lifechurch.tv
-    url: http://okcyouthwrestling.ning.com/
-    description_medium: Build relationships between at-risk youth and caring role
-      models in the OKC area through wrestling. Influence each child's actions by
-      teaching positive character traits.
-  - id: 34
-    title: The Spero Project
-    recipient: soc.serving@lifechurch.tv
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
   - id: 47
     title: Stand in the Gap Ministries
     recipient: soc.serving@lifechurch.tv
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-  - id: 46
-    title: No Boundaries International
-    recipient: soc.serving@lifechurch.tv
-    url: http://nbint.org/
-    description_medium: 'Help restore a sense of value and independence to those affected
-      by human trafficking by training and providing realistic solutions to those
-      in need. '
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@lifechurch.tv
