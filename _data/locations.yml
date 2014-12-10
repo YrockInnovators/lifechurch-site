@@ -101,8 +101,8 @@
     title: Habitat for Humanity
     recipient: ftw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build and renovate high quality, affordable housing and serve
-      as a partner and catalyst to create healthy and sustainable communities. '
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
   - id: 32
     title: Altamesa Neighborhood Needs
     recipient: ftw.serving@lifechurch.tv
@@ -206,20 +206,20 @@
     recipient: edm.serving@lifechurch.tv
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
-      tutoring and positive mentoring relationships as well as communicating spiritual
-      and moral values.
-  - id: 4
-    title: The Mentoring Project
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the fatherless story through mentoring, training,
-      resourcing, and encouraging at-risk and fatherless kids.
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
   - id: 5
     title: Inner City Action Group
     recipient: edm.serving@lifechurch.tv
     url: http://icag.org/
     description_medium: Build mentoring relationships between at-risk youth in OKC
       and Christian role models who encourage positive character.
+  - id: 4
+    title: The Mentoring Project
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
   - id: 6
     title: SeeWorth Foundation
     recipient: edm.serving@lifechurch.tv
@@ -705,8 +705,8 @@
     title: Tulsa Boys Home
     recipient: bao.serving@lifechurch.tv
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: 'Help restore the lives of boys and lead them to be healthy,
-      responsible young men. '
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
   - id: 36
     title: Broken Arrow Neighbors
     recipient: bao.serving@lifechurch.tv
@@ -908,9 +908,9 @@
     title: Big Brothers Big Sisters
     recipient: alb.serving@lifechurch.tv
     url: http://www.bbbs.org/
-    description_medium: Provide children facing adversity with strong and enduring,
-      one-on-one relationships that change their lives for the better - forever. Each
-      volunteer will be in a mentor relationship with a child.
+    description_medium: Provide children with strong and enduring one-on-one relationships
+      that can change their lives for the better—forever. Each volunteer will mentor
+      a child.
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@lifechurch.tv
@@ -922,8 +922,8 @@
     title: Habitat for Humanity
     recipient: alb.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build and renovate high quality, affordable housing and serve
-      as a partner and catalyst to create healthy and sustainable communities. '
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
   - id: 50
     title: Youth for Christ
     recipient: alb.serving@lifechurch.tv
@@ -1238,20 +1238,6 @@
     type: switch
     type_name: SWITCH
   missions:
-  - id: 1
-    title: Big Brothers Big Sisters
-    recipient: stw.serving@lifechurch.tv
-    url: http://www.bbbs.org/
-    description_medium: Provide children facing adversity with strong and enduring,
-      one-on-one relationships that change their lives for the better - forever. Each
-      volunteer will be in a mentor relationship with a child.
-  - id: 15
-    title: Payne County Department of Human Services
-    recipient: stw.serving@lifechurch.tv
-    url: http://www.okdhs.org/okdhslocal/payne/
-    description_medium: Help ensure the safety of at-risk children in the community
-      by restoring parents and children or finding a new opportunity for children
-      to have a healthy family environment.
   - id: 26
     title: Stillwater Life Services
     recipient: stw.serving@lifechurch.tv
@@ -1268,8 +1254,8 @@
     title: Habitat for Humanity
     recipient: stw.serving@lifechurch.tv
     url: http://www.habitat.org/
-    description_medium: 'Build and renovate high quality, affordable housing and serve
-      as a partner and catalyst to create healthy and sustainable communities. '
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
 - id: soc
   title: South Oklahoma City OK Campus
   email: soc.serving@lifechurch.tv
@@ -1522,28 +1508,8 @@
     recipient: okc.serving@lifechurch.tv
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
-      tutoring and positive mentoring relationships as well as communicating spiritual
-      and moral values.
-  - id: 11
-    title: Sunset Elementary
-    recipient: okc.serving@lifechurch.tv
-    url: http://www.edmondschools.net/sunset/Home.aspx
-    description_medium: Help your surrounding community where there are financial
-      needs, language barriers, single parent homes, and other life concerns that
-      directly affect children's experience in the classroom.
-  - id: 25
-    title: LifeTroops
-    recipient: okc.serving@lifechurch.tv
-    url: http://lifetroops.tv/
-    description_medium: Meet the spiritual, emotional, educational, financial, and
-      physical needs of military members 24 hours a day, at home and abroad.
-  - id: 21
-    title: 111 Project
-    recipient: okc.serving@lifechurch.tv
-    url: http://111project.org/
-    description_medium: The goal of this organization is for every child to have a
-      family and to be loved. You can provide hope and love to children in your community.
-      1 Church, 1 Family, 1 Purpose.
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
 - id: noc
   title: NW Oklahoma City OK Campus
   email: noc.serving@lifechurch.tv
@@ -1653,14 +1619,8 @@
     recipient: noc.serving@lifechurch.tv
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
-      tutoring and positive mentoring relationships as well as communicating spiritual
-      and moral values.
-  - id: 4
-    title: The Mentoring Project
-    recipient: noc.serving@lifechurch.tv
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the fatherless story through mentoring, training,
-      resourcing, and encouraging at-risk and fatherless kids.
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
   - id: 8
     title: Novo Ministries
     recipient: noc.serving@lifechurch.tv
@@ -1673,12 +1633,6 @@
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
       an under-resourced environment.
-  - id: 10
-    title: Watch D.O.G.S.
-    recipient: noc.serving@lifechurch.tv
-    url: http://www.fathers.com/content/index.php?option=com_content&task=view&id=21&Itemid=60
-    description_medium: Provide positive male role models for students  while enhancing
-      school security and reducing bullying.
   - id: 34
     title: The Spero Project
     recipient: noc.serving@lifechurch.tv
@@ -1716,7 +1670,14 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  missions: []
+  missions:
+  - id: 1
+    title: Big Brothers Big Sisters
+    recipient: wch.serving@lifechurch.tv
+    url: http://www.bbbs.org/
+    description_medium: Provide children with strong and enduring one-on-one relationships
+      that can change their lives for the better—forever. Each volunteer will mentor
+      a child.
 - id: ows
   title: Owasso OK Campus
   email: ows.serving@lifechurch.tv
@@ -1839,13 +1800,6 @@
     url: https://www.facebook.com/southwestfostercareok
     description_medium: Help recruit families and provide quality foster care service
       as well as support foster care families in our community.
-  - id: 1
-    title: Big Brothers Big Sisters
-    recipient: ows.serving@lifechurch.tv
-    url: http://www.bbbs.org/
-    description_medium: Provide children facing adversity with strong and enduring,
-      one-on-one relationships that change their lives for the better - forever. Each
-      volunteer will be in a mentor relationship with a child.
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@lifechurch.tv
@@ -1853,6 +1807,12 @@
     description_medium: Offer services for families and individuals facing economic
       hardship. This program works to fight hunger, prevent homelessness, and to restore
       hope to families and individuals on their path to self-sufficiency.
+  - id: 43
+    title: John 3:16
+    recipient: ows.serving@lifechurch.tv
+    url: http://john316mission.org/home.php
+    description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
+      hungry, homeless, and at-risk by serving the community and building relationships.
 - id: wel
   title: Wellington FL Campus
   email: wel.serving@lifechurch.tv
@@ -2074,8 +2034,8 @@
     title: Tulsa Boys Home
     recipient: sto.serving@lifechurch.tv
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: 'Help restore the lives of boys and lead them to be healthy,
-      responsible young men. '
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
   - id: 38
     title: Bixby Outreach Center
     recipient: sto.serving@lifechurch.tv
@@ -2237,4 +2197,11 @@
     duration: 120
     type: switch
     type_name: SWITCH
-  missions: []
+  missions:
+  - id: 3
+    title: Whiz Kids
+    recipient: bnb.serving@lifechurch.tv
+    url: http://www.whizkidsok.org/
+    description_medium: Improve the well-being of inner city youth through academic
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
