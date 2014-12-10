@@ -96,7 +96,7 @@ if ($('.map-panel #times').length > 0) {
 };
 
 
-$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a", "click", function() {
+$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a, #online", "click", function() {
   $(this).parent().addClass("show-form");
   $(".map").addClass("is-connect");
   return false;

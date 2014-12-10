@@ -332,7 +332,58 @@ $(function() {
     }
     
   });
- 
+
+
+
+  // Simple Contact Form
+  $('.form-contact-simple-hubspot').submit(function(event) {
+    event.preventDefault();
+
+    var form = $(this);
+  
+    var message = form.find('textarea[name="message"]').val();
+    var name = form.find('input[name="name"]').val();
+    var email = form.find('input[name="email"]').val();
+    var fullname = name.split(' '),
+        firstname = fullname[0],
+        lastname = fullname[fullname.length - 1];
+
+    if ($(this).find('textarea[name="message"]').val().length === 0) {
+      $(this).find('textarea[name="message"]').addClass('has-error');
+    } else {
+      $(this).find('textarea[name="message"]').removeClass('has-error');
+    }
+
+    if ($(this).find('input[name="name"]').val().length === 0) {
+      $(this).find('input[name="name"]').addClass('has-error');
+    } else {
+      $(this).find('input[name="name"]').removeClass('has-error');
+    }
+
+    if ($(this).find('input[name="email"]').val().length === 0) {
+      $(this).find('input[name="email"]').addClass('has-error');
+    } else {
+      $(this).find('input[name="email"]').removeClass('has-error');
+    }
+
+    if (name.length === 0 || email.length === 0 || message.length === 0) {
+      return false;
+    } else {
+      $.post(form.attr('action'), {
+        firstname: firstname,
+        lastname: lastname,
+        email: email,
+        message: message
+      });  
+
+      form.fadeOut();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
+      form.parent().find('.cta-thanks').fadeIn();
+    }
+    
+  });
+
+
   // LifeMissions Page
   if ($('.involved-list').length > 0) {
 
@@ -564,7 +615,7 @@ if ($('.map-panel #times').length > 0) {
 };
 
 
-$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a", "click", function() {
+$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a, #online", "click", function() {
   $(this).parent().addClass("show-form");
   $(".map").addClass("is-connect");
   return false;

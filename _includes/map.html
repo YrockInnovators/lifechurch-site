@@ -337,16 +337,34 @@
 
       {% if include.for == 'locations' %}
       <div class="more-options">
-        <h4>Not near you?</h4>
-        <p class="detail"><!--<a href="#">Let us know where you'd like us to build next</a>. Alternatively, <a href="//www.networkchurches.tv">visit a Network Church</a> or <a href="//live.lifechurch.tv">join Church Online <i class="icon icon-arrow"></i></a>.</a>-->
-        <p class="detail"><a href="//www.networkchurches.tv" onclick="ga('send', 'event', 'Map', 'Click', 'Network);">Visit a Network Church</a> or <a href="//live.lifechurch.tv" onclick="ga('send', 'event', 'Map', 'Click', 'Church Online');">join Church Online <i class="icon icon-arrow"></i></a></a>
+        <a id="online" href="//live.lifechurch.tv/" onclick="ga('send', 'event', 'Map', 'Click', 'Church Online');">
+          <h6>Church Online</h6>
+        </a>
+        <a id="network" href="//www.networkchurches.tv/locations" onclick="ga('send', 'event', 'Map', 'Click', 'Network Churches');">
+          <h6>Network Churches</h6>
+        </a>
       </div>
       {% endif %}
 
       {% if include.for == 'connect' %}
       <div class="more-options">
-        <h4>Not near you?</h4>
-        <p class="detail"><a href="http://go2.lc/prayer" onclick="ga('send', 'event', 'Map', 'Click', 'Church Online);">Connect with Church Online <i class="icon icon-arrow"></i></a></a>
+        <a id="online" href="/churchonline/" onclick="ga('send', 'event', 'Map', 'Click', 'Church Online');">
+          <h6><span class="prepend-connect">Connect with&nbsp;</span>Church Online</h6>
+        </a>
+
+        <form class="form-contact-simple-hubspot" action="https://forms.hubspot.com/uploads/form/v2/449781/26849e7a-cafd-4de8-a6f8-6227530ba259" method="post">
+          <input type="text" class="details" name="name" placeholder="Name" />
+          <input type="text" class="details" name="email" placeholder="Email" />
+          <textarea class="details" name="message" placeholder="Your Message"></textarea>
+          <input type="submit"
+                 class="button small submit-involved"
+                 value="Send to LifeChurch.tv"
+                 onclick="ga('send', 'event', 'Locations', 'Click', 'New Contact Campus');" />
+        </form>
+
+        <a id="network" href="//www.networkchurches.tv/locations" onclick="ga('send', 'event', 'Map', 'Click', 'Network Churches');">
+          <h6>Network Churches</h6>
+        </a>
       </div>
       {% endif %}
     </div>

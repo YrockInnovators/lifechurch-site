@@ -441,6 +441,7 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
   h5,
   li,
   .form-contact-simple,
+  .form-contact-simple-hubspot,
   .detail,
   .prepend-connect,
   .close-connect-form {
@@ -473,10 +474,42 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
     max-height: 1000px;
   }
 
-  .form-contact-simple {
+  .form-contact-simple,
+  .form-contact-simple-hubspot {
     opacity: 0;
     max-height: 0;
     overflow: hidden;
+  }
+
+  .more-options {
+    border-top: 1px solid $base-border-color;
+    margin: -1px -15px 0;
+    min-height: 65px;
+
+    #online {
+      border-right: 1px solid $base-border-color;
+      @include svg-image('/locations/assets/map-churchonline');
+    }
+
+    #network {
+      @include svg-image('/locations/assets/map-network');
+    }
+
+    #online,
+    #network {
+      display: block;
+      width: 50%;
+      float: left;
+      padding: 40px 0 10px;
+      text-align: center;
+      background-size: 25px 25px;
+      background-position: center 15px;
+      margin-bottom: -15px;
+
+      &:hover {
+        background-color: #fafafa;
+      }
+    }
   }
 }
 
@@ -486,8 +519,10 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
   h5,
   li,
   .detail,
-  .more-options {
+  .more-options,
+  #network {
     opacity: 0;
+    min-height: 0;
     max-height: 0;
     margin: 0;
     padding: 0;
@@ -506,14 +541,16 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
   }
 
   .show-form,
-  .show-form .form-contact-simple {
+  .show-form .form-contact-simple,
+  .show-form .form-contact-simple-hubspot {
     opacity: 1 !important;
     max-height: 1000px !important;
     position: relative;
     z-index: 4;
   }
 
-  .show-form .form-contact-simple {
+  .show-form .form-contact-simple,
+  .show-form .form-contact-simple-hubspot {
     margin-top: 10px;
   }
 
@@ -521,7 +558,8 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
     border-color: white;
   }
 
-  li a {
+  li a,
+  #online {
     cursor: default;
 
     h6,
@@ -532,6 +570,16 @@ $locations: florida, kansas, newyork, oklahoma, tennessee, texas;
     &:hover {
       background: white;
     }
+  }
+
+  #online {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background: none !important;
+    border: none;
+    float: none;
   }
 
   
