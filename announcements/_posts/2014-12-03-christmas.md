@@ -11,6 +11,30 @@ We invite you to join us at LifeChurch.tv this Christmas to celebrate the gifts 
 
 <table>
 <tr>
+  <th colspan="2">Church Online <a class="right" href="//live.lifechurch.tv">Visit page <i class="icon icon-arrow"></i></a></th>
+</tr>
+<tr>
+  <td>Tuesday, December 23</td>
+  <td>8:30pm, 10:00pm, 11:30pm CST</td>
+</tr>
+<tr>
+  <td>Wednesday, December 24</td>
+  <td>7:00am, 8:30am, 10:00am, 11:30am, 2:30pm, 7:00pm, 8:30pm CST</td>
+</tr>
+<tr>
+  <td>Thursday, December 25 (chat offline)</td>
+  <td>12:00am, 1:30am, 3:00am, 4:30am, 6:00am, 7:30am, 9:00am, 10:30am, 12:00pm, 1:30pm, 3:00pm, 4:30pm, 6:00pm, 7:30pm, 9:00pm, 10:30pm CST</td>
+</tr>
+<tr>
+  <td>Friday, December 26</td>
+  <td>7:00am, 8:30am, 10:00am, 11:30am, 1:00pm, 2:30pm, 4:00pm, 5:30pm, 7:00pm, 8:30pm, 10:00pm, 11:30pm CST</td>
+</tr>
+<tr>
+  <td>Saturday, December 27</td>
+  <td>10:00am, 11:30am CST</td>
+</tr>
+
+<tr>
   <th colspan="2">Albany, NY <a class="right" href="/albany/">View campus <i class="icon icon-arrow"></i></a></th>
 </tr>
 <tr>
