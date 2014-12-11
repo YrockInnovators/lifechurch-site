@@ -2090,13 +2090,6 @@
     type: roots
     type_name: Roots
   missions:
-  - id: 22
-    title: End Slavery
-    recipient: hnv.serving@lifechurch.tv
-    url: http://www.endslaverytn.org/
-    description_medium: Create a slave-free Tennessee and holistically restore survivors
-      of human trafficking. Volunteers can assist through awareness programs, distributing
-      door hangers, and fundraising.
   - id: 29
     title: Shalom Zone
     recipient: hnv.serving@lifechurch.tv
