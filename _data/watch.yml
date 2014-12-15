@@ -33,6 +33,44 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/3000x680.jpg?1417023654
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/480x340.jpg?1417023899
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/960x680.jpg?1417023987
+- id: first-things-first
+  title: First Things First
+  headline: What's your top priority? Let's slow down and put First Things First.
+  description_small: What's most important doesn’t always get our greatest attention
+    – but it should. Today, let’s decide to put First Things First.
+  description_medium: The most important thing doesn’t always get the first priority
+    – but it should. What will it take to stop being distracted by the urgent and
+    start focusing on the meaningful? Today, let’s decide to put First Things First.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 20
+    name: Tithe
+    created_at: '2014-06-11T15:15:22.933Z'
+    updated_at: '2014-06-11T15:15:22.933Z'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
+  - id: 61
+    name: Chris Beall
+    created_at: '2014-06-11T15:49:00.818Z'
+    updated_at: '2014-06-11T15:49:00.818Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/300x200.jpg?1418414291
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/first-things-first/600x400.jpg?1418414412
+  image_large: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1200x800.jpg?1418414586
+  image_social: http://s3.amazonaws.com/lcapi.production/series/first-things-first/400x400.jpg?1418414123
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1500x340.jpg?1418414742
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1418414821
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1418414926
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1418414989
 - id: come-to-worship
   title: Come to Worship
   headline: When we experience His love, we can’t help but Come to Worship.
