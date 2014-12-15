@@ -51,74 +51,14 @@
   ///////////////////////////////////////////////////////////////////////////////
 
   &.generic {
-    @include retina-image(/images/home/generic-bg, 200px auto, jpg);
-    background-position: top left;
-    background-repeat: no-repeat;
+    //@include retina-image(/images/home/generic-bg, 200px auto, jpg);
+    //background-position: top left;
+    //background-repeat: no-repeat;
 
     .hero {
       background: transparent;
     }
   }
-
-  &.unlikely {
-    h1 {
-      @include hide-text;
-      @include retina-image(/images/home/unlikely-title, contain);
-      max-width: 212px;
-      height: 27px;
-      margin: 0 auto 20px;
-
-      @include media($medium-screen) {
-        margin: 80px auto;
-      }
-    }
-  }
-
-  &.cometoworship {
-    @include retina-image(/images/home/cometoworship-bg, 566px 796px, jpg);
-    background: white;
-    background-position: top center;
-    background-repeat: repeat-x;
-  }
-
-  &.cometoworship .hero {
-    min-height: 200px;
-    background: transparent;
-
-    .hero-inner .hero-copy {
-      margin-top: 0;
-
-      p {
-        color: #8d7732;
-      }
-
-      a {
-        color: black;
-      }
-    }
-    
-    @include media($medium-screen) {
-      min-height: 300px;
-    }
-    
-    h1 {
-      @include hide-text;
-      @include retina-image(/images/home/cometoworship-title, contain);
-      background-repeat: no-repeat;
-      width: 200px;
-      height: 180px;
-      display: block;
-      margin: 0 auto 30px;
-
-      @include media($medium-screen) {
-        width: 307px;
-        height: 263px;
-      }
-    }
-  }
-
-
-  /* Tile: Christmas */
 
   .tile-christmas {
     @include retina-image(/images/home/tile-christmas-small, cover, jpg);
@@ -135,11 +75,11 @@
   ///////////////////////////////////////////////////////////////////////////////
 
   .closing {
-    padding-top: 0;
+    //padding-top: 0;
 
-    .container {
-      border: none;
-    }
+    //.container {
+      //border: none;
+    //}
   }
 
   .home-tile {
