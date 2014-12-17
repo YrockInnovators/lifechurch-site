@@ -251,7 +251,7 @@ We invite you to join us at LifeChurch.tv this Christmas to celebrate the gifts 
 </tr>
 <tr>
   <td>Wednesday, December 24</td>
-  <td>2:30pm, 4:00pm, 5:30pm</td>
+  <td>4:00pm, 5:30pm</td>
 </tr>
 
 <tr>
