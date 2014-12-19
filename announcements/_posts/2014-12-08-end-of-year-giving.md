@@ -7,6 +7,8 @@ teaser: "Thank you for considering a gift to LifeChurch.tv. As a reminder, all 2
 ---
 Thank you for considering a gift to LifeChurch.tv. As a reminder, all 2014 year-end gifts must be received at a campus, online, or postmarked by Wednesday, December 31.
 
+Taking action on your generosity is simple. <a href="/giving/">Find out how to give at LifeChurch.tv.</a>
+
 Questions? Contact the Giving Team at <a href="mailto:giving@lifechurch.tv">giving@lifechurch.tv</a> or (405) 216-7054.
 
 ## What happens to the money we give?
