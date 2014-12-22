@@ -18,7 +18,7 @@ As you pour out your heart:
 [Psalm 42:3-5](https://www.bible.com/bible/111/psa.42.3-5.niv)  
 [Lamentations 3:19-23](https://www.bible.com/bible/111/lam.3.19-23.niv)  
 2. Trust in God’s **power** for your **future**.  
-_"From the pit of your pain, pour out your heart."_  
+_"Push through your pain to the point of praise."_  
 [Psalm 102:1-2, 5, 7-8, 12, 17](https://www.bible.com/bible/111/psa.102.1-2, 5, 7, 8, 12, 17.niv)  
 _"Cry out to Him; He can handle it."_  
 _"He has always been faithful in the past, He is good in the future, therefore we can trust Him with our future."_
