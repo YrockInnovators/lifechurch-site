@@ -241,7 +241,7 @@
   - id: 54
     title: Peppers Ranch
     recipient: edm.serving@lifechurch.tv
-    url: ''
+    url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
   - id: 52
@@ -569,7 +569,7 @@
   - id: 53
     title: Reading Partners
     recipient: jnk.serving@lifechurch.tv
-    url: ''
+    url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
 - id: bao
@@ -703,7 +703,7 @@
   - id: 53
     title: Reading Partners
     recipient: bao.serving@lifechurch.tv
-    url: ''
+    url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
 - id: mwc
@@ -1480,19 +1480,19 @@
   - id: 54
     title: Peppers Ranch
     recipient: okc.serving@lifechurch.tv
-    url: ''
+    url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
   - id: 55
     title: Autism Oklahoma
     recipient: okc.serving@lifechurch.tv
-    url: ''
+    url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
   - id: 56
     title: Edmond Mobile Meals
     recipient: okc.serving@lifechurch.tv
-    url: ''
+    url: www.edmondmobilemeals.org
     description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
       and recuperating adults while building relationships each visit.
 - id: noc
