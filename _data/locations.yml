@@ -208,6 +208,12 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: edm.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
   - id: 5
     title: Inner City Action Group
     recipient: edm.serving@lifechurch.tv
@@ -220,25 +226,6 @@
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
-  - id: 6
-    title: SeeWorth Foundation
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.seeworthfoundation.org/
-    description_medium: 'Help students see their value and learn how to better engage
-      their world by mentoring, caring for, and listening to kids in your community. '
-  - id: 7
-    title: Young Life
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.younglife.org/Pages/default.aspx
-    description_medium: 'Introduce teens to Jesus and help them grow in their faith
-      by building relationships through weekly one-on-one mentoring and activities.  '
-  - id: 23
-    title: T.E.E.M (The Education and Employment Ministry)
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.teem.org/
-    description_medium: Provide consistent and compassionate relationships with OKC
-      area adult inmates to promote stability, friendship, and success in the work
-      place and personal life.
   - id: 34
     title: The Spero Project
     recipient: edm.serving@lifechurch.tv
@@ -249,8 +236,14 @@
     title: Lilyfield Christian Adoption and Foster Care
     recipient: edm.serving@lifechurch.tv
     url: http://www.lilyfield.org/
-    description_medium: 'Share a meal with local foster care families and provide
-      them with support and encouragement through monthly group gatherings. '
+    description_medium: Provide and support stable, loving families for infants and
+      children through adoptive and foster care placements.
+  - id: 54
+    title: Peppers Ranch
+    recipient: edm.serving@lifechurch.tv
+    url: ''
+    description_medium: Help break the cycle of child abuse and neglect through loving
+      and growth-oriented activities with children living on the ranch.
   - id: 52
     title: Branch15
     recipient: edm.serving@lifechurch.tv
@@ -572,7 +565,13 @@
     duration: 60
     type: service-time
     type_name: Service time
-  missions: []
+  missions:
+  - id: 53
+    title: Reading Partners
+    recipient: jnk.serving@lifechurch.tv
+    url: ''
+    description_medium: Meet weekly with an elementary student to improve reading
+      skills and invest in their life.
 - id: bao
   title: Broken Arrow OK Campus
   email: bao.serving@lifechurch.tv
@@ -689,12 +688,6 @@
     type: service-time
     type_name: Service time
   missions:
-  - id: 16
-    title: Arrowhead Elementary
-    recipient: bao.serving@lifechurch.tv
-    url: http://www.baschools.org/vnews/display.v/SEC/Arrowhead
-    description_medium: Provide character and team building experiences and allow
-      students to work with one another in a small group setting to build new friendships.
   - id: 19
     title: Tulsa Boys Home
     recipient: bao.serving@lifechurch.tv
@@ -707,6 +700,12 @@
     url: http://www.baneighbors.org/
     description_medium: Provide basic needs assistance with dignity and compassion
       to neighbors in need through a cooperative effort.
+  - id: 53
+    title: Reading Partners
+    recipient: bao.serving@lifechurch.tv
+    url: ''
+    description_medium: Meet weekly with an elementary student to improve reading
+      skills and invest in their life.
 - id: mwc
   title: Midwest City OK Campus
   email: mwc.serving@lifechurch.tv
@@ -1478,6 +1477,24 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+  - id: 54
+    title: Peppers Ranch
+    recipient: okc.serving@lifechurch.tv
+    url: ''
+    description_medium: Help break the cycle of child abuse and neglect through loving
+      and growth-oriented activities with children living on the ranch.
+  - id: 55
+    title: Autism Oklahoma
+    recipient: okc.serving@lifechurch.tv
+    url: ''
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
+  - id: 56
+    title: Edmond Mobile Meals
+    recipient: okc.serving@lifechurch.tv
+    url: ''
+    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
+      and recuperating adults while building relationships each visit.
 - id: noc
   title: NW Oklahoma City OK Campus
   email: noc.serving@lifechurch.tv
