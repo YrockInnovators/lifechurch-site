@@ -106,6 +106,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/480x340.jpg?1416523095
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/come-to-worship/960x680.jpg?1416523120
   messages:
+  - title: Bow Your Knees
+    headline: ''
+    video: 2yfs9afit3
   - title: Pour Out Your Heart
     headline: ''
     video: r8abt1oew0
