@@ -71,6 +71,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1418414821
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1418414926
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1418414989
+  messages:
+  - title: First Things First
+    headline: ''
+    video: 5dr73qjl24
 - id: come-to-worship
   title: Come to Worship
   headline: When we experience His love, we can’t help but Come to Worship.
