@@ -33,6 +33,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/3000x680.jpg?1417023654
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/480x340.jpg?1417023899
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/960x680.jpg?1417023987
+  messages:
+  - title: Faith-Filled, Big-Thinking
+    headline: ''
+    video: bwm5cr1hf7
 - id: first-things-first
   title: First Things First
   headline: What's your top priority? Let's slow down and put First Things First.
