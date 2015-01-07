@@ -986,5 +986,5 @@ $(document).ready(function(){
     var boundary = $('.single article h2:contains("Discussion Questions")');
     $("<article>").insertAfter(boundary.parent()).append(boundary.nextAll().andSelf());
   }
-
+	
 });
