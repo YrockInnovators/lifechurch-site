@@ -7,5 +7,5 @@
 - active: true
   type: notice
   icon: money
-  message: Learn About 2014 Year-End Giving
-  url: /endofyeargiving/
+  message: 2014 Giving Statements
+  url: /givingstatements/
