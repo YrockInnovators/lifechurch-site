@@ -301,6 +301,14 @@
     type: lifekids
     type_name: LifeKids
   missions: []
+- id: RRN
+  title: Rio Rancho NM Campus
+  email: RRN-Serving@lifechurch.tv
+  phone: ''
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
+  times: []
+  missions: []
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
