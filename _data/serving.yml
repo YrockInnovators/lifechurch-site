@@ -59,7 +59,7 @@
   location: Online
   recipient: https://forms.hubspot.com/uploads/form/v2/449781/a0dba598-d063-4429-9abe-c91f38d754ac
   url: ''
-  description_small: 'The Engagement Team receives, prays for, and responds to prayer requests from people all over the world.'
+  description_small: 'The Prayer Team receives, prays for, and responds to prayer requests from people all over the world.'
   description_medium: "Struggling and searching for answers aren't limited to a specific day or time. Church Online connects people to a caring community at their deepest moment of need. The Engagement Team receives, prays for, and responds to prayer requests from people all over the world."
   website: ''
   image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-300x200.jpg' 
@@ -67,7 +67,7 @@
   image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-engagement-1200x800.jpg'
 
 - id: serving-16
-  title: Social Media Street Team
+  title: Social Media Team
   location: Online
   recipient: https://forms.hubspot.com/uploads/form/v2/449781/b21c7ea9-24c0-4eb3-807f-015fd3809987
   url: ''
@@ -79,7 +79,7 @@
   image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-socialstreetteam-1200x800.jpg'
 
 - id: serving-17
-  title: Online LifeGroups
+  title: LifeGroups
   location: Online
   recipient: https://forms.hubspot.com/uploads/form/v2/449781/a6389cd3-9ca5-4f02-aae7-ada6a242f9e2
   url: ''
