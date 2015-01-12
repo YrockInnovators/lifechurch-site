@@ -5,6 +5,7 @@
   <figure id="map-florida" class="map-visual"></figure>
   <figure id="map-kansas" class="map-visual"></figure>
   <figure id="map-newyork" class="map-visual"></figure>
+  <figure id="map-newmexico" class="map-visual"></figure>
   <figure id="map-default" class="map-visual"></figure>
 
   <article class="container">
@@ -40,6 +41,25 @@
             <a id="wch" href="/wichita/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus WCH');">
               <span class="marker">A</span>
               <h6><span class="prepend-connect">Connect with &nbsp;</span>Wichita KS</h6>
+              <p class="detail">{{ location.address }}</p>
+            </a>
+            {% include map-connect.html %}
+          </li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+			
+			<div id="newmexico" class="location-state">
+        <a class='view-all-states' href='javascript:void(0);'><i class="icon icon-up"></i> View all states</a>
+        <h4 class="state-title"><a href="javascript:void(0);">New Mexico, US</a></h4>
+        <ul class="map-list">
+        {% for location in site.data.locations %}
+        {% if location.id == 'RRN' %}
+          <li>
+            <a id="rrn" href="/riorancho/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus RRN');">
+              <span class="marker">A</span>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Rio Rancho NM</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
