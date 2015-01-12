@@ -572,40 +572,38 @@ $(".map").delegate("#newyork .state-title a, #newyork .view-all-states", "click"
 
 
 // Geolocation for Locations map
+
 if ($('.map').length > 0) {
-  $.get("http://ipinfo.io", function(response) {
-    console.log(response.region);
+  console.log("Geolify: " + geolify_state_name());
 
-    if (response.region == 'Florida') {
-      $('.map').addClass('is-florida');
-    }
+  if (geolify_state_name() == 'Florida') {
+     $('.map').addClass('is-florida');
+  }
 
-    if (response.region == 'Kansas') {
-      $('.map').addClass('is-kansas');
-    }
-		
-		if (response.region == 'New Mexico') {
-      $('.map').addClass('is-newmexico');
-    }
+  if (geolify_state_name() == 'Kansas') {
+     $('.map').addClass('is-kansas');
+  }
 
-    if (response.region == 'New York') {
-      $('.map').addClass('is-newyork');
-    }
+  if (geolify_state_name() == 'New Mexico') {
+     $('.map').addClass('is-newmexico');
+  }
 
-    if (response.region == 'Oklahoma') {
-      $('.map').addClass('is-oklahoma');
-    }
+  if (geolify_state_name() == 'New York') {
+     $('.map').addClass('is-newyork');
+  }
 
-    if (response.region == 'Tennessee') {
-      $('.map').addClass('is-tennessee');
-    }
+  if (geolify_state_name() == 'Oklahoma') {
+     $('.map').addClass('is-oklahoma');
+  }
 
-    if (response.region == 'Texas') {
-      $('.map').addClass('is-texas');
-    }
+  if (geolify_state_name() == 'Tennessee') {
+     $('.map').addClass('is-tennessee');
+  }
 
-  }, "jsonp");
-};
+  if (geolify_state_name() == 'Texas') {
+     $('.map').addClass('is-texas');
+  }
+}
 
 
 // Hide calendar dates that are empty
