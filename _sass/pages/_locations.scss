@@ -212,7 +212,7 @@
   }
 }
 
-$states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
+$states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico;
 
 @each $state in $states{
   .map.is-#{$state} {
@@ -382,7 +382,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork;
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, sba, soc, sto, stw, tul, wel, wch, ykn;
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, rrn, sba, soc, sto, stw, tul, wel, wch, ykn;
 
 @each $campus in $campuses {
   .location-#{$campus} .locations-hero {
@@ -419,7 +419,7 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, sba,
   font-weight: 300;
 }
 
-$locations: florida, kansas, newyork, oklahoma, tennessee, texas;
+$locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
 
 @each $location in $locations {
   .is-#{$location} ##{$location} {

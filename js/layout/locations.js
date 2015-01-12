@@ -40,6 +40,12 @@ $(".map").delegate("#kansas .state-title a, #kansas .view-all-states", "click", 
   return false;
 });
 
+// New Mexico
+$(".map").delegate("#newmexico .state-title a, #newmexico .view-all-states", "click", function() {
+  $(".map").toggleClass("is-newmexico is-zoomed");
+  return false;
+});
+
 // New York
 $(".map").delegate("#newyork .state-title a, #newyork .view-all-states", "click", function() {
   $(".map").toggleClass("is-newyork is-zoomed");
@@ -58,6 +64,10 @@ if ($('.map').length > 0) {
 
     if (response.region == 'Kansas') {
       $('.map').addClass('is-kansas');
+    }
+		
+		if (response.region == 'New Mexico') {
+      $('.map').addClass('is-newmexico');
     }
 
     if (response.region == 'New York') {
