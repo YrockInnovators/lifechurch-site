@@ -138,6 +138,7 @@ use Rack::Rewrite do
   r301 %r{^/locations/hnv/?$}, '/hendersonville/'
   r301 %r{^/switch?$}, '/kids/#switch'
   r301 %r{^/Christmas?$}, '/christmas/'
+  r301 %r{^/whatsnext/?$}, '/next/'
   r301 %r{^/equipping-churches/?$}, '/churches/'
   r301 %r{^/serveatchurchonline/?$}, '/serving/#church-online'
 end
