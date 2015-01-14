@@ -182,7 +182,7 @@ $(function() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll be in touch soon.</em></div>").fadeIn();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    
@@ -214,7 +214,7 @@ $(function() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll be in touch soon.</em></div>").fadeIn();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    
@@ -222,6 +222,19 @@ $(function() {
 
 
   // Contact Us Form
+  if ($('.form-contact').length > 0) {
+    $('select[name="subject"]').change(function() {
+      $('.subject-details').hide();
+      $('.form-fields, .additional-contact-information').show();
+
+      if ($('select[name="subject"] option:selected[value="select"]').length > 0) { $('.form-fields, .additional-contact-information').hide(); }
+      if ($('select[name="subject"] option:selected[value*="Giving Question"]').length > 0) { $('.subject-giving').show(); }
+      if ($('select[name="subject"] option:selected[value*="Serving Question"]').length > 0) { $('.subject-serving').show(); }
+      if ($('select[name="subject"] option:selected[value*="Campus Question"]').length > 0) { $('.subject-campus').show(); $('.form-fields').hide(); }
+      if ($('select[name="subject"] option:selected[value*="Job Question"]').length > 0) { $('.subject-jobs').show(); }
+    });
+  }
+
   $('.form-contact').submit(function(event) {
     event.preventDefault();
 
@@ -271,7 +284,7 @@ $(function() {
       });  
 
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
@@ -327,7 +340,7 @@ $(function() {
       });  
 
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
@@ -376,7 +389,7 @@ $(function() {
       });  
 
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll be in touch soon.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
@@ -622,13 +635,13 @@ if ($('.map-panel #times').length > 0) {
 };
 
 
-$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a, #online", "click", function() {
+$(".whatsnext .map, .prayer .map, .contact .map").delegate(".location-state ul li a, #online", "click", function() {
   $(this).parent().addClass("show-form");
   $(".map").addClass("is-connect");
   return false;
 });
 
-$(".whatsnext .map, .prayer .map").delegate(".close-connect-form", "click", function() {
+$(".whatsnext .map, .prayer .map, .contact .map").delegate(".close-connect-form", "click", function() {
   $(".show-form").removeClass("show-form");
   $(".map").removeClass("is-connect");
   return false;
@@ -640,7 +653,7 @@ $(document).ready(function () {
 
   $(window).scroll(function() {
     var currentScroll = $(this).scrollTop();
-    console.log(currentScroll + " and " + previousScroll + " and " + 100);
+    //console.log(currentScroll + " and " + previousScroll + " and " + 100);
     if(currentScroll > 100) {
       if (currentScroll > previousScroll) {
         $('#navigation').fadeOut();

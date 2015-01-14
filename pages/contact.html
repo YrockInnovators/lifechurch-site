@@ -26,35 +26,73 @@ class: header-red contact about
         <option value="Campus Question|info@lifechurch.tv">I have a question about a specific LifeChurch.tv location.</option>
         <option value="Job Question|jobs@lifechurch.tv">I'm interested in a job at LifeChurch.tv.</option>
         <option value="Misc Question|info@lifechurch.tv">I have another need not included in this list.</option>
-      </select>
+      </select>  
 
-      <hr />
+      <div class="subject-details subject-giving" style="display:none">
+        <hr />
+        <h6>Did you know we have giving info on our website?</h6>
+        <p>If you're ready to give or if you're curious about how it works, the Giving section of our website has the details.</p>
+        <p><a href="/giving/" class="action">Learn about giving <i class="icon icon-arrow"></i></a></p>
+        <p><a href="/giving/ways/" class="action">Learn about ways you can give <i class="icon icon-arrow"></i></a></p>
+        <p><a href="//giving.lifechurch.tv" class="action">Sign in to give online <i class="icon icon-arrow"></i></a></p>
+        <hr />
+        <p>Still have questions? Fill out the contact form below and we'll see how we can help.</p>
+      </div>
 
-      <label>What is your specific question, comment, or issue?</label>
-      <p class="detail">The more we know, the better we can help you.</p>
-      <textarea name="message"></textarea>
+      <div class="subject-details subject-serving" style="display:none">
+        <hr />
+        <h6>Did you know we have serving info on our website?</h6>
+        <p>If you're looking to serve with us at a campus, at our central offices or at Church Online, we have details and registration forms available from our <a href="/serving/">Serving Opportunities</a> page.</p>
+        <p><a href="/serving/" class="action">Learn about Serving Opportunities <i class="icon icon-arrow"></i></a></p>
+        <hr />
+        <p>Still have questions? Fill out the contact form below and we'll see how we can help.</p>
+      </div>
 
-      <hr />
+      <div class="subject-details subject-campus" style="display:none">
+        <hr />
+        <h6>Did you know each campus has its own page on our website?</h6>
+        <p>If you have any campus-specific questions, please direct them to that campus. Select your campus below:</p> 
+      </div>
 
-      <label>What is the best way to reach you?</label>
-      <p class="detail">Please share your name and email address below.</p>
+      <div class="subject-details subject-jobs" style="display:none">
+        <hr />
+        <h6>Did you know we list available jobs on our website?</h6>
+        <p>If you're interested in working with LifeChurch.tv, or in learning more about our corporate culture, the Jobs section of our website should help you.</p>
+        <p><a href="//jobs.lifechurch.tv/" class="action">View our job openings <i class="icon icon-arrow"></i></a></p>
+        <p><a href="/jobs/" class="action">Learn about working at LifeChurch.tv <i class="icon icon-arrow"></i></a></p>
+        <hr />
+        <p>Still have questions? Fill out the contact form below and we'll see how we can help.</p>
+      </div>
 
-      <input name="name" type="text" placeholder="Enter your name" />
-      <input name="email" type="text" placeholder="Enter your email address" />
+      <div class="form-fields" style="display:none">
+        <label>What is your specific question, comment, or issue?</label>
+        <p class="detail">The more we know, the better we can help you.</p>
+        <textarea name="message"></textarea>
 
-      <hr />
+        <hr />
 
-      <input type="submit" class="button small submit-contact" value="Submit this contact form" />
+        <label>What is the best way to reach you?</label>
+        <p class="detail">Please share your name and email address below.</p>
 
-      <p class="detail"><em>(We are generally able to respond within one to three days of your request.)</em></p>
+        <input name="name" type="text" placeholder="Enter your name" />
+        <input name="email" type="text" placeholder="Enter your email address" />
+
+        <hr />
+
+        <input type="submit" class="button small submit-contact" value="Submit this contact form" />
+      </div>
 
     </form>
   </article>
 </section>
 
+<div class="subject-details subject-campus padded" style="display:none">
+  {% include map.html for='connect' %}
+</div>
+
 <div class="padded">
   <div class="container">
-    <section class="additional-contact-information grid-items grid-two">
+    <section class="additional-contact-information grid-items grid-two" style="display:none">
       <div class="grid-item">
         <h6>Church, Ministry, &amp; Organization Leaders</h6>
         <p class="detail">We truly believe we can do more together than apart to lead people to become fully devoted followers of Christ. If you have any questions about ministries or departments at LifeChurch.tv, we’d love to help.<br />

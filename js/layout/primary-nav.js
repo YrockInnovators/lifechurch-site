@@ -4,7 +4,7 @@ $(document).ready(function () {
 
   $(window).scroll(function() {
     var currentScroll = $(this).scrollTop();
-    console.log(currentScroll + " and " + previousScroll + " and " + 100);
+    //console.log(currentScroll + " and " + previousScroll + " and " + 100);
     if(currentScroll > 100) {
       if (currentScroll > previousScroll) {
         $('#navigation').fadeOut();

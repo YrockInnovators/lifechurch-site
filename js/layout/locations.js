@@ -104,13 +104,13 @@ if ($('.map-panel #times').length > 0) {
 };
 
 
-$(".whatsnext .map, .prayer .map").delegate(".location-state ul li a, #online", "click", function() {
+$(".whatsnext .map, .prayer .map, .contact .map").delegate(".location-state ul li a, #online", "click", function() {
   $(this).parent().addClass("show-form");
   $(".map").addClass("is-connect");
   return false;
 });
 
-$(".whatsnext .map, .prayer .map").delegate(".close-connect-form", "click", function() {
+$(".whatsnext .map, .prayer .map, .contact .map").delegate(".close-connect-form", "click", function() {
   $(".show-form").removeClass("show-form");
   $(".map").removeClass("is-connect");
   return false;

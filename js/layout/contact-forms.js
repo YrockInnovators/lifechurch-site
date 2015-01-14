@@ -68,6 +68,19 @@ $(function() {
 
 
   // Contact Us Form
+  if ($('.form-contact').length > 0) {
+    $('select[name="subject"]').change(function() {
+      $('.subject-details').hide();
+      $('.form-fields, .additional-contact-information').show();
+
+      if ($('select[name="subject"] option:selected[value="select"]').length > 0) { $('.form-fields, .additional-contact-information').hide(); }
+      if ($('select[name="subject"] option:selected[value*="Giving Question"]').length > 0) { $('.subject-giving').show(); }
+      if ($('select[name="subject"] option:selected[value*="Serving Question"]').length > 0) { $('.subject-serving').show(); }
+      if ($('select[name="subject"] option:selected[value*="Campus Question"]').length > 0) { $('.subject-campus').show(); $('.form-fields').hide(); }
+      if ($('select[name="subject"] option:selected[value*="Job Question"]').length > 0) { $('.subject-jobs').show(); }
+    });
+  }
+
   $('.form-contact').submit(function(event) {
     event.preventDefault();
 
