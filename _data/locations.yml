@@ -301,38 +301,6 @@
     type: lifekids
     type_name: LifeKids
   missions: []
-- id: RRN
-  title: Rio Rancho NM Campus
-  email: RRN-Serving@lifechurch.tv
-  phone: ''
-  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
-  facebook: '773412792749687'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions: []
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -1281,6 +1249,38 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
+- id: RRN
+  title: Rio Rancho NM Campus
+  email: RRN-Serving@lifechurch.tv
+  phone: ''
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions: []
 - id: soc
   title: South Oklahoma City OK Campus
   email: soc.serving@lifechurch.tv
