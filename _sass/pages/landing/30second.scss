@@ -1,0 +1,65 @@
+@import "../../bourbon/bourbon";
+@import "../../neat/neat";
+@import "../../base/base";
+
+.hero {
+  background-color: black;
+  color: white;
+  position: relative;
+
+  @include media($medium-screen) {
+    @include retina-image(/images/watch/landings/30second/hero-bg, 1500px auto, jpg);
+    background-size: 1500px auto;
+    height: 800px;
+
+    .hero-inner .hero-copy {
+      margin-top: 0;
+    }
+  }
+
+  @include media($large-screen) {
+    height: 750px
+  }
+
+  h1 {
+    @include hide-text;
+    @include retina-image(/images/watch/landings/30second/title, contain);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    max-width: 495px;
+    height: 150px;
+    margin: 0 auto;
+
+    @include media($medium-screen) {
+      height: 212px;
+    }
+  }
+
+  .action {
+    color: #86def7;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.group.about-lctv {
+  @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
+  background-size: cover;
+  background-position: center bottom;
+
+  @include media($medium-screen) {
+    @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
+    background-size: 1500px auto;
+  }
+}
+
+.closing {
+  .container {
+    border: none;
+    padding-top: 0;
+  }
+}

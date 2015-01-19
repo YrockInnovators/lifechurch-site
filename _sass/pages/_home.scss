@@ -62,30 +62,32 @@
 
   .hero {
     min-height: 200px;
+    background-color: black;
+    position: relative;
 
-    .hero-inner .hero-copy {
-      margin-top: 0;
-    }
-    
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, 1500px auto, jpg);
-      min-height: 300px;
+      @include retina-image(/images/watch/landings/30second/hero-bg, 1500px auto, jpg);
+      background-size: 1500px auto;
+      height: 800px;
+    }
+
+    @include media($large-screen) {
+      height: 750px
     }
     
     h1 {
       @include hide-text;
-      background: url(/images/home/home-title.png) center top no-repeat;
+      @include retina-image(/images/watch/landings/30second/title, contain);
       background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
       width: 100%;
-      max-width: 297px;
-      height: 120px;
-      display: block;
-      margin: 0 auto 30px;
+      max-width: 495px;
+      height: 150px;
+      margin: 0 auto;
 
       @include media($medium-screen) {
-        @include retina-image(/images/home/home-title, contain);
-        height: 240px;
-        margin: 10px auto 30px;
+        height: 212px;
       }
     }
   }
