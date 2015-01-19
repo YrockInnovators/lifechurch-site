@@ -58,7 +58,7 @@
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L873,277.4z"/>
 </g>
 <text transform="matrix(1 0 0 1 882.3975 288.0279)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">E ST HWY 152</text>
-<text transform="matrix(0 1 -1 0 802.9336 351.4165)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">W EDMOND RD</text>
+<text transform="matrix(0 1 -1 0 802.9336 351.4165)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S MUSTANG RD</text>
 <text transform="matrix(0 1 -1 0 904.7285 92.3332)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S MORGAN RD</text>
 <g id="sign">
 	<path fill="#FFFFFF" d="M1012,166c15.5-5.1,7.6-19.3,7.6-19.3s-4.9,1.1-7.6-0.2h0c-2.7,1.3-7.6,0.2-7.6,0.2S996.5,160.9,1012,166
@@ -84,14 +84,19 @@
 	<text transform="matrix(1 0 0 1 980.4996 243.5253)" font-family="'MyriadPro-Regular'" font-size="8.9541">152</text>
 </g>
 <g>
-	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M833.8,293.7h-3.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
-		h3.6c3.7,0,6.7,3,6.7,6.7l0,0C840.5,290.7,837.5,293.7,833.8,293.7z"/>
-	<text transform="matrix(1 0 0 1 829.9738 289.6059)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M833.8,290.7h-3.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
+		h3.6c3.7,0,6.7,3,6.7,6.7l0,0C840.5,287.7,837.5,290.7,833.8,290.7z"/>
+	<text transform="matrix(1 0 0 1 829.3488 286.6059)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
 </g>
 <g>
-	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M657.3,293.7h-9.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
-		h9.6c3.7,0,6.7,3,6.7,6.7l0,0C664,290.7,661,293.7,657.3,293.7z"/>
-	<text transform="matrix(1 0 0 1 644.9996 289.8559)" font-family="'MyriadPro-Regular'" font-size="8.9541">152</text>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M657.3,290.7h-9.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
+		h9.6c3.7,0,6.7,3,6.7,6.7l0,0C664,287.7,661,290.7,657.3,290.7z"/>
+	<text transform="matrix(1 0 0 1 644.9996 286.8559)" font-family="'MyriadPro-Regular'" font-size="8.9541">152</text>
 </g>
 <text transform="matrix(1 0 0 1 882.3973 237.4372)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">SW 59TH ST</text>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M843.8,363.4h-3.6c-3.7,0-6.7-3-6.7-6.7v0c0-3.7,3-6.7,6.7-6.7
+		h3.6c3.7,0,6.7,3,6.7,6.7v0C850.5,360.4,847.5,363.4,843.8,363.4z"/>
+	<text transform="matrix(1 0 0 1 839.3746 359.2448)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
+</g>
 </svg>
