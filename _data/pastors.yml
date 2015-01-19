@@ -77,8 +77,8 @@
   photo_campus: /locations/assets/campus/mwc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/mwc-connect-campus@2x.jpg
 - id: noc
-  name: Brian Bruss
-  email: bbruss@lifechurch.tv
+  name: Ronnie Brumley
+  email: ronnie.brumley@lifechurch.tv
   photo_portrait: /locations/assets/campus/noc-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/noc-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/noc-connect-campus.jpg
@@ -139,3 +139,17 @@
   photo_portrait_2x: /locations/assets/campus/wch-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/wch-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/wch-connect-campus@2x.jpg
+- id: sba
+  name: Derek Jewel
+  email: derek.jewel@lifechurch.tv
+  photo_portrait: /locations/assets/campus/sba-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/sba-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/sba-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/sba-connect-campus@2x.jpg
+- id: RRN
+  name: Brian Bruss
+  email: bbruss@lifechurch.tv
+  photo_portrait: /locations/assets/campus/rrn-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/rrn-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/rrn-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/rrn-connect-campus@2x.jpg
