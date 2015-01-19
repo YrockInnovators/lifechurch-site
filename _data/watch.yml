@@ -1,4 +1,34 @@
 ---
+- id: god-never-said-that
+  title: God Never Said That
+  headline: The truth can be deceiving. Don’t get swept away by things God never said.
+  description_small: If it sounds true, it must be in the Bible, right? Don’t be fooled
+    by your favorite phrases. You might be surprised to learn God Never Said That.
+  description_medium: 'We love offering little nuggets of advice, support, or sympathy.
+    They come in handy when we want people to feel better. But what if the guidance
+    you’re giving or receiving just isn’t true? What if God Never Said That? '
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: bbup8i9672
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T15:18:02.732Z'
+    updated_at: '2014-06-11T15:18:02.732Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/300x200.jpg?1421707083
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/600x400.jpg?1421707111
+  image_large: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/1200x800.jpg?1421707138
+  image_social: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/400x400.jpg?1421707159
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/1500x340.jpg?1421707237
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/3000x680.jpg?1421707190
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/480x340.jpg?1421707282
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/960x680.jpg?1421707306
 - id: jesus-and-we
   title: Jesus and We
   headline: Don't go it alone--there's power in Jesus and We.
