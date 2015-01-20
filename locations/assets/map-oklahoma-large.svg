@@ -80,7 +80,7 @@
 	<path id="pin_3_" fill="#B9252D" d="M702.7,278.7c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4s-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L702.7,278.7z"/>
 	
-		<text id="id_2_" transform="matrix(1 0 0 1 689.4055 277.434)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">C</text>
+		<text id="id_2_" transform="matrix(1 0 0 1 689.4055 277.434)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">D</text>
 </g>
 <g id="marker_9_">
 	<path id="pin_10_" fill="#B9252D" d="M963.3,143.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
@@ -104,7 +104,7 @@
 	<path id="pin_13_" fill="#B9252D" d="M979.7,159.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L979.7,159.6z"/>
 	
-		<text id="id_12_" transform="matrix(1 0 0 1 966.4053 158.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">O</text>
+		<text id="id_12_" transform="matrix(1 0 0 1 966.4053 158.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">N</text>
 </g>
 <g id="marker_11_">
 	<path id="pin_12_" fill="#B9252D" d="M982.7,128.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
@@ -140,7 +140,7 @@
 	<path id="pin_4_" fill="#B9252D" d="M697,313c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L697,313z"/>
 	
-		<text id="id_3_" transform="matrix(1 0 0 1 683.7037 311.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">D</text>
+		<text id="id_3_" transform="matrix(1 0 0 1 683.7037 311.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">E</text>
 </g>
 <g id="marker_13_">
 	<path id="pin_14_" fill="#B9252D" d="M783.7,114.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
@@ -189,12 +189,12 @@
 	<path id="pin_15_" fill="#B9252D" d="M1002.2,160.6c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L1002.2,160.6z"/>
 	
-		<text id="id_14_" transform="matrix(1 0 0 1 988.9053 159.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">N</text>
+		<text id="id_14_" transform="matrix(1 0 0 1 988.9053 159.376)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">O</text>
 </g>
 <g id="marker_15_">
 	<path id="pin_16_" fill="#B9252D" d="M659,298c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
 		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L659,298z"/>
 	
-		<text id="id_15_" transform="matrix(1 0 0 1 645.7037 296.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">E</text>
+		<text id="id_15_" transform="matrix(1 0 0 1 645.7037 296.738)" fill="#FFFFFF" font-family="'Helvetica-Bold'" font-size="12.4974">C</text>
 </g>
 </svg>
