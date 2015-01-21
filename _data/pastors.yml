@@ -1,154 +1,154 @@
 ---
 - id: okc
   name: Chris Beall
-  email: chris@lifechurch.tv
+  email: okc.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/okc-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/okc-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/okc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/okc-connect-campus@2x.jpg
 - id: bao
-  name: Charlie LaTurno
-  email: charlie.laturno@lifechurch.tv
+  name: Bryan Hill
+  email: bao.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/bao-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/bao-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/bao-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/bao-connect-campus@2x.jpg
 - id: alb
   name: Ryan Dowdy
-  email: ryan.dowdy@lifechurch.tv
+  email: alb.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/alb-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/alb-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/alb-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/alb-connect-campus@2x.jpg
 - id: bnb
   name: Vince Parker
-  email: vince.parker@lifechurch.tv
+  email: bnb.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/bnb-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/bnb-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/bnb-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/bnb-connect-campus@2x.jpg
 - id: edm
   name: Trevor Williams
-  email: trevor.williams@lifechurch.tv
+  email: edm.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/edm-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/edm-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/edm-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/edm-connect-campus@2x.jpg
 - id: ftw
   name: Robert Wall
-  email: robert@lifechurch.tv
+  email: ftw.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/ftw-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ftw-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ftw-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/ftw-connect-campus@2x.jpg
 - id: hnv
   name: Joel Wilkie
-  email: joel.wilkie@lifechurch.tv
+  email: hnv.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/hnv-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/hnv-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/hnv-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/hnv-connect-campus@2x.jpg
 - id: jnk
   name: Tim Knox
-  email: tim@lifechurch.tv
+  email: jnk.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/jnk-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/jnk-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/jnk-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/jnk-connect-campus@2x.jpg
 - id: klr
   name: Chris Graebe
-  email: chris.graebe@lifechurch.tv
+  email: klr.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/klr-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/klr-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/klr-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/klr-connect-campus@2x.jpg
 - id: mor
   name: Michael Metcalf
-  email: michael.metcalf@lifechurch.tv
+  email: mor.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/mor-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/mor-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/mor-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/mor-connect-campus@2x.jpg
 - id: mwc
   name: Sam Marin
-  email: sam.marin@lifechurch.tv
+  email: mwc.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/mwc-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/mwc-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/mwc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/mwc-connect-campus@2x.jpg
 - id: noc
   name: Ronnie Brumley
-  email: ronnie.brumley@lifechurch.tv
+  email: noc.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/noc-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/noc-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/noc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/noc-connect-campus@2x.jpg
 - id: ows
   name: Rob Beckley
-  email: rob.beckley@lifechurch.tv
+  email: ows.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/ows-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ows-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ows-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/ows-connect-campus@2x.jpg
 - id: soc
   name: Stefan Reed
-  email: stefan.reed@lifechurch.tv
+  email: soc.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/soc-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/soc-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/soc-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/soc-connect-campus@2x.jpg
 - id: sto
   name: Tome Dawson
-  email: tome.dawson@lifechurch.tv
+  email: sto.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/sto-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/sto-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/sto-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/sto-connect-campus@2x.jpg
 - id: stw
   name: GT Moody
-  email: gt@lifechurch.tv
+  email: stw.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/stw-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/stw-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/stw-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/stw-connect-campus@2x.jpg
 - id: tul
   name: Greg Pinkston
-  email: greg.pinkston@lifechurch.tv
+  email: tul.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/tul-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/tul-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/tul-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/tul-connect-campus@2x.jpg
 - id: wel
   name: Larry Mayer
-  email: larry.mayer@lifechurch.tv
+  email: wel.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/wel-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/wel-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/wel-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/wel-connect-campus@2x.jpg
 - id: ykn
   name: Jeff Moore
-  email: jeff.moore@lifechurch.tv
+  email: ykn.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/ykn-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ykn-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ykn-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/ykn-connect-campus@2x.jpg
 - id: wch
   name: Tim Doremus
-  email: tim.doremus@lifechurch.tv
+  email: wch.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/wch-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/wch-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/wch-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/wch-connect-campus@2x.jpg
 - id: sba
   name: Derek Jewel
-  email: derek.jewel@lifechurch.tv
+  email: sba.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/sba-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/sba-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/sba-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/sba-connect-campus@2x.jpg
 - id: RRN
   name: Brian Bruss
-  email: bbruss@lifechurch.tv
+  email: rrn.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/rrn-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/rrn-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/rrn-connect-campus.jpg
