@@ -386,8 +386,8 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, ows,
 
 @each $campus in $campuses {
   .location-#{$campus} .locations-hero {
-    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.svg'); }
-    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.gif'); }
+    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map.svg'); }
+    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map.gif'); }
     background-size: cover;
   }
 }
@@ -581,6 +581,4 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
     border: none;
     float: none;
   }
-
-  
 }
