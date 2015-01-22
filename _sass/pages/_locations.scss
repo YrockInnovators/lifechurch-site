@@ -127,7 +127,7 @@
   .location-state {
     @include transition (all 0.3s ease-in-out);
     overflow: hidden;
-    max-height: 1500px;
+    max-height: 1550px;
     margin: 0 -1em;
     padding: 0 1em;
 
@@ -255,7 +255,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     ##{$state},
     ##{$state} .map-list,
     ##{$state} .location-state {
-      max-height: 1500px;  
+      max-height: 1550px;  
     }
   }
 }
@@ -382,12 +382,12 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mwc, noc, okc, ows, rrn, sba, soc, sto, stw, tul, wel, wch, ykn;
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, ows, rrn, sba, soc, sto, stw, tul, wel, wch, ykn;
 
 @each $campus in $campuses {
   .location-#{$campus} .locations-hero {
-    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.svg'); }
-    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map-large.gif'); }
+    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map.svg'); }
+    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map.gif'); }
     background-size: cover;
   }
 }
@@ -581,6 +581,4 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
     border: none;
     float: none;
   }
-
-  
 }

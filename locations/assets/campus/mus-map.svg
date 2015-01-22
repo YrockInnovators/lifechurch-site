@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="193 18.6 940 570" enable-background="new 193 18.6 940 570" xml:space="preserve">
+<g id="land">
+	<path fill="#F6F0EF" d="M179.8,12.8c-0.4,0-0.7,0-1-2.1v585.1l964.1,2V12.8H179.8z"/>
+</g>
+<g id="greenery">
+	<polygon fill="#A2DDF5" points="1038.7,60 1038.7,64.7 1047,73 1050.7,69.3 1050.7,73 1060.7,73 1054.3,64.3 1047.3,58.3 	"/>
+	<polygon fill="#A2DDF5" points="1072.5,54 1067,63.7 1075,75 1086.3,67 1088,58.3 	"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="3" stroke-miterlimit="10" points="957.7,18.6 969.3,34 966,49.7 974.3,65.7 
+		1010,65.7 1038.7,50 1067,80.3 1097.7,92.3 1133,78 	"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="989,65.7 937,80.3 923,113 894,116 
+		882.7,109.7 893.3,101.3 853.9,97.7 831,82.3 	"/>
+	<line fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" x1="851.7" y1="110.3" x2="882.4" y2="100.3"/>
+	<path fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" d="M1110,594c-0.7-2.7-43.3-22.7-43.3-22.7l-48-74.7
+		l-28,11.3l-46-36l-14,18l-33.3-4.7v40L868.7,538l-6.7-40l-70,25.3l-38.7,7.3L710,476l4.7-128.7"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="710,476 666.7,442.7 691.3,401.3 	"/>
+	<path fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" d="M597.3,347.3c0,0,16,50.7,15.3,54
+		c-0.7,3.3,29.3,34.5,29.3,34.5l24.7,6.9L663,456l6.3,14.7L639,487.3h-29.9L568,450l-86.7,40.7L432.7,476l-18-64.7l-37.3-19.8"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="609.1,386.1 624.7,378 624.7,347.3 	"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="642,435.8 642,395 666.7,347.3 	"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="568,450 549.2,401.3 558.6,377.1 	"/>
+	<polyline fill="none" stroke="#A2DDF5" stroke-width="2" stroke-miterlimit="10" points="549.2,401.3 523.3,377.1 512.1,338.7 	"/>
+</g>
+<g id="smallroads">
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="701.3,18.6 701.3,338.7 1115.3,338.7 
+		1115.3,389.3 	"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="1133,442.7 1012,442.7 1012,18.6 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1133" y1="389.3" x2="1012" y2="389.3"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="1101.3,389.3 1101.3,364 1088,344.7 
+		1088,219.3 1115.3,204 1115.3,18.6 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="701.3" y1="27.3" x2="1133" y2="27.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="190" y1="78" x2="908.3" y2="78"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="546.7" y1="18.6" x2="546.7" y2="283.1"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="445.3" y1="18.6" x2="445.3" y2="288"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="190" y1="234" x2="1088" y2="234"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="753.3" y1="338.7" x2="753.3" y2="15.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="808" y1="283" x2="808" y2="508"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="753.3" y1="182.7" x2="1133" y2="182.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="753.3" y1="129.3" x2="1136" y2="129.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="860.1" y1="283" x2="860.1" y2="15.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="908.3" y1="285.3" x2="908.3" y2="15.3"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M960,285.3c0.7-2.3,0-200.7,0-200.7l14-6.7h38"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M980,280.4c1.3,1,6,7.6,6,7.6h129.3"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="1109,207.5 1115.3,216.7 1136,216.7 	"/>
+</g>
+<g id="roads">
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="808" y1="18.6" x2="808" y2="283"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M193,283h775c0,0,20.2,2.5,20.2-20.2
+		c0-22.8,0-33.8,0-33.8s0.8-20,21.8-20s33,0,33,0s17,4,29-16s25-22,39-22s22,0,22,0"/>
+	<polyline fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" points="853.9,283 853.9,314 831,398 831,440 
+		808,494 808,588.6 	"/>
+</g>
+<g id="marker">
+	<path id="pin_1_" fill="#B9252D" d="M873,277.4c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L873,277.4z"/>
+</g>
+<text transform="matrix(1 0 0 1 882.3975 288.0279)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">E ST HWY 152</text>
+<text transform="matrix(0 1 -1 0 802.9336 351.4165)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S MUSTANG RD</text>
+<text transform="matrix(0 1 -1 0 904.7285 92.3332)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">S MORGAN RD</text>
+<g id="sign">
+	<path fill="#FFFFFF" d="M1012,166c15.5-5.1,7.6-19.3,7.6-19.3s-4.9,1.1-7.6-0.2h0c-2.7,1.3-7.6,0.2-7.6,0.2S996.5,160.9,1012,166
+		L1012,166z"/>
+	<path fill="#0EA9D6" d="M1020.1,150.9c0,0,3.6,10-8.1,13.9c-11.7-3.9-8.1-13.9-8.1-13.9H1020.1z"/>
+	<path fill="#D72631" d="M1012,150h7.8c0,0-0.3-1.4-0.8-1.9c0,0-4.2,0.6-7-0.3c-2.9,1-7,0.3-7,0.3c-0.5,0.5-0.8,1.9-0.8,1.9H1012z"
+		/>
+	<text transform="matrix(1 0 0 1 1006.9337 159.0984)" fill="#FFFFFF" font-family="'HelveticaNeue-Bold'" font-size="8.7129">40</text>
+</g>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M807.6,137.3H804c-3.7,0-6.7-3-6.7-6.7v0c0-3.7,3-6.7,6.7-6.7h3.6
+		c3.7,0,6.7,3,6.7,6.7v0C814.3,134.3,811.3,137.3,807.6,137.3z"/>
+	<text transform="matrix(1 0 0 1 803.8329 133.2144)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
+</g>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M704,131.9h-3.6c-3.7,0-6.7-3-6.7-6.7v0c0-3.7,3-6.7,6.7-6.7h3.6
+		c3.7,0,6.7,3,6.7,6.7v0C710.7,128.8,707.7,131.9,704,131.9z"/>
+	<text transform="matrix(1 0 0 1 697.6663 127.9898)" font-family="'MyriadPro-Regular'" font-size="8.9541">92</text>
+</g>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M992.8,247.4h-9.6c-3.7,0-6.7-3-6.7-6.7v0c0-3.7,3-6.7,6.7-6.7
+		h9.6c3.7,0,6.7,3,6.7,6.7v0C999.5,244.4,996.5,247.4,992.8,247.4z"/>
+	<text transform="matrix(1 0 0 1 980.4996 243.5253)" font-family="'MyriadPro-Regular'" font-size="8.9541">152</text>
+</g>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M833.8,290.7h-3.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
+		h3.6c3.7,0,6.7,3,6.7,6.7l0,0C840.5,287.7,837.5,290.7,833.8,290.7z"/>
+	<text transform="matrix(1 0 0 1 829.3488 286.6059)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
+</g>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M657.3,290.7h-9.6c-3.7,0-6.7-3-6.7-6.7l0,0c0-3.7,3-6.7,6.7-6.7
+		h9.6c3.7,0,6.7,3,6.7,6.7l0,0C664,287.7,661,290.7,657.3,290.7z"/>
+	<text transform="matrix(1 0 0 1 644.9996 286.8559)" font-family="'MyriadPro-Regular'" font-size="8.9541">152</text>
+</g>
+<text transform="matrix(1 0 0 1 882.3973 237.4372)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">SW 59TH ST</text>
+<g>
+	<path fill="#FFFFFF" stroke="#231F20" stroke-miterlimit="10" d="M843.8,363.4h-3.6c-3.7,0-6.7-3-6.7-6.7v0c0-3.7,3-6.7,6.7-6.7
+		h3.6c3.7,0,6.7,3,6.7,6.7v0C850.5,360.4,847.5,363.4,843.8,363.4z"/>
+	<text transform="matrix(1 0 0 1 839.3746 359.2448)" font-family="'MyriadPro-Regular'" font-size="8.9541">4</text>
+</g>
+</svg>
