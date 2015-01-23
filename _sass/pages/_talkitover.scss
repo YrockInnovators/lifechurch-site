@@ -30,6 +30,12 @@
     }
   }
 
+  .single article a {
+    display: inline-block;
+    padding: 0 15px 0 0;
+    margin-bottom: 5px;
+  }
+
 
   // Print styles
   @media only print { 
@@ -54,6 +60,7 @@
       line-height: 1.3em;
     }
 
+    .single article a,
     a {
       color: black !important;
       text-decoration: underline;

@@ -8,8 +8,8 @@ title: Talk It Over Week 4
 
 ## Anything Short of Sin
 <p class="lead">Review Pastor Craig’s points to remember what stuck out to you from the message.</p> 
-[Mark 2:17](https://www.bible.com/bible/111/mrk.2.17.niv)  
-[Mark 2:1-5](https://www.bible.com/bible/111/mrk.2.1-5.niv)  
+[Mark 2:17](https://www.bible.com/bible/111/mrk.2.17.niv) [Mark 2:1-5](https://www.bible.com/bible/111/mrk.2.1-5.niv)  
+
 We will do anything short of **sin** to reach people who don’t know **Christ**. To reach people no one is reaching, we’ll **do** things no one is **doing**.  
 Rate your love for people without Christ on a scale of _“Apathetic”_ to _“Passionate”_.
 ###Reaching People with the Love of Christ  
@@ -40,12 +40,7 @@ Rate your love for people without Christ on a scale of _“Apathetic”_ to _“
 
 ## From the Source
 <p class="lead">To introduce some different perspectives into the conversation, consider reading one of these verses together.</p>
-[1 Peter 3:15](https://www.bible.com/bible/111/1pe.3.15.niv)  
-[Romans 1:16](https://www.bible.com/bible/111/rom.1.16.niv)  
-[2 Timothy 1:8](https://www.bible.com/bible/111/2ti.1.8.niv)  
-[Mark 16:15](https://www.bible.com/bible/111/mrk.16.15.niv)  
-[Matthew 28:19-20](https://www.bible.com/bible/111/mat.28.19-20.niv)  
-[John 14:6](https://www.bible.com/bible/111/joh.14.6.niv)
+[1 Peter 3:15](https://www.bible.com/bible/111/1pe.3.15.niv) [Romans 1:16](https://www.bible.com/bible/111/rom.1.16.niv) [2 Timothy 1:8](https://www.bible.com/bible/111/2ti.1.8.niv) [Mark 16:15](https://www.bible.com/bible/111/mrk.16.15.niv) [Matthew 28:19-20](https://www.bible.com/bible/111/mat.28.19-20.niv) [John 14:6](https://www.bible.com/bible/111/joh.14.6.niv)
 
 * * *
 
