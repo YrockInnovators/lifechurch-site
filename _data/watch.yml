@@ -64,6 +64,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/480x340.jpg?1417023899
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/jesus-and-we/960x680.jpg?1417023987
   messages:
+  - title: Anything Short of Sin
+    headline: ''
+    video: pp5fw62ij9
   - title: Irrationally Generous
     headline: ''
     video: zarrrdbklz
