@@ -1674,38 +1674,6 @@
     type: lifekids
     type_name: LifeKids
   missions: []
-- id: RRN
-  title: Rio Rancho NM Campus
-  email: RRN-Serving@lifechurch.tv
-  phone: 505-226-1010
-  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
-  facebook: '773412792749687'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions: []
 - id: wch
   title: Wichita KS Campus
   email: wch.serving@lifechurch.tv
@@ -1975,6 +1943,38 @@
     description_medium: Love, equip, and empower inner-city youth and their parents
       to fulfill their God-given purpose through one-on-one mentorship, academic development
       after school, and parent development classes.
+- id: RRN
+  title: Rio Rancho NM Campus
+  email: RRN-Serving@lifechurch.tv
+  phone: 505-226-1010
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions: []
 - id: sto
   title: South Tulsa OK Campus
   email: sto.serving@lifechurch.tv
