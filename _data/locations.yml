@@ -268,18 +268,12 @@
     time: 08-30
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
     type: service-time
     type_name: Service time
   - title: 10:00AM
@@ -288,6 +282,12 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -300,6 +300,12 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   missions: []
 - id: mor
   title: Moore OK Campus
