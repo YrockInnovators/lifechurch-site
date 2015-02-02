@@ -3,11 +3,11 @@
 
 $more-transition: .25s ease-in-out;
 
-.js .more-is-visible #navigation #header-logo {
+.more-is-visible #navigation #header-logo {
   @include svg-image('../images/branding/logo-red-black');
 }
 
-.js .more-is-visible.has-announcement .more-menu {
+.more-is-visible.has-announcement .more-menu {
   padding-top: 7em !important;
 }
 
