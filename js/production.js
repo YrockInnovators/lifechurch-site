@@ -949,6 +949,7 @@ $(function() {
       if ($('select[name="subject"] option:selected[value*="Serving Question"]').length > 0) { $('.subject-serving').show(); }
       if ($('select[name="subject"] option:selected[value*="Campus Question"]').length > 0) { $('.subject-campus').show(); $('.form-fields').hide(); }
       if ($('select[name="subject"] option:selected[value*="Job Question"]').length > 0) { $('.subject-jobs').show(); }
+      if ($('select[name="subject"] option:selected[value*="Prayer Request"]').length > 0) { $('.subject-prayer').show(); $('.form-fields').hide(); }
     });
   }
 
