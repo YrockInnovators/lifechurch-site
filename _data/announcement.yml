@@ -4,7 +4,7 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: true
+- active: false
   type: notice
   icon: money
   message: 2014 Giving Statements
