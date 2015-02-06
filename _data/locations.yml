@@ -787,12 +787,25 @@
     description_medium: In partnership with this Pregnancy Wellness program, provide
       emotional support, material assistance, education and counseling, community
       referrals, and pregnancy wellness classes.
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
   - id: 34
     title: The Spero Project
     recipient: mwc.serving@lifechurch.tv
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+  - id: 35
+    title: City Rescue Mission
+    recipient: mwc.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
 - id: alb
   title: Albany NY Campus
   email: alb.serving@lifechurch.tv
@@ -1002,6 +1015,12 @@
     url: http://www.yfsok.org/
     description_medium: Support families and children in foster care and engage in
       the foster care system on multiple levels.
+  - id: 55
+    title: Autism Oklahoma
+    recipient: ykn.serving@lifechurch.tv
+    url: autismoklahoma.org
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
   - id: 35
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
@@ -1322,6 +1341,12 @@
     type: service-time
     type_name: Service time
   missions:
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: soc.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
   - id: 47
     title: Stand in the Gap Ministries
     recipient: soc.serving@lifechurch.tv
@@ -1587,6 +1612,12 @@
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
       an under-resourced environment.
+  - id: 4
+    title: The Mentoring Project
+    recipient: noc.serving@lifechurch.tv
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
   - id: 34
     title: The Spero Project
     recipient: noc.serving@lifechurch.tv
@@ -1792,6 +1823,12 @@
     type: service-time
     type_name: Service time
   missions:
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: ows.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@lifechurch.tv
@@ -2195,3 +2232,22 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: bnb.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
+  - id: 34
+    title: The Spero Project
+    recipient: bnb.serving@lifechurch.tv
+    url: http://www.thesperoproject.com/
+    description_medium: Confront injustice and oppression by mobilizing the Church
+      to fully engage in a biblical response to under-resourced populations.
+  - id: 35
+    title: City Rescue Mission
+    recipient: bnb.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
