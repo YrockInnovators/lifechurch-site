@@ -91,24 +91,12 @@
     type: service-time
     type_name: Service time
   missions:
-  - id: 2
-    title: Tarrant Read2Win
-    recipient: ftw.serving@lifechurch.tv
-    url: http://www.tarrantnet.org/read2win/
-    description_medium: 'Partner with Fort Worth elementary schools and volunteer
-      as a reading coach for first graders in the Fort Worth Independent School District. '
   - id: 31
     title: Habitat for Humanity
     recipient: ftw.serving@lifechurch.tv
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
-  - id: 32
-    title: Altamesa Neighborhood Needs
-    recipient: ftw.serving@lifechurch.tv
-    url: http://www.altamesa.org/ministries/local/neighborhood-needs/
-    description_medium: Help our neighborhood with what they need most. Provide food,
-      clothing, technology access, and mentorship to those in our community.
 - id: edm
   title: Edmond OK Campus
   email: edm.serving@lifechurch.tv
@@ -214,12 +202,6 @@
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
-  - id: 5
-    title: Inner City Action Group
-    recipient: edm.serving@lifechurch.tv
-    url: http://icag.org/
-    description_medium: Build mentoring relationships between at-risk youth in OKC
-      and Christian role models who encourage positive character.
   - id: 4
     title: The Mentoring Project
     recipient: edm.serving@lifechurch.tv
@@ -244,12 +226,6 @@
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
-  - id: 52
-    title: Branch15
-    recipient: edm.serving@lifechurch.tv
-    url: http://www.branch15.com/
-    description_medium: Help provide Christ-centered transitional housing and individualized
-      support to women who are on the path toward recovery and independent living.
   - id: 35
     title: City Rescue Mission
     recipient: edm.serving@lifechurch.tv
@@ -257,6 +233,12 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+  - id: 57
+    title: Safe Families
+    recipient: edm.serving@lifechurch.tv
+    url: ''
+    description_medium: Develop and expand efforts to strengthen communities by building
+      strong, healthy families.
 - id: sba
   title: South Broken Arrow OK Campus
   email: sba.serving@lifechurch.tv
@@ -700,12 +682,6 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
-  - id: 36
-    title: Broken Arrow Neighbors
-    recipient: bao.serving@lifechurch.tv
-    url: http://www.baneighbors.org/
-    description_medium: Provide basic needs assistance with dignity and compassion
-      to neighbors in need through a cooperative effort.
   - id: 53
     title: Reading Partners
     recipient: bao.serving@lifechurch.tv
@@ -811,12 +787,6 @@
     description_medium: In partnership with this Pregnancy Wellness program, provide
       emotional support, material assistance, education and counseling, community
       referrals, and pregnancy wellness classes.
-  - id: 25
-    title: LifeTroops
-    recipient: mwc.serving@lifechurch.tv
-    url: http://lifetroops.tv/
-    description_medium: Meet the spiritual, emotional, educational, financial, and
-      physical needs of military members 24 hours a day, at home and abroad.
   - id: 34
     title: The Spero Project
     recipient: mwc.serving@lifechurch.tv
@@ -903,13 +873,6 @@
     type: roots
     type_name: Roots
   missions:
-  - id: 1
-    title: Big Brothers Big Sisters
-    recipient: alb.serving@lifechurch.tv
-    url: http://www.bbbs.org/
-    description_medium: Provide children with strong and enduring one-on-one relationships
-      that can change their lives for the better—forever. Each volunteer will mentor
-      a child.
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@lifechurch.tv
@@ -1039,12 +1002,6 @@
     url: http://www.yfsok.org/
     description_medium: Support families and children in foster care and engage in
       the foster care system on multiple levels.
-  - id: 14
-    title: Yukon Special Athletes
-    recipient: ykn.serving@lifechurch.tv
-    url: http://www.specialolympicsyukon.ca/
-    description_medium: Partner with special needs families to give kids healthy and
-      beneficial relationships.
   - id: 35
     title: City Rescue Mission
     recipient: ykn.serving@lifechurch.tv
@@ -1835,12 +1792,6 @@
     type: service-time
     type_name: Service time
   missions:
-  - id: 17
-    title: Southwest Foster Care
-    recipient: ows.serving@lifechurch.tv
-    url: https://www.facebook.com/southwestfostercareok
-    description_medium: Help recruit families and provide quality foster care service
-      as well as support foster care families in our community.
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@lifechurch.tv
@@ -1935,20 +1886,6 @@
     description_medium: 'Help care for and mentor kids in our community by providing
       them with consistent and loving relationships. Kids in crisis can find shelter
       and safety at SafePlace. '
-  - id: 40
-    title: Oasis Compassion
-    recipient: wel.serving@lifechurch.tv
-    url: http://oasiscompassion.org/
-    description_medium: Restore people that have fallen on hard times by helping them
-      build a resume, learn interview skills, acquire housing, and find a job while
-      showing them who they are in Christ.
-  - id: 45
-    title: Urban Youth Impact
-    recipient: wel.serving@lifechurch.tv
-    url: http://www.urbanyouthimpact.com/
-    description_medium: Love, equip, and empower inner-city youth and their parents
-      to fulfill their God-given purpose through one-on-one mentorship, academic development
-      after school, and parent development classes.
 - id: RRN
   title: Rio Rancho NM Campus
   email: RRN-Serving@lifechurch.tv
@@ -2097,12 +2034,6 @@
     type: service-time
     type_name: Service time
   missions:
-  - id: 18
-    title: Relations Group Home
-    recipient: sto.serving@lifechurch.tv
-    url: ''
-    description_medium: 'Help students see their value and learn how to better engage
-      their world by mentoring, caring for, and listening to kids in your community. '
   - id: 19
     title: Tulsa Boys Home
     recipient: sto.serving@lifechurch.tv
@@ -2195,13 +2126,6 @@
     type: roots
     type_name: Roots
   missions:
-  - id: 29
-    title: Shalom Zone
-    recipient: hnv.serving@lifechurch.tv
-    url: http://www.gallatinshalomzone.org/
-    description_medium: LifeChurch.tv volunteers assist with all aspects of the program
-      including mentoring, helping with homework, and encouraging residents and children
-      towards healing, peace, reconciliation, and love.
   - id: 33
     title: Room in the Inn
     recipient: hnv.serving@lifechurch.tv
