@@ -29,25 +29,6 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/3000x680.jpg?1421707190
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/480x340.jpg?1421707282
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/960x680.jpg?1421707306
-- id: 30-second-theology
-  title: 30 Second Theology 2015
-  headline: ''
-  description_small: ''
-  description_medium: ''
-  quote: ''
-  quote_cite: ''
-  open_url: ''
-  promo: ''
-  resources_url: ''
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: http://s3.amazonaws.com/lcapi.production/series/30-second-theology/400x400.jpg?1422630432
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/30-second-theology/1500x340.jpg?1422630091
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/30-second-theology/3000x680.jpg?1422630198
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/30-second-theology/480x340.jpg?1422630486
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/30-second-theology/960x680.jpg?1422630515
 - id: jesus-and-we
   title: Jesus and We
   headline: Don't go it alone--there's power in Jesus and We.
