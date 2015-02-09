@@ -29,6 +29,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/3000x680.jpg?1421707190
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/480x340.jpg?1421707282
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/960x680.jpg?1421707306
+  messages:
+  - title: God Wants You Happy
+    headline: ''
+    video: 1xnf712x6r
 - id: jesus-and-we
   title: Jesus and We
   headline: Don't go it alone--there's power in Jesus and We.

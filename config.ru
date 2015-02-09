@@ -16,6 +16,7 @@ use Rack::TryStatic,
     [["svg"],   {'Content-Type' => 'image/svg+xml'}],
     [["jpg"],   {'Content-Type' => 'image/jpg'}],
     [["ico"],   {'Content-Type' => 'image/x-icon'}],
+    [:fonts, {'Access-Control-Allow-Origin' => '*'}],
     ["/", {'Cache-Control' => 'public, max-age=86400'}],
   ]
 
