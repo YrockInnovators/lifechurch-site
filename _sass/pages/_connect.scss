@@ -1,0 +1,99 @@
+// Connect
+///////////////////////////////////////////////////////////////////////////////
+
+.connect {
+  background: black;
+
+  .hero {
+    @include retina-image(/images/connect/connect-bg-small, 559px auto, jpg);
+    background-color: black;
+    background-position: right top;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/connect/connect-bg, cover, jpg);
+      background-color: black;
+      padding-bottom: 150px;
+      background-position: center;
+    }
+  }
+
+  h1 {
+    color: white;
+
+    @media screen and (max-width: 767px) {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    color: white;
+    max-width: 25em;
+  }
+
+  form {
+    max-width: 20em;
+  }
+
+  .field-location,
+  .location-identifier {
+    display: none;
+  }
+}
+
+.connect-thankyou {
+  .closing .container {
+    border: none;
+    padding-top: 0;
+  }
+
+  .hero-connect-thankyou {
+    @include retina-image(/images/connect/connect-bg-2, cover, jpg);
+    background-color: black;
+  }
+
+  .facebook-likebox {
+    float: left;
+    width: 49px;
+    height: 23px;
+    overflow: hidden;
+    background: #3c56a1;
+    border-radius: 2px;
+    padding: 1px 1px 0;
+    margin: -1px 12px 0 0;
+  }
+
+  .twitter-followbutton {
+    float: left;
+    margin: -1px 13px 0 0;
+    height: 23px;
+    background: #aaa;
+    border-radius: 2px;
+    padding: 1px 0 0 1px;
+  }
+
+  .pinterest-button {
+    margin-top: -1px;
+    margin-left: 15px !important;
+    float: left;
+    background: #bbb;
+    width: 97px;
+    height: 23px;
+    padding-left: 2px;
+    border-radius: 2px;
+  }
+
+  div#___ytsubscribe_0 {
+    margin: -1px 0 0 15px !important;
+  }
+
+  .group.about-lctv {
+    @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
+    background-size: cover;
+    background-position: center bottom;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
+      background-size: 1500px auto;
+    }
+  }
+}
