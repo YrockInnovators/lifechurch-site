@@ -31,6 +31,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/480x340.jpg?1421707282
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/960x680.jpg?1421707306
   messages:
+  - title: It Doesn’t Matter What You Do
+    headline: ''
+    video: wfbeimcbkw
   - title: God Won't Give You More Than You Can Handle
     headline: ''
     video: p2rmtuwlqd
