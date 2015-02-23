@@ -19,3 +19,4 @@ Redirect 301 /giving/faqs /giving/
 Redirect 301 /resources /tools/
 Redirect 301 /resources/personal /tools/
 Redirect 301 /resources/church /tools/
+Redirect 301 /catalyst http://open.church/catalyst
