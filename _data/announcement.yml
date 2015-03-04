@@ -4,8 +4,8 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
+- active: true
   type: notice
-  icon: money
-  message: 2014 Giving Statements
-  url: /givingstatements/
+  icon: calendar
+  message: 2015 Easter Service Times
+  url: /easter/
