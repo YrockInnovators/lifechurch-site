@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-novideo
+layout: watch-archive
 categories: watch
 series-id: chasing-light
 title: Chasing Light
