@@ -101,6 +101,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/chasing-light/3000x680.jpg?1424714182
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/chasing-light/480x340.jpg?1425672782
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/chasing-light/960x680.jpg?1424714256
+  messages:
+  - title: Pride
+    headline: ''
+    video: x0x7781uft
 - id: god-never-said-that
   title: God Never Said That
   headline: Those "words of wisdom" can be deceiving. Don’t get swept away by things
