@@ -153,3 +153,10 @@
   photo_portrait_2x: /locations/assets/campus/rrn-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/rrn-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/rrn-connect-campus@2x.jpg
+- id: mus
+  name: Zane Rowland
+  email: mus.pastor@lifechurch.tv
+  photo_portrait: /locations/assets/campus/mus-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/mus-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/mus-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/mus-connect-campus@2x.jpg
