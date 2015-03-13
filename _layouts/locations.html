@@ -28,7 +28,7 @@ hero: locations-hero
       </h5>
       
       {% if location.id == 'mus' %}
-			<h3 class="text-red">Coming in April 2014</h3>
+			<h3 class="text-red">Coming in April 2015</h3>
 			{% endif %}
 
       {% if page.times == true %}
@@ -319,7 +319,11 @@ hero: locations-hero
 
       <li class="grid-item panel involved-item involved-item-textarea">
         <img src="{{ pastor.photo_portrait }}" data-retina="{{ pastor.photo_portrait_2x }}" alt="Campus Pastor" />
+        {% if location.id == 'mus' %}
+        <h6>Campus Pastor {{ pastor.name }}</h6>
+        {% else %}
         <h6>Contact Pastor {{ pastor.name }}</h6>
+        {% endif %}
         <p class="detail">At LifeChurch.tv, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
         
         <div class="cta">
