@@ -26,6 +26,10 @@ hero: locations-hero
         <a href="http://maps.google.com/?q={{ location.address }}" class="action">(get directions)</a><br class="large-element" />
         {% endif %}
       </h5>
+      
+      {% if location.id == 'mus' %}
+			<h3 class="text-red">Coming in April 2014</h3>
+			{% endif %}
 
       {% if page.times == true %}
       <section id="times">
@@ -85,6 +89,7 @@ hero: locations-hero
 
       {% if page.form %}
       <p>Sign up to get updates on how you can help with the campus launch in {{ page.launch-date}}!</p>
+      
       <p><a class="button large expand" href="{{ page.form }}" onclick="ga('send', 'event', 'Locations', 'Click', '{{ location.title }} Form');">Get updates</a></p>
       <p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');">Visit our Facebook Page </a></p>
       {% elsif page.mailer %}
@@ -316,14 +321,18 @@ hero: locations-hero
         <img src="{{ pastor.photo_portrait }}" data-retina="{{ pastor.photo_portrait_2x }}" alt="Campus Pastor" />
         <h6>Contact Pastor {{ pastor.name }}</h6>
         <p class="detail">At LifeChurch.tv, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
-
+        
         <div class="cta">
           <p>
+          {% if location.id == 'mus' %}
+          &nbsp;
+          {% else %}
             <a href="#"
                class="action get-involved"
                onclick="ga('send', 'event', 'Locations', 'Click', 'Expand Contact Pastor');">
                Contact the Campus Pastor <i class="icon icon-arrow"></i>
             </a>
+            {% endif %}
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->

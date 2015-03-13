@@ -1,5 +1,9 @@
 <h6>Get Email Updates</h6>
+{% if location.id == 'mus' %}
+<p>Sign up for information about the official launch.</p>
+{% else %}
 <p>We’ll send you information about the official launch and how you can help. But you won't get one thing: spam.</p>
+{% endif %}
 
 <div id="mc_embed_signup">
   <form action="{{ page.mailer }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -15,4 +19,8 @@
   </form>
 </div>
 
-<p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');">Visit our Facebook Page </a></p>
+{% if location.id == 'mus' %}
+<p><a class="button large expand secondary" href="https://forms.lifechurch.tv/mus/view.php?id=10312" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');" target="_blank">Join The Core Group</a></p>
+{% else %}
+<p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');" target="_blank">Visit our Facebook Page </a></p>
+{% endif %}
