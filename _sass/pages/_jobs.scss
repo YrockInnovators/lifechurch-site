@@ -1,0 +1,36 @@
+// Jobs
+///////////////////////////////////////////////////////////////////////////////
+
+.jobs {
+
+  .section-jobs-top { 
+    @include retina-image(/images/jobs/jobs-bg-small, cover, jpg);
+    min-height: 300px;
+
+
+    h1 {
+      margin-top: 10px;
+    }
+
+    @include media($medium-screen) {
+      @include retina-image(/images/jobs/jobs-bg, 1500px auto, jpg);
+      background-position: center top;
+      background-repeat: no-repeat;
+      height: 570px;
+
+      h1 {
+        margin-top: 230px;
+      }
+    }
+
+    .lt-ie9 & {
+      background: url('/images/jobs/jobs-bg.jpg') center top no-repeat;
+    }
+  }
+
+  // Listings
+  .job-title {
+    list-style: none;
+    margin-left: -1.1rem;
+  }
+}

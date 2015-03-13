@@ -1,0 +1,59 @@
+// Worship
+///////////////////////////////////////////////////////////////////////////////
+
+.worship {
+  .hero-worship {
+    @include retina-image(/images/worship/worship-bg, 1500px auto, jpg);
+  }
+
+  .hero-subscribe {
+    @include retina-image(/images/worship/worship-bg-2, 1021px auto, jpg);
+    background-color: #010002;
+    background-position: center bottom;
+    padding-bottom: 350px;
+  }
+
+  .icon-itunes {
+    @include hide-text;
+    @include svg-image('/images/worship/icon-itunes');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+
+  .icon-soundcloud {
+    @include hide-text;
+    @include svg-image('/images/worship/icon-soundcloud');
+    background-size: 128px 70px;
+    width: 128px;
+    height: 70px;
+  }
+
+  .icon-itunes:hover,
+  .icon-soundcloud:hover {
+    opacity: .75;
+  }
+  
+  @include media($medium-screen) {
+    .mc-field-group {
+      max-width: 30em;
+      margin: 0 auto;
+    }
+
+    #mce-EMAIL {
+      width: 65%;
+      float: left;
+      padding: 17px 0 15px;
+      text-indent: 13px;
+    }
+
+    #mc-embedded-subscribe {
+      width: 30%;
+      float: right;
+    }
+  }
+
+  .closing {
+    background-color: #010002;
+  }
+}

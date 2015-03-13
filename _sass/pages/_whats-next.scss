@@ -1,0 +1,34 @@
+// Whats Next
+///////////////////////////////////////////////////////////////////////////////
+
+.whatsnext {
+  #accept-christ .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-1, cover, jpg);
+    background-position: center;
+  }
+
+  #basic-beliefs .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-2, cover, jpg);
+    background-position: center;
+  }
+
+  #grow-faith .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-3, cover, jpg);
+    background-position: center;
+  }
+
+  #next-steps .hero-watch {
+    @include retina-image(/images/whatsnext/whatsnext-bg-4, cover, jpg);
+    background-position: center;
+  }
+
+  #questions .single article:after {
+    @include triangle(40px, #fdfdfd, down);
+    content: "";
+    display: block;
+    margin: 0 auto;
+    margin-bottom: -40px;
+    position: relative;
+    z-index: 4; 
+  }
+}

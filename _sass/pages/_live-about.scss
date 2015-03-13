@@ -1,0 +1,40 @@
+// About Live
+///////////////////////////////////////////////////////////////////////////////
+
+.live-about {
+   .resources a {
+     color: #444;
+   }
+
+  .hint-scroll .hint {
+    bottom: 40em;
+  }
+
+  .hero.top {
+    @include retina-image(/images/about/live-hero-bg-small, cover, jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+
+    @include media($medium-screen) {
+      @include retina-image(/images/about/live-hero-bg, 1500px 911px, jpg);
+      height: 911px;
+      padding-bottom: 3em;
+    }
+  }
+
+  .live-lifegroups {
+    @include retina-image(/images/about/live-giving-bg-small, cover, jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+
+    h2 {
+      color: white;
+    }
+
+    @include media($medium-screen) {
+      @include retina-image(/images/about/live-giving-bg, 1500px 845px, jpg);
+      height: 845px;
+    }
+  }
+}
