@@ -1,4 +1,110 @@
 ---
+- id: i-deserve-it
+  title: I Deserve It
+  headline: God knows what we deserve. Fortunately, we don’t always get what’s coming
+    to us.
+  description_small: How different would the world look if everyone got what they
+    earned? God knows what we deserve. See what we get in I Deserve It.
+  description_medium: How different would the world look if everyone got what they
+    deserved? Would your salary be the same? What would our prisons look like? Would
+    nice guys finish first or last? God knows what we deserve. See if that's what
+    we get in I Deserve It.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.church/resources/2044-i-deserve-it
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 16
+    name: Forgiveness
+    created_at: '2014-06-11T15:14:32.742Z'
+    updated_at: '2014-06-11T15:14:32.742Z'
+  - id: 25
+    name: Grace
+    created_at: '2014-06-11T15:17:05.430Z'
+    updated_at: '2014-06-11T15:17:05.430Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/300x200.jpg?1425056222
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/600x400.jpg?1425056246
+  image_large: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/1200x800.jpg?1425056289
+  image_social: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/400x400.jpg?1425056332
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/1500x340.jpg?1425056390
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/3000x680.jpg?1425056358
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/480x340.jpg?1425056410
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/960x680.jpg?1425056431
+- id: dont-stop
+  title: Don't Stop
+  headline: The finish line. The goal. Where is your journey taking you?
+  description_small: Obstacles and trials will come and go, but one thing can always
+    remain constant on your journey. Good things happen when we Don’t Stop.
+  description_medium: The finish line. The goal. What are you working toward? Obstacles
+    and trials will come and go, but one thing can always remain constant on your
+    journey. Keep your eyes on the prize because good things happen when you Don’t
+    Stop.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.church/resources/2045-don-t-stop
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 54
+    name: Steven Furtick
+    created_at: '2014-06-11T15:35:51.030Z'
+    updated_at: '2014-06-11T15:35:51.030Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/300x200.jpg?1424725098
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/dont-stop/600x400.jpg?1424725226
+  image_large: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1200x800.jpg?1424725333
+  image_social: http://s3.amazonaws.com/lcapi.production/series/dont-stop/400x400.jpg?1424725014
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1500x340.jpg?1424725353
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1424725377
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1424725180
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1424725309
+- id: chasing-light
+  title: Chasing Light
+  headline: Sometimes a small step toward the light ends up being the biggest step
+    of your life.
+  description_small: Life simply can’t happen without light—and there’s nowhere it
+    shines brighter than at its source. Get a better glimpse in Chasing Light.
+  description_medium: Light brings clarity. It’s the catalyst for growth. It helps
+    us find our way. Life simply can’t happen without light—and there’s nowhere it
+    shines brighter than at its source. Get a better glimpse in Chasing Light.
+  quote: ''
+  quote_cite: ''
+  open_url: http://open.church/resources/2041-chasing-light
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 57
+    name: Pierre du Plessis
+    created_at: '2014-06-11T15:47:09.892Z'
+    updated_at: '2014-06-11T15:47:09.892Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/chasing-light/300x200.jpg?1424713917
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/chasing-light/600x400.jpg?1425672858
+  image_large: http://s3.amazonaws.com/lcapi.production/series/chasing-light/1200x800.jpg?1425672805
+  image_social: http://s3.amazonaws.com/lcapi.production/series/chasing-light/400x400.jpg?1424714139
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/chasing-light/1500x340.jpg?1424714220
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/chasing-light/3000x680.jpg?1424714182
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/chasing-light/480x340.jpg?1425672782
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/chasing-light/960x680.jpg?1424714256
+  messages:
+  - title: Pride
+    headline: ''
+    video: x0x7781uft
 - id: god-never-said-that
   title: God Never Said That
   headline: Those "words of wisdom" can be deceiving. Don’t get swept away by things
@@ -31,6 +137,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/480x340.jpg?1421707282
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/god-never-said-that/960x680.jpg?1421707306
   messages:
+  - title: It Doesn’t Matter What You Believe
+    headline: ''
+    video: ymoa4qlhz8
   - title: It Doesn’t Matter What You Do
     headline: ''
     video: wfbeimcbkw
