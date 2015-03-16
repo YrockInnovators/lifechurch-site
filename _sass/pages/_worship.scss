@@ -17,17 +17,29 @@
     padding-bottom: 350px;
   }
   
-  .hero-subscribe:after {
-    background: rgba(0,255,255, 0.5);
-    -moz-transition: background .3s linear;
-    -webkit-transition: background .3s linear;
-    -o-transition: background .3s linear;
-    transition: background .3s linear;
-  }
-  
   .icon-itunes {
     @include hide-text;
     @include svg-image('/images/worship/icon-itunes');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+  
+  .icon-google-play {
+    @include hide-text;
+    @include retina-image(/images/worship/icon-google-play, contain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70px 70px;
+    width: 75px;
+    height: 70px;
+  }
+  
+  .icon-spotify {
+    @include hide-text;
+    @include retina-image(/images/worship/icon-spotify, contain);
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: 70px 70px;
     width: 80px;
     height: 70px;
@@ -42,6 +54,8 @@
   }
 
   .icon-itunes:hover,
+  .icon-google-play:hover,
+  .icon-spotify:hover,
   .icon-soundcloud:hover {
     opacity: .75;
   }
