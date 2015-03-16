@@ -1,6 +1,8 @@
 // Worship
 ///////////////////////////////////////////////////////////////////////////////
 
+.worship {
+
   .hero-worship {
     @include retina-image(/images/worship/worship-bg, 1500px auto, jpg);
   }
