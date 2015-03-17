@@ -2,20 +2,41 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .worship {
+
   .hero-worship {
     @include retina-image(/images/worship/worship-bg, 1500px auto, jpg);
   }
-
+  
   .hero-subscribe {
     @include retina-image(/images/worship/worship-bg-2, 1021px auto, jpg);
     background-color: #010002;
     background-position: center bottom;
     padding-bottom: 350px;
   }
-
+  
   .icon-itunes {
     @include hide-text;
     @include svg-image('/images/worship/icon-itunes');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+  
+  .icon-google-play {
+    @include hide-text;
+    @include retina-image(/images/worship/icon-google-play, contain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70px 70px;
+    width: 75px;
+    height: 70px;
+  }
+  
+  .icon-spotify {
+    @include hide-text;
+    @include retina-image(/images/worship/icon-spotify, contain);
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: 70px 70px;
     width: 80px;
     height: 70px;
@@ -30,6 +51,8 @@
   }
 
   .icon-itunes:hover,
+  .icon-google-play:hover,
+  .icon-spotify:hover,
   .icon-soundcloud:hover {
     opacity: .75;
   }
