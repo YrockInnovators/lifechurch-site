@@ -108,6 +108,19 @@
             </li>
           {% endif %}
           {% endfor %}
+            
+          {% for location in site.data.locations %}
+          {% if location.id == 'cen' %}
+            <li>
+              <a id="cen" href="/central/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus EDM');">
+                <span class="marker">B</span>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Central Support</h6>
+                <p class="detail">{{ location.address }}</p>
+              </a>
+              {% include map-connect.html %}
+            </li>
+          {% endif %}
+          {% endfor %}  
 
           {% for location in site.data.locations %}
           {% if location.id == 'edm' %}
