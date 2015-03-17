@@ -136,7 +136,7 @@ $(function() {
 }
       
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'>Thanks so much for asking about the subject above! We love hearing from the great people who attend and visit LifeChurch.tv. We'll be sure to share your email with the right team.<br /> <p><strong>Have a blessed day!</strong></p></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
