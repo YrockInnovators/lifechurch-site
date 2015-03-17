@@ -1,0 +1,37 @@
+---
+layout: default
+section: location-central
+hero: locations-hero
+---
+
+{% for location in site.data.locations %}
+{% if location.id == page.location-id %}
+
+  <div id="location" class="container">
+    <div class="map-panel">
+      <h1>{{ page.title }}</h1>
+			
+			<h5>
+        {% unless page.phone == false %}{{ location.phone }}<br />{% endunless %}
+        {{ location.address }} 
+        <a href="http://maps.google.com/?q={{ location.address }}" class="action">(get directions)</a><br class="large-element" />
+      </h5>
+      
+			<h3 class="text-red"></h3>
+      <p class="detail">Based in Edmond, Oklahoma, Central Teams offer support and resources for all LifeChurch.tv campuses and ministries.</p>
+          <p>
+            <a href="/contact/"
+               class="action get-involved"
+               onclick="ga('send');">
+               Contact Central Support <i class="icon icon-arrow"></i>
+            </a>
+          </p>
+
+    </div>
+  </div>
+</section>
+
+
+
+{% endif %}
+{% endfor %}
