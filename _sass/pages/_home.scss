@@ -63,7 +63,7 @@
   .hero {
     min-height: 200px;
     background-color: white;
-    @include retina-image(/images/home/generic-bg, 500px auto, jpg);
+    //@include retina-image(/images/home/generic-bg, 500px auto, jpg);
     background-position: bottom center;
     position: relative;
     padding-bottom: 140px;
@@ -73,7 +73,7 @@
     }
 
     @include media($medium-screen) {
-      @include retina-image(/images/home/generic-bg, 1500px auto, jpg);
+      //@include retina-image(/images/home/generic-bg, 1500px auto, jpg);
       //height: 800px;
       padding-bottom: 3em;
     }
@@ -91,7 +91,7 @@
 
       @include media($medium-screen) {
         height: 300px;
-        margin: -80px auto 5px;
+        margin: -80px auto -20px;
       }
     }
   }
