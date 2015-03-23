@@ -70,6 +70,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1424725377
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1424725180
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1424725309
+  messages:
+  - title: 'Don''t Stop On Six '
+    headline: ''
+    video: u3tjtoipn4
 - id: chasing-light
   title: Chasing Light
   headline: Sometimes a small step toward the light ends up being the biggest step
