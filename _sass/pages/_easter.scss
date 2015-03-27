@@ -17,3 +17,14 @@
     @include retina-image(/images/easter/deserve-bg, 1500px auto, jpg);
   }
 }
+
+.group.about-lctv {
+  @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
+  background-size: cover;
+  background-position: center bottom;
+
+  @include media($medium-screen) {
+    @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
+    background-size: 1500px auto;
+  }
+}
