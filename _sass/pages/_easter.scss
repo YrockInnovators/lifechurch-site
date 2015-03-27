@@ -1,0 +1,23 @@
+// Easter
+///////////////////////////////////////////////////////////////////////////////
+
+.easter {
+  
+  .hero {
+    background-color: white;
+    background-size: 1500px auto;
+    min-height: 300px;
+  }
+
+  .hero-easter {
+    @include retina-image(/images/easter/easter-bg, 1500px auto, jpg);
+  }
+  
+  .hero-i-deserve-it {
+    @include retina-image(/images/worship/worship-bg, 1500px auto, jpg);
+  }
+
+  .closing {
+    background-color: $off-white;
+  }
+}
