@@ -1,4 +1,9 @@
 .home {
+  
+  .lead {
+    color: #fff;
+    font-size: 1.3em;
+  }
 
   .home-menu {
     background: white;
@@ -62,8 +67,7 @@
 
   .hero {
     min-height: 200px;
-    background-color: white;
-    //@include retina-image(/images/home/generic-bg, 500px auto, jpg);
+    @include retina-image(/images/home/home-bg, 1500px auto, jpg);
     background-position: bottom center;
     position: relative;
     padding-bottom: 140px;
@@ -73,7 +77,7 @@
     }
 
     @include media($medium-screen) {
-      //@include retina-image(/images/home/generic-bg, 1500px auto, jpg);
+      @include retina-image(/images/home/home-bg, 1500px auto, jpg);
       //height: 800px;
       padding-bottom: 3em;
     }
@@ -87,11 +91,11 @@
       width: 100%;
       max-width: 490px;
       height: 250px;
-      margin: -95px auto 0px;
+      margin: -25px auto 0px;
 
       @include media($medium-screen) {
-        height: 300px;
-        margin: -80px auto -20px;
+        height: 385px;
+        margin: -60px auto 0px;
       }
     }
   }
