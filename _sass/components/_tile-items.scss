@@ -2,7 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 $tile-color: white;
-$tile-color-alt: $black;
+$tile-color-alt: $dark-gray;
 
 .tile-one,
 .tile-two,
@@ -67,7 +67,7 @@ $tile-color-alt: $black;
 @include media($medium-screen) {
   .tile-one .tile-item {
     width: 100%;
-    border: 2px solid $tile-color;
+    border: 1px solid $tile-color;
   }
   
   .tile-two .tile-item {
@@ -92,6 +92,7 @@ $tile-color-alt: $black;
 
 .tile-alt .tile-item {
   border-color: $tile-color-alt;
+  border-width: 1px;
 }
 
 .lt-ie9 .tile-one .tile-item {
