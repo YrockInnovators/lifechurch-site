@@ -83,7 +83,7 @@
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, 1500px auto, jpg);
       //height: 800px;
-      padding-bottom: 3em;
+      padding-bottom: 2em;
     }
     
     h1 {
