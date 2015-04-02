@@ -143,4 +143,5 @@ use Rack::Rewrite do
   r301 %r{^/equipping-churches/?$}, '/churches/'
   r301 %r{^/serveatchurchonline/?$}, '/serving/#church-online'
   r301 %r{^/catalyst?$}, 'http://open.church/catalyst'
+  r301 %r{^/southwestokc?$}, '/southokc/'
 end
