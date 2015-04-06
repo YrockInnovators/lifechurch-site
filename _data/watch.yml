@@ -35,6 +35,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/3000x680.jpg?1425056358
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/480x340.jpg?1425056410
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/960x680.jpg?1425056431
+  messages:
+  - title: I Deserve Death But He Gave Me Life
+    headline: ''
+    video: msm5eqwnx9
 - id: dont-stop
   title: Don't Stop
   headline: The finish line. The goal. Where is your journey taking you?
