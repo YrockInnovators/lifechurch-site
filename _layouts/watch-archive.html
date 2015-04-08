@@ -54,7 +54,7 @@ class: header-red section-watch section-series
   <div class="inner">
     <span class="play-large"></span>
     <h1>{{ series.title }}</h1>
-    Watch week 1
+    Watch Latest Video
   </div>
 </a>
 {% endif %}
@@ -63,7 +63,7 @@ class: header-red section-watch section-series
 
 <div class="container messages-with-description">
   <section class="series-messages">
-    <h2>In this series</h2>
+    <h2>In This Series</h2>
     <div class="watch-messages">
       {% if page.live == true %}
       <a class="message live" href="http://live.lifechurch.tv/" onclick="ga('send', 'event', 'Watch', 'Click', 'Live');">
@@ -85,7 +85,7 @@ class: header-red section-watch section-series
   </section>
 
   <section class="series-description">
-     <h2>Series description</h2> 
+     <h2>Series Description</h2> 
      <p>{{ series.description_medium | newline_to_br }}</p>
 
      <p class="detail">
