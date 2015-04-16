@@ -1,0 +1,73 @@
+// Cast & Crew
+///////////////////////////////////////////////////////////////////////////////
+
+.castandcrew {
+
+  .hero-castandcrew {
+    @include retina-image(/images/castandcrew/hero-bg, 1500px auto, jpg);
+      h1 {
+        font-size: 2em;
+        margin: 155px auto 0;
+      }
+  }
+  
+  .hero-subscribe {
+    @include retina-image(/images/castandcrew/join-bg, 1021px cover, jpg);
+    background-color: #010002;
+    background-position: center bottom;
+    padding-bottom: 250px;
+  }
+  
+  .icon-facebook {
+    @include hide-text;
+    @include svg-image('/images/tools/tools-social-facebook');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+  
+  .icon-twitter {
+    @include hide-text;
+    @include svg-image('/images/tools/tools-social-twitter');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+  
+  .icon-instagram {
+    @include hide-text;
+    @include svg-image('/images/tools/tools-social-instagram');
+    background-size: 70px 70px;
+    width: 80px;
+    height: 70px;
+  }
+
+  .icon-facebook:hover,
+  .icon-twitter:hover,
+  .icon-instagram:hover {
+    opacity: .75;
+  }
+  
+  @include media($medium-screen) {
+    .mc-field-group {
+      max-width: 30em;
+      margin: 0 auto;
+    }
+
+    #mce-EMAIL {
+      width: 65%;
+      float: left;
+      padding: 17px 0 15px;
+      text-indent: 13px;
+    }
+
+    #mc-embedded-subscribe {
+      width: 30%;
+      float: right;
+    }
+  }
+
+  .closing {
+    background-color: $off-white;
+  }
+}
