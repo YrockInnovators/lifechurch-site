@@ -18,46 +18,33 @@
     padding-bottom: 250px;
   }
   
-  .icon-itunes {
+  .icon-facebook {
     @include hide-text;
-    @include svg-image('/images/worship/icon-itunes');
+    @include svg-image('/images/tools/tools-social-facebook');
     background-size: 70px 70px;
     width: 80px;
     height: 70px;
   }
   
-  .icon-google-play {
+  .icon-twitter {
     @include hide-text;
-    @include retina-image(/images/worship/icon-google-play, contain);
-    background-position: center;
-    background-repeat: no-repeat;
+    @include svg-image('/images/tools/tools-social-twitter');
     background-size: 70px 70px;
-    width: 75px;
+    width: 80px;
     height: 70px;
   }
   
-  .icon-spotify {
+  .icon-instagram {
     @include hide-text;
-    @include retina-image(/images/worship/icon-spotify, contain);
-    background-position: center;
-    background-repeat: no-repeat;
+    @include svg-image('/images/tools/tools-social-instagram');
     background-size: 70px 70px;
     width: 80px;
     height: 70px;
   }
 
-  .icon-soundcloud {
-    @include hide-text;
-    @include svg-image('/images/worship/icon-soundcloud');
-    background-size: 128px 70px;
-    width: 128px;
-    height: 70px;
-  }
-
-  .icon-itunes:hover,
-  .icon-google-play:hover,
-  .icon-spotify:hover,
-  .icon-soundcloud:hover {
+  .icon-facebook:hover,
+  .icon-twitter:hover,
+  .icon-instagram:hover {
     opacity: .75;
   }
   
