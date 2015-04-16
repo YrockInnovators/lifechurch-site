@@ -1,4 +1,35 @@
 ---
+- id: pray
+  title: Pray
+  headline: Prayers aren't empty words hurled at the sky. They’re the most important
+    conversations of our lives.
+  description_small: Prayers are conversations—in fact, they're the most important
+    conversations of our lives. Find out just how much it matters when you Pray.
+  description_medium: Prayers aren't empty words hurled at the sky. They’re conversations—in
+    fact, they're the most important conversations of our lives. Find out just how
+    much it matters when you Pray.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2054-pray
+  promo: ku66lmcqda
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805Z'
+    updated_at: '2014-06-05T19:23:33.805Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/pray/300x200.jpg?1428614956
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/pray/600x400.jpg?1428614977
+  image_large: http://s3.amazonaws.com/lcapi.production/series/pray/1200x800.jpg?1428615003
+  image_social: http://s3.amazonaws.com/lcapi.production/series/pray/400x400.jpg?1428615037
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/pray/1500x340.jpg?1428615085
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/pray/3000x680.jpg?1428615055
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/pray/480x340.jpg?1428615113
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/pray/960x680.jpg?1428615296
 - id: i-deserve-it
   title: I Deserve It
   headline: God knows what we deserve. Fortunately, we don’t always get what’s coming
