@@ -23,10 +23,6 @@ hero: locations-hero
         {% endif %}
       </h5>
       
-      {% if location.id == 'mus' %}
-			<h3 class="text-red">Opening Sunday, April 26</h3>
-			{% endif %}
-
       {% if page.times == true %}
       <section id="times">
         <section class="calendar showing-saturday">
@@ -315,24 +311,16 @@ hero: locations-hero
 
       <li class="grid-item panel involved-item involved-item-textarea">
         <img src="{{ pastor.photo_portrait }}" data-retina="{{ pastor.photo_portrait_2x }}" alt="Campus Pastor" />
-        {% if location.id == 'mus' %}
-        <h6>Campus Pastor {{ pastor.name }}</h6>
-        {% else %}
+        
         <h6>Contact Pastor {{ pastor.name }}</h6>
-        {% endif %}
         <p class="detail">At LifeChurch.tv, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
         
         <div class="cta">
-          <p>
-          {% if location.id == 'mus' %}
-          &nbsp;
-          {% else %}
-            <a href="#"
+          <p><a href="#"
                class="action get-involved"
                onclick="ga('send', 'event', 'Locations', 'Click', 'Expand Contact Pastor');">
                Contact the Campus Pastor <i class="icon icon-arrow"></i>
             </a>
-            {% endif %}
           </p>
 
           <!-- This form will need modifying to take the additional textarea -->
