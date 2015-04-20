@@ -2,11 +2,7 @@
   <ul id="persistent-navigation" class="large-element">
     {% if page.spreadtheword == true %}<li><a href="#spreadtheword">Spread the Word</a></li>{% endif %}
     {% if page.location == true %}
-    {% if location.id == 'mus' %}
-    <li><a href="#hero">Location</a></li>
-    {% else %}
     <li><a href="#hero">Location & Times</a></li>
-    {% endif %}
     {% endif %}
     {% if page.serving == true %}<li><a href="#serving">Serving</a></li>{% endif %}
     {% if location.missions != empty %} <li><a href="#localpartners">Local Partners</a></li> {% endif %}
