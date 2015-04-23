@@ -56,7 +56,7 @@ _Peter gained: deep humility, unshakeable confidence in God, and unwavering fait
 ## Live It Out
 <p class="lead">End with a challenge to make it real. Commit to a next step as a group and bring the discussion to life this week.</p>
 
-*	Take out your phone to subscribe to this Bible plan and watch Peter transform from unreliable fisherman to fully devoted follower: [go2.lc/allthingsnew](http://www.go2.lc/allthingsnew)
+*	Take out your phone to subscribe to this Bible plan and watch Peter transform from unreliable fisherman to fully devoted follower: [go2.lc/allthingsnew](https://www.bible.com/reading-plans/983-all-things-new)
 *	Think of one person you know who seems stuck on past failures. Send them this week’s message and open up about how it’s changing your life. 
 *	Has someone failed you? Use Christ’s example with Peter and reach out to forgive them this week.
 
