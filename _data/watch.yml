@@ -67,12 +67,12 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/480x340.jpg?1425056410
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/i-deserve-it/960x680.jpg?1425056431
   messages:
-  - title: I Deserve Rejection, But He Gave Me Acceptance
-    headline: ''
-    video: qczv7l7dcb
   - title: I Deserve To Be Counted Out, But He Gave Me Another Chance
     headline: ''
     video: jaaplu9038
+  - title: I Deserve Rejection, But He Gave Me Acceptance
+    headline: ''
+    video: qczv7l7dcb
   - title: I Deserve Condemnation But He Gave Me Mercy
     headline: ''
     video: rq7e1l4b8t
