@@ -34,7 +34,7 @@ _Peter gained: deep humility, unshakeable confidence in God, and unwavering fait
 ## Discussion Questions
 <p class="lead">Where will you lead your group? Pick and choose from these suggestions to create the right discussion for your group.</p>
 
-*	What’s your Missy-and-the-frog story? When is the first time you remember feeling shame?
+*	Do you have a funny story of the first time you remember feeling shame, or a most embarrassing moment? 
 *	How often does shame impact your decisions? Often? Not too often? All the time? What parts of your life are affected?
 *	Tell a story of a time you failed to live up to a commitment like the one Peter made to Jesus. How has this impacted you?
 *	What weaknesses do you underestimate? How can you get more honest when you blow it?
