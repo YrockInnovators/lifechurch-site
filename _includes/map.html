@@ -328,6 +328,24 @@
           {% endfor %}
           </ul>
         </div>
+
+        <div id="shawnee" class="map-list">
+          <h5>Shawnee OK</h5>
+          <ul>
+            {% for location in site.data.locations %}
+            {% if location.id == 'shw' %}
+              <li>
+                <a id="shw" href="/shawnee/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OKC');">
+                  <span class="marker">Q</span>
+                  <h6><span class="prepend-connect">Connect with&nbsp;</span>Shawnee OK</h6>
+                  <p class="detail">{{ location.address }}</p>
+                </a>
+                {% include map-connect.html %}
+              </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
       </div>
 
       <div id="tennessee" class="location-state">
