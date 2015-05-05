@@ -10,6 +10,10 @@ hero: locations-hero
   <div id="location" class="container">
     <div class="map-panel">
       <h1>{{ page.title }}</h1>
+      
+      {% if location.id == 'shw' %}
+      <h3>Opening Sunday, May 10</h3>
+      {% endif %}
 			
 			<h5>
         {% unless page.phone == false %}{{ location.phone }}<br />{% endunless %}
