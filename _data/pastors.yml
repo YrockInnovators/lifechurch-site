@@ -90,6 +90,13 @@
   photo_portrait_2x: /locations/assets/campus/ows-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/ows-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/ows-connect-campus@2x.jpg
+- id: shw
+  name: Trevor Williams
+  email: shw.pastor@lifechurch.tv
+  photo_portrait: /locations/assets/campus/shw-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/shw-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/shw-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/shw-connect-campus@2x.jpg  
 - id: soc
   name: Stefan Reed
   email: soc.pastor@lifechurch.tv
