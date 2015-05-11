@@ -300,7 +300,13 @@
     duration: 120
     type: roots
     type_name: Roots
-  missions: []
+  missions:
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: sba.serving@lifechurch.tv
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
 - id: mor
   title: Moore OK Campus
   email: mor.serving@lifechurch.tv
@@ -1716,7 +1722,13 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  missions: []
+  missions:
+  - id: 55
+    title: Autism Oklahoma
+    recipient: mus.serving@lifechurch.tv
+    url: autismoklahoma.org
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
 - id: wch
   title: Wichita KS Campus
   email: wch.serving@lifechurch.tv
@@ -2126,6 +2138,12 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: sto.serving@lifechurch.tv
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 38
     title: Bixby Outreach Center
     recipient: sto.serving@lifechurch.tv
