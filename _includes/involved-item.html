@@ -1,4 +1,26 @@
-<div id="{{ item.id }}" class="grid-item panel involved-item">
+  {% if item.id == 'serving-13' %}
+  <div id="{{ item.id }}" class="grid-item panel involved-item">
+  {% unless item.image_small == '' %}
+  <img src="{{ item.image_small }}" data-retina="{{ item.image_medium }}" alt="{{ item.title }}" />
+  <noscript><img src="{{ item.image_small }}" alt="{{ item.title }}" /></noscript>
+  {% endunless %}
+  <h6>{{ item.title }}</h6>
+  {% unless item.location == "Online" %}
+  <p class="detail">{{ item.description_medium | newline_to_br }}</p>
+  {% else %}
+  <p class="detail">{{ item.description_small | newline_to_br }}</p>
+  {% endunless %}
+    <p>
+      <a href="/castandcrew/">
+         Get Involved <i class="icon icon-arrow"></i>
+      </a>
+    </p>
+      
+  </div>
+  
+  {% else %}
+
+  <div id="{{ item.id }}" class="grid-item panel involved-item">
   {% unless item.image_small == '' %}
   <img src="{{ item.image_small }}" data-retina="{{ item.image_medium }}" alt="{{ item.title }}" />
   <noscript><img src="{{ item.image_small }}" alt="{{ item.title }}" /></noscript>
@@ -59,3 +81,4 @@
     {% endif %}
   </div>
 </div>
+  {% endif %}
