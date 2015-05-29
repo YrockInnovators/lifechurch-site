@@ -1,4 +1,34 @@
 ---
+- id: man-in-the-mirror
+  title: Man in the Mirror
+  headline: You were made by a Creator who loves, and you were created to love.
+  description_small: Why is it so hard to love ourselves? It's not a simple answer.
+    Maybe it's time to take a look at your relationship with the Man in the Mirror.
+  description_medium: You were never meant to be perfect. You were created to be loved.
+    So why is it so hard to love ourselves? It's not a simple answer. Maybe it's time
+    to take a look at your relationship with the Man in the Mirror.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2077-man-in-the-mirror
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 76
+    name: Louie Giglio
+    created_at: '2015-05-28T21:33:37.850Z'
+    updated_at: '2015-05-28T21:33:37.850Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/300x200.jpg?1432848920
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/600x400.jpg?1432848950
+  image_large: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1200x800.jpg?1432848981
+  image_social: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/400x400.jpg?1432849003
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1500x340.jpg?1432849045
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/3000x680.jpg?1432849026
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/480x340.jpg?1432849083
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/960x680.jpg?1432849113
 - id: pray
   title: Pray
   headline: Prayers aren't empty words hurled at the sky. They’re the most important
