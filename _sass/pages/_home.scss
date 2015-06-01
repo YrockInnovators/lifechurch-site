@@ -95,12 +95,12 @@
       background-repeat: no-repeat;
       background-position: center;
       width: 100%;
-      max-width: 490px;
-      height: 200px;
+      max-width: 600px;
+      height: 140px;
       margin: -25px auto 0px;
 
       @include media($medium-screen) {
-        height: 200px;
+        height: 140px;
         margin: -30px auto 0px;
       }
     }
