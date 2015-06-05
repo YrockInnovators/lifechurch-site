@@ -59,7 +59,7 @@ hero: locations-hero
           <article class="wednesday day">
             <h6>Wednesday</h6>
             
-            <p class="detail"><em>Switch relaxes in the summer, just like you! Beginning in August, Switch experiences will be back on Wednesday nights at the times below.</em></p>
+            <p class="detail"><em>Switch relaxes in the summer, just like you! Beginning in August, Switch experiences will be back on Wednesday nights at the time below.</em></p>
             
             {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'wed' %}
             <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
