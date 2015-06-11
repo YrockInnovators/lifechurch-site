@@ -2,7 +2,7 @@
 published: true
 layout: talkitover
 category: talkitover
-series-id: christian-atheist
+series-id: the-christian-atheist
 title: Talk It Over Week 1
 ---
 
@@ -50,7 +50,7 @@ _They claim to **know God**, but their actions **deny him**_. ... Titus 1:16 NIV
 * * *
 
 ## From the Source
-<p class="lead">Keep Reading: dig into more Scriptures about you.</p>
+<p class="lead">Keep Reading: dig into Scripture about knowing God.</p>
 
 [Micah 6:8](https://www.bible.com/bible/111/mic.6.8.niv) [James 1:27](https://www.bible.com/bible/111/jam.1.27.niv) [Proverbs 3:5-6](https://www.bible.com/bible/111/pro.3.5-6.niv) [Deuteronomy 10:12](https://www.bible.com/bible/111/deu.10.12.niv)
 
