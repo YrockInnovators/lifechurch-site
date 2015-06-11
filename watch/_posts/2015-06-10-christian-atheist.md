@@ -2,6 +2,6 @@
 published: false
 layout: watch-promo
 categories: watch
-series-id: christian-atheist
-title: Christian Atheist
+series-id: the-christian-atheist
+title: The Christian Atheist
 ---
