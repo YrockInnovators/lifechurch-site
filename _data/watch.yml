@@ -1,5 +1,5 @@
 ---
-- id: christian-atheist
+- id: the-christian-atheist
   title: The Christian Atheist
   headline: Christian. Why does that word put a bad taste in some people’s mouths?
   description_small: Religion is one thing, but a relationship is something else entirely.
@@ -26,14 +26,14 @@
     name: Witnessing
     created_at: '2014-06-11T15:25:15.255Z'
     updated_at: '2014-06-11T15:25:15.255Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/300x200.jpg?1432755968
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/600x400.jpg?1432755998
-  image_large: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/1200x800.jpg?1432756025
-  image_social: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/400x400.jpg?1432756068
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/1500x340.jpg?1432756167
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/3000x680.jpg?1432756112
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/480x340.jpg?1432756219
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/960x680.jpg?1432756244
+  image_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/300x200.jpg?1432755968
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/600x400.jpg?1432755998
+  image_large: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1200x800.jpg?1432756025
+  image_social: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/400x400.jpg?1432756068
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1500x340.jpg?1432756167
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/3000x680.jpg?1432756112
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/480x340.jpg?1432756219
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/960x680.jpg?1432756244
 - id: man-in-the-mirror
   title: Man in the Mirror
   headline: You were made by a Creator who loves, and you were created to love.
