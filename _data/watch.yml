@@ -28,12 +28,12 @@
     updated_at: '2014-06-11T15:25:15.255Z'
   image_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/300x200.jpg?1434057026
   image_medium: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/600x400.jpg?1434057101
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_large: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1200x800.jpg?1434057630
+  image_social: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/400x400.jpg?1434057657
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1500x340.jpg?1434057690
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/3000x680.jpg?1434057674
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/480x340.jpg?1434057722
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/960x680.jpg?1434057745
 - id: man-in-the-mirror
   title: Man in the Mirror
   headline: You were made by a Creator who loves, and you were created to love.
