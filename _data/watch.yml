@@ -34,6 +34,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/3000x680.jpg?1434057674
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/480x340.jpg?1434057722
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/960x680.jpg?1434057745
+  messages:
+  - title: I Believe In God But Don't Know Him
+    headline: ''
+    video: u29p3r4v4r
 - id: man-in-the-mirror
   title: Man in the Mirror
   headline: You were made by a Creator who loves, and you were created to love.
