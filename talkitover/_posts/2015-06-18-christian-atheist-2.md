@@ -67,7 +67,3 @@ Share a story. How did it work out?
 * Grow your love + respect for God by reading this Psalms and Proverbs Bible Plan [go2.lc/psalmsproverbs](http://go2.lc/psalmsproverbs)
 * Write down two or three action steps you’ll take to fear the Lord in a way you haven’t been. Share them with the group, and begin living them out.
 * Dig deeper into _Christian Atheist_. Buy the book, then check out this 12-week group discussion guide at [go2.lc/castudy](http://go2.lc/castudy)
-
-* * *
-
-_Leaders, Craig filmed this video to thank you: [go2.lc/heroes](http://leaders.lifechurch.tv/you-are-the-heroes/)_
