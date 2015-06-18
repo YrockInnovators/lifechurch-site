@@ -29,7 +29,7 @@ hero: locations-hero
           <article class="saturday day">
             <h6>Saturday</h6>
 
-            {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sat' %}
+            {% for time in location.times %}{% if time.type == 'lifekids' or time.type == 'roots' %}{% if time.day == 'sat' %}
             <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
               <time>{{ time.title }}</time>
               <span>
@@ -38,7 +38,7 @@ hero: locations-hero
                 {% endif %}
               </span>
             </div>
-            {% endif %}{% endunless %}{% endfor %}
+            {% endif %}{% endif %}{% endfor %}
           </article>
 
           <article class="sunday day">
