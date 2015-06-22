@@ -35,7 +35,7 @@
   photo_campus: /locations/assets/campus/edm-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/edm-connect-campus@2x.jpg
 - id: ftw
-  name: Robert Wall
+  name: Jeremy Davis
   email: ftw.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/ftw-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ftw-connect-pastor@2x.jpg
@@ -112,7 +112,7 @@
   photo_campus: /locations/assets/campus/sto-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/sto-connect-campus@2x.jpg
 - id: stw
-  name: GT Moody
+  name: Cody Chaloner
   email: stw.pastor@lifechurch.tv
   photo_portrait: /locations/assets/campus/stw-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/stw-connect-pastor@2x.jpg
