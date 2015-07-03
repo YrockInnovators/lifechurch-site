@@ -26,10 +26,11 @@
     color: white;
     //padding-top: 1.5em;
     font-weight: 300;
+    text-transform: uppercase; 
   }
 
   .action {
-    color: #86def7;
+    color: $dark-red;
 
     &:hover {
       color: $blue;
@@ -45,6 +46,10 @@
     text-align: center;
     padding-left: 1em;
     padding-right: 1em;
+    
+    .lead {
+      font-size: 1.25em !important;
+    }
 
     .action {
       color: $medium-gray;
