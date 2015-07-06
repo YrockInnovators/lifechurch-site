@@ -324,8 +324,119 @@
     time: 08-30
     day: sun
     duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
+  missions:
+  - id: 48
+    title: Serve Moore
+    recipient: mor.serving@lifechurch.tv
+    url: http://www.servemoore.com/
+    description_medium: Help bring healing and restoration to Moore, Oklahoma and
+      its surrounding communities by sharing the Gospel and meeting the needs of its
+      residents.
+  - id: 51
+    title: Plaza Towers Elementary
+    recipient: mor.serving@lifechurch.tv
+    url: http://www.mooreschools.com/plazatowers
+    description_medium: Be part of this school’s new start and help build up the youth
+      of today to become tomorrow’s leaders.
+- id: klr
+  title: Keller TX Campus
+  email: klr.serving@lifechurch.tv
+  phone: 682-593-1140
+  address: 1075 Keller Pkwy. Keller, TX 76248
+  facebook: '343331435797233'
+  times:
   - title: 08:30AM
     time: 08-30
     day: sun
@@ -356,42 +467,6 @@
     duration: 60
     type: service-time
     type_name: Service time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -404,63 +479,6 @@
     duration: 120
     type: switch
     type_name: SWITCH
-  missions:
-  - id: 48
-    title: Serve Moore
-    recipient: mor.serving@lifechurch.tv
-    url: http://www.servemoore.com/
-    description_medium: Help bring healing and restoration to Moore, Oklahoma and
-      its surrounding communities by sharing the Gospel and meeting the needs of its
-      residents.
-  - id: 51
-    title: Plaza Towers Elementary
-    recipient: mor.serving@lifechurch.tv
-    url: http://www.mooreschools.com/plazatowers
-    description_medium: Be part of this school’s new start and help build up the youth
-      of today to become tomorrow’s leaders.
-- id: klr
-  title: Keller TX Campus
-  email: klr.serving@lifechurch.tv
-  phone: 682-593-1140
-  address: 1075 Keller Pkwy. Keller, TX 76248
-  facebook: '343331435797233'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
   missions: []
 - id: jnk
   title: Jenks OK Campus
@@ -853,14 +871,14 @@
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -877,14 +895,14 @@
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
@@ -909,6 +927,12 @@
     duration: 120
     type: roots
     type_name: Roots
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
   missions:
   - id: 30
     title: City Mission of Schenectady
@@ -1708,14 +1732,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1740,6 +1764,12 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   missions:
   - id: 55
     title: Autism Oklahoma
@@ -1956,22 +1986,28 @@
     time: 12-30
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 12:30PM
     time: 12-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 05:30PM
     time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
+  - title: 06:30PM
+    time: 18-30
     day: sun
     duration: 60
     type: service-time
@@ -2057,18 +2093,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
     type: service-time
     type_name: Service time
   - title: 11:30AM
@@ -2077,30 +2107,36 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
+  - title: 11:30AM
+    time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
     type: service-time
     type_name: Service time
-  - title: 05:00PM
-    time: 17-00
+  - title: 01:00PM
+    time: 13-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: sun
@@ -2125,6 +2161,12 @@
     duration: 120
     type: roots
     type_name: Roots
+  - title: 07:00PM
+    time: 19-00
+    day: wed
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 05:00PM
     time: 17-00
     day: sat
