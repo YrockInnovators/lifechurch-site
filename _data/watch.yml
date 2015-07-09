@@ -1,4 +1,23 @@
 ---
+- id: at-the-movies
+  title: At the Movies
+  headline: ''
+  description_small: ''
+  description_medium: ''
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories: []
+  image_small: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/300x200.jpg?1436466636
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/600x400.jpg?1436466701
+  image_large: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/1200x800.jpg?1436466730
+  image_social: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/400x400.jpg?1436466787
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/1500x340.jpg?1436466843
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/3000x680.jpg?1436466815
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/480x340.jpg?1436466883
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/960x680.jpg?1436466915
 - id: the-christian-atheist
   title: The Christian Atheist
   headline: Christian. Why does that word put a bad taste in some people’s mouths?
