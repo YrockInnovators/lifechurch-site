@@ -5,44 +5,6 @@ class: header-red section-watch section-series
 ---
 
 {% for series in site.data.watch %}
-
-{% if series.title == 'At the Movies' %}
-
-<a href="javascript:void(0)"  
-   style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
-   data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
-   data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
-   data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
-   data-video-player="01u_k6O2KbWP"
-   class="hero section-light hero-watch-archive"
-   onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
-   
-  <div class="inner">
-    <span class="play-large"></span>
-    <h1>{{ series.title }}</h1>
-    Watch the promo
-  </div>
-</a>
-
-<div class="group">
-  <section class="single">
-    <article class="text-center">
-      <p>{{ series.description_medium | newline_to_br }}</p><br /><br />
-
-      <a href="http://twitter.com/home/?status=I'd love to share this @lifechurchtv message with you: “{{ series.title }}” http://lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-twitter"></i> Invite on Twitter</a>
-
-      <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-facebook"></i> Invite on Facebook</a>
-
-      <a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action large"><i class="icon-social-gplus"></i> Invite on Google+</a>
-    </article>
-  </section>
-</div>
-
-
-{% include haivision-video-player.html id='01u_k6O2KbWP' %}
-
-{% endif %}
-
 {% if series.id == page.series-id %}
 
 <a href="javascript:void(0)"  
@@ -75,10 +37,12 @@ class: header-red section-watch section-series
   </section>
 </div>
 
+{% if series.title == 'At the Movies' %}
+{% include haivision-video-player.html id=series.promo %}
+{% else %}
 {% include video-player.html id=series.promo %}
-
-
 {% endif %}
 
+{% endif %}
 
 {% endfor %}
