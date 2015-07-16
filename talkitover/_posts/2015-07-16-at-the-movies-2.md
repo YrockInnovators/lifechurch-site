@@ -29,7 +29,7 @@ This week’s movie is based on the life of Louie Zamperini, an Olympic track st
 
 * From 1 to 100 percent, how much of what Louie faced do you think you could handle? What do you think got him to 100?
 * On a bad day, are you likely to: give up, get mad, go on, or get help?
-* Which scene plays over in your head? How could you apply it to a situation in you life?
+* Which scene plays over in your head? How could you apply it to a situation in your life?
 * Pretend for a moment your struggle is happening to someone else. What would you do or say to support them?
  
 <p class="lead">Start Sharing: choose questions that create openness.</p> 
@@ -55,7 +55,7 @@ This week’s movie is based on the life of Louie Zamperini, an Olympic track st
 ## Live It Out
 <p class="lead">Start Doing: commit to a step and live it out this week.</p>
 
-* Lead your group through our _Finding Comfort In Pain_ Bible Plan and discussion guide at [go2.lc/comfort](http://leaders.lifechurch.tv/finding-comfort-in-pain-discussion-guide/).
+* Lead your group through our _Finding Comfort In Pain_ Bible Plan and discussion guide at [go2.lc/comfort](http://leaders.lifechurch.tv/finding-comfort-in-pain-discussion-guide/)
 * Make a mental list of people you rely on. Send them a text this week to ask if you can pray for them about anything.
 * Memorize 2 Corinthians 4:16 this week.
 
