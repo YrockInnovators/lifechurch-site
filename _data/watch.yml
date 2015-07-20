@@ -1322,7 +1322,7 @@
   image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1437409712
   image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1437409768
   image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1437409800
-  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1393366956
+  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1437409832
   image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/rescue/1500x340.jpg?1437409886
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/3000x680.jpg?1437409867
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/rescue/480x340.jpg?1437409922
