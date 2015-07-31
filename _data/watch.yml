@@ -130,14 +130,14 @@
     name: Louie Giglio
     created_at: '2015-05-28T21:33:37.850Z'
     updated_at: '2015-05-28T21:33:37.850Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/300x200.jpg?1437404110
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/600x400.jpg?1437404137
-  image_large: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1200x800.jpg?1437404163
-  image_social: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/400x400.jpg?1437404201
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1500x340.jpg?1437404402
+  image_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/300x200.jpg?1438357983
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/600x400.jpg?1438358021
+  image_large: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1200x800.jpg?1438358049
+  image_social: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/400x400.jpg?1438358099
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1500x340.jpg?1438358217
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/3000x680.jpg?1438276139
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/480x340.jpg?1437404442
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/960x680.jpg?1437404502
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/480x340.jpg?1438358260
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/960x680.jpg?1438358280
   messages:
   - title: Man in the Mirror - 2
     headline: ''
@@ -265,14 +265,14 @@
     name: Steven Furtick
     created_at: '2014-06-11T15:35:51.030Z'
     updated_at: '2014-06-11T15:35:51.030Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/300x200.jpg?1437404896
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/dont-stop/600x400.jpg?1437404932
-  image_large: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1200x800.jpg?1437404960
-  image_social: http://s3.amazonaws.com/lcapi.production/series/dont-stop/400x400.jpg?1437404993
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1500x340.jpg?1437405049
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1437405023
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1437405078
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1437405110
+  image_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/300x200.jpg?1438358854
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/dont-stop/600x400.jpg?1438358893
+  image_large: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1200x800.jpg?1438358945
+  image_social: http://s3.amazonaws.com/lcapi.production/series/dont-stop/400x400.jpg?1438359011
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1500x340.jpg?1438359129
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1438359092
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1438359229
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1438359256
   messages:
   - title: It Will Happen
     headline: ''
