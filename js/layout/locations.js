@@ -53,39 +53,6 @@ $(".map").delegate("#newyork .state-title a, #newyork .view-all-states", "click"
 });
 
 
-// Geolocation for Locations map
-
-if ($('.map').length > 0) {
-  console.log("Geolify: " + geolify_state_name());
-
-  if (geolify_state_name() == 'Florida') {
-     $('.map').addClass('is-florida');
-  }
-
-  if (geolify_state_name() == 'Kansas') {
-     $('.map').addClass('is-kansas');
-  }
-
-  if (geolify_state_name() == 'New Mexico') {
-     $('.map').addClass('is-newmexico');
-  }
-
-  if (geolify_state_name() == 'New York') {
-     $('.map').addClass('is-newyork');
-  }
-
-  if (geolify_state_name() == 'Oklahoma') {
-     $('.map').addClass('is-oklahoma');
-  }
-
-  if (geolify_state_name() == 'Tennessee') {
-     $('.map').addClass('is-tennessee');
-  }
-
-  if (geolify_state_name() == 'Texas') {
-     $('.map').addClass('is-texas');
-  }
-}
 
 
 // Hide calendar dates that are empty
