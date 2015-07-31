@@ -1358,14 +1358,14 @@
     name: Ed Young
     created_at: '2014-06-11T15:27:31.681Z'
     updated_at: '2014-06-11T15:27:31.681Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1437409712
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1437409768
-  image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1437409800
-  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1437409832
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/rescue/1500x340.jpg?1437409886
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/3000x680.jpg?1437409867
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/rescue/480x340.jpg?1437409922
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/960x680.jpg?1437410565
+  image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1438368485
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1438368519
+  image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1438368539
+  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1438368558
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/rescue/1500x340.jpg?1438368598
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/3000x680.jpg?1438368581
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/rescue/480x340.jpg?1438368619
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/960x680.jpg?1438368660
   messages:
   - title: Rescue
     headline: ''
@@ -1514,14 +1514,14 @@
     name: Dave Ramsey
     created_at: '2014-06-11T15:42:22.866Z'
     updated_at: '2014-06-11T15:42:22.866Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1437410882
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1437410911
-  image_large: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1200x800.jpg?1437410933
-  image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1437410998
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1500x340.jpg?1437411071
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/3000x680.jpg?1437411042
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/480x340.jpg?1437411154
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/960x680.jpg?1437411182
+  image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1438369094
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1438369130
+  image_large: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1200x800.jpg?1438369159
+  image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1438369199
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1500x340.jpg?1438369261
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/3000x680.jpg?1438369232
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/480x340.jpg?1438369317
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/960x680.jpg?1438369349
   messages:
   - title: Helping the Hurting
     headline: ''
