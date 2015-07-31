@@ -439,14 +439,14 @@
     name: Chris Beall
     created_at: '2014-06-11T15:49:00.818Z'
     updated_at: '2014-06-11T15:49:00.818Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/300x200.jpg?1437421381
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/first-things-first/600x400.jpg?1437421411
-  image_large: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1200x800.jpg?1437421438
-  image_social: http://s3.amazonaws.com/lcapi.production/series/first-things-first/400x400.jpg?1437421462
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1500x340.jpg?1437421509
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1437421486
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1437421532
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1437421559
+  image_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/300x200.jpg?1438360202
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/first-things-first/600x400.jpg?1438360222
+  image_large: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1200x800.jpg?1438360249
+  image_social: http://s3.amazonaws.com/lcapi.production/series/first-things-first/400x400.jpg?1438360333
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1500x340.jpg?1438360456
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1438360385
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1438360514
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1438360541
   messages:
   - title: First Things First
     headline: ''
@@ -528,14 +528,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991Z'
     updated_at: '2014-06-11T15:48:49.991Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1437407322
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1437407358
-  image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1437407376
-  image_social: http://s3.amazonaws.com/lcapi.production/series/unlikely/400x400.jpg?1437407428
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/unlikely/1500x340.jpg?1437407509
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1437407454
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1437407542
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1437407585
+  image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1438361006
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1438361026
+  image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1438361089
+  image_social: http://s3.amazonaws.com/lcapi.production/series/unlikely/400x400.jpg?1438361199
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/unlikely/1500x340.jpg?1438361300
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1438361246
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1438361322
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1438361341
   messages:
   - title: The Story Of Mephibosheth
     headline: ''
@@ -1174,14 +1174,14 @@
     name: Carl Lentz
     created_at: '2014-06-11T16:14:48.792Z'
     updated_at: '2014-06-11T16:14:48.792Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1437408684
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1437408719
-  image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1437408748
+  image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1438362767
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1438362797
+  image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1438362835
   image_social: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/400x400.jpg?1393366868
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1500x340.jpg?1437408844
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/3000x680.jpg?1437408823
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/480x340.jpg?1437408867
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/960x680.jpg?1437408891
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1500x340.jpg?1438363089
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/3000x680.jpg?1438363040
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/480x340.jpg?1438363129
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/960x680.jpg?1438363168
   messages:
   - title: Growing Spiritually
     headline: ''
