@@ -1097,14 +1097,14 @@
     name: Christine Caine
     created_at: '2014-06-11T15:27:08.231Z'
     updated_at: '2014-06-11T15:27:08.231Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1437408113
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1437408212
-  image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1437408261
+  image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1438631869
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1438631897
+  image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1438631936
   image_social: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/400x400.jpg?1393366808
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1500x340.jpg?1437408491
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/3000x680.jpg?1437408319
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/480x340.jpg?1437408516
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/960x680.jpg?1437408552
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1500x340.jpg?1438632036
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/3000x680.jpg?1438632006
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/480x340.jpg?1438632089
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/960x680.jpg?1438632133
   messages:
   - title: Christine Caine - Maker of Miracles
     headline: ''
@@ -2346,14 +2346,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291Z'
     updated_at: '2014-06-11T15:52:33.291Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1437417376
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1437417407
-  image_large: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1200x800.jpg?1437417430
-  image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1437417455
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1500x340.jpg?1437417507
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/3000x680.jpg?1437417485
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/480x340.jpg?1437417527
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/960x680.jpg?1437417552
+  image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1438631314
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1438631341
+  image_large: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1200x800.jpg?1438631366
+  image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1438631394
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1500x340.jpg?1438631447
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/3000x680.jpg?1438631416
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/480x340.jpg?1438631492
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/960x680.jpg?1438631544
   messages:
   - title: Problem or a Miracle
     headline: ''
@@ -2898,14 +2898,14 @@
     name: Church Vision
     created_at: '2014-06-11T15:25:52.761Z'
     updated_at: '2014-06-11T15:25:52.761Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1437417844
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1437417873
-  image_large: http://s3.amazonaws.com/lcapi.production/series/xv/1200x800.jpg?1437417889
-  image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1437417906
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/xv/1500x340.jpg?1437417961
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/xv/3000x680.jpg?1437417923
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/xv/480x340.jpg?1437417984
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/xv/960x680.jpg?1437418015
+  image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1438632750
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1438632769
+  image_large: http://s3.amazonaws.com/lcapi.production/series/xv/1200x800.jpg?1438632790
+  image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1438632817
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/xv/1500x340.jpg?1438632863
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/xv/3000x680.jpg?1438632840
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/xv/480x340.jpg?1438632915
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/xv/960x680.jpg?1438632932
   messages:
   - title: 15-Year Anniversary
     headline: ''
@@ -2961,14 +2961,14 @@
     name: Chris Hodges
     created_at: '2014-06-11T15:26:28.191Z'
     updated_at: '2014-06-11T15:26:28.191Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1437418265
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/600x400.jpg?1437418293
-  image_large: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1200x800.jpg?1437418326
-  image_social: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/400x400.jpg?1437418353
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1500x340.jpg?1437418401
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/3000x680.jpg?1437418378
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/480x340.jpg?1437418428
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/960x680.jpg?1437418471
+  image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1438633231
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Never Lose Heart
     headline: ''
