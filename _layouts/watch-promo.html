@@ -37,7 +37,7 @@ class: header-red section-watch section-series
   </section>
 </div>
 
-{% if series.title == 'At the Movies' %}
+{% if series.title == 'At the Movies' || 'A Way Out' %}
 {% include haivision-video-player.html id=series.promo %}
 {% else %}
 {% include video-player.html id=series.promo %}
