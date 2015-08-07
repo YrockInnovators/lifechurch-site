@@ -95,13 +95,13 @@
       background-size: contain;
       background-repeat: no-repeat;
       background-position: center;
-      width: 90%;
+      width: 100%;
       max-width: 800px;
-      height: 100px;
+      height: 225px;
       margin: -25px auto 0px;
 
       @include media($medium-screen) {
-        height: 100px;
+        height: 225px;
         margin: 50px auto 0px;
       }
     }
