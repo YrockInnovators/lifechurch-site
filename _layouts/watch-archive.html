@@ -99,8 +99,7 @@ class: header-red section-watch section-series
 
 <div class="page-main">
   {% for message in series.messages %}
-{% include video-player.html id=series.promo %}
-
+  {% include video-player.html id=message.video %}
   {% endfor %}
 </div>
 
