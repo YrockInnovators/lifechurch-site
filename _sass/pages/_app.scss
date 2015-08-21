@@ -39,7 +39,15 @@
     .icon-google-play:hover{
       opacity: .75;
     }
+    
   }
+  
+  .phones {
+      max-height: 500px;
+      text-align: center;
+      margin: auto;
+      display: table;
+    }
   
   
   @media all and (max-width: 510px) {
@@ -68,6 +76,6 @@
   }
   
   .closing {
-    background-color: $off-white;
+    background-color: #fff;
   }
 }
