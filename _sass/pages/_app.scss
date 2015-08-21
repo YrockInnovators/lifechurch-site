@@ -5,70 +5,77 @@
   
   .hero-app {
     @include retina-image(/images/app/hero-bg, cover, jpg);
-    min-height: 450px !important;
+    min-height: 400px !important;
       h1 {
-        font-size: 2em;
-        margin: 155px auto 0;
+        font-size: 2.75em;
+        margin: 85px auto 0;
       }
-  }
-  
-  .hero-subscribe {
-    @include retina-image(/images/castandcrew/join-bg, 1021px cover, jpg);
-    background-color: #010002;
-    background-position: center bottom;
-    padding-bottom: 250px;
-  }
-  
-  .icon-facebook {
-    @include hide-text;
-    @include svg-image('/images/tools/tools-social-facebook');
-    background-size: 70px 70px;
-    width: 80px;
-    height: 70px;
-  }
-  
-  .icon-twitter {
-    @include hide-text;
-    @include svg-image('/images/tools/tools-social-twitter');
-    background-size: 70px 70px;
-    width: 80px;
-    height: 70px;
-  }
-  
-  .icon-instagram {
-    @include hide-text;
-    @include svg-image('/images/tools/tools-social-instagram');
-    background-size: 70px 70px;
-    width: 80px;
-    height: 70px;
-  }
-
-  .icon-facebook:hover,
-  .icon-twitter:hover,
-  .icon-instagram:hover {
-    opacity: .75;
-  }
-  
-  @include media($medium-screen) {
-    .mc-field-group {
-      max-width: 30em;
-      margin: 0 auto;
+      p {
+        max-width: 900px;
+        margin: 1em auto;
+      }
+    
+      .icon-itunes {
+      @include hide-text;
+      @include retina-image(/images/app/itunes, contain);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 70px 70px;
+      width: 200px;
+      height: 55px;
+    }
+    
+    .icon-google-play {
+      @include hide-text;
+      @include retina-image(/images/app/google-play, contain);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 70px 70px;
+      width: 200px;
+      height: 54px;
     }
 
-    #mce-EMAIL {
-      width: 65%;
-      float: left;
-      padding: 17px 0 15px;
-      text-indent: 13px;
+    .icon-itunes:hover,
+    .icon-google-play:hover{
+      opacity: .75;
     }
+    
+  }
+  
+  .phones {
+      max-height: 500px;
+      text-align: center;
+      margin: auto;
+      display: table;
+    }
+  
+  
+  @media all and (max-width: 510px) {
+    .hero-app {
+      h1 {
+        font-size: 2.5em;
+        margin: 50px auto 0;
+      }
+      .icon-itunes {
+        @include hide-text;
+        @include retina-image(/images/app/itunes, contain);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 125px;
+      }
 
-    #mc-embedded-subscribe {
-      width: 30%;
-      float: right;
+      .icon-google-play {
+        @include hide-text;
+        @include retina-image(/images/app/google-play, contain);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 125px;
+        margin-left: 10px;
+      }
     }
   }
-
+  
   .closing {
-    background-color: $off-white;
+    background-color: #fff;
   }
 }
