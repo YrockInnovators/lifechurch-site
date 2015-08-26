@@ -1,12 +1,12 @@
 .home {
   
   .lead {
-    color: #444;
+    color: #fff;
     font-size: 1.3em;
   }
   
   .large.action {
-    color: #b9252d;
+    color: #fff;
   }
 
   .home-menu {
@@ -60,20 +60,21 @@
   ///////////////////////////////////////////////////////////////////////////////
 
   &.generic {
-    @include retina-image(/images/home/generic-bg, 200px auto, jpg);
+    //@include retina-image(/images/home/generic-bg, 200px auto, jpg);
     background-position: top left;
     background-repeat: no-repeat;
 
     .hero {
-      background: transparent;
+      background: #d8452e;
+      height: 100%;
     }
   }
 
   .hero {
     min-height: 200px;
-    //@include retina-image(/images/home/home-bg, 1500px auto, jpg);
+    @include retina-image(/images/home/home-bg, 1500px auto, jpg);
     //background-position: bottom center;
-    background-color: #fff;
+    background-color: #1d1c24;
     position: relative;
     padding-bottom: 140px;
 
@@ -82,10 +83,10 @@
     }
 
     @include media($medium-screen) {
-      //@include retina-image(/images/home/home-bg, 1500px auto, jpg);
-      //height: 800px;
-      background-color: #fff;
-      padding-bottom: 2em;
+      @include retina-image(/images/home/home-bg, 1500px auto, jpg);
+      height: 700px;
+      background-color: #1d1c24;
+      padding-bottom: 1em;
     }
     
     h1 {
@@ -95,13 +96,13 @@
       background-repeat: no-repeat;
       background-position: center;
       width: 100%;
-      max-width: 600px;
-      height: 140px;
+      max-width: 800px;
+      height: 225px;
       margin: -25px auto 0px;
 
       @include media($medium-screen) {
-        height: 140px;
-        margin: -30px auto 0px;
+        height: 225px;
+        margin: 50px auto 0px;
       }
     }
   }

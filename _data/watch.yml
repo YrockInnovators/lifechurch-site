@@ -1,6 +1,105 @@
 ---
-- id: christian-atheist
-  title: Christian Atheist
+- id: breaking-the-labels-that-bind
+  title: Breaking the Labels That Bind
+  headline: Refuse to let the labels of your past limit God’s plan for your future.
+  description_small: When you get stamped with a label, it says a lot about you—but
+    does it say the right things? No matter how you’re branded, we all have potential
+    beyond our Labels.
+  description_medium: The nickname you can't leave behind or the stereotype that follows
+    you through life. When you get stamped with a label, it says a lot about you—but
+    does it say the right things? Whether you love or hate how you’re branded, we
+    all have potential beyond our Labels.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2133-labels
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/300x200.jpg?1440599620
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/600x400.jpg?1440599730
+  image_large: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1200x800.jpg?1440599851
+  image_social: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/400x400.jpg?1440599649
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1500x340.jpg?1440599881
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/3000x680.jpg?1440599909
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/480x340.jpg?1440599700
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/960x680.jpg?1440599808
+- id: a-way-out
+  title: A Way Out
+  headline: Put your trust in someone who knows A Way Out.
+  description_small: Where do you turn when temptation changes what you want into
+    what you need? Maybe it’s time to trust in someone who knows A Way Out.
+  description_medium: Temptation is the seductive little voice that twists what you
+    want into what you need. It distorts your thoughts until you’re trapped—and when
+    you’re trapped by temptation, it’s not the time to listen to yourself. Put your
+    trust in someone who knows A Way Out.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2116-a-way-out
+  promo: Jt9N3rOzl_Dm
+  resources_url: ''
+  categories:
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/a-way-out/300x200.jpg?1437580213
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/a-way-out/600x400.jpg?1437580235
+  image_large: http://s3.amazonaws.com/lcapi.production/series/a-way-out/1200x800.jpg?1437580262
+  image_social: http://s3.amazonaws.com/lcapi.production/series/a-way-out/400x400.jpg?1437580407
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/a-way-out/1500x340.jpg?1437580498
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/a-way-out/3000x680.jpg?1437580471
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/a-way-out/480x340.jpg?1437580542
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/a-way-out/960x680.jpg?1437580652
+  messages:
+  - title: Living By The Spirit
+    headline: ''
+    video: qq1osy4erc
+  - title: Fighting Temptation
+    headline: ''
+    video: b4ox11x4dm
+  - title: Always A Way Out
+    headline: ''
+    video: vuxlw3bk2u
+- id: at-the-movies
+  title: At the Movies
+  headline: ''
+  description_small: ''
+  description_medium: Why do you love movies? Lasers and explosions? When the guy
+    finally gets the girl? When good triumphs over evil? Maybe there’s more truth
+    hidden in our favorite flicks than we realize. Start thinking outside the box
+    office in At the Movies—only at Church Online or your local LifeChurch.tv location!
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2073-at-the-movies-2015
+  promo: 01u_k6O2KbWP
+  resources_url: ''
+  categories: []
+  image_small: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/300x200.jpg?1436466636
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/600x400.jpg?1436466701
+  image_large: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/1200x800.jpg?1436466730
+  image_social: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/400x400.jpg?1436466787
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/1500x340.jpg?1436466843
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/3000x680.jpg?1436466815
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/480x340.jpg?1436466883
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/at-the-movies/960x680.jpg?1436466915
+- id: the-christian-atheist
+  title: The Christian Atheist
   headline: Christian. Why does that word put a bad taste in some people’s mouths?
   description_small: Religion is one thing, but a relationship is something else entirely.
     Discover the difference in Christian Atheist.
@@ -26,14 +125,27 @@
     name: Witnessing
     created_at: '2014-06-11T15:25:15.255Z'
     updated_at: '2014-06-11T15:25:15.255Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/300x200.jpg?1432755968
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/600x400.jpg?1432755998
-  image_large: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/1200x800.jpg?1432756025
-  image_social: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/400x400.jpg?1432756068
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/1500x340.jpg?1432756167
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/3000x680.jpg?1432756112
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/480x340.jpg?1432756219
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/christian-atheist/960x680.jpg?1432756244
+  image_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/300x200.jpg?1434057026
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/600x400.jpg?1434057101
+  image_large: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1200x800.jpg?1434057630
+  image_social: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/400x400.jpg?1434057657
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/1500x340.jpg?1434057690
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/3000x680.jpg?1434057674
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/480x340.jpg?1434057722
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/the-christian-atheist/960x680.jpg?1434057745
+  messages:
+  - title: I Believe In God But Don’t Trust Him Fully
+    headline: ''
+    video: 4xf6zawmg0
+  - title: I Believe In God But Don’t Want To Go Overboard
+    headline: ''
+    video: z45us7mpao
+  - title: I Believe In God But Don’t Fear Him
+    headline: ''
+    video: htwoddhvqh
+  - title: I Believe In God But Don't Know Him
+    headline: ''
+    video: u29p3r4v4r
 - id: man-in-the-mirror
   title: Man in the Mirror
   headline: You were made by a Creator who loves, and you were created to love.
@@ -56,14 +168,14 @@
     name: Louie Giglio
     created_at: '2015-05-28T21:33:37.850Z'
     updated_at: '2015-05-28T21:33:37.850Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/300x200.jpg?1432848920
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/600x400.jpg?1432848950
-  image_large: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1200x800.jpg?1432848981
-  image_social: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/400x400.jpg?1432849003
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1500x340.jpg?1432849045
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/3000x680.jpg?1432849026
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/480x340.jpg?1432849083
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/960x680.jpg?1432849113
+  image_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/300x200.jpg?1438357983
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/600x400.jpg?1438358021
+  image_large: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1200x800.jpg?1438358049
+  image_social: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/400x400.jpg?1438358099
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/1500x340.jpg?1438358217
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/3000x680.jpg?1438276139
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/480x340.jpg?1438358260
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/man-in-the-mirror/960x680.jpg?1438358280
   messages:
   - title: Man in the Mirror - 2
     headline: ''
@@ -191,14 +303,14 @@
     name: Steven Furtick
     created_at: '2014-06-11T15:35:51.030Z'
     updated_at: '2014-06-11T15:35:51.030Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/300x200.jpg?1424725098
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/dont-stop/600x400.jpg?1424725226
-  image_large: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1200x800.jpg?1424725333
-  image_social: http://s3.amazonaws.com/lcapi.production/series/dont-stop/400x400.jpg?1424725014
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1500x340.jpg?1424725353
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1424725377
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1424725180
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1424725309
+  image_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/300x200.jpg?1438358854
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/dont-stop/600x400.jpg?1438358893
+  image_large: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1200x800.jpg?1438358945
+  image_social: http://s3.amazonaws.com/lcapi.production/series/dont-stop/400x400.jpg?1438359011
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/dont-stop/1500x340.jpg?1438359129
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/3000x680.jpg?1438359092
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/dont-stop/480x340.jpg?1438359229
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/dont-stop/960x680.jpg?1438359256
   messages:
   - title: It Will Happen
     headline: ''
@@ -365,14 +477,14 @@
     name: Chris Beall
     created_at: '2014-06-11T15:49:00.818Z'
     updated_at: '2014-06-11T15:49:00.818Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/300x200.jpg?1418414291
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/first-things-first/600x400.jpg?1418414412
-  image_large: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1200x800.jpg?1418414586
-  image_social: http://s3.amazonaws.com/lcapi.production/series/first-things-first/400x400.jpg?1418414123
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1500x340.jpg?1418414742
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1418414821
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1418414926
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1418414989
+  image_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/300x200.jpg?1438360202
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/first-things-first/600x400.jpg?1438360222
+  image_large: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1200x800.jpg?1438360249
+  image_social: http://s3.amazonaws.com/lcapi.production/series/first-things-first/400x400.jpg?1438360333
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/first-things-first/1500x340.jpg?1438360456
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/3000x680.jpg?1438360385
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/first-things-first/480x340.jpg?1438360514
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/first-things-first/960x680.jpg?1438360541
   messages:
   - title: First Things First
     headline: ''
@@ -454,14 +566,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991Z'
     updated_at: '2014-06-11T15:48:49.991Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1416523819
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1416523839
-  image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1416523858
-  image_social: http://s3.amazonaws.com/lcapi.production/series/unlikely/400x400.jpg?1416523886
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/unlikely/1500x340.jpg?1416523926
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1416523904
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1416523969
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1416523992
+  image_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/300x200.jpg?1438361006
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/unlikely/600x400.jpg?1438361026
+  image_large: http://s3.amazonaws.com/lcapi.production/series/unlikely/1200x800.jpg?1438361089
+  image_social: http://s3.amazonaws.com/lcapi.production/series/unlikely/400x400.jpg?1438361199
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/unlikely/1500x340.jpg?1438361300
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/3000x680.jpg?1438361246
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/unlikely/480x340.jpg?1438361322
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/unlikely/960x680.jpg?1438361341
   messages:
   - title: The Story Of Mephibosheth
     headline: ''
@@ -684,49 +796,6 @@
   - title: Stand Out
     headline: ''
     video: 2p64n4bvmp
-- id: atm-2014-five-easy-steps
-  title: Five Easy Steps to Wreck Your Life
-  headline: ''
-  description_small: ''
-  description_medium: Nobody plans for it to happen, but life can get pretty messy.
-    Trouble with our relationships…harmful habits…feeling far from God…we look back
-    and wonder, “How did I end up here?” Starting down that path is easier than you
-    might think, unless you know what to look for.
-  quote: ''
-  quote_cite: ''
-  open_url: http://open.church/resources/1425-5-easy-steps-to-wreck-your-life
-  promo: ''
-  resources_url: ''
-  categories:
-  - id: 12
-    name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
-  - id: 13
-    name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: http://s3.amazonaws.com/lcapi.production/series/atm-2014-five-easy-steps/400x400.jpg?1404932459
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: How to Become Dissatisfied
-    headline: ''
-    video: 57lyxqir0e
-  - title: How to Become an Addict
-    headline: ''
-    video: dqb1llfx3m
-  - title: How to Drift From God
-    headline: ''
-    video: 4fhn7ydkx4
-  - title: How to Commit Adultery
-    headline: ''
-    video: m2xawcp08d
 - id: love
   title: Love
   headline: 'Does perfect love exist? '
@@ -1066,14 +1135,14 @@
     name: Christine Caine
     created_at: '2014-06-11T15:27:08.231Z'
     updated_at: '2014-06-11T15:27:08.231Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1396038137
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1396038218
-  image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1396038239
+  image_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/300x200.jpg?1438631869
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/600x400.jpg?1438631897
+  image_large: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1200x800.jpg?1438631936
   image_social: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/400x400.jpg?1393366808
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/1500x340.jpg?1438632036
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/3000x680.jpg?1438632006
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/480x340.jpg?1438632089
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/maker-of-miracles/960x680.jpg?1438632133
   messages:
   - title: Christine Caine - Maker of Miracles
     headline: ''
@@ -1143,14 +1212,14 @@
     name: Carl Lentz
     created_at: '2014-06-11T16:14:48.792Z'
     updated_at: '2014-06-11T16:14:48.792Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1396037980
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1396038029
-  image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1396038073
+  image_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/300x200.jpg?1438362767
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/600x400.jpg?1438362797
+  image_large: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1200x800.jpg?1438362835
   image_social: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/400x400.jpg?1393366868
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/1500x340.jpg?1438363089
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/3000x680.jpg?1438363040
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/480x340.jpg?1438363129
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/growing-spiritually/960x680.jpg?1438363168
   messages:
   - title: Growing Spiritually
     headline: ''
@@ -1327,14 +1396,14 @@
     name: Ed Young
     created_at: '2014-06-11T15:27:31.681Z'
     updated_at: '2014-06-11T15:27:31.681Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1396037750
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1396037853
-  image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1396037915
-  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1393366956
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/rescue/300x200.jpg?1438368485
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/rescue/600x400.jpg?1438368519
+  image_large: http://s3.amazonaws.com/lcapi.production/series/rescue/1200x800.jpg?1438368539
+  image_social: http://s3.amazonaws.com/lcapi.production/series/rescue/400x400.jpg?1438368558
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/rescue/1500x340.jpg?1438368598
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/3000x680.jpg?1438368581
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/rescue/480x340.jpg?1438368619
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/rescue/960x680.jpg?1438368660
   messages:
   - title: Rescue
     headline: ''
@@ -1483,14 +1552,14 @@
     name: Dave Ramsey
     created_at: '2014-06-11T15:42:22.866Z'
     updated_at: '2014-06-11T15:42:22.866Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1396039125
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1396039212
-  image_large: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1200x800.jpg?1396039260
-  image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1396039162
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/300x200.jpg?1438369094
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/600x400.jpg?1438369130
+  image_large: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1200x800.jpg?1438369159
+  image_social: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/400x400.jpg?1438369199
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/1500x340.jpg?1438369261
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/3000x680.jpg?1438369232
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/480x340.jpg?1438369317
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/helping-the-hurting/960x680.jpg?1438369349
   messages:
   - title: Helping the Hurting
     headline: ''
@@ -1712,14 +1781,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291Z'
     updated_at: '2014-06-11T15:52:33.291Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/300x200.jpg?1396035436
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/600x400.jpg?1396035490
-  image_large: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/1200x800.jpg?1396035527
-  image_social: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/400x400.jpg?1396035463
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/300x200.jpg?1438617235
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/600x400.jpg?1438617323
+  image_large: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/1200x800.jpg?1438617348
+  image_social: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/400x400.jpg?1438617391
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/1500x340.jpg?1438617449
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/3000x680.jpg?1438617420
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/480x340.jpg?1438617476
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/lead-like-jesus/960x680.jpg?1438617508
   messages:
   - title: Lead Like Jesus
     headline: ''
@@ -1997,14 +2066,14 @@
     name: Pierre du Plessis
     created_at: '2014-06-11T15:47:09.892Z'
     updated_at: '2014-06-11T15:47:09.892Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/300x200.jpg?1396033970
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/600x400.jpg?1396034014
-  image_large: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/1200x800.jpg?1396034038
-  image_social: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/400x400.jpg?1396033996
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/300x200.jpg?1438618116
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/600x400.jpg?1438618144
+  image_large: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/1200x800.jpg?1438618174
+  image_social: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/400x400.jpg?1438618197
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/1500x340.jpg?1438618256
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/3000x680.jpg?1438618231
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/480x340.jpg?1438618283
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/more-than-dust/960x680.jpg?1438618302
   messages:
   - title: More Than Dust
     headline: ''
@@ -2315,14 +2384,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291Z'
     updated_at: '2014-06-11T15:52:33.291Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1396025900
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1396025944
-  image_large: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1200x800.jpg?1396025980
-  image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1396025924
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/300x200.jpg?1438631314
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/600x400.jpg?1438631341
+  image_large: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1200x800.jpg?1438631366
+  image_social: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/400x400.jpg?1438631394
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/1500x340.jpg?1438631447
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/3000x680.jpg?1438631416
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/480x340.jpg?1438631492
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/problem-or-a-miracle/960x680.jpg?1438631544
   messages:
   - title: Problem or a Miracle
     headline: ''
@@ -2867,14 +2936,14 @@
     name: Church Vision
     created_at: '2014-06-11T15:25:52.761Z'
     updated_at: '2014-06-11T15:25:52.761Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1396017703
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1396017885
-  image_large: http://s3.amazonaws.com/lcapi.production/series/xv/1200x800.jpg?1396017915
-  image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1396017729
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/xv/300x200.jpg?1438632750
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/xv/600x400.jpg?1438632769
+  image_large: http://s3.amazonaws.com/lcapi.production/series/xv/1200x800.jpg?1438632790
+  image_social: http://s3.amazonaws.com/lcapi.production/series/xv/400x400.jpg?1438632817
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/xv/1500x340.jpg?1438632863
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/xv/3000x680.jpg?1438632840
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/xv/480x340.jpg?1438632915
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/xv/960x680.jpg?1438632932
   messages:
   - title: 15-Year Anniversary
     headline: ''
@@ -2930,14 +2999,14 @@
     name: Chris Hodges
     created_at: '2014-06-11T15:26:28.191Z'
     updated_at: '2014-06-11T15:26:28.191Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1395957477
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/600x400.jpg?1395957539
-  image_large: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1200x800.jpg?1395957568
-  image_social: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/400x400.jpg?1395957517
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/300x200.jpg?1438633231
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/600x400.jpg?1438633268
+  image_large: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1200x800.jpg?1438633295
+  image_social: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/400x400.jpg?1438633316
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/1500x340.jpg?1438633366
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/3000x680.jpg?1438633342
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/480x340.jpg?1438633399
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/never-lose-heart/960x680.jpg?1438633435
   messages:
   - title: Never Lose Heart
     headline: ''
@@ -4022,2454 +4091,3 @@
   - title: The Vow Of Priority
     headline: ''
     video: ge1a3y2iil
-- id: i-love-my-church
-  title: I Love My Church
-  headline: 
-  description_small: 
-  description_medium: It’s more than a building or an hour on the weekend.  The heart
-    of a church is the people who gather there to follow Christ together. But it’s
-    what happens along the way that is truly inspiring!
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Invasions - Week 2
-    headline: 
-    video: 
-  - title: Invasions - Week 1
-    headline: 
-    video: 
-- id: christmas08
-  title: Christmas 2008
-  headline: 
-  description_small: 
-  description_medium: |
-    Merry Christmas from LifeChurch.tv!  Our prayer is that your holiday season is filled with love, joy, and peace, and that you’ll experience Jesus Christ in new and exciting ways!</p>
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: What Child Is This
-    headline: 
-    video: 
-- id: prayer_2008
-  title: Prayer
-  headline: 
-  description_small: 
-  description_medium: "<p>Everyone knows it’s important but not everyone knows how
-    to do it.</p>"
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Praying Like Jesus Prayed
-    headline: 
-    video: 
-  - title: Why Didn't God Answer My Prayer?
-    headline: 
-    video: 
-  - title: Getting to Know God Through Prayer
-    headline: 
-    video: 
-- id: whispers
-  title: Whispers
-  headline: 
-  description_small: 
-  description_medium: "<p>A whisper. It’s spoken softly in quiet tones. It’s hard
-    to hear and easy to miss. And it’s often how God communicates with us. Find out
-    what happens when we pay attention to the Whispers of God.</p>"
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Whispers
-    headline: 
-    video: 
-- id: practical-atheist
-  title: Practical Atheist
-  headline: 
-  description_small: 
-  description_medium: |-
-    <p>You say you believe in God. Do you really?</p>
-
-    <p>Do you live your life as if God is in the room, or do you assume He’s not paying attention?</p>
-
-    <p>You call yourself a Christian. Are you who you say you are?</p>
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: I Believe in God , But I Don’t Know Him
-    headline: 
-    video: 
-  - title: I Believe in God , But I Trust in Money
-    headline: 
-    video: 
-  - title: I Believe in God , But Don’t Go Overboard
-    headline: 
-    video: 
-  - title: I Believe in God , But I don’t Fear Him
-    headline: 
-    video: 
-- id: kaleo08
-  title: Kaleo
-  headline: 
-  description_small: 
-  description_medium: |-
-    1 Peter 2:21 (NIV), "To this you were called, because Christ suffered for you, leaving you an example, that you should follow in his steps," is the foundation of the message series, Kaleo.
-    <br /><br />
-    Join LifeChurch.tv as we learn God's call on each of our lives and how to be set apart and ready to follow His divine calling.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Called To Make Disciples
-    headline: 
-    video: 
-  - title: Called To Serve
-    headline: 
-    video: 
-  - title: Called To Generosity
-    headline: 
-    video: 
-  - title: Kaleo - 1
-    headline: 
-    video: 
-- id: ydhwit
-  title: You Don't Have What It Takes
-  headline: 
-  description_small: 
-  description_medium: "Trying to juggle everything life throws at you can feel like
-    a three-ring circus. No matter how hard you try, you'll never be able to handle
-    it on your own. \n<br /><br />Bet you didn't know that was a good thing."
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Week 4
-    headline: 
-    video: 
-  - title: Week 3
-    headline: 
-    video: 
-  - title: Week 2
-    headline: 
-    video: 
-  - title: Week 1
-    headline: 
-    video: 
-- id: so-your-dead
-  title: So You're Dead... Now What?
-  headline: 
-  description_small: 
-  description_medium: 'The afterlife is cloaked in mystery. What happens moments after
-    we die? What is Heaven really like? What about Hell? And does what we do in this
-    world really matter in the next? '
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Heaven
-    headline: 
-    video: 
-  - title: Death
-    headline: 
-    video: 
-  - title: Hell
-    headline: 
-    video: 
-  - title: Death
-    headline: 
-    video: 
-- id: one-prayer
-  title: One Prayer
-  headline: 
-  description_small: 
-  description_medium: One Lord, One Baptism, One Faith... and now, One Prayer<br /><br
-    />What would happen if believers from all over the globe came together to impact
-    the world like never before?  LifeChurch.tv is partnering with hundreds of other
-    churches to unite together for a series called &#39;One Prayer.&#39;  By living
-    beyond ourselves, we can change our communities and our world.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Make Us Passionate
-    headline: 
-    video: 
-  - title: Make Us Wake Up
-    headline: 
-    video: 
-  - title: Make Us Dangerous
-    headline: 
-    video: 
-  - title: Make Us One
-    headline: 
-    video: 
-  - title: One Prayer - The Vision
-    headline: 
-    video: 
-- id: fanatic
-  title: Fanatic
-  headline: 
-  description_small: 
-  description_medium: "Ask yourself the question, &#34;What do I worship?&#34;  You
-    might be surprised by the answer.  \n \nDo you spend the same time and energy
-    toward God as you do with sporting events, concerts or even your Wii?  Are you
-    as fanatical about showing your praise for God as you are about showing off your
-    house?  If not, then maybe you&#39;re worshipping the wrong things."
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Fanatic 2
-    headline: 
-    video: 
-  - title: Fanatic 1
-    headline: 
-    video: 
-- id: habakkuk
-  title: Habakkuk
-  headline: 
-  description_small: 
-  description_medium: You see it every day. Bad people taking advantage of the weak.
-    Good people down on their luck. Innocent people suffering. War. Injustice.Ever
-    get the feeling God isn&#39;t fair? Discover how an Old Testament prophet can
-    inspire a modern day faith in God&#39;s Promises.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Habakkuk - Week 3
-    headline: 
-    video: 
-  - title: Habakkuk - Week 2
-    headline: 
-    video: 
-  - title: Habakkuk - Week 1
-    headline: 
-    video: 
-- id: the-warrior
-  title: The Warrior
-  headline: 
-  description_small: 
-  description_medium: In every man's life, there is a cause worth fighting for and
-    a victory worth claiming. What is yours? Discover how to not only prepare for
-    the battles ahead, but more importantly, how to emerge victoriously. It's time
-    to stop playing the role of the nice guy and instead live as The Warrior.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Passionate Warrior
-    headline: 
-    video: 
-  - title: The Distracted Warrior
-    headline: 
-    video: 
-  - title: The Wounded Warrior
-    headline: 
-    video: 
-  - title: The Hesitant Warrior
-    headline: 
-    video: 
-  - title: The Warrior's Cause
-    headline: 
-    video: 
-- id: hostage
-  title: Hostage
-  headline: 
-  description_small: 
-  description_medium: We’re all held hostage by something…what is your captor? Maybe
-    it’s fear, pride, lust, or even jealousy. The good news is that our ransom has
-    been paid in full. Join LifeChurch.tv for Hostage, and discover how to truly break
-    free, once and for all, from the ties that bind.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Lies
-    headline: 
-    video: 
-  - title: Anger
-    headline: 
-    video: 
-  - title: Addiction
-    headline: 
-    video: 
-  - title: Worry
-    headline: 
-    video: 
-  - title: Bitterness
-    headline: 
-    video: 
-- id: unstoppable
-  title: Unstoppable
-  headline: 
-  description_small: 
-  description_medium: What would happen if we truly embraced our mission to lead people
-    to become fully devoted followers of Christ? We could become an unstoppable force.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Unstoppable Idiots
-    headline: 
-    video: 
-  - title: Unstoppable
-    headline: 
-    video: 
-  - title: Unstoppable Vision
-    headline: 
-    video: 
-- id: he-will-be-called
-  title: He Will Be Called
-  headline: 
-  description_small: 
-  description_medium: There are many names for Jesus, but what do they really mean?
-    Join LifeChurch.tv as we discover why He is called Wonderful Counselor, Mighty
-    God, Everlasting Father, and Prince of Peace. You’ll gain a new and relevant perspective
-    on the Savior who was born in a manger over two thousand years ago.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Prince of Peace
-    headline: 
-    video: 
-  - title: Everlasting Father
-    headline: 
-    video: 
-  - title: Mighty God
-    headline: 
-    video: 
-  - title: Wonderful Counselor
-    headline: 
-    video: 
-- id: supernatural
-  title: Supernatural
-  headline: 
-  description_small: 
-  description_medium: What you see is not all there is. The Bible says, "We are not
-    fighting against people made of flesh and blood, but against the evil rulers and
-    authorities of the unseen world..." (Eph 6:12, NLT). Join us as we study spiritual
-    warfare, angels, demons and the Holy Spirit. Together well uncover the SuperNatural.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Angels
-    headline: 
-    video: 
-  - title: Satan and His Demons
-    headline: 
-    video: 
-  - title: Holy Spirit
-    headline: 
-    video: 
-  - title: Spiritual Warfare
-    headline: 
-    video: 
-- id: porn-sunday
-  title: Porn Sunday
-  headline: 
-  description_small: 
-  description_medium: Pornography is a multi billion-dollar industry that is tearing
-    apart marriages and families everywhere you turn. This addiction is raping the
-    minds of people all around the world…Christians, non-Christians, men, women AND
-    children. The facts surrounding this ugly elephant in the room will blow your
-    mind. Join us as we partner with XXXChurch.com, the nation’s largest anti-porn
-    ministry, for National Porn Sunday. You’ll walk away empowered with the truth
-    necessary to battle America’s dirty little secret…pornography.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Porn
-    headline: 
-    video: 
-- id: blessed
-  title: Blessed
-  headline: 
-  description_small: 
-  description_medium: Many people pray, “God, please bless me.” And God wants to bless
-    you. But the blessings of God are often more than a new car, a bigger salary,
-    and a better lifestyle. In the series, “Blessed,” we’ll experience firsthand some
-    of God’s unusual blessings.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Blessed to Share His Story
-    headline: 
-    video: 
-  - title: Blessed to be a Blessing
-    headline: 
-    video: 
-  - title: Blessed with a Burden
-    headline: 
-    video: 
-  - title: Blessed with a Need
-    headline: 
-    video: 
-- id: 30-days-to-live
-  title: 30 Days to Live
-  headline: 
-  description_small: 
-  description_medium: What if you learned you had just 30 days to live? How would
-    your life be different? Is it possible to make the most of every day, right now?
-    Join us for "30 Days to Live," as we meet several brave people facing life-threatening
-    illnesses. Once you hear their stories, and experience Gods truth, you'll never
-    look at life the same.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Fighting for Peace
-    headline: 
-    video: 
-  - title: Leave a Legacy
-    headline: 
-    video: 
-  - title: Eternal Perspectives
-    headline: 
-    video: 
-  - title: Living in the Moment
-    headline: 
-    video: 
-- id: jonah
-  title: Jonah
-  headline: 
-  description_small: 
-  description_medium: God works miracles through those who obey, though often times
-    our nature rebels against Him.  Regardless of which path we choose-obedience or
-    rebellion- God is the God of second chances. Few stories illustrate this principle
-    more clearly than the story of Jonah.  Join us as we delve into the story of one
-    man and his journey towards surrender.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Jonahs Anger
-    headline: 
-    video: 
-  - title: Jonah Obeys
-    headline: 
-    video: 
-  - title: Jonahs Prayer
-    headline: 
-    video: 
-  - title: The Jonah In Us
-    headline: 
-    video: 
-- id: fearless
-  title: Fearless
-  headline: 
-  description_small: 
-  description_medium: |-
-    Battles are inevitable but victory is not. We often find ourselves fighting enemies that are stronger than we are. So how do you stand fearless when theres so much at stake? Be inspired by accounts from God's word about average people who became champions and overcame insurmountable odds.
-
-    Do you have what it takes?
-
-    Experience "FEARLESS" to find out once and for all.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: David and Goliath
-    headline: 
-    video: 
-  - title: Jonathan
-    headline: 
-    video: 
-  - title: Benaiah
-    headline: 
-    video: 
-  - title: Shadrach, Meshach, Abednego
-    headline: 
-    video: 
-  - title: Gideon
-    headline: 
-    video: 
-- id: mix-tape
-  title: Mix Tape
-  headline: 
-  description_small: 
-  description_medium: |-
-    You made a mixtape as the soundtrack for your road trip. You gave another to your first love professing your undying affection. Maybe someone gave you a mixtape to help encourage you through tough times. Making mixtapes for friends and family is a great way to communicate whats going on in our lives.
-    LifeChurch.tv would like to share our 2007 mixtape with you. Come discover how God can connect with us through His life-changing truth revealed through today's hottest music.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Runaway
-    headline: 
-    video: 
-  - title: A Time and A Season
-    headline: 
-    video: 
-  - title: Saving a Life
-    headline: 
-    video: 
-  - title: Irrational Love
-    headline: 
-    video: 
-- id: remember
-  title: Remember
-  headline: 
-  description_small: 
-  description_medium: Do ancient practices have any significance for us today? Dig
-    deeper to discover where these traditions came from and why they are still important
-    in our lives.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Baptism
-    headline: 
-    video: 
-  - title: Life in the Fast Lane
-    headline: 
-    video: 
-  - title: Communion
-    headline: 
-    video: 
-- id: satans-sex-ed
-  title: Satans Sex Ed
-  headline: 
-  description_small: 
-  description_medium: Do you ever wonder what really makes the difference between
-    good sex, bad sex, and great sex?  And what about those awkward topics that few
-    people discuss openly?  Weve come a long way since the days when TV couples like
-    Ward and June Cleaver slept in separate beds... and today's kids aren't nearly
-    as innnocent as Wally and the Beaver.  Sometimes it's the things you have to unlearn
-    about sex that help you understand what great sex really is.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: What Satan is Telling Single Adults
-    headline: 
-    video: 
-  - title: What Satan is Telling Married Couples
-    headline: 
-    video: 
-  - title: What Satan Is Teaching Your Kids
-    headline: 
-    video: 
-  - title: Satans Sex Ed 101
-    headline: 
-    video: 
-- id: urban-legends
-  title: Urban Legends
-  headline: 
-  description_small: 
-  description_medium: 'Do you know someone whos seen Bigfoot''s tracks? What about
-    Nessie in Loch Ness? Of course, almost every kid has learned that there really
-    are alligators in the sewer. You know how it goes: someone sees something and
-    tells someone who then tells someone else. On and on and on it goes until its
-    hard to separate fact from fiction. This doesn''t just happen with alligators
-    and Bigfoot... it happens with spiritual truths as well. Join us as we separate
-    fact from fiction and debunk spiritual myths.'
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Sin Legends
-    headline: 
-    video: 
-  - title: More Than You Can Handle
-    headline: 
-    video: 
-  - title: God Wants You Happy
-    headline: 
-    video: 
-  - title: There Are Many Ways to God
-    headline: 
-    video: 
-- id: vision-2007
-  title: Vision 2007
-  headline: 
-  description_small: 
-  description_medium: No Guts... No Glory for God! Its time to think Mission Possible.
-    Not as a movie - but as a motivation! Vision 2007 is here and as we look back
-    at everything that's been done, we also look forward to everything there is to
-    do. We're going to break some rules. We're going to try some things that people
-    say can't be done. And this weekend, you'll get a sneak peek at all of it. Are
-    you in?
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Vision 2007
-    headline: 
-    video: 
-- id: miracles
-  title: Miracles
-  headline: 
-  description_small: 
-  description_medium: He turned water to wine, calmed a storm, made a blind man see,
-    a crippled man walk again. So why do we sometimes lack the faith to believe that
-    God can calm the storms in our own lives? What would it take for you to believe
-    that the impossible is possible? A miracle? Join us starting next week as we learn
-    about six different ones and what they mean to us today.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Opening Blind Eyes
-    headline: 
-    video: 
-  - title: Water to Wine
-    headline: 
-    video: 
-  - title: Raising Lazarus from the Dead
-    headline: 
-    video: 
-  - title: Poolside Miracle
-    headline: 
-    video: 
-  - title: Casting Out the Evil Spirit
-    headline: 
-    video: 
-  - title: Calming the Storm
-    headline: 
-    video: 
-- id: mind-your-own-business
-  title: Mind Your Own Business
-  headline: 
-  description_small: 
-  description_medium: If money really could talk, what would yours say? Good-bye?
-    No matter how much debt you have, no matter how many bills you have to pay, no
-    matter how much - or how little - money you make, you can achieve financial freedom.
-    Learn how to take practical steps, spend smarter, make personalized goals and
-    learn why, when it comes to money, IN God We definitely Trust.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Buck Starts Here
-    headline: 
-    video: 
-  - title: Profit Sharing
-    headline: 
-    video: 
-  - title: Act Your Wage
-    headline: 
-    video: 
-  - title: Minding the Business
-    headline: 
-    video: 
-- id: disciple
-  title: Disciple
-  headline: 
-  description_small: 
-  description_medium: What does a disciple do? Are disciples chosen by God? Or do
-    they choose willingly a life that promises great suffering and trial? Absolute
-    submission. Ultimate sacrifice. And relentless pursuit of that which is promised
-    to those who will follow. This is what it means to be a disciple. Will you?
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Goes Out
-    headline: 
-    video: 
-  - title: Breaks Bread
-    headline: 
-    video: 
-  - title: Washes Feet
-    headline: 
-    video: 
-  - title: Go Fishing
-    headline: 
-    video: 
-  - title: No Christians Allowed
-    headline: 
-    video: 
-- id: my-secret
-  title: My Secret
-  headline: 
-  description_small: 
-  description_medium: My Secret. Who are you when no one’s looking? What secret are
-    you holding in that nobody will ever know? What’s the stuff you’ve tried to stuff
-    way down deep…but that still seems to linger somewhere right under your skin?
-    We all have them. Or do they have us? Secrets. Let’s talk.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Secret Shame
-    headline: 
-    video: 
-  - title: Sexual Secrets
-    headline: 
-    video: 
-  - title: Addictions
-    headline: 
-    video: 
-  - title: Lying
-    headline: 
-    video: 
-- id: the-sickness-within
-  title: The Sickness Within
-  headline: 
-  description_small: 
-  description_medium: Is it really what’s inside that counts? If so, what’s going
-    on inside you? Worry? Doubt? Loneliness? Lust? Sometimes the internal struggles
-    that no one else sees are the ones that blind us the most. We’ll get the inside
-    story on how God offers hope and strength for overcoming these battles in this
-    series, The Sickness Within.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Bitterness
-    headline: 
-    video: 
-  - title: Control
-    headline: 
-    video: 
-  - title: Pride
-    headline: 
-    video: 
-  - title: Envy
-    headline: 
-    video: 
-  - title: Anger
-    headline: 
-    video: 
-- id: girls-gone-wild-bible-style
-  title: Girls Gone Wild Bible Style
-  headline: 
-  description_small: 
-  description_medium: Just because theyre in the Bible doesn't mean they were good
-    girls. There was enough lying, deception and betrayal going on to make even the
-    most desperate housewife blush. But what can we learn from these wily women and
-    their wicked ways? Men and women alike will love this wild three-week series.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-- id: meds
-  title: Meds
-  headline: 
-  description_small: 
-  description_medium: What doesn’t kill you makes you stronger. And if it doesn’t,
-    just take stronger medication, right? Well, no. But with all the quick fixes today,
-    you might think that’s the answer. However, feelin’ no pain isn’t always the way
-    God wants us to feel. Take this two-week series and call us in the morning.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Know Pain, Know Gain
-    headline: 
-    video: 
-  - title: Stressed Out
-    headline: 
-    video: 
-- id: identity-theft
-  title: Identity Theft
-  headline: 
-  description_small: 
-  description_medium: 'Within this message lies the truth. Actually, its the truth
-    about lies. The lies we tell ourselves and the damage they do if we don''t take
-    hold. There''s nothing little or white about them - lies keep us from finding
-    our true identity: the identity we have knowing that we''re living up to the amazing
-    potential that God has planned for us.'
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: I Am What I Do
-    headline: 
-    video: 
-  - title: Im Not Good Enough
-    headline: 
-    video: 
-  - title: This is Just the Way I Am
-    headline: 
-    video: 
-  - title: I Have to be Strong
-    headline: 
-    video: 
-- id: goin-all-the-way
-  title: Goin All the Way
-  headline: 
-  description_small: 
-  description_medium: If you’re involved in a relationship – or maybe just hoping
-    to be someday – the Goin’ All The Way series is just your type. Pastor Craig Groeschel
-    covers everything from dating to sex to marriage in this candid but refreshing
-    perspective on love done God’s way.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Finding the One
-    headline: 
-    video: 
-  - title: Finding the Two
-    headline: 
-    video: 
-  - title: It Matters
-    headline: 
-    video: 
-  - title: Q & A
-    headline: 
-    video: 
-- id: aka-god
-  title: a.k.a. God
-  headline: 
-  description_small: 
-  description_medium: Maybe the only thing you know about God’s name is that you shouldn’t
-    use it in vain. But there’s so much more to know – including the fact that He
-    has many different names. a.k.a. God will lead you through a four-week study of
-    four of these names, what they mean, and how they can be a personal introduction
-    to a more intimate understanding of God’s heart and character.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Emmanuel
-    headline: 
-    video: 
-  - title: Jehova Nissi
-    headline: 
-    video: 
-  - title: Jehovah Tsidkenu
-    headline: 
-    video: 
-  - title: Jehovah Rohi
-    headline: 
-    video: 
-- id: parenthood
-  title: Parenthood
-  headline: 
-  description_small: 
-  description_medium: If you have kids or are even thinking about having them, you
-    wont want to miss this four-week series that explores what God's Word has to say
-    about all things parental. Whether they're bawling, crawling, walking, talking,
-    driving you crazy or asking to drive your car, kids are a gift from God - and
-    He provides some very clear guidance and insight on how to raise them to be full
-    of faith and focused on Him, rather than leaving you frustrated, frazzled and
-    fatigued.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Parents Priority
-    headline: 
-    video: 
-  - title: Unchanging Principles of Parenting
-    headline: 
-    video: 
-  - title: Discipline
-    headline: 
-    video: 
-  - title: Now What?
-    headline: 
-    video: 
-- id: zip-it
-  title: Zip it
-  headline: 
-  description_small: 
-  description_medium: Don’t tell anyone I told you, but rumor has it that there is
-    a series at LifeChurch.tv is called Zip It. I heard they are talking about gossip,
-    how damaging it can be and why we do it. Then someone else told me they’re talking
-    about criticism and complaining and how powerful our words can be and how we can
-    use them positively instead of negatively. Can you believe that?
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Prayer Request Gossiper
-    headline: 
-    video: 
-  - title: Criticism Gone Bad
-    headline: 
-    video: 
-  - title: Containing Complaining
-    headline: 
-    video: 
-- id: whats-gods-will
-  title: Whats God's Will?
-  headline: 
-  description_small: 
-  description_medium: Does God have a plan for my life? How will I know? What if I
-    miss it? How much of it is my responsibility? If you’ve ever wondered about God’s
-    will for your life, for your career, for your relationships…or even just for the
-    day ahead, you can learn valuable insight – and find great comfort - in this eye-opening
-    series, What’s God’s Will?
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: My Will or Thy Will?
-    headline: 
-    video: 
-  - title: Markers on the Road
-    headline: 
-    video: 
-  - title: What Am I Doing Wrong?
-    headline: 
-    video: 
-  - title: Between The Lines
-    headline: 
-    video: 
-- id: baggage
-  title: Baggage
-  headline: 
-  description_small: 
-  description_medium: Do you have it? Would you like to check it for good? God is
-    ready and willing to claim it, we just have to be willing to let it go. And not
-    on a round-trip flight, but a one-way destination. Learn how you can pack up the
-    pain and hurt, find release from addiction and torment, and break free from the
-    battles that keep you – and your baggage – grounded.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Released From Depression
-    headline: 
-    video: 
-  - title: Emotional Baggage
-    headline: 
-    video: 
-  - title: Overcoming Addictions
-    headline: 
-    video: 
-  - title: Baggage Check
-    headline: 
-    video: 
-- id: vision-2005
-  title: Vision 2005
-  headline: 
-  description_small: 
-  description_medium: Have you checked your vision lately? God says that where there
-    is no vision, the people perish. Join Senior Pastor Craig Groeschel for a look
-    into the past, present and future of LifeChurch.tv – and how the best part of
-    a vision is to see that which is yet to be seen.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Vision 2005
-    headline: 
-    video: 
-- id: lost
-  title: Lost
-  headline: 
-  description_small: 
-  description_medium: Are you satisfied? Would you be satisfied with more? King Solomon
-    had all the riches in the world, but still he sought more. More money, more sex,
-    more power. And what he found is that the problem with having everything in the
-    world…is having everything in the world. Explore the book of Ecclesiastes as Solomon’s
-    personal discovery that, even though he tried and he tried…he couldn’t get no
-    satisfaction. His ultimate conclusion was that following God and His commandments
-    is all that matters.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Lost
-    headline: 
-    video: 
-- id: changed
-  title: Changed
-  headline: 
-  description_small: 
-  description_medium: He became a slave. Who became a fugitive. Who came to know Christ.
-    And overcame it all. Hear the story of Onesimus, the slave who betrayed Philemon,
-    and the passionate efforts of Paul to convince Philemon to change his mind…about
-    this truly changed man.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Changed Legacy
-    headline: 
-    video: 
-  - title: Changed Perspective
-    headline: 
-    video: 
-  - title: Changed Lives
-    headline: 
-    video: 
-- id: difficult-people
-  title: Difficult People
-  headline: 
-  description_small: 
-  description_medium: A simple guide to dealing with the needy, manipulative, hypocritical,
-    and overly critical people that drive you crazy every day.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Hypocritical People
-    headline: 
-    video: 
-  - title: Manipulator
-    headline: 
-    video: 
-  - title: Overly Needy
-    headline: 
-    video: 
-  - title: Critical People
-    headline: 
-    video: 
-- id: be-the-one
-  title: Be The One
-  headline: 
-  description_small: 
-  description_medium: Are you encountering obstacles and circumstances that keep you
-    from living a great life? Be The One is an inspiring message taken from the story
-    of Jesus encounter with the ten lepers. It is a message about overcoming and soaring
-    above the things that hold us down and suck the life out of us.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Be The One
-    headline: 
-    video: 
-- id: doubters-anonymous
-  title: Doubters Anonymous
-  headline: 
-  description_small: 
-  description_medium: Theres no doubt about it. We all doubt at some point in our
-    lives. Whether we doubt our faith, God's goodness, or just His willingness to
-    work miracles in our lives, we could all subscribe to "Doubters Anonymous." Think
-    it's doubtful that God can use you? We'll show you beyond the shadow of a doubt
-    that He can!
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: I Doubt God Can Use Me
-    headline: 
-    video: 
-  - title: I Doubt God Will Do It For Me
-    headline: 
-    video: 
-  - title: Doubting Gods Goodness
-    headline: 
-    video: 
-  - title: Bout with Doubt
-    headline: 
-    video: 
-- id: letdown
-  title: Letdown
-  headline: 
-  description_small: 
-  description_medium: Have you ever felt let down by other people or by God? Do you
-    ever wonder why people always seem to disappoint you, or why they never measure
-    up to your expectations? What about God? If God is so good, why does He let bad
-    things happen to good people? Where is God when you need Him? There are Biblical
-    answers to these questions, and we will explore those in the series, <i>Letdown</i>.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: When God Lets You Down
-    headline: 
-    video: 
-  - title: When People Let You Down
-    headline: 
-    video: 
-- id: god-loves-sex
-  title: God Love Sex
-  headline: 
-  description_small: 
-  description_medium: Whether youre married, single, or struggling in a relationship,
-    we all have questions about God, Love, and Sex. Get real life answers for real
-    life relationships.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Till Death Do Us Part
-    headline: 
-    video: 
-  - title: Just Do It
-    headline: 
-    video: 
-  - title: Reconcilable Differences
-    headline: 
-    video: 
-  - title: Great Sex
-    headline: 
-    video: 
-  - title: Perfect Seasoning
-    headline: 
-    video: 
-  - title: Faithful Attraction
-    headline: 
-    video: 
-- id: dangerous-church-2
-  title: Dangerous Church 2
-  headline: 
-  description_small: 
-  description_medium: Over 2000 years ago, God used twelve ordinary men to transform
-    the world. As followers of Christ, the call on our lives is no less. We are to
-    be a dangerous people, allowing ourselves to be Gods vessel for accomplishing
-    extraordinary things. When is the last time you believed God for something extraordinary?
-    Prepare yourself to take a risk and go where no church has gone before!
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-- id: Invasion-2004
-  title: Invasion 2004
-  headline: 
-  description_small: 
-  description_medium: LifeChurch.tv is passionately focused on leading people to become
-    fully devoted followers of Christ. It’s not what we do, it’s who we are! Part
-    of that privilege is witnessing the amazing transformation and healing that God
-    brings to individual lives. Take a peek with us as we “invade” several lives to
-    hear first hand about God’s life changing power!
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Invasion 2004
-    headline: 
-    video: 
-- id: confidence
-  title: Confidence
-  headline: 
-  description_small: 
-  description_medium: Confidence is an important ingredient for living life successfully.
-    Many people read books, attend seminars, and work hard to build self-confidence
-    only to find themselves dealing with the same feelings of unsureness and insecurity
-    over and over. Join along in this study as we say goodbye to unsure and insecure
-    and learn to walk confidently with God every day.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Confidence
-    headline: 
-    video: 
-- id: clean-and-clear
-  title: Clean and Clear
-  headline: 
-  description_small: 
-  description_medium: The holidays are the most wonderful time of the year...right?
-    Maybe. But if youre like many of us, the joy of the season is overshadowed by
-    envy, resentment and broken relationships. Get Clean N Clear this season to break
-    down festering bitterness and rebuild healthy relationships in your life.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Bitter or Better
-    headline: 
-    video: 
-  - title: Green with Envy
-    headline: 
-    video: 
-- id: q-and-a-2004
-  title: Q and A 2004
-  headline: 
-  description_small: 
-  description_medium: Is it wrong for Christians to go dancing?  Should a Christian
-    get a tattoo?  What is the difference between Calvinism and Arminiaism?  How can
-    I dress modestly and be in style?  Is it okay to be cremated?  Will we be married
-    in heaven?  Can people from heaven see us?  Some of lifes toughest questions are
-    the ones you usually don't hear about in church.  You've go questions?  the bible
-    has answers!  Get straight answers to these tough questions.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Q and A 2004 - Message 1
-    headline: 
-    video: 
-  - title: Q and A 2004 - Message 2
-    headline: 
-    video: 
-  - title: Q and A 2004 - Message 3
-    headline: 
-    video: 
-- id: life-development-plan-2004
-  title: Life Development Plan 2004
-  headline: 
-  description_small: 
-  description_medium: The Life Development Plan is a tool to help you radically evaluate
-    and redirect your life toward total commitment to Christ. Its a new way of thinking
-    — YOUR blueprint to help you set goals regarding your relationship with God, your
-    relationship with people, your physical life, your financial life and your work
-    life.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Work Life
-    headline: 
-    video: 
-  - title: Physical Life
-    headline: 
-    video: 
-  - title: Finances
-    headline: 
-    video: 
-  - title: Relationship with People
-    headline: 
-    video: 
-  - title: Relationship with God
-    headline: 
-    video: 
-  - title: Mission and Values
-    headline: 
-    video: 
-- id: give-it-up
-  title: Give It Up
-  headline: 
-  description_small: 
-  description_medium: God gave His best for us when He sent Jesus. God desires that
-    we give our best to Him. You are going to give your life and resources to something.
-    Give to something that lasts! God wants you to give it UP!
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Love Made Me Do It
-    headline: 
-    video: 
-  - title: First Things First
-    headline: 
-    video: 
-- id: go
-  title: Go
-  headline: 
-  description_small: 
-  description_medium: God has called us to, "Go out unto the world and preach the
-    Good News," and thats exactly what the story of our salvation is - GOOD NEWS.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Go
-    headline: 
-    video: 
-- id: fear
-  title: Fear
-  headline: 
-  description_small: 
-  description_medium: So many people live their lives paralyzed by fear. Four most
-    common fears people suffer from are fear of failure, fear of rejection, fear of
-    intimacy, and fear of losing control. God has not given us a spirit of fear, but
-    of power. During the series, Fear we’ll experience the power of God to overcome
-    these fears.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Fear of Losing Control
-    headline: 
-    video: 
-  - title: Fear of Intimacy
-    headline: 
-    video: 
-  - title: Fear of Failure
-    headline: 
-    video: 
-  - title: Fear of Rejection
-    headline: 
-    video: 
-- id: its-all-in-your-mind
-  title: Its All In Your Mind
-  headline: 
-  description_small: 
-  description_medium: Do you find yourself worrying about everything under the sun,
-    always comparing yourself to others, or you can’t seem to kick that nagging habit?
-    Most of the time these struggles are a result of a wrong mindset. During the series
-    It’s all in Your Mind Pastor Craig shares biblical truths on the battlefield of
-    the mind, overcoming strongholds, defeating worry, and understanding the mind
-    of Christ.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Attitude of Gratitude
-    headline: 
-    video: 
-  - title: Truth or Snare
-    headline: 
-    video: 
-  - title: Strongholds
-    headline: 
-    video: 
-  - title: Attitude Check
-    headline: 
-    video: 
-- id: whats-the-difference
-  title: Whats the Difference?
-  headline: 
-  description_small: 
-  description_medium: Many people claim that all paths lead to God. Are all "religions"
-    basically the same? At what points do they differ? Do the differences really matter?
-    In the series "Whats the Difference?" you will get an overview of the differences
-    between the Bible and other world-wide teachings. This series will help equip
-    you to reach out to other people armed with knowledge and full of the love of
-    Jesus Christ.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Jehovahs Witnesses
-    headline: 
-    video: 
-  - title: Catholicism
-    headline: 
-    video: 
-  - title: Mormonism
-    headline: 
-    video: 
-- id: famous-last-words
-  title: Famous Last Words
-  headline: 
-  description_small: 
-  description_medium: Our dying Savior blessed us with His famous last words. In this
-    series “Famous Last Words” Pastor Craig unpacks the depth and practical application
-    of the final words Jesus uttered before giving His life.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Today You Will Be With Me In Paradise
-    headline: 
-    video: 
-  - title: It Is Finished
-    headline: 
-    video: 
-  - title: My God, My God, Why?
-    headline: 
-    video: 
-  - title: Father, Forgive Them
-    headline: 
-    video: 
-- id: consumed
-  title: Consumed
-  headline: 
-  description_small: 
-  description_medium: Worship isn’t just singing. It’s a lifestyle. As we consider
-    who God is and what He has done our only reasonable response is worship. Pastor
-    Craig teaches us how to be “Consumed” in the presence of God. We look forward
-    to seeing you this weekend for the new message series, Consumed.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: True Worshippers
-    headline: 
-    video: 
-  - title: Consumed
-    headline: 
-    video: 
-- id: dangerous-church
-  title: Dangerous Church
-  headline: 
-  description_small: 
-  description_medium: Are you comfortable in your walk with Christ? Living a Christian
-    life is a hard road to travel, and anything but comfortable. In Dangerous Church,
-    we will discuss the radical calling on the fully devoted follower of Christ. We
-    will share the biblical truths of who we are called to become, living in a dangerous
-    church.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: A Dangerous Church
-    headline: 
-    video: 
-  - title: A Safe Church
-    headline: 
-    video: 
-- id: invasion-2003
-  title: Invasion 2003
-  headline: 
-  description_small: 
-  description_medium: Join us for the Invasion series as we look to see what God has
-    done this year.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Faithful
-    headline: 
-    video: 
-  - title: All Things Are Possible
-    headline: 
-    video: 
-- id: joy
-  title: Joy
-  headline: 
-  description_small: 
-  description_medium: Finding joy in the midst of struggles, chaos, and confusion
-    a study of Philippians.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: A Peace in the Action
-    headline: 
-    video: 
-  - title: Getting to Know You
-    headline: 
-    video: 
-  - title: Its All In Your Mind
-    headline: 
-    video: 
-  - title: Joyful No Matter What
-    headline: 
-    video: 
-- id: kaleo
-  title: Kaleo
-  headline: 
-  description_small: 
-  description_medium: 1 Peter 2:21, “To this you were called, because Christ suffered
-    for you, leaving you an example, that you should follow in his steps,” is the
-    foundation of the current message series, Kaleo. Join Pastor Craig as we learn
-    God’s call on each of our lives and how to be set apart and ready to following
-    His divine calling.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Change the World
-    headline: 
-    video: 
-  - title: Generosity
-    headline: 
-    video: 
-  - title: Community
-    headline: 
-    video: 
-- id: growing-to-the-chapel
-  title: Growing to the Chapel
-  headline: 
-  description_small: 
-  description_medium: People prepare for many things, yet few people prepare for marriage.
-    In Growing to the Chapel well examine God's truth to prepare us for a lasting
-    and meaningful marriage covenant.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Truth or Dont You Dare
-    headline: 
-    video: 
-  - title: Amy On Submission
-    headline: 
-    video: 
-  - title: Rebel with a Cause
-    headline: 
-    video: 
-  - title: Becoming a Great Lead-Her
-    headline: 
-    video: 
-  - title: Pre-pair-ing
-    headline: 
-    video: 
-- id: confessions-of-a-pastor
-  title: Confessions of a Pastor
-  headline: 
-  description_small: 
-  description_medium: 'Uncover the deep, dark, secrets that have remained untold in
-    the realm of a pastor’s life: insecurities, doubts, and weariness....frustrations,
-    concerns and mistakes. In "Confessions of a Pastor," Pastor Craig opens up in
-    hopes of shattering any false pretenses. What is it like to be a pastor? Probably
-    a lot like being anyone else. Let go of the expectations and high standards that
-    are keeping you in bondage and let God start to become one of your truest friends
-    through your own confessions.'
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: I Dont Like a Lot of Christians
-    headline: 
-    video: 
-  - title: Sometimes I Have My Doubts About God
-    headline: 
-    video: 
-  - title: I Feel Completely Inadequate
-    headline: 
-    video: 
-  - title: I Dont Feel Like Praying
-    headline: 
-    video: 
-- id: religion-bytes
-  title: Religion Bytes
-  headline: 
-  description_small: 
-  description_medium: You don’t have to be a religious person to be a Christian. God
-    did not send Jesus to make us religious. As we study the book of Galatians, learn
-    how to avoid the prison of religion and live in the freedom of Christ.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Slave or Son
-    headline: 
-    video: 
-  - title: Seems Right
-    headline: 
-    video: 
-  - title: Avoiding People Problems
-    headline: 
-    video: 
-  - title: Religion Never Works
-    headline: 
-    video: 
-- id: painkiller
-  title: Painkiller
-  headline: 
-  description_small: 
-  description_medium: Life can be full of pain sometimes. What do you do when life
-    is really hard? How do you heal from hurt? Dont miss the "Painkiller". Pastor
-    Craig will teach us Biblical ways to overcome the pain of loss and the pain of
-    suffering and the pain of rejection.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: The Pain of Rejection
-    headline: 
-    video: 
-  - title: The Pain of Suffering
-    headline: 
-    video: 
-  - title: The Pain of Loss
-    headline: 
-    video: 
-- id: world-changers
-  title: World Changers
-  headline: 
-  description_small: 
-  description_medium: '"Give me ten men who hate nothing but sin and love nothing
-    but God, and well change the world." Through the life of John Wesley we''ll learn
-    to change the world with a plan for holiness, a peace with God, and a passion
-    for change.'
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Dwight L. Moody
-    headline: 
-    video: 
-  - title: Charles Spurgeon
-    headline: 
-    video: 
-  - title: Charles Finney
-    headline: 
-    video: 
-  - title: John Wesley
-    headline: 
-    video: 
-- id: sex-files
-  title: Sex Files
-  headline: 
-  description_small: 
-  description_medium: '"The Sex Files" is a very important and relevant teaching that
-    explores the Biblical perspective on sex and how we should respond to todays extremely
-    sexual culture.'
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Great Sexpectations
-    headline: 
-    video: 
-  - title: Indecent Proposal
-    headline: 
-    video: 
-  - title: Hooked
-    headline: 
-    video: 
-  - title: Out Of Order
-    headline: 
-    video: 
-- id: man-2-man
-  title: Man 2 Man
-  headline: 
-  description_small: 
-  description_medium: Men! Step up to the plate and discover how you can be a man
-    of Godly character. In this four part message series, you will learn how to become
-    a loving husband and Godly father, build accountability with others, and lead
-    your family with vision and passion.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Ally
-    headline: 
-    video: 
-  - title: Knight in Shining Armor
-    headline: 
-    video: 
-  - title: Spiritual Coach
-    headline: 
-    video: 
-  - title: Shepherd Warrior
-    headline: 
-    video: 
-- id: if-i-die-before-i-wake
-  title: If I Die Before I Wake
-  headline: 
-  description_small: 
-  description_medium: What happens one minute after we die? Its a controversial topic,
-    but from a Biblical perspective, one that could mean life or death for anyone
-    who dares to ask the question. Study along as Pastor Craig addresses the issues
-    of life, death, heaven and hell and explores what the Bible has to say about them.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Hell No
-    headline: 
-    video: 
-  - title: Heaven Yes
-    headline: 
-    video: 
-  - title: One Minute After You Die
-    headline: 
-    video: 
-  - title: This Bloods For You
-    headline: 
-    video: 
-- id: christmas-is-for-giving
-  title: Christmas is For-Giving
-  headline: 
-  description_small: 
-  description_medium: Christmas is always thought of as the best time of the year.
-    Unfortunately, as we go through life we often experience family and relational
-    pain, and Christmas can go from being the highlight of the year to the most difficult
-    time. In this three-part study, we learn how to forgive others, how to ask for
-    forgiveness, and what it means to be forgiven.
-  quote: 
-  quote_cite: 
-  open_url: 
-  promo: 
-  resources_url: 
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Forgetting
-    headline: 
-    video: 
-  - title: Forgoing
-    headline: 
-    video: 
-  - title: Forgiving
-    headline: 
-    video: 
