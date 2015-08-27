@@ -1,6 +1,6 @@
 ---
-- id: breaking-the-labels-that-bind
-  title: Breaking the Labels That Bind
+- id: labels
+  title: Labels
   headline: Refuse to let the labels of your past limit God’s plan for your future.
   description_small: When you get stamped with a label, it says a lot about you—but
     does it say the right things? No matter how you’re branded, we all have potential
@@ -19,14 +19,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086Z'
     updated_at: '2014-06-11T15:21:10.086Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/300x200.jpg?1440599620
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/600x400.jpg?1440599730
-  image_large: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1200x800.jpg?1440599851
-  image_social: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/400x400.jpg?1440599649
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1500x340.jpg?1440599881
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/3000x680.jpg?1440599909
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/480x340.jpg?1440599700
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/960x680.jpg?1440599808
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
 - id: a-way-out
   title: A Way Out
   headline: Put your trust in someone who knows A Way Out.
