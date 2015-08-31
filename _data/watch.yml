@@ -1,6 +1,40 @@
 ---
-- id: breaking-the-labels-that-bind
-  title: Breaking the Labels That Bind
+- id: stay-positive
+  title: Stay Positive
+  headline: If you seek what’s good, you’ll see what's good.
+  description_small: If you seek what’s good, you’ll see what's good. Let's embrace
+    the way we're created to think and Stay Positive.
+  description_medium: Cynicism and negativity may be the easy choice, but they're
+    not the best choice. If you seek what’s good, you’ll see what's good. Let's embrace
+    the way we're created to think and Stay Positive.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2126-stay-positive
+  promo: eNuSB1yi8xpZ
+  resources_url: ''
+  categories:
+  - id: 34
+    name: Optimistic
+    created_at: '2014-06-11T15:19:48.323Z'
+    updated_at: '2014-06-11T15:19:48.323Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 36
+    name: Thoughts
+    created_at: '2014-06-11T15:20:28.824Z'
+    updated_at: '2014-06-11T15:20:28.824Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/300x200.jpg?1440796569
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive/600x400.jpg?1440797145
+  image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1200x800.jpg?1440797165
+  image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive/400x400.jpg?1440797196
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1440797246
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1440797228
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/480x340.jpg?1440797265
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/960x680.jpg?1440797285
+- id: labels
+  title: Labels
   headline: Refuse to let the labels of your past limit God’s plan for your future.
   description_small: When you get stamped with a label, it says a lot about you—but
     does it say the right things? No matter how you’re branded, we all have potential
@@ -19,14 +53,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086Z'
     updated_at: '2014-06-11T15:21:10.086Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/300x200.jpg?1440599620
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/600x400.jpg?1440599730
-  image_large: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1200x800.jpg?1440599851
-  image_social: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/400x400.jpg?1440599649
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/1500x340.jpg?1440599881
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/3000x680.jpg?1440599909
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/480x340.jpg?1440599700
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/breaking-the-labels-that-bind/960x680.jpg?1440599808
+  image_small: http://s3.amazonaws.com/lcapi.production/series/labels/300x200.jpg?1440710625
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/labels/600x400.jpg?1440710651
+  image_large: http://s3.amazonaws.com/lcapi.production/series/labels/1200x800.jpg?1440710677
+  image_social: http://s3.amazonaws.com/lcapi.production/series/labels/400x400.jpg?1440710707
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/labels/1500x340.jpg?1440710763
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/labels/3000x680.jpg?1440710739
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/labels/480x340.jpg?1440710817
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/labels/960x680.jpg?1440710852
 - id: a-way-out
   title: A Way Out
   headline: Put your trust in someone who knows A Way Out.
@@ -67,6 +101,9 @@
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/a-way-out/480x340.jpg?1437580542
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/a-way-out/960x680.jpg?1437580652
   messages:
+  - title: Feed Your Spirit
+    headline: ''
+    video: kxwu2jrqp7
   - title: Living By The Spirit
     headline: ''
     video: qq1osy4erc
