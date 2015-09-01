@@ -16,18 +16,34 @@
   }
 
   #partnered-products {
-    margin-top: -7em;
+    margin-top: 0em;
     z-index: 2;
     position: relative;
 
     @include media($medium-screen) {
-      margin-top: -10em;
+      margin-top: 0em;
     }
   }
 
   #kindrid .article-with-figure {
     max-width: 610px;
     margin: 0 auto;
+  }
+  
+  .bible-app {
+    float: left;
+    display: block;
+    margin-right: 4.07256%;
+    width: 44.6183%;
+    font-size: 0.8em;
+  }
+  
+  .bible-kids {
+    float: left;
+    display: block;
+    margin-right: 4.07256%;
+    width: 50.3092%;
+    font-size: 0.8em;
   }
 }
 
