@@ -1,7 +1,7 @@
 <section class="watch-messages page-section section-last section-light" id="messages">
   <div class="row">
     <div class="large-7 columns">
-      <h2 class="underlined">In this series Hello</h2>
+      <h2 class="underlined">In this series</h2>
 
       <!-- Get the messages out of the series and list them out -->
       {% for message in series.messages reversed %}
@@ -48,5 +48,3 @@
 {% include video-player.html id=message.video %}
 
 {% endfor %}
-
-<!-- This site is converting visitors into subscribers and customers with OptinMonster - http://optinmonster.com --><div id="om-f3jhodqnyyzx972r-holder"></div><script>var f3jhodqnyyzx972r,f3jhodqnyyzx972r_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){f3jhodqnyyzx972r_poll(function(){if(window['om_loaded']){if(!f3jhodqnyyzx972r){f3jhodqnyyzx972r=new OptinMonsterApp();return f3jhodqnyyzx972r.init({u:"9709.208833",staging:0,dev:0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optinmonster.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;f3jhodqnyyzx972r=new OptinMonsterApp();f3jhodqnyyzx972r.init({u:"9709.208833",staging:0,dev:0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
