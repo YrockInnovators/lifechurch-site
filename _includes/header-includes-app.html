@@ -1,0 +1,48 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{% if page.canonical %}<link rel="canonical" href="{{ page.canonical }}" />{% endif %}
+<meta name="theme-color" content="#AC162C" />
+
+<!-- Legacy -->
+<!--[if (IE)&(lt IE 9) ]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><!--<![endif]-->
+<!--[if (IE)&(gt IE 8) ]><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><!--<![endif]-->
+<!--[if (lt IE 8) & (!IEMobile)]><link rel="stylesheet" href="css/legacy.css" /><![endif]-->
+
+<!-- Optimizely -->
+<script src="//cdn.optimizely.com/js/707930009.js"></script>
+
+<!-- General -->
+<title>{{ page.title }}{% if page.section != 'home' %} | LifeChurch.tv{% endif %}</title>
+{% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
+<link rel="stylesheet" href="/css/application.css" />
+{% if page.styles %}<link rel="stylesheet" href="/css/pages/{{ page.styles }}" />{% endif %}
+
+<!-- Modernizr -->
+<script src="/js/libs/modernizr.min.js"></script>
+
+<!-- Typekit -->
+<script type="text/javascript" src="//use.typekit.net/odw8wsv.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!-- Wistia -->
+<script src="//fast.wistia.net/static/iframe-api-v1.js"></script>
+
+<!-- Geolify 
+<script type='text/javascript' src='https://www.geolify.com/geojavascript.php?id=5512'></script> -->
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3571547-95', 'none');
+  ga('send', 'pageview');
+</script>
+
+<!-- App Redirect -->
+<script language=javascript>
+if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+   location.replace("apple.com");
+}
+</script>
