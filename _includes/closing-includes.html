@@ -33,3 +33,17 @@
     e.parentNode.insertBefore(n, e);
   })(document,"script","hs-analytics",300000);
 </script>
+
+<!-- App Giving Script -->
+<script type="text/javascript">
+$( document ).ready(function() {            
+              var agent = navigator.userAgent.toLowerCase();
+              if (agent.match(/(iphone|ipod|ipad)/i)) {
+                             if (agent.match(/(safari|version)/i) ) {
+                             } else {
+                                           $('a[href$="/giving/"]').remove();
+                                           $('a[href$="/giving"]').remove();
+                             }
+              }
+});
+</script>
