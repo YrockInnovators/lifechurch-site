@@ -231,93 +231,6 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
-- id: wel
-  title: Wellington, FL
-  email: wel.serving@lifechurch.tv
-  phone: 561-793-6889
-  address: 3061 State Road 7 Wellington, FL 33449
-  facebook: '105749019464173'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:30PM
-    time: 17-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  missions:
-  - id: 28
-    title: First Care
-    recipient: wel.serving@lifechurch.tv
-    url: http://www.first-care.org/
-    description_medium: Help women make an educated decision about giving birth and
-      empower them to carry out their decision without guilt or shame.
-  - id: 42
-    title: 4Kids of South Florida
-    recipient: wel.serving@lifechurch.tv
-    url: https://www.4kidsofsfl.org/
-    description_medium: 'Help care for and mentor kids in our community by providing
-      them with consistent and loving relationships. Kids in crisis can find shelter
-      and safety at SafePlace. '
 - id: tul
   title: Tulsa, OK
   email: tul.serving@lifechurch.tv
@@ -2392,3 +2305,96 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+- id: wel
+  title: Wellington, FL
+  email: wel.serving@lifechurch.tv
+  phone: 561-793-6889
+  address: 3061 State Road 7 Wellington, FL 33449
+  facebook: '105749019464173'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  missions:
+  - id: 28
+    title: First Care
+    recipient: wel.serving@lifechurch.tv
+    url: http://www.first-care.org/
+    description_medium: Help women make an educated decision about giving birth and
+      empower them to carry out their decision without guilt or shame.
+  - id: 42
+    title: 4Kids of South Florida
+    recipient: wel.serving@lifechurch.tv
+    url: https://www.4kidsofsfl.org/
+    description_medium: 'Help care for and mentor kids in our community by providing
+      them with consistent and loving relationships. Kids in crisis can find shelter
+      and safety at SafePlace. '
