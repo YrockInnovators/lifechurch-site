@@ -27,6 +27,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/labels/3000x680.jpg?1441390212
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/labels/480x340.jpg?1441390269
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/labels/960x680.jpg?1441390293
+  messages:
+  - title: Labels
+    headline: ''
+    video: ''
 - id: a-way-out
   title: A Way Out
   headline: Put your trust in someone who knows A Way Out.
