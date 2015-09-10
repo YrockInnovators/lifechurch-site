@@ -54,7 +54,7 @@ Proverbs 11:27 NLT
 * * *
 
 ## From the Source
-<p class="lead">Start digging. Read Scripture about overcoming temptation.</p>
+<p class="lead">Start digging. Read Scripture about Godly optimism.</p>
 
 [Psalm 103:11-13](https://www.bible.com/bible/111/psa.103.11-13.niv) [James 1:2-4](https://www.bible.com/bible/111/jam.1.2-4.niv) [Genesis 50:20](https://www.bible.com/bible/111/gen.50.20.niv) [Psalm 27:1](https://www.bible.com/bible/111/psa.27.1.niv)
 
