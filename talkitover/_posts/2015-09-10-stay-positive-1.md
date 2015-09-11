@@ -7,9 +7,14 @@ title: Talk It Over Week 1
 ---
 
 ## I'm Optimistic
+
+Craig filmed this bonus content just for your discussion group. Watch the video, then discuss the message.
+
+<div style="width: 800px; height: 450px; padding-bottom: 15px"><script type="text/javascript" src="http://player.theplatform.com/p/IfSiAC/Muqqhl0VrQbH/embed/select/media/41w8BGqaubFz?form=javascript"></script></div>  
+
 <p class="lead">Think back through Craig's talk. What stuck out?</p> 
 
-Key Scriptures
+Key Scripture
 
 _If you search for good, you will find favor; but if you search for evil, it will find you!_  
 Proverbs 11:27 NLT
