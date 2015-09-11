@@ -359,6 +359,12 @@
     type: lifekids
     type_name: LifeKids
   missions:
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: tul.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@lifechurch.tv

@@ -1,4 +1,38 @@
 ---
+- id: stay-positive
+  title: Stay Positive
+  headline: If you seek what’s good, you’ll see what's good.
+  description_small: If you seek what’s good, you’ll see what's good. Let's embrace
+    the way we're created to think and Stay Positive.
+  description_medium: Cynicism and negativity may be the easy choice, but they're
+    not the best choice. If you seek what’s good, you’ll see what's good. Let's embrace
+    the way we're created to think and Stay Positive.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2126-stay-positive
+  promo: eNuSB1yi8xpZ
+  resources_url: ''
+  categories:
+  - id: 34
+    name: Optimistic
+    created_at: '2014-06-11T15:19:48.323Z'
+    updated_at: '2014-06-11T15:19:48.323Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 36
+    name: Thoughts
+    created_at: '2014-06-11T15:20:28.824Z'
+    updated_at: '2014-06-11T15:20:28.824Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/300x200.jpg?1440796569
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive/600x400.jpg?1440797145
+  image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1200x800.jpg?1440797165
+  image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive/400x400.jpg?1440797196
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1440797246
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1440797228
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/480x340.jpg?1440797265
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/960x680.jpg?1440797285
 - id: labels
   title: Labels
   headline: Refuse to let the labels of your past limit God’s plan for your future.
