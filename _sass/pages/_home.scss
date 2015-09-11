@@ -1,12 +1,12 @@
 .home {
   
   .lead {
-    color: #fff;
+    color: #414042;
     font-size: 1.3em;
   }
   
   .large.action {
-    color: #fff;
+    color: #b75ca2;
   }
 
   .home-menu {
@@ -72,7 +72,7 @@
 
   .hero {
     min-height: 200px;
-    @include retina-image(/images/home/home-bg, cover, jpg);
+    @include retina-image(/images/home/home-bg, 1500px auto, jpg);
     background-position: bottom center;
     background-color: #fae135;
     position: relative;
@@ -84,7 +84,7 @@
 
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, cover, jpg);
-      height: 700px;
+      height: 720px;
       background-color: #fae135;
       padding-bottom: 1em;
     }
@@ -97,12 +97,12 @@
       background-position: center;
       width: 100%;
       max-width: 800px;
-      height: 150px;
-      margin: 50px auto 20px;
+      height: 170px;
+      margin: 30px auto 20px;
 
       @include media($medium-screen) {
-        height: 150px;
-        margin: 50px auto 20px;
+        height: 170px;
+        margin: 30px auto 20px;
       }
     }
   }
