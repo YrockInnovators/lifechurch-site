@@ -29,8 +29,8 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive/600x400.jpg?1440797145
   image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1200x800.jpg?1440797165
   image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive/400x400.jpg?1440797196
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1440797246
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1440797228
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1441984998
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1441984978
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/480x340.jpg?1440797265
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/960x680.jpg?1440797285
 - id: labels
