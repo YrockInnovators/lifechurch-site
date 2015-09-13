@@ -29,10 +29,47 @@
   image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive/600x400.jpg?1440797145
   image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1200x800.jpg?1440797165
   image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive/400x400.jpg?1440797196
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1440797246
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1440797228
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive/1500x340.jpg?1441984998
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1441984978
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/480x340.jpg?1440797265
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/960x680.jpg?1440797285
+- id: stay-positive-discussion
+  title: Stay Positive - Discussion Groups
+  headline: ''
+  description_small: ''
+  description_medium: Watch bonus material from Pastor Craig each week of Stay Positive.
+    Pastor Craig goes deeper into scriptures, stories, and ideas that will inspire
+    your discussion group to stay positive.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 34
+    name: Optimistic
+    created_at: '2014-06-11T15:19:48.323Z'
+    updated_at: '2014-06-11T15:19:48.323Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 36
+    name: Thoughts
+    created_at: '2014-06-11T15:20:28.824Z'
+    updated_at: '2014-06-11T15:20:28.824Z'
+  image_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/300x200.jpg?1442108513
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/600x400.jpg?1442108271
+  image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1200x800.jpg?1442108250
+  image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/400x400.jpg?1442108312
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1500x340.jpg?1442108464
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/3000x680.jpg?1442108330
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/480x340.jpg?1442108729
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/960x680.jpg?1442108694
+  messages:
+  - title: I'm Optimistic - Bonus Material
+    headline: ''
+    video: catniaqn0w
 - id: labels
   title: Labels
   headline: Refuse to let the labels of your past limit God’s plan for your future.
@@ -53,14 +90,18 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086Z'
     updated_at: '2014-06-11T15:21:10.086Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/labels/300x200.jpg?1440710625
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/labels/600x400.jpg?1440710651
-  image_large: http://s3.amazonaws.com/lcapi.production/series/labels/1200x800.jpg?1440710677
-  image_social: http://s3.amazonaws.com/lcapi.production/series/labels/400x400.jpg?1440710707
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/labels/1500x340.jpg?1440710763
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/labels/3000x680.jpg?1440710739
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/labels/480x340.jpg?1440710817
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/labels/960x680.jpg?1440710852
+  image_small: http://s3.amazonaws.com/lcapi.production/series/labels/300x200.jpg?1441390126
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/labels/600x400.jpg?1441390146
+  image_large: http://s3.amazonaws.com/lcapi.production/series/labels/1200x800.jpg?1441390171
+  image_social: http://s3.amazonaws.com/lcapi.production/series/labels/400x400.jpg?1441390196
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/labels/1500x340.jpg?1441390238
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/labels/3000x680.jpg?1441390212
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/labels/480x340.jpg?1441390269
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/labels/960x680.jpg?1441390293
+  messages:
+  - title: Labels
+    headline: ''
+    video: e5q4yhjdjt
 - id: a-way-out
   title: A Way Out
   headline: Put your trust in someone who knows A Way Out.

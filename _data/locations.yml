@@ -143,14 +143,14 @@
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -167,14 +167,14 @@
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -191,32 +191,44 @@
     time: 18-30
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
   - title: 05:00PM
     time: 17-00
     day: sat
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sat
@@ -231,93 +243,6 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
-- id: wel
-  title: Wellington, FL
-  email: wel.serving@lifechurch.tv
-  phone: 561-793-6889
-  address: 3061 State Road 7 Wellington, FL 33449
-  facebook: '105749019464173'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:30PM
-    time: 17-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  missions:
-  - id: 28
-    title: First Care
-    recipient: wel.serving@lifechurch.tv
-    url: http://www.first-care.org/
-    description_medium: Help women make an educated decision about giving birth and
-      empower them to carry out their decision without guilt or shame.
-  - id: 42
-    title: 4Kids of South Florida
-    recipient: wel.serving@lifechurch.tv
-    url: https://www.4kidsofsfl.org/
-    description_medium: 'Help care for and mentor kids in our community by providing
-      them with consistent and loving relationships. Kids in crisis can find shelter
-      and safety at SafePlace. '
 - id: tul
   title: Tulsa, OK
   email: tul.serving@lifechurch.tv
@@ -373,43 +298,73 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: SWITCH
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service-time
-    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
   - title: 05:00PM
     time: 17-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:00PM
+    time: 17-00
     day: sat
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: sat
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: tul.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@lifechurch.tv
@@ -486,6 +441,12 @@
     type_name: Service time
   - title: 06:30PM
     time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 09:00PM
+    time: 21-00
     day: sun
     duration: 60
     type: lifekids
@@ -1256,18 +1217,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
     type: service-time
     type_name: Service time
   - title: 11:30AM
@@ -1276,8 +1231,8 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 11:30AM
+    time: 11-30
     day: sun
     duration: 60
     type: service-time
@@ -1288,6 +1243,12 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: sun
@@ -1312,6 +1273,12 @@
     duration: 120
     type: roots
     type_name: Roots
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:00PM
     time: 18-00
     day: sat
@@ -1361,18 +1328,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service-time
+    type_name: Service time
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 11:30AM
@@ -1381,6 +1342,12 @@
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
@@ -1399,12 +1366,24 @@
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions: []
 - id: klr
   title: Keller, TX
@@ -1419,8 +1398,8 @@
     duration: 60
     type: service-time
     type_name: Service time
-  - title: 10:00AM
-    time: 10-00
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: lifekids
@@ -1431,6 +1410,12 @@
     duration: 60
     type: service-time
     type_name: Service time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -1443,18 +1428,18 @@
     duration: 60
     type: service-time
     type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: SWITCH
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
   missions: []
 - id: noc
   title: NW Oklahoma City, OK
@@ -1638,20 +1623,26 @@
     time: 13-00
     day: sun
     duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
     type: service-time
     type_name: Service time
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 60
-    type: roots
-    type_name: Roots
+    type: switch
+    type_name: SWITCH
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 60
-    type: switch
-    type_name: SWITCH
+    type: roots
+    type_name: Roots
   missions:
   - id: 55
     title: Autism Oklahoma
@@ -1949,124 +1940,6 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
-- id: mwc
-  title: Midwest City, OK
-  email: mwc.serving@lifechurch.tv
-  phone: 405-622-3233
-  address: 6809 E. Reno Ave Midwest City, OK 73110
-  facebook: '141521929249905'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  missions:
-  - id: 24
-    title: Eden Clinic
-    recipient: mwc.serving@lifechurch.tv
-    url: http://www.edenclinic.tv/
-    description_medium: In partnership with this Pregnancy Wellness program, provide
-      emotional support, material assistance, education and counseling, community
-      referrals, and pregnancy wellness classes.
-  - id: 23
-    title: T.E.E.M (The Education and Employment Ministry)
-    recipient: mwc.serving@lifechurch.tv
-    url: http://www.teem.org/
-    description_medium: Empower individuals to reach their God-given potential through
-      mentoring relationships with those leaving incarceration.
-  - id: 34
-    title: The Spero Project
-    recipient: mwc.serving@lifechurch.tv
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
-  - id: 35
-    title: City Rescue Mission
-    recipient: mwc.serving@lifechurch.tv
-    url: http://cityrescue.org/
-    description_medium: Provide help, hope, healing, and restoration to our community’s
-      marginalized families and neighbors by working under the call of Christ with
-      City Rescue Mission.
 - id: ykn
   title: Yukon, OK
   email: ykn.serving@lifechurch.tv
@@ -2392,3 +2265,214 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+- id: wel
+  title: Wellington, FL
+  email: wel.serving@lifechurch.tv
+  phone: 561-793-6889
+  address: 3061 State Road 7 Wellington, FL 33449
+  facebook: '105749019464173'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  missions:
+  - id: 28
+    title: First Care
+    recipient: wel.serving@lifechurch.tv
+    url: http://www.first-care.org/
+    description_medium: Help women make an educated decision about giving birth and
+      empower them to carry out their decision without guilt or shame.
+  - id: 42
+    title: 4Kids of South Florida
+    recipient: wel.serving@lifechurch.tv
+    url: https://www.4kidsofsfl.org/
+    description_medium: 'Help care for and mentor kids in our community by providing
+      them with consistent and loving relationships. Kids in crisis can find shelter
+      and safety at SafePlace. '
+- id: mwc
+  title: Midwest City, OK
+  email: mwc.serving@lifechurch.tv
+  phone: 405-622-3233
+  address: 6809 E. Reno Ave Midwest City, OK 73110
+  facebook: '141521929249905'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  missions:
+  - id: 24
+    title: Eden Clinic
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.edenclinic.tv/
+    description_medium: In partnership with this Pregnancy Wellness program, provide
+      emotional support, material assistance, education and counseling, community
+      referrals, and pregnancy wellness classes.
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
+  - id: 34
+    title: The Spero Project
+    recipient: mwc.serving@lifechurch.tv
+    url: http://www.thesperoproject.com/
+    description_medium: Confront injustice and oppression by mobilizing the Church
+      to fully engage in a biblical response to under-resourced populations.
+  - id: 35
+    title: City Rescue Mission
+    recipient: mwc.serving@lifechurch.tv
+    url: http://cityrescue.org/
+    description_medium: Provide help, hope, healing, and restoration to our community’s
+      marginalized families and neighbors by working under the call of Christ with
+      City Rescue Mission.
