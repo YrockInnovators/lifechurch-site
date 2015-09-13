@@ -58,14 +58,14 @@
     name: Thoughts
     created_at: '2014-06-11T15:20:28.824Z'
     updated_at: '2014-06-11T15:20:28.824Z'
-  image_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/300x200.jpeg?1442006347
-  image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/600x400.jpg?1442006401
-  image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1200x800.jpg?1442103830
-  image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/400x400.jpeg?1442006376
-  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1500x340.jpg?1442006421
-  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/3000x680.jpg?1442006462
-  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/480x340.jpg?1442093302
-  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/960x680.jpg?1442093340
+  image_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/300x200.jpg?1442108513
+  image_medium: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/600x400.jpg?1442108271
+  image_large: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1200x800.jpg?1442108250
+  image_social: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/400x400.jpg?1442108312
+  image_banner_archive: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/1500x340.jpg?1442108464
+  image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/3000x680.jpg?1442108330
+  image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/480x340.jpg?1442108729
+  image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive-discussion/960x680.jpg?1442108694
   messages:
   - title: I'm Optimistic - Bonus Material
     headline: ''
