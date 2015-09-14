@@ -21,6 +21,10 @@
   image_banner_archive_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/3000x680.jpg?1441984978
   image_banner_archive_small: http://s3.amazonaws.com/lcapi.production/series/stay-positive/480x340.jpg?1440797265
   image_banner_archive_small_2x: http://s3.amazonaws.com/lcapi.production/series/stay-positive/960x680.jpg?1440797285
+  messages:
+  - title: I’m Optimistic
+    headline: ''
+    video: 2vbei4l70v
 - id: stay-positive-discussion
   title: Stay Positive - Discussion Groups
   headline: ''
