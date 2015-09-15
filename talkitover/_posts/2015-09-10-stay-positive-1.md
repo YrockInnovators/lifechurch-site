@@ -10,7 +10,7 @@ title: Talk It Over Week 1
 
 Craig filmed this bonus content just for your discussion group. Watch the video, then discuss the message.
 
-Want an email reminder each week? <a href="#" class="manual-optin-trigger" data-optin-slug="hv4mytwn55f8mxfg">We'll send you one.</a>
+Want an email reminder each week that includes the bonus video link and discussion guide? <a href="#" class="manual-optin-trigger" data-optin-slug="hv4mytwn55f8mxfg">We'll send you one.</a>
 
 <div style="max-width:100%; width: 800px; height: 450px; padding-bottom: 15px"><script type="text/javascript" src="http://player.theplatform.com/p/IfSiAC/Muqqhl0VrQbH/embed/select/media/REgS1Xlk5slk?form=javascript"></script></div>  
 
