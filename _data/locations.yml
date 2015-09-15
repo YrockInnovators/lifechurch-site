@@ -1701,134 +1701,6 @@
   facebook: '1'
   times: []
   missions: []
-- id: bao
-  title: Broken Arrow, OK
-  email: bao.serving@lifechurch.tv
-  phone: 918-615-4246
-  address: 2420 E. Kenosha Street Broken Arrow, OK 74014
-  facebook: '229503863780213'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service-time
-    type_name: Service time
-  missions:
-  - id: 19
-    title: Tulsa Boys Home
-    recipient: bao.serving@lifechurch.tv
-    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: Help restore the lives of boys and lead them to be healthy
-      and responsible young men.
-  - id: 53
-    title: Reading Partners
-    recipient: bao.serving@lifechurch.tv
-    url: www.readingpartners.org
-    description_medium: Meet weekly with an elementary student to improve reading
-      skills and invest in their life.
 - id: ykn
   title: Yukon, OK
   email: ykn.serving@lifechurch.tv
@@ -2476,3 +2348,131 @@
     url: http://www.cdyfc.org/
     description_medium: Work together with local churches to raise up lifelong followers
       of Christ through mentoring and building relationships with young people.
+- id: bao
+  title: Broken Arrow, OK
+  email: bao.serving@lifechurch.tv
+  phone: 918-615-4246
+  address: 2420 E. Kenosha Street Broken Arrow, OK 74014
+  facebook: '229503863780213'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
+  missions:
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: bao.serving@lifechurch.tv
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
+  - id: 53
+    title: Reading Partners
+    recipient: bao.serving@lifechurch.tv
+    url: www.readingpartners.org
+    description_medium: Meet weekly with an elementary student to improve reading
+      skills and invest in their life.
