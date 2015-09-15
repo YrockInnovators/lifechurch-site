@@ -1194,117 +1194,6 @@
     url: http://safefamiliesok.org/
     description_medium: Develop and expand efforts to strengthen communities by building
       strong, healthy families.
-- id: alb
-  title: Albany, NY
-  email: alb.serving@lifechurch.tv
-  phone: 518-456-0969
-  address: 560 Sand Creek Rd. Albany, NY 12205
-  facebook: '198238577847'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: SWITCH
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:00PM
-    time: 18-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
-    day: sat
-    duration: 60
-    type: service-time
-    type_name: Service time
-  missions:
-  - id: 30
-    title: City Mission of Schenectady
-    recipient: alb.serving@lifechurch.tv
-    url: http://citymission.com/
-    description_medium: City Missions provides for the needs of the hungry and homeless
-      in our community. Their mission is to help people get out of poverty - and stay
-      out.
-  - id: 31
-    title: Habitat for Humanity
-    recipient: alb.serving@lifechurch.tv
-    url: http://www.habitat.org/
-    description_medium: Build and renovate high-quality, affordable housing and serve
-      as a partner to create healthy and sustainable communities.
-  - id: 50
-    title: Youth for Christ
-    recipient: alb.serving@lifechurch.tv
-    url: http://www.cdyfc.org/
-    description_medium: Work together with local churches to raise up lifelong followers
-      of Christ through mentoring and building relationships with young people.
 - id: shw
   title: Shawnee, OK
   email: SHW.Serving@lifechurch.tv
@@ -2476,3 +2365,114 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+- id: alb
+  title: Albany, NY
+  email: alb.serving@lifechurch.tv
+  phone: 518-456-0969
+  address: 560 Sand Creek Rd. Albany, NY 12205
+  facebook: '198238577847'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: service-time
+    type_name: Service time
+  missions:
+  - id: 30
+    title: City Mission of Schenectady
+    recipient: alb.serving@lifechurch.tv
+    url: http://citymission.com/
+    description_medium: City Missions provides for the needs of the hungry and homeless
+      in our community. Their mission is to help people get out of poverty - and stay
+      out.
+  - id: 31
+    title: Habitat for Humanity
+    recipient: alb.serving@lifechurch.tv
+    url: http://www.habitat.org/
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
+  - id: 50
+    title: Youth for Christ
+    recipient: alb.serving@lifechurch.tv
+    url: http://www.cdyfc.org/
+    description_medium: Work together with local churches to raise up lifelong followers
+      of Christ through mentoring and building relationships with young people.
