@@ -109,4 +109,14 @@
       padding-top: 1em;
     }
   }
+  
+  .tio-video {
+    max-width:100%; 
+    width: 800px; 
+    height: 450px; 
+    padding-bottom: 15px;
+      @media screen and (max-width: 500px) {
+        height: 250px;
+      }
+  }
 }
