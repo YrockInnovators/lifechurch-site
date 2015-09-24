@@ -29,8 +29,8 @@
       @include svg-image('../images/branding/logo-black-black');
     }
 
-    height: 30px;
-    background-size: auto 20px;
+    height: 33px;
+    background-size: auto 25px;
     background-position: left center;
 
     @include media($large-screen) {
