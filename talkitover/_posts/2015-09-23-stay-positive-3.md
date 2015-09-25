@@ -10,7 +10,7 @@ title: Talk It Over Week 3
 
 Craig filmed this bonus content just for your discussion group. Watch the video, then discuss the message.
 
-<div style="max-width:100%; width: 800px; height: 450px; padding-bottom: 15px"><script type="text/javascript" src="http://player.theplatform.com/p/IfSiAC/Muqqhl0VrQbH/embed/select/media/QjVBkd_NvPYw?form=javascript"></script></div>  
+<div class="tio-video"><iframe src="http://player.theplatform.com/p/IfSiAC/Muqqhl0VrQbH/embed/select/media/QjVBkd_NvPYw?form=html" width="800" height="450" frameBorder="0" seamless="seamless" allowFullScreen></iframe></div>  
 
 <p class="lead">Think back through Craig's talk. What stuck out?</p> 
 
