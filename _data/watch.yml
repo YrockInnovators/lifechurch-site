@@ -22,6 +22,10 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/stay-positive/480x340.jpg?1440797265
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/stay-positive/960x680.jpg?1440797285
   messages:
+  - title: I'm Encouraging
+    headline: ''
+    video: h11lc6x6lo
+    platform_id: EuJc6zbU0VEO
   - title: I'm Grateful
     headline: ''
     video: q2wpk5bexc
@@ -64,6 +68,10 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/stay-positive-discussion/480x340.jpg?1442108729
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/stay-positive-discussion/960x680.jpg?1442108694
   messages:
+  - title: I'm Encouraging - Bonus Material
+    headline: ''
+    video: vs45hwotz9
+    platform_id: QjVBkd_NvPYw
   - title: I'm Grateful - Bonus Material
     headline: ''
     video: q2wpk5bexc
@@ -4296,9 +4304,9 @@
   title: Elijah
   headline: ''
   description_small: ''
-  description_medium: "<p>An angry king. Devastating drought. Epic opposition. And
-    one man who overcomes it all. <br /><br /> When the world around us is spinning
-    out of control, where do we turn? Join us as we learn from Elijah.</p>"
+  description_medium: An angry king. Devastating drought. Epic opposition. And one
+    man who overcomes it all. When the world around us is spinning out of control,
+    where do we turn? Join us as we learn from Elijah.
   quote: ''
   quote_cite: ''
   open_url: http://open.church/resources/1397-elijah
