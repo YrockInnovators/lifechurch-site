@@ -4,25 +4,10 @@ require 'rack/rewrite'
 
 use Rack::Deflater
 
-use Rack::TryStatic,
-  urls: %w[/],
-  root: "_site",
-  try: ['index.html', '/index.html'],
-  header_rules: [
-    [["html"],  {'Content-Type' => 'text/html; charset=utf-8'}],
-    [["css"],   {'Content-Type' => 'text/css'}],
-    [["js"],    {'Content-Type' => 'text/javascript'}],
-    [["png"],   {'Content-Type' => 'image/png'}],
-    [["svg"],   {'Content-Type' => 'image/svg+xml'}],
-    [["jpg"],   {'Content-Type' => 'image/jpg'}],
-    [["ico"],   {'Content-Type' => 'image/x-icon'}],
-    [:fonts, {'Access-Control-Allow-Origin' => '*'}],
-    ["/", {'Cache-Control' => 'public, max-age=86400'}],
-  ]
-
-run Rack::NotFound.new('_site/404.html')
-
 use Rack::Rewrite do
+  r301 %r{(.*)}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
+    rack_env['REQUEST_URI'] !=~ /www.life.church/
+  }
   r301 %r{^/digerati?$}, '/digital-missions/'
   r301 %r{^/carols?$}, '/watch/carols/'
   r301 %r{^/welcome?$}, '/who-we-are/'
@@ -146,7 +131,22 @@ use Rack::Rewrite do
   r301 %r{^/southwestokc?$}, '/southokc/'
   r301 %r{^/Churches?$}, '/churches/'
   r301 %r{^/bible/?$}, 'http://app.bible.com/lifechurch'
-  r301 %r{.*}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
-  rack_env['REMOTE_HOST'] != 'www.life.church'
-  }
 end
+
+use Rack::TryStatic,
+  urls: %w[/],
+  root: "_site",
+  try: ['index.html', '/index.html'],
+  header_rules: [
+    [["html"],  {'Content-Type' => 'text/html; charset=utf-8'}],
+    [["css"],   {'Content-Type' => 'text/css'}],
+    [["js"],    {'Content-Type' => 'text/javascript'}],
+    [["png"],   {'Content-Type' => 'image/png'}],
+    [["svg"],   {'Content-Type' => 'image/svg+xml'}],
+    [["jpg"],   {'Content-Type' => 'image/jpg'}],
+    [["ico"],   {'Content-Type' => 'image/x-icon'}],
+    [:fonts, {'Access-Control-Allow-Origin' => '*'}],
+    ["/", {'Cache-Control' => 'public, max-age=86400'}],
+  ]
+
+run Rack::NotFound.new('_site/404.html')
