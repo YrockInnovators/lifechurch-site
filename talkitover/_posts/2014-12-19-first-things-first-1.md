@@ -63,4 +63,4 @@ First of the Year: **Fast**
 
 * Start a Bible habit with the YouVersion 21-Day New Year Challenge. You could win an iPad and other prizes! Info at [http://blog.youversion.com](http://blog.youversion.com)
 * Start a fast with your group and follow this 21-Day Fast reading plan. [https://www.bible.com/reading-plans/35-21-day-fast](https://www.bible.com/reading-plans/35-21-day-fast)
-* Try attending a weekend LifeChurch.tv experience every week in January. Make plans to attend together as a group for accountability (and fun)!
+* Try attending a weekend Life.Church experience every week in January. Make plans to attend together as a group for accountability (and fun)!
