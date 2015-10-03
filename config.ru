@@ -6,7 +6,7 @@ use Rack::Deflater
 
 use Rack::Rewrite do
   r301 %r{(.*)}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
-    rack_env['REQUEST_URI'] !=~ /www.life.church/
+    rack_env['REQUEST_URI'] =~ /www.lifechurch.tv/
   }
   r301 %r{^/digerati?$}, '/digital-missions/'
   r301 %r{^/carols?$}, '/watch/carols/'
