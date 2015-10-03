@@ -146,4 +146,7 @@ use Rack::Rewrite do
   r301 %r{^/southwestokc?$}, '/southokc/'
   r301 %r{^/Churches?$}, '/churches/'
   r301 %r{^/bible/?$}, 'http://app.bible.com/lifechurch'
+  r301 %r{.*}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
+  rack_env['SERVER_NAME'] != 'www.life.church'
+  }
 end

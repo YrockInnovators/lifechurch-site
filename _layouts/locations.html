@@ -54,6 +54,11 @@ hero: locations-hero
               </span>
             </div>
             {% endif %}{% endunless %}{% endfor %}
+            <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+             {% if location.id == 'stw' %}
+             <time>09:00PM</time> <span>Service Only</span>
+             {% endif %}
+             </div>
           </article>
 
           <article class="wednesday day">
@@ -161,7 +166,7 @@ hero: locations-hero
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/event-opendoor.jpg" data-retina="/locations/assets/event-opendoor@2x.jpg" alt="Open Door" />
         <h6>Open Door</h6>
-        <p class="detail">Learn more about LifeChurch.tv, our vision, and how you can be a part of it all. We'd love to get to know you!</p>
+        <p class="detail">Learn more about Life.Church, our vision, and how you can be a part of it all. We'd love to get to know you!</p>
 
         <div class="cta">
           <p>
@@ -183,7 +188,7 @@ hero: locations-hero
             <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
-                   value="Send to LifeChurch.tv"
+                   value="Send to Life.Church"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Open Door');" />
           </form>
         </div>
@@ -218,7 +223,7 @@ hero: locations-hero
             <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
-                   value="Send to LifeChurch.tv"
+                   value="Send to Life.Church"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Chazown');" />
           </form>
         </div>
@@ -252,7 +257,7 @@ hero: locations-hero
             <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
-                   value="Send to LifeChurch.tv"
+                   value="Send to Life.Church"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Baptism');" />
           </form>
         </div>
@@ -287,7 +292,7 @@ hero: locations-hero
             <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
             <input type="submit"
                    class="button small submit-involved"
-                   value="Send to LifeChurch.tv"
+                   value="Send to Life.Church"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Restore');" />
           </form>
         </div>
@@ -302,7 +307,7 @@ hero: locations-hero
 <section id="connect" class="group single alt">
   <header class="text-center">
     <h2>Connect with {{ location.title }}</h2>
-    <p>We love to hear from the great people who visit and attend LifeChurch.tv.</p>
+    <p>We love to hear from the great people who visit and attend Life.Church.</p>
   </header>
 
   <div class="container">
@@ -315,7 +320,7 @@ hero: locations-hero
         <img src="{{ pastor.photo_portrait }}" data-retina="{{ pastor.photo_portrait_2x }}" alt="Campus Pastor" />
         
         <h6>Contact Pastor {{ pastor.name }}</h6>
-        <p class="detail">At LifeChurch.tv, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
+        <p class="detail">At Life.Church, each campus has its own pastor who leads the community as they learn and grow in their relationships with Christ. If you are looking for guidance or have questions about our church, your campus pastor is here for you.</p>
         
         <div class="cta">
           <p><a href="#"
@@ -369,7 +374,7 @@ hero: locations-hero
             <textarea class="details" name="message" placeholder="Your Message"></textarea>
             <input type="submit"
                    class="button small submit-involved"
-                   value="Send to LifeChurch.tv"
+                   value="Send to Life.Church"
                    onclick="ga('send', 'event', 'Locations', 'Click', 'New Contact Campus');" />
           </form>
         </div>
@@ -381,7 +386,7 @@ hero: locations-hero
       <li class="grid-item panel involved-item">
         <img src="/locations/assets/connect-facebook.jpg" data-retina="/locations/assets/connect-facebook@2x.jpg" alt="Open Door" />
         <h6>Connect with us on Facebook</h6>
-        <p class="detail">On the LifeChurch.tv {{ location.title }} Facebook, you can find upcoming events, get updates, engage with your community, and see behind-the-scenes pictures and posts from our staff. </p>
+        <p class="detail">On the Life.Church {{ location.title }} Facebook, you can find upcoming events, get updates, engage with your community, and see behind-the-scenes pictures and posts from our staff. </p>
 
         <div class="cta">
           <p>
