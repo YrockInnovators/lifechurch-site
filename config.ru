@@ -84,7 +84,6 @@ use Rack::Rewrite do
   r301 %r{^/lifekids_resources/toon_town/series/road-trip?$}, '/kids/'
   r301 %r{^/leadership-development?$}, '/digital-missions/'
   r301 %r{^/leadershipxp?$}, '/jobs/'
-  r301 %r{^/talkitover?$}, '/watch/'
   r301 %r{^/resources/podcasts?$}, '/watch/'
   r301 %r{^/give?$}, '/giving/'
   r301 %r{^/japan?$}, '/locations/'
