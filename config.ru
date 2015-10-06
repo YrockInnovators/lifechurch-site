@@ -42,7 +42,6 @@ use Rack::Rewrite do
   r301 %r{^/okc_new/public/about_life/beliefs_scriptures.php?rv=12?$}, '/beliefs/'
   r301 %r{^/tulsa?$}, '/locations/tul/'
   r301 %r{^/message-archive/one-prayer/5?$}, '/watch/one-prayer-2010/'
-  r301 %r{^/watch/life-money-hope/1?$}, '/watch/life-money-hope/'
   r301 %r{^/message-archive/one-prayer/2?$}, '/watch/one-prayer-2010/'
   r301 %r{^/(.*).aspx(.*)?$}, '/'
   r301 %r{^/message-archive/(.*)?$}, '/watch/archive/'
