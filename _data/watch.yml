@@ -1,4 +1,52 @@
 ---
+- id: struggles2015
+  title: "#Struggles"
+  headline: 'We''re living to be liked, but longing to be loved. What''s the meaning
+    beyond the #Struggles of our selfie-centered world?'
+  description_small: 'When our self worth is measured in hearts, likes, and comments,
+    we''ll never be enough. Find your meaning beyond the #Struggles of our selfie-centered
+    world.'
+  description_medium: 'When our self worth is measured in hearts, likes, and comments,
+    we''ll never be enough. We''re living to be liked, but longing to be loved. Let''s
+    learn to find our meaning beyond the #Struggles of our selfie-centered world.'
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2195-struggles-2015
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147Z'
+    updated_at: '2014-06-11T15:18:45.147Z'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022Z'
+    updated_at: '2014-06-11T15:20:16.022Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: http://api-assets.lifechurch.tv/series/struggles2015/300x200.jpg?1444767195
+  image_medium: http://api-assets.lifechurch.tv/series/struggles2015/600x400.jpg?1444767217
+  image_large: http://api-assets.lifechurch.tv/series/struggles2015/1200x800.jpg?1444767271
+  image_social: http://api-assets.lifechurch.tv/series/struggles2015/400x400.jpg?1444767293
+  image_banner_archive: http://api-assets.lifechurch.tv/series/struggles2015/1500x340.jpg?1444767335
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles2015/3000x680.jpg?1444767316
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/struggles2015/480x340.jpg?1444767354
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/struggles2015/960x680.jpg?1444767374
 - id: stay-positive
   title: Stay Positive
   headline: If you seek what’s good, you’ll see what's good.
