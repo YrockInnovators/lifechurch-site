@@ -1,3 +1,5 @@
+var LastVideoId;
+
 $(document).ready(function(){
 
   // Video player
@@ -5,14 +7,17 @@ $(document).ready(function(){
   function video_player_start(event) {
     var videoId = $(this).data('video-player');
     var videoWrapper = $("#video-"+videoId);
-    var videoPlayer = videoWrapper.find('iframe')[0].wistiaApi;
     $('body').addClass('noscroll');
+    $("#player-"+videoId).html('<iframe src="http://player.theplatform.com/p/IfSiAC/bTc5flAyW_uT/embed/select/media/'+videoId+'?form=html" width="100%" height="100%" frameBorder="0" seamless="seamless" allowFullScreen></iframe>');
     videoWrapper.show();
-    videoPlayer.play();
+    LastVideoId = videoId;
   }
+  
   function video_player_close(event) {
+    console.log(event);
     $('body').removeClass('noscroll');
     $('.video-player').hide();
+    $("#player-"+LastVideoId).html('');
   }
 
   // Close video player

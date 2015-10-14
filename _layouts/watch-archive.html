@@ -48,7 +48,7 @@ class: header-red section-watch section-series
    data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
    data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
    {% endif %}
-   data-video-player="{{message.video}}"
+   data-video-player="{{message.platform_id}}"
    onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');"
    >
   <div class="inner">
@@ -76,7 +76,7 @@ class: header-red section-watch section-series
       <!-- Get the messages out of the series and list them out -->
       {% for message in series.messages reversed %}
 
-      <a class="message" href="javascript:void(0);" data-video-player="{{message.video}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message');">
+      <a class="message" href="javascript:void(0);" data-video-player="{{message.platform_id}}" onclick="ga('send', 'event', 'Watch', 'Play', 'Play Message');">
         <span class="series-number">{% cycle '1', '2', '3', '4', '5', '6' %}</span>
         <h6>{{ message.title }}</h6>
         <div class="action">Play <i class="icon icon-play"></i></div>
@@ -99,7 +99,7 @@ class: header-red section-watch section-series
 
 <div class="page-main">
   {% for message in series.messages %}
-  {% include video-player.html id=message.video %}
+  {% include haivision-video-player.html id=message.platform_id %}
   {% endfor %}
 </div>
 
