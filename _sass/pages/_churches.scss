@@ -49,11 +49,11 @@
 
 .video-thumb {
   position: relative;
-  width: 200px;
+  width: 230px;
   height: 130px;
   display: block;
   padding-top: 25px;
-  font-size: .8em;
+  font-size: .65em;
   font-family: $sans-serif;
   background: #eee;
   display: block;
@@ -107,6 +107,10 @@
 
 .video-thumb-open-1 {
   @include retina-image(/images/equipping-churches/ec-open-thumb-1, cover, jpg);
+}
+
+.video-thumb-open-2 {
+  @include retina-image(/images/equipping-churches/ec-open-thumb-2, cover, jpg);
 }
 
 .video-thumb-network-1 {
