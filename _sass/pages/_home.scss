@@ -7,7 +7,7 @@
   }
   
   .large.action {
-    color: #c23b28;
+    color: #7ec5e7;
   }
 
   .home-menu {
@@ -74,8 +74,8 @@
   .hero {
     min-height: 200px;
     @include retina-image(/images/home/home-bg, cover, jpg);
-    background-position: bottom center;
-    background-color: #fbe136;
+    background-position: top center;
+    background-color: #888;
     position: relative;
     padding-bottom: 150px;
 
@@ -99,15 +99,31 @@
       width: 100%;
       max-width: 800px;
       height: 200px;
-      margin: 10px auto 20px;
+      margin: 100px auto 20px;
+      
+      @media screen and (min-width: 2500px) {
+        height: 200px;
+        margin: 50px auto 20px;
+      }
 
       @include media($medium-screen) {
         height: 200px;
-        margin: 10px auto 20px;
+        margin: 180px auto 20px;
       }
       
       @media screen and (max-width: 500px) {
         height: 150px;
+        margin: 100px auto 20px;
+      }
+    }
+    .phone {
+      left: 0;
+      position: absolute;
+      max-width: 650px;
+      margin-top: -50px;
+      @media screen and (max-width: 600px) {
+        max-width: 320px;
+        margin-top: 0;
       }
     }
   }
