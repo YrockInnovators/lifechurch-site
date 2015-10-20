@@ -719,6 +719,10 @@
     name: Spiritual Growth
     created_at: '2014-06-11T15:16:13.079Z'
     updated_at: '2014-06-11T15:16:13.079Z'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
   image_small: http://api-assets.lifechurch.tv/series/come-to-worship/300x200.jpg?1416522949
   image_medium: http://api-assets.lifechurch.tv/series/come-to-worship/600x400.jpg?1416522970
   image_large: http://api-assets.lifechurch.tv/series/come-to-worship/1200x800.jpg?1416523001
@@ -1420,6 +1424,10 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299Z'
     updated_at: '2014-08-05T20:06:31.641Z'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
   image_small: http://api-assets.lifechurch.tv/series/fear-not/300x200.jpg?1396042061
   image_medium: http://api-assets.lifechurch.tv/series/fear-not/600x400.jpg?1396042126
   image_large: http://api-assets.lifechurch.tv/series/fear-not/1200x800.jpg?1396042178
@@ -2762,6 +2770,10 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991Z'
     updated_at: '2014-06-11T15:48:49.991Z'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
   image_small: http://api-assets.lifechurch.tv/series/carols/300x200.jpg?1396024882
   image_medium: http://api-assets.lifechurch.tv/series/carols/600x400.jpg?1396024923
   image_large: http://api-assets.lifechurch.tv/series/carols/1200x800.jpg?1396024948
@@ -3428,6 +3440,10 @@
     name: God
     created_at: '2014-06-11T15:22:41.520Z'
     updated_at: '2014-06-11T15:22:41.520Z'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
   image_small: http://api-assets.lifechurch.tv/series/christmas10/300x200.jpg?1395958092
   image_medium: http://api-assets.lifechurch.tv/series/christmas10/600x400.jpg?1395958139
   image_large: http://api-assets.lifechurch.tv/series/christmas10/1200x800.jpg?1395958159
@@ -4018,6 +4034,10 @@
     name: God
     created_at: '2014-06-11T15:22:41.520Z'
     updated_at: '2014-06-11T15:22:41.520Z'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
   image_small: http://api-assets.lifechurch.tv/series/this-christmas/300x200.jpg?1395945033
   image_medium: http://api-assets.lifechurch.tv/series/this-christmas/600x400.jpg?1395945103
   image_large: http://api-assets.lifechurch.tv/series/this-christmas/1200x800.jpg?1395945170
