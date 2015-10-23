@@ -86,7 +86,7 @@
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
-      background-color: #fbe136;
+      background-color: #5c5c5c;
       padding-bottom: 5em;
     }
     
