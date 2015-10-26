@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-novideo
+layout: watch-archive
 categories: watch
 series-id: struggles2015
 title: Struggles
