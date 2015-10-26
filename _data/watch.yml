@@ -47,6 +47,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles2015/3000x680.jpg?1444767316
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/struggles2015/480x340.jpg?1444767354
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/struggles2015/960x680.jpg?1444767374
+  messages:
+  - title: "#Struggles"
+    headline: ''
+    video: ''
+    platform_id: 4pSBdvUP_b7h
 - id: stay-positive
   title: Stay Positive
   headline: If you seek what’s good, you’ll see what's good.
