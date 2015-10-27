@@ -1,7 +1,7 @@
 ---
 layout: announcement
 title: 2014 Christmas Services
-permalink: /christmas/
+permalink: /christmas-2014/
 teaser: "The gifts we exchange this year can't compare to what God gave us on the first Christmas. Jesus brought unfailing love, unending hope, and unfaltering peace. We invite you to join us at LifeChurch.tv this Christmas to celebrate the gifts that only Christ can give."
 feature: /announcements/assets/2014-12-03-christmas.jpg
 ---
