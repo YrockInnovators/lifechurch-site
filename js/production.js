@@ -731,6 +731,7 @@ jQuery(function() {
   goLive = function() {
     $('.nav-live').addClass('is-live');
     $('[data-churchonline-counter]').text("Live Now").addClass("live");
+    $('[data-churchonline-counter-watch]').text("now!").addClass("live");
   };
   days = void 0;
   hours = void 0;
@@ -766,6 +767,11 @@ jQuery(function() {
             }
           }
           $('[data-churchonline-counter]').text("in " + (hours == "0" ? "" : (hours + "hours ")) + (minutes == "0" ? "" : (minutes + "mins ")) + (seconds + "secs"))
+          if (seconds === 0 && minutes === 0 && hours === 0 && days === 0) {
+            goLive();
+            return clearInterval(intervalId);
+          }
+          $('[data-churchonline-counter-watch]').text("in " + (hours == "0" ? "" : (hours + "hours ")) + (minutes == "0" ? "" : (minutes + "mins ")) + (seconds + "secs"))
           if (seconds === 0 && minutes === 0 && hours === 0 && days === 0) {
             goLive();
             return clearInterval(intervalId);

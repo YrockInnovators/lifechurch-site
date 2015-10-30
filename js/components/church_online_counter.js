@@ -12,6 +12,7 @@ jQuery(function() {
   goLive = function() {
     $('.nav-live').addClass('is-live');
     $('[data-churchonline-counter]').text("Live Now").addClass("live");
+    $('[data-churchonline-counter-watch]').text("now!").addClass("live");
   };
   days = void 0;
   hours = void 0;
@@ -51,6 +52,7 @@ jQuery(function() {
             goLive();
             return clearInterval(intervalId);
           }
+          
         }, 1000);
       }
     },
