@@ -147,4 +147,11 @@ use Rack::TryStatic,
     ["/", {'Cache-Control' => 'public, max-age=86400'}],
   ]
 
+# Redirect to url with trailing slash
+
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ http://www.life.church/$
+
 run Rack::NotFound.new('_site/404.html')
