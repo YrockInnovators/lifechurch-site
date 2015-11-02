@@ -40,6 +40,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/punchline/3000x680.jpg?1446065990
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/punchline/480x340.jpg?1446066032
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/punchline/960x680.jpg?1446066054
+  messages:
+  - title: Punchline
+    headline: ''
+    video: ''
+    platform_id: hrzDBYQKOHH9
 - id: struggles2015
   title: "#Struggles"
   headline: 'We''re living to be liked, but longing to be loved. What''s the meaning
