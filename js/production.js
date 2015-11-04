@@ -739,7 +739,7 @@ jQuery(function() {
   seconds = void 0;
   intervalId = void 0;
   return $.ajax({
-    url: "http://live.lifechurch.tv/api/v1/events/current",
+    url: "http://live.life.church/api/v1/events/current",
     dataType: "json",
     success: function(data) {
       var date, dateString, seconds_till;
@@ -771,11 +771,7 @@ jQuery(function() {
             goLive();
             return clearInterval(intervalId);
           }
-          $('[data-churchonline-counter-watch]').text("in " + (hours == "0" ? "" : (hours + "hours ")) + (minutes == "0" ? "" : (minutes + "mins ")) + (seconds + "secs"))
-          if (seconds === 0 && minutes === 0 && hours === 0 && days === 0) {
-            goLive();
-            return clearInterval(intervalId);
-          }
+          
         }, 1000);
       }
     },
