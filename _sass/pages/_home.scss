@@ -1,7 +1,7 @@
 .home {
   
   .lead {
-    color: #fff;
+    color: #333;
     font-size: 1.3em;
     max-width: 95%;
   }
@@ -90,6 +90,10 @@
       padding-bottom: 8em;
     }
     
+    .hero-copy {
+      margin: 0.5em auto 1em;
+    }
+    
     h1 {
       @include hide-text;
       @include retina-image(/images/home/home-title, contain);
@@ -98,16 +102,16 @@
       background-position: center;
       width: 100%;
       max-width: 800px;
-      height: 175px;
+      height: 304px;
       margin: 0px auto 20px;
       
       @include media($medium-screen) {
-        height: 175px;
+        height: 304px;
         margin: 0px auto -20px;
       }
       
       @media screen and (max-width: 500px) {
-        height: 150px;
+        height: 200px;
         margin: 0px auto 0px;
       }
     }
