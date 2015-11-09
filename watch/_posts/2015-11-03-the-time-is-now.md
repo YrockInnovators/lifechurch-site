@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-promo
+layout: watch-archive
 categories: watch
 series-id: the-time-is-now
 title: The Time Is Now

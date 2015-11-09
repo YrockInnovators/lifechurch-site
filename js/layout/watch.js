@@ -12,7 +12,7 @@ $(document).ready(function(){
   }
   $('[data-search-form]').keyup(function() {
     if(!$('[data-search-input]').val()) {
-      $('[data-search-results]').hide();
+      $('[data-search-results]').show();
       $('.search-description').hide();
       $('.group.of-grid-items').show();
     } else {
