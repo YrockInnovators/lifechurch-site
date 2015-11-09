@@ -10,7 +10,7 @@ sass:
   style: :compressed
 
 prose:
-  siteurl: 'http://www.lifechurch.tv/'
+  siteurl: 'http://life.church/'
   metadata:
     _posts:
       - name: 'layout'
