@@ -21,7 +21,7 @@ class: header-red section-watch section-series
    data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
    data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
    {% endif %}
-   data-video-player="{{message.video}}"
+   data-video-player="{{message.platform_id}}"
    class="hero section-light hero-watch-archive"
    onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
 
