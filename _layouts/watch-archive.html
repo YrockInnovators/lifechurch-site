@@ -94,6 +94,13 @@ class: header-red section-watch section-series
        <a onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.life.church{{ page.url }}');ga('send', 'event', 'Watch', 'Click', 'Invite on Facebook')" href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.life.church{{ page.url }}" target="_blank" class="action"><i class="icon-social-facebook"></i> Invite on Facebook</a>
        <!--<a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-gplus"></i> Invite on Google+</a>-->
      </p>
+    
+    <!-- TIO Button -->
+    <div class="button-with-options">
+        <a class="button large" href="#" onclick="ga('send', 'event', 'Series', 'Click', 'Resources Expand');">Talk It Over</a>
+        {% include watch-tio.html %}
+      </div>
+    
   </section>
 </div>
 
