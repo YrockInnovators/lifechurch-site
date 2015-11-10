@@ -50,6 +50,37 @@
         position: absolute;
         right: 15px;
       }
+    .options-list-tio {
+      background: rgba(255, 255, 255, .97);
+      color: black;
+      font-size: 14px;
+      text-align: left;
+      border-radius: $base-border-radius;
+      margin: 1em 0 0 0;
+      position: absolute;
+      width: 98%;
+      left: 1%;
+
+      @media only screen and (min-width: $medium-screen) {
+        left: auto;
+        top: auto;
+        width: 220px;
+
+        // The little arrow coming out of the top of the menu
+        &:before {
+          border-color: transparent transparent white transparent;
+          border-width: 5px;
+          border-style: solid;
+          content: "";
+          display: inline-block;
+          width: 0;
+          height: 0;
+          top: -10px;
+          position: absolute;
+          right: 15px;
+        }
+      }
+      }
     }
 
     // Menu item within the dropdown
