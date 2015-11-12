@@ -12,6 +12,7 @@ jQuery(function() {
   goLive = function() {
     $('.nav-live').addClass('is-live');
     $('[data-churchonline-counter]').text("Live Now").addClass("live");
+    $('[data-churchonline-counter-watch]').text("now!").addClass("live");
   };
   days = void 0;
   hours = void 0;
@@ -19,7 +20,7 @@ jQuery(function() {
   seconds = void 0;
   intervalId = void 0;
   return $.ajax({
-    url: "http://live.lifechurch.tv/api/v1/events/current",
+    url: "http://live.life.church/api/v1/events/current",
     dataType: "json",
     success: function(data) {
       var date, dateString, seconds_till;
@@ -51,6 +52,7 @@ jQuery(function() {
             goLive();
             return clearInterval(intervalId);
           }
+          
         }, 1000);
       }
     },

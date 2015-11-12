@@ -51,6 +51,66 @@
         right: 15px;
       }
     }
+    // Menu item within the dropdown
+    li {
+      a {
+        padding: 1em 1em;
+        border-bottom: 1px solid #ddd;
+        display: block;
+        color: $black;
+        font-weight: bold;
+
+        @media only screen and (min-width: $medium-screen) {
+          padding: .4em 1em;
+        }
+      }
+
+      &:hover a {
+        background: darken($light-gray, 5%);
+      }
+
+      &:first-child a {
+        border-radius: 4px 4px 0 0;
+      }
+
+      &:last-child a {
+        border: none;
+        border-radius: 0 0 4px 4px;
+      }
+    }
+  }
+    .options-list-tio {
+      background: rgba(255, 255, 255, .97);
+      color: black;
+      font-size: 14px;
+      text-align: left;
+      border-radius: $base-border-radius;
+      margin: 1em 0 0 0;
+      position: absolute;
+      width: 98%;
+      left: 1%;
+      border: 1px solid #ccc;
+      box-shadow: 5px 5px 5px $dark-gray;
+
+      @media only screen and (min-width: $medium-screen) {
+        left: auto;
+        top: auto;
+        width: 220px;
+
+        // The little arrow coming out of the top of the menu
+        &:before {
+          border-color: transparent transparent white transparent;
+          border-width: 5px;
+          border-style: solid;
+          content: "";
+          display: inline-block;
+          width: 0;
+          height: 0;
+          top: -10px;
+          position: absolute;
+          right: 15px;
+        }
+      }
 
     // Menu item within the dropdown
     li {
@@ -82,7 +142,7 @@
   }
   
   // Hide the dropdown by default
-  .options-list {
+  .options-list, .options-list-tio {
     @include transition(opacity .1s ease-in-out);
     visibility: hidden;
     opacity: 0;
@@ -90,7 +150,7 @@
   }
   
   // Expand it out when clicked
-  &.open .options-list {
+  &.open .options-list, &.open .options-list-tio {
     visibility: visible;
     opacity: 1;
     z-index: 5;

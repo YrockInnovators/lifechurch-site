@@ -1,4 +1,91 @@
 ---
+- id: the-time-is-now
+  title: The Time Is Now
+  headline: Feel like you’ve hit a wall? Don’t be discouraged. Maybe it’s just a part
+    of what God wants to help you rebuild.
+  description_small: If you feel like your life needs to be rebuilt, it starts now—and
+    it starts with you. The Time Is Now to lay the first brick on a new foundation.
+  description_medium: No matter how much we want one, there’s no blueprint for a perfect
+    life. Feel like you’ve hit a wall? Don’t be discouraged. Maybe it’s just a part
+    of what God wants to help you rebuild. The Time Is Now to lay the first brick
+    on a new foundation.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2197-the-time-is-now
+  promo: kGgLXVZ3eQJb
+  resources_url: ''
+  categories:
+  - id: 27
+    name: Trust
+    created_at: '2014-06-11T15:17:23.291Z'
+    updated_at: '2014-06-11T15:17:23.291Z'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  image_small: http://api-assets.lifechurch.tv/series/the-time-is-now/300x200.jpg?1446570634
+  image_medium: http://api-assets.lifechurch.tv/series/the-time-is-now/600x400.jpg?1446571660
+  image_large: http://api-assets.lifechurch.tv/series/the-time-is-now/1200x800.jpg?1446571211
+  image_social: http://api-assets.lifechurch.tv/series/the-time-is-now/400x400.jpg?1446571232
+  image_banner_archive: http://api-assets.lifechurch.tv/series/the-time-is-now/1500x340.jpg?1446571281
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-time-is-now/3000x680.jpg?1446571258
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-time-is-now/480x340.jpg?1446571303
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-time-is-now/960x680.jpg?1446571330
+  messages:
+  - title: The Hard Right
+    headline: ''
+    video: ''
+    platform_id: 3S4uHsXohFj_
+- id: punchline
+  title: Punchline
+  headline: Humor helps us put our lives in perspective. A joke doesn’t make sense
+    at first—but the Punchline brings it all in focus.
+  description_small: We may not know what’s coming when a joke starts—but the Punchline
+    brings it all in focus. Learn how setbacks are really setups for what God has
+    in store.
+  description_medium: Humor helps us put our lives in perspective. We may not know
+    what’s coming when a joke starts—but the Punchline brings it all into focus. It’s
+    the same way with our lives. Let’s learn how our setbacks are really setups for
+    what God has in store for us.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2213-punchline
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 27
+    name: Trust
+    created_at: '2014-06-11T15:17:23.291Z'
+    updated_at: '2014-06-11T15:17:23.291Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  - id: 78
+    name: Michael Jr.
+    created_at: '2015-10-28T19:50:38.967Z'
+    updated_at: '2015-10-28T19:50:38.967Z'
+  image_small: http://api-assets.lifechurch.tv/series/punchline/300x200.jpg?1446065891
+  image_medium: http://api-assets.lifechurch.tv/series/punchline/600x400.jpg?1446065922
+  image_large: http://api-assets.lifechurch.tv/series/punchline/1200x800.jpg?1446065947
+  image_social: http://api-assets.lifechurch.tv/series/punchline/400x400.jpg?1446065968
+  image_banner_archive: http://api-assets.lifechurch.tv/series/punchline/1500x340.jpg?1446066009
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/punchline/3000x680.jpg?1446065990
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/punchline/480x340.jpg?1446066032
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/punchline/960x680.jpg?1446066054
+  messages:
+  - title: Punchline
+    headline: ''
+    video: ''
+    platform_id: hrzDBYQKOHH9
 - id: struggles2015
   title: "#Struggles"
   headline: 'We''re living to be liked, but longing to be loved. What''s the meaning
@@ -43,8 +130,8 @@
   image_medium: http://api-assets.lifechurch.tv/series/struggles2015/600x400.jpg?1444853483
   image_large: http://api-assets.lifechurch.tv/series/struggles2015/1200x800.jpg?1444767271
   image_social: http://api-assets.lifechurch.tv/series/struggles2015/400x400.jpg?1444767293
-  image_banner_archive: http://api-assets.lifechurch.tv/series/struggles2015/1500x340.jpg?1444767335
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles2015/3000x680.jpg?1444767316
+  image_banner_archive: http://api-assets.lifechurch.tv/series/struggles2015/1500x340.jpg?1445962420
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles2015/3000x680.jpg?1445962395
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/struggles2015/480x340.jpg?1444767354
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/struggles2015/960x680.jpg?1444767374
   messages:
