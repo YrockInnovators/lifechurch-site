@@ -1,0 +1,26 @@
+<ul class="options-list-tio">
+
+  {% for talkitover in site.categories.talkitover reversed %}
+  {% if page.series-id == talkitover.series-id or talkitover.series-id == series.id %}
+  <!-- For Watch Archives or /Recent -->
+  <li>
+    <a href="{{ talkitover.url }}"
+       class="watch-talkitover"
+       onclick="ga('send', 'event', 'Series', 'Click', 'Resource Talkitover');">
+       {{ talkitover.title }}
+    </a>
+  </li>
+  {% endif %}
+
+  {% endfor %}
+
+  {% unless series.resources_url == '' or page.section == 'watch-promo' %}
+  <li>
+    <a href="{% unless series.resources_url == '' %}{{ series.resources_url }}{% else %}http://resources.lifechurch.tv{% endunless %}"
+       class="watch-talkitover"
+       onclick="ga('send', 'event', 'Series', 'Click', 'Resource Resources');">
+       Notes &amp; Downloads
+    </a>
+  </li>
+  {% endunless %}
+</ul>
