@@ -78,6 +78,10 @@
     position: absolute;
     padding: 0px;
     height: 100%;
+    @media screen and (max-width: 640px) {
+      background: url(/images/christmas/christmas-hero-mobile.jpg) no-repeat center;
+      background-size: cover;
+    }
   }
   #video-container {
     position: relative;
