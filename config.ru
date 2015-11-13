@@ -1,13 +1,17 @@
 require 'rack/contrib/try_static'
 require 'rack/contrib/not_found'
 require 'rack/rewrite'
+require 'rack-slashenforce'
+
 
 use Rack::Deflater
+use Rack::AppendTrailingSlash
 
 use Rack::Rewrite do
   r301 %r{(.*)}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
     (rack_env['HTTP_HOST'] =~ /www.lifechurch.tv/) == 0
   }
+  
   r301 %r{^/digerati?$}, '/digital-missions/'
   r301 %r{^/carols?$}, '/watch/carols/'
   r301 %r{^/welcome?$}, '/who-we-are/'
