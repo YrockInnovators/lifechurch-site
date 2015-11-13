@@ -57,6 +57,8 @@ GEM
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
     rack-rewrite (1.4.01)
+    rack-slashenforce (0.0.2)
+      rack
     rake (10.1.1)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
@@ -79,5 +81,6 @@ DEPENDENCIES
   puma (= 2.7.1)
   rack-contrib (= 1.1.0)
   rack-rewrite (= 1.4.1)
+  rack-slashenforce
   rake (= 10.1.1)
   rdiscount
