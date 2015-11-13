@@ -68,7 +68,7 @@
     -moz-border-bottom-colors: none;
     -moz-border-left-colors: none;
     border-image: none;
-    background: #9D6F5F;
+    @include retina-image(/images/christmas/christmas-hero, 1500px auto, jpg);
     width: 100%;
     margin: 0px auto;
     overflow: visible;
@@ -102,8 +102,11 @@
     z-index:0;
     width: 100% !important;
     min-height: 100% !important;
-    background: #9D6F5F;
+    @include retina-image(/images/christmas/christmas-hero, 1500px auto, jpg);
     object-fit: cover;
+    @include media(600px) {
+      display: none;
+    }
   }
   video.fillWidth {
     min-width: 100%; 
