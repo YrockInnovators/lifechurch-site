@@ -18,6 +18,12 @@
 {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
 <link rel="stylesheet" href="/css/application.css" />
 {% if page.styles %}<link rel="stylesheet" href="/css/pages/{{ page.styles }}" />{% endif %}
+  
+{% if page.title == 'Christmas 2015 at Life.Church' %}
+  <meta property="og:title" content="Christmas 2015 at Life.Church" />
+  <meta property="og:description" content="The gifts we exchange this year can't compare to what God gave us on the first Christmas. Jesus brought unfailing love, unending hope, and unfaltering peace. Join me at Life.Church this Christmas to celebrate the gifts that only Christ can give!" />
+  <meta property="og:image" content="http://www.life.church/announcements/assets/2015-11-12-christmas.jpg" />
+{% endif %}
 
 <!-- Modernizr -->
 <script src="/js/libs/modernizr.min.js"></script>
