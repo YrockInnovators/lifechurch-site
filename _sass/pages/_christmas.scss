@@ -32,6 +32,19 @@
   #tertiary {
     display: none;
   }
+  
+  .fa-arrow-down {
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    font-size: 2.25em;
+    top: 485px;
+    width: 100%;
+    animation: blinker 2s linear infinite;
+    @keyframes blinker {
+      50% { opacity: 0.0; }
+    }
+  }
 
   .hero-christmas {
     @include retina-image(/images/christmas/christmas-hero, 1500px auto, jpg);
