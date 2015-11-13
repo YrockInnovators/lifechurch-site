@@ -99,6 +99,9 @@
       left: 0;
       right: 0;
       background: rgba(157, 111, 95, 0.2);
+      @media screen and (max-width: 640px) { 
+        display: none;
+      }
     }
   }
   #video-container video {
@@ -106,6 +109,9 @@
     width: 100% !important;
     min-height: 100% !important;
     object-fit: cover;
+    @media screen and (max-width: 640px) {
+      display: none;
+    }
   }
   video.fillWidth {
     min-width: 100%; 
