@@ -105,11 +105,9 @@
       @media screen and (max-width: 640px) {
         background: url(/images/christmas/christmas-hero-mobile.jpg) no-repeat center;
         background-size: cover;
-        top: -32%;
         }
       }
     }
-  }
   #video-container video {
     z-index:0;
     width: 100% !important;
@@ -127,6 +125,7 @@
     width: auto; 
     height: auto;
   }
+}
 
 .group.about-lctv {
   @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
