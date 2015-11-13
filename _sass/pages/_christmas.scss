@@ -44,6 +44,9 @@
     @keyframes blinker {
       50% { opacity: 0.0; }
     }
+    @media screen and (max-width: 640px) {
+      top: 375px;
+    }
   }
 
   .hero-christmas {
@@ -81,6 +84,7 @@
     @media screen and (max-width: 640px) {
       background: url(/images/christmas/christmas-hero-mobile.jpg) no-repeat center;
       background-size: cover;
+      top: -32%;
     }
   }
   #video-container {
