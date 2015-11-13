@@ -92,6 +92,8 @@
     height: 132%;
     overflow: hidden;
     z-index: 0;
+    background: url(/images/christmas/christmas-hero@2x.jpg) no-repeat center;
+    background-size: cover;
     &:after {
       content: " ";
       z-index: 10;
