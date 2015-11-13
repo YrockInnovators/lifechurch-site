@@ -50,6 +50,9 @@
     @include retina-image(/images/christmas/christmas-hero, 1500px auto, jpg);
     max-width: 1500px;
     margin: auto;
+    @media screen and (max-width: 640px) {
+      @include retina-image(/images/christmas/christmas-hero-mobile, 640px auto, jpg);
+    }
   }
   
   .hero-i-deserve-it {
