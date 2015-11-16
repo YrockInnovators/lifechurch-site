@@ -822,6 +822,7 @@ $(document).ready(function(){
   }
 });
 
+
 // Pop It Up (Tweet Quote social share links, etc.)
 function popitup(url) {
   newwindow=window.open(url,'name','height=300,width=550');
@@ -1653,7 +1654,7 @@ $(document).ready(function(){
   }
   $('[data-search-form]').keyup(function() {
     if(!$('[data-search-input]').val()) {
-      $('[data-search-results]').hide();
+      $('[data-search-results]').show();
       $('.search-description').hide();
       $('.group.of-grid-items').show();
     } else {

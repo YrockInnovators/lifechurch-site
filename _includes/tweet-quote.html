@@ -2,7 +2,7 @@
 <blockquote>
   <p>“{{ include.quote }}”</p>
   {% if include.cite %}
-  <cite>{{ include.cite }} &nbsp; <a class="tweet-this" onclick="return popitup('http://twitter.com/home/?status=“{{ include.quote | truncate: 80 }}”: http://www.lifechurch.tv{{ page.url }}'); ga('send', 'event', 'Quote', 'Click', '{{ include.quote | truncate: 15}}')" href="http://twitter.com/home/?status=“{{ include.quote | truncate: 80 }}”: http://www.lifechurch.tv{{ page.url }}" target="_blank"><i class="icon icon-social-twitter"></i> tweet this quote</a></cite>
+  <cite>{{ include.cite }} &nbsp; <a class="tweet-this" onclick="return popitup('http://twitter.com/home/?status=“{{ include.quote | truncate: 80 }}”: http://www.life.church{{ page.url }}'); ga('send', 'event', 'Quote', 'Click', '{{ include.quote | truncate: 15}}')" href="http://twitter.com/home/?status=“{{ include.quote | truncate: 80 }}”: http://www.life.church{{ page.url }}" target="_blank"><i class="icon icon-social-twitter"></i> tweet this quote</a></cite>
   {% endif %}
 </blockquote>
 {% endif %}
