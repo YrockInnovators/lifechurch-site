@@ -1,4 +1,4 @@
-# LifeChurch.tv Website
+# Life.Church Website
 
 ## Requirements
 
