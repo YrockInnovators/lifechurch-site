@@ -129,10 +129,14 @@ use Rack::Rewrite do
   r301 %r{^/whatsnext/?$}, '/next/'
   r301 %r{^/equipping-churches/?$}, '/churches/'
   r301 %r{^/serveatchurchonline/?$}, '/serving/#church-online'
-  r301 %r{^/catalyst?$}, 'http://open.church/catalyst'
   r301 %r{^/southwestokc?$}, '/southokc/'
   r301 %r{^/Churches?$}, '/churches/'
-  r301 %r{^/bible/?$}, 'http://app.bible.com/lifechurch'
+
+#Redirects to External Urls
+
+  r301 %r{/bible/(\?.*)?}, 'http://app.bible.com/lifechurch$1'
+  r301 %r{/catalyst/(\?.*)?}, 'http://open.church/catalyst$1'
+
 end
 
 use Rack::TryStatic,
