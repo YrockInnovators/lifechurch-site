@@ -33,20 +33,16 @@
 {% endif %}
 
 <!-- Locations Facebook Fix -->  
-{% if post.layout == 'locations %}
-	{% for location in site.data.locations %}
-	{% if location.id == page.location-id %}
+{% if post.layout == 'locations %} {% for location in site.data.locations %} {% if location.id == page.location-id %}
   <meta property="og:title" content="Life.Church {{ page.title }}" />
   <meta property="og:type" content="website" />
   <meta property="fb:profile_id" content="{{ location.facebook }}" />
-  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:url" content="http://www.life.church{{ page.url }}" />
   <meta property="og:description" content="{{ location.address }}" />
   <meta property="og:image" content="http://www.life.church/locations/assets/facebook-invite.jpg" />
   <meta property="og:image:secure_url" content="https://www.life.church/locations/assets/facebook-invite.jpg" />
   <meta property="og:site_name" content="Life.Church" />
-  	{% endif %}
-	{% endfor %}
-{% endif %}
+ {% endif %} {% endfor %} {% else %}
 
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ page.title }}" />
@@ -55,6 +51,7 @@
 {% if page.image_social %}<meta property="og:image" content="{{ page.image_social }}" />{% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
 <meta property="og:site_name" content="Life.Church" />
+{% endif %}
 
 <!-- Twitter Card data -->
 <meta name="twitter:site" content="@lifechurch">
