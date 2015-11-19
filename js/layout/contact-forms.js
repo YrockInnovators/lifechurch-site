@@ -237,7 +237,7 @@ $(function() {
         firstname: firstname,
         lastname: lastname,
         email: email,
-        message: message
+        prayer_requests: message,
       });  
 
       form.fadeOut();
