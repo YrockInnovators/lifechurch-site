@@ -6,7 +6,7 @@
 <script src="/js/libs/jquery/jquery-2.1.0.min.js"></script>
 <!--<![endif]-->
 
-<script src="/js/production.js"></script>
+<script src="/js/production.js?v={{ site.time | date: '%y-%m-%d_%h_%m_%s' }}"></script>
 
 {% if page.section == "locations" or page.title == "LifeMissions" or page.title == "Local Partners" or page.title == "What's Next?" %}
 <script src="/js/pages/persistent-nav.js"></script>
