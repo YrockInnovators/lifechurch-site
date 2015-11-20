@@ -1,4 +1,50 @@
 ---
+- id: because-of-you-2015
+  title: Because of You
+  headline: God is using you to set the stage for something amazing. Learn what’s
+    possible when technology meets the love of Christ—Because of You.
+  description_small: Countless lives have embarked on a new course. Good news is reaching
+    people around the globe. A broken world is finding a hope it never knew. Anything
+    is possible when technology meets the love of Christ—Because of You.
+  description_medium: Did you know God is using you to set the stage for something
+    amazing? Because of you, countless lives have embarked on a new course. Because
+    of you, good news is reaching people around the globe. Because of you, a broken
+    world is finding a hope it never knew. Come learn what’s possible when technology
+    meets the love of Christ—Because of You.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2236-because-of-you
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 20
+    name: Tithe
+    created_at: '2014-06-11T15:15:22.933Z'
+    updated_at: '2014-06-11T15:15:22.933Z'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255Z'
+    updated_at: '2014-06-11T15:25:15.255Z'
+  - id: 46
+    name: Church Vision
+    created_at: '2014-06-11T15:25:52.761Z'
+    updated_at: '2014-06-11T15:25:52.761Z'
+  - id: 79
+    name: Technology
+    created_at: '2015-11-20T22:33:36.233Z'
+    updated_at: '2015-11-20T22:33:36.233Z'
+  image_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/300x200.jpg?1448059050
+  image_medium: http://api-assets.lifechurch.tv/series/because-of-you-2015/600x400.jpg?1448059096
+  image_large: http://api-assets.lifechurch.tv/series/because-of-you-2015/1200x800.jpg?1448059115
+  image_social: http://api-assets.lifechurch.tv/series/because-of-you-2015/400x400.jpg?1448059171
+  image_banner_archive: http://api-assets.lifechurch.tv/series/because-of-you-2015/1500x340.jpg?1448059204
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/3000x680.jpg?1448059189
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/480x340.jpg?1448059218
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/960x680.jpg?1448059236
 - id: the-time-is-now
   title: The Time Is Now
   headline: Feel like you’ve hit a wall? Don’t be discouraged. Maybe it’s just a part
