@@ -33,7 +33,7 @@ _“God wanted more than a nice temple. He wanted their whole hearts devoted and
 <p class="lead">Start talking. Find a conversation starter for your group.</p> 
 
 * Do you know a selective listener? Are you one? Did you even hear this question?
-* Is cleanliness really next to godliness? If so, how close?
+* Do you have $5 obedience or $100 obedience? Share a story.
 
 <p class="lead">Start thinking. Ask questions to get your group thinking.</p> 
 
