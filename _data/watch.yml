@@ -45,6 +45,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/3000x680.jpg?1448059189
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/480x340.jpg?1448059218
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/960x680.jpg?1448059236
+  messages:
+  - title: Because of You
+    headline: ''
+    video: ''
+    platform_id: N6mlxxqbMyMW
 - id: the-time-is-now
   title: The Time Is Now
   headline: Feel like you’ve hit a wall? Don’t be discouraged. Maybe it’s just a part
