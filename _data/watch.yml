@@ -1,4 +1,52 @@
 ---
+- id: when-god-doesnt-make-sense
+  title: When God Doesn’t Make Sense
+  headline: Life doesn’t always go the way we expected. What do you do When God Doesn’t
+    Make Sense?
+  description_small: Just because God's silent doesn’t mean He’s not there. When God
+    Doesn’t Make Sense might just be the time to trust Him the most.
+  description_medium: Life doesn’t always go the way we expected. You pray with faith,
+    but God doesn’t do what you asked. You seek Him, but don’t feel His presence.
+    You’re going through pain, but your cries for relief seem to go unanswered. What
+    do you do When God Doesn’t Make Sense?
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2233-when-god-doesn-t-make-sense
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611Z'
+    updated_at: '2014-06-11T15:18:18.611Z'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147Z'
+    updated_at: '2014-06-11T15:18:45.147Z'
+  - id: 33
+    name: Pain
+    created_at: '2014-06-11T15:19:30.049Z'
+    updated_at: '2014-06-11T15:19:30.049Z'
+  - id: 41
+    name: God
+    created_at: '2014-06-11T15:22:41.520Z'
+    updated_at: '2014-06-11T15:22:41.520Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  image_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/300x200.jpg?1449000446
+  image_medium: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/600x400.jpg?1449000471
+  image_large: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/1200x800.jpg?1449000507
+  image_social: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/400x400.jpg?1449000524
+  image_banner_archive: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/1500x340.jpg?1449000570
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/3000x680.jpg?1449000543
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/480x340.jpg?1449000589
+  image_banner_archive_small_2x: ''
 - id: because-of-you-2015
   title: Because of You
   headline: God is using you to set the stage for something amazing. Learn what’s
