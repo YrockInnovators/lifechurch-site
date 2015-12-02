@@ -1,9 +1,9 @@
 .home {
   
   .lead {
-    color: #333;
+    color: #fff;
     font-size: 1.3em;
-    max-width: 95%;
+    max-width: 98%;
   }
   
   .large.action {
@@ -13,7 +13,7 @@
   .home-menu {
     background: white;
     padding: 0 1em;
-    margin-bottom: -10px;
+    margin-bottom: 0px;
 
     @include media($medium-screen) {
       display: none;
@@ -73,9 +73,9 @@
 
   .hero {
     min-height: 200px;
-    @include retina-image(/images/home/home-bg, cover, jpg);
+    @include retina-image(/images/home/home-bg, cover, png);
     background-position: top center;
-    background-color: #888;
+    background-color: #363434;
     position: relative;
     padding-bottom: 150px;
 
@@ -84,14 +84,14 @@
     }
 
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, cover, jpg);
+      @include retina-image(/images/home/home-bg, cover, png);
       height: auto;
-      background-color: #5c5c5c;
-      padding-bottom: 6em;
+      background-color: #363434;
+      padding-bottom: 7em;
     }
     
     .hero-copy {
-      margin: 0.5em auto 1em;
+      margin: 1.5em auto 1em;
     }
     
     h1 {
@@ -101,18 +101,13 @@
       background-repeat: no-repeat;
       background-position: center;
       width: 100%;
-      max-width: 800px;
-      height: 304px;
+      max-width: 1000px;
+      height: 200px;
       margin: 0px auto 20px;
       
       @include media($medium-screen) {
-        height: 304px;
-        margin: 0px auto -20px;
-      }
-      
-      @media screen and (max-width: 500px) {
         height: 200px;
-        margin: 0px auto 0px;
+        margin: 0px auto 20px;
       }
     }
   }
