@@ -6,6 +6,6 @@
 
 - active: true
   type: notice
-  icon: calendar
-  message: Join us for Christmas at Life.Church! Find times, locations, and more.
+  icon: campus
+  message: We'd love to see you this Christmas! Find locations, times, and more.
   url: /christmas/
