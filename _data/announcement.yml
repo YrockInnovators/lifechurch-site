@@ -1,11 +1,11 @@
 # type: notice or alert
 # active: true or false
-# icon: weather-snow, weather-rain, campus, money, calendar, maintenance
+# icon: weather-snow, weather-rain, campus, money, calendar, maintenance, tree
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
-  type: notice
-  icon: calendar
-  message: 2015 Easter Service Times
-  url: /easter/
+- active: true
+  type: alert
+  icon: tree
+  message: We'd love to see you this Christmas! Find locations, times, and more.
+  url: /christmas/

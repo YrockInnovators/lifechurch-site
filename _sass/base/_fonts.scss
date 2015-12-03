@@ -2,6 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 @include font-face(lctv, '../fonts/lctv/lctv');
+@include font-face(lctv, '../fonts/lctv/tree');
 
 [class^="icon-"], [class*=" icon-"] {
   font-family: 'lctv';
@@ -52,6 +53,7 @@
 .icon-announcement-maintenance:before { content: '\e812'; }
 .icon-announcement-weather-rain:before { content: '\e815'; }
 .icon-announcement-weather-snow:before { content: '\e814'; }
+.icon-announcement-tree:before { content: '\e820'; }
 
 .icon-social-facebook:before { content: '\e809'; }
 .icon-social-twitter:before { content: '\e80b'; }
