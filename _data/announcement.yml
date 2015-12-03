@@ -4,8 +4,8 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
+- active: true
   type: notice
   icon: calendar
-  message: 2015 Easter Service Times
-  url: /easter/
+  message: Join us for Christmas at Life.Church! Find times, locations, and more.
+  url: /christmas/
