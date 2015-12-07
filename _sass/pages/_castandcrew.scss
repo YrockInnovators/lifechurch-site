@@ -21,7 +21,7 @@
   .icon-facebook {
     @include hide-text;
     @include svg-image('/images/tools/tools-social-facebook');
-    background-size: 70px 70px;
+    background-size: 70px 60px;
     width: 80px;
     height: 70px;
   }
@@ -29,7 +29,7 @@
   .icon-twitter {
     @include hide-text;
     @include svg-image('/images/tools/tools-social-twitter');
-    background-size: 70px 70px;
+    background-size: 70px 60px;
     width: 80px;
     height: 70px;
   }
@@ -37,7 +37,7 @@
   .icon-instagram {
     @include hide-text;
     @include svg-image('/images/tools/tools-social-instagram');
-    background-size: 70px 70px;
+    background-size: 70px 60px;
     width: 80px;
     height: 70px;
   }
