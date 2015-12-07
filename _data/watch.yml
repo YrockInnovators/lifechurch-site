@@ -47,6 +47,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/3000x680.jpg?1449000543
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/480x340.jpg?1449000589
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/960x680.jpg?1449005399
+  messages:
+  - title: When God Seems Inattentive
+    headline: ''
+    video: ''
+    platform_id: 957HeD2ZBnAJ
 - id: because-of-you-2015
   title: Because of You
   headline: God is using you to set the stage for something amazing. Learn what’s
