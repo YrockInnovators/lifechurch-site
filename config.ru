@@ -132,6 +132,7 @@ use Rack::Rewrite do
 #Redirects for existing pages (case-sensitive fix)
 
   r301 %r{^/Christmas/?$}, '/christmas/'
+  r301 %r{^/Watch/?$}, '/watch/'
 
 #Redirects to External Urls
 
