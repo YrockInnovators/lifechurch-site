@@ -17,19 +17,6 @@ _"Pride puts the creature in place of the Creator."_
 
 [Jeremiah 9:23](https://www.bible.com/bible/111/jer.9.23.niv)
 
-<<<<<<< HEAD
-Pride in what we **know**
-Pride in what we **do**
-Pride in what we **have**
-
-Pride shows itself as:
-1. A critical **spirit**
-2. Self-**deception**
-3. **Comparisons**
-
-[Matthew 7:3-5](https://www.bible.com/bible/111/mat.7.3-5.niv)
-[Philippians 2:5-8](https://www.bible.com/bible/111/phi.2.5-8.niv)
-=======
 Pride in what we **know**  
 Pride in what we **do**  
 Pride in what we **have**
@@ -41,7 +28,6 @@ Pride shows itself as:
 
 [Matthew 7:3-5](https://www.bible.com/bible/111/mat.7.3-5.niv)  
 [Philippians 2:5-8](https://www.bible.com/bible/111/php.2.5-8.niv)
->>>>>>> master
 
 _"How will we chase the light? We must empty ourselves and look for ways to serve others."_
 
