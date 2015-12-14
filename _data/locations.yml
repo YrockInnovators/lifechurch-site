@@ -1352,6 +1352,13 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
+  - id: 64
+    title: Loveworks Leadership
+    recipient: mor.serving@lifechurch.tv
+    url: ''
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
 - id: noc
   title: NW Oklahoma City, OK
   email: noc.serving@lifechurch.tv
@@ -1616,6 +1623,13 @@
     url: www.edmondmobilemeals.org
     description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
       and recuperating adults while building relationships each visit.
+  - id: 64
+    title: Loveworks Leadership
+    recipient: okc.serving@lifechurch.tv
+    url: ''
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
 - id: ows
   title: Owasso, OK
   email: ows.serving@lifechurch.tv
