@@ -1,6 +1,19 @@
 {% for announcement in site.data.announcement %}
 {% if announcement.active == true %}
 {% if page.section != 'announcements' %}
+
+{% if page.title == 'Giving Opportunities' %}
+<!-- Announcement -->
+<div class="panel-giving">Thank you for considering a gift to Life.Church! As a reminder, all 2015 year-end gifts must be received at a campus, online, or postmarked by Thursday, December 31. Questions? <br /><strong>Contact the Giving Experience Team</strong> at <a href="mailto:giving@life.church">giving@life.church</a> or (405) 216-7054.</div>
+<div class="announcement {{ announcement.type }}">
+  <div class="container">
+    <a class="announcement-link flip" href="#">
+      <p><i class="announcement-icon icon-announcement-money"></i> Learn More About 2015 Year-End Giving</p>
+    </a>
+  </div>
+</div>
+{% else %}
+
 <!-- Announcement -->
 <div class="announcement {{ announcement.type }}">
   <div class="container">
@@ -10,5 +23,11 @@
   </div>
 </div>
 {% endif %}
+
+{% endif %}
 {% endif %}
 {% endfor %}
+
+
+
+

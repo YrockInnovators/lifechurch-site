@@ -34,6 +34,18 @@
   })(document,"script","hs-analytics",300000);
 </script>
 
+<!-- Modal for Giving -->
+{% if page.title == 'Giving Opportunities' %}
+ <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".flip").click(function() {
+			$(".panel-giving").slideToggle("slow");
+		});
+	});
+</script>
+{% endif %}
+
 <!-- App Giving Script -->
 <script type="text/javascript">
 $( document ).ready(function() {            
