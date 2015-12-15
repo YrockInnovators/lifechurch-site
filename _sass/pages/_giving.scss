@@ -306,7 +306,23 @@
   }
 }
 
+div.flip {
+  cursor: pointer;
+}
 
+div.panel {
+	margin: auto;
+	text-align: center;
+	background: #fff;
+  border: 0;
+}
+ 
+div.panel {
+	widht: 100%;
+	height: auto;
+  padding: 1em 0;
+	display: none;
+}
 // Equipping Churches page
 
 .equipping-churches {
