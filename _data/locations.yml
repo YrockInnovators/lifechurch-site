@@ -683,6 +683,13 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mwc.serving@lifechurch.tv
+    url: ''
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
 - id: alb
   title: Albany, NY
   email: alb.serving@lifechurch.tv
@@ -1378,6 +1385,13 @@
     description_medium: Provide tutoring and mentorship for school-age children in
       the Norman area geared towards developing life and leadership skills through
       academic, leadership and community programs.
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mor.serving@lifechurch.tv
+    url: ''
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
 - id: noc
   title: NW Oklahoma City, OK
   email: noc.serving@lifechurch.tv
