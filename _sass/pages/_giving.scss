@@ -310,18 +310,19 @@ div.flip {
   cursor: pointer;
 }
 
-div.panel {
+div.panel-giving {
 	margin: auto;
 	text-align: center;
 	background: #fff;
   border: 0;
 }
  
-div.panel {
-	widht: 100%;
+div.panel-giving {
+	width: 100%;
 	height: auto;
   padding: 1em 0;
 	display: none;
+  max-width: 800px;
 }
 // Equipping Churches page
 
