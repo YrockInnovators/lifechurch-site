@@ -1,4 +1,67 @@
 ---
+- id: healed
+  title: Healed
+  headline: Scars don’t mark you as imperfect—they mark you as Healed.
+  description_small: 'Every scar tells a story: A wound in the past, cleaned, and
+    made whole again. Scars don’t mark you as imperfect—they mark you as Healed.'
+  description_medium: 'What’s the most beautiful thing about you? Most people might
+    say it’s their eyes, or hair, or laugh—but would anyone say their scars? Every
+    scar tells a story: A wound in the past, cleaned, and made whole again. Scars
+    don’t mark you as imperfect—they mark you as Healed.'
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2321-healed
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 33
+    name: Pain
+    created_at: '2014-06-11T15:19:30.049Z'
+    updated_at: '2014-06-11T15:19:30.049Z'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523Z'
+    updated_at: '2014-06-11T15:23:13.523Z'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559Z'
+    updated_at: '2014-06-11T16:19:31.726Z'
+  image_small: http://api-assets.lifechurch.tv/series/healed/300x200.jpg?1450214374
+  image_medium: http://api-assets.lifechurch.tv/series/healed/600x400.jpg?1450214396
+  image_large: http://api-assets.lifechurch.tv/series/healed/1200x800.jpg?1450214418
+  image_social: http://api-assets.lifechurch.tv/series/healed/400x400.jpg?1450214434
+  image_banner_archive: http://api-assets.lifechurch.tv/series/healed/1500x340.jpg?1450214469
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/healed/3000x680.jpg?1450214450
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/healed/480x340.jpg?1450214508
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/healed/960x680.jpg?1450214528
+- id: christmas-2015
+  title: Christmas 2015
+  headline: Our Christmas memories may be different—but the real story of Christmas
+    never changes.
+  description_small: 'Christmas: it’s different, everywhere you go,  But it began
+    with one special gift—long, long ago.'
+  description_medium: "Around the world, Christmas sounds fill the air, \r\nStockings
+    are hung, lists written with care. \r\nWe buy and we bake, we gift and receive,
+    \r\nWe decorate houses, cities, and trees. \r\nChristmas: it’s different, everywhere
+    you go, \r\nBut it began with one special gift—long, long ago."
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2210-christmas-2015
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447Z'
+    updated_at: '2015-10-20T19:18:40.447Z'
+  image_small: http://api-assets.lifechurch.tv/series/christmas-2015/300x200.jpg?1450214158
+  image_medium: http://api-assets.lifechurch.tv/series/christmas-2015/600x400.jpg?1450214173
+  image_large: http://api-assets.lifechurch.tv/series/christmas-2015/1200x800.jpg?1450214198
+  image_social: http://api-assets.lifechurch.tv/series/christmas-2015/400x400.jpg?1450214218
+  image_banner_archive: http://api-assets.lifechurch.tv/series/christmas-2015/1500x340.jpg?1450214256
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/christmas-2015/3000x680.jpg?1450214235
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/christmas-2015/480x340.jpg?1450214272
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/christmas-2015/960x680.jpg?1450214303
 - id: when-god-doesnt-make-sense
   title: When God Doesn’t Make Sense
   headline: Life doesn’t always go the way we expected. What do you do When God Doesn’t
