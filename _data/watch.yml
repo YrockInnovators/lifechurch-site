@@ -1,4 +1,40 @@
 ---
+- id: get-started
+  title: Get Started
+  headline: The wait is over. Your future is wide open—it’s time to Get Started.
+  description_small: 'New year, same problems. Sound familiar? Maybe it’s because
+    you’re waiting for something. The world to change. The right time. A green light.
+    Here’s the good news: the wait is over.'
+  description_medium: 'New year, same problems. Sound familiar? Maybe it’s because
+    you’re waiting for something. The world to change. The right time. A green light.
+    Here’s the good news: the wait is over. Your future is wide open—it’s time to
+    Get Started.'
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2326-get-started
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 27
+    name: Trust
+    created_at: '2014-06-11T15:17:23.291Z'
+    updated_at: '2014-06-11T15:17:23.291Z'
+  - id: 34
+    name: Optimistic
+    created_at: '2014-06-11T15:19:48.323Z'
+    updated_at: '2014-06-11T15:19:48.323Z'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968Z'
+    updated_at: '2014-06-11T15:23:03.968Z'
+  image_small: http://api-assets.lifechurch.tv/series/get-started/300x200.jpg?1450289120
+  image_medium: http://api-assets.lifechurch.tv/series/get-started/600x400.jpg?1450289179
+  image_large: http://api-assets.lifechurch.tv/series/get-started/1200x800.jpg?1450289195
+  image_social: http://api-assets.lifechurch.tv/series/get-started/400x400.jpg?1450289230
+  image_banner_archive: http://api-assets.lifechurch.tv/series/get-started/1500x340.jpg?1450289271
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/get-started/3000x680.jpg?1450289249
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/get-started/480x340.jpg?1450289296
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/get-started/960x680.jpg?1450289313
 - id: healed
   title: Healed
   headline: Scars don’t mark you as imperfect—they mark you as Healed.
