@@ -4,7 +4,7 @@
     color: #fff;
     font-size: 1.2em;
     max-width: 90%;
-    margin-top: 70px;
+    margin: 30px auto;
   }
   
   .large.action {
@@ -104,12 +104,11 @@
       width: 100%;
       max-width: 1000px;
       height: 140px;
-      margin: 0px auto 35px;
-      display: none;
+      margin: 0px auto 5px;
       
       @include media($medium-screen) {
         height: 140px;
-        margin: 0px auto 35px;
+        margin: 0px auto 5px;
       }
     }
   }
