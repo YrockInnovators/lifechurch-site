@@ -15,10 +15,10 @@
       <a class="current" href="#">{{ page.title }}</a>
     </nav>
     <div class="resources">
-      {% if page.section == "watch" or page.section == "watch-promo" or page.section == "watch-novideo" or page.section == "watch latest" or page.title == "Talk It Over (Latest)" or page.title == "Talk It Over" %}
+      {% if page.section == "watch" or page.section == "watch-promo" or page.section == "watch-novideo" or page.section == "watch latest" or page.title == "Talk It Over (Latest)" or page.title == "Talk It Over (Previous)" %}
       {% if page.title == "Talk It Over (Latest)" %}
         <a class="button secondary" href="/previous/"><i class="fa fa-angle-left"></i> &nbsp; Previous Notes</a>
-      {% elsif page.title == "Talk It Over" %}
+      {% elsif page.title == "Talk It Over (Previous)" %}
       <a class="button secondary" href="/talkitover/">Next Notes &nbsp; <i class="fa fa-angle-right"></i></a>
       {% else %}
       <div class="button-with-options">
