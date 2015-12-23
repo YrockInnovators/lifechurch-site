@@ -4,7 +4,7 @@
 .leadership {
   
   .hero-leadership {
-    @include retina-image(/images/app/hero-bg, cover, jpg);
+    @include retina-image(/images/leadership/hero-bg, cover, jpg);
     min-height: 400px !important;
       h1 {
         font-size: 2.75em;
