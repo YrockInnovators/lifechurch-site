@@ -37,7 +37,6 @@ use Rack::Rewrite do
   r301 %r{^/(?i)relief/?$}, '/lifemissions/'
   r301 %r{^/(?i)message-archive/one-prayer/1/?$}, '/watch/one-prayer-2010/'
   r301 %r{^/(?i)lcswerve/?$}, '/kids/'
-  r301 %r{^/(?i)open/?$}, '/equipping-churches/'
   r301 %r{^/(?i)mes/?$}, '/locations/'
   r301 %r{^/(?i)southokc_new/public/about_life/job_opportunities.php/?$}, '/jobs/'
   r301 %r{^/(?i)network/?$}, '/equipping-churches/'
