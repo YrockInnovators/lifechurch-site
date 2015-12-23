@@ -75,7 +75,7 @@
     min-height: 200px;
     @include retina-image(/images/home/home-bg, cover, jpg);
     background-position: center center;
-    background-color: #9f7465;
+    background-color: #444;
     position: relative;
     padding-bottom: 150px;
 
@@ -86,7 +86,7 @@
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
-      background-color: #9f7465;
+      background-color: #444;
       padding-bottom: 8em;
     }
     
