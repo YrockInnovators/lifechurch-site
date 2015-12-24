@@ -98,6 +98,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/christmas-2015/3000x680.jpg?1450214235
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/christmas-2015/480x340.jpg?1450214272
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/christmas-2015/960x680.jpg?1450214303
+  messages:
+  - title: Christmas 2015
+    headline: ''
+    video: ''
+    platform_id: Pa8jDZx5ObsS
 - id: when-god-doesnt-make-sense
   title: When God Doesn’t Make Sense
   headline: Life doesn’t always go the way we expected. What do you do When God Doesn’t
