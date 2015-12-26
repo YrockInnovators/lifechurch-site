@@ -1,0 +1,86 @@
+// Leadership Podcast
+///////////////////////////////////////////////////////////////////////////////
+
+.leadership {
+  
+  .hero-leadership {
+    @include retina-image(/images/leadership/hero-bg, cover, jpg);
+    min-height: 400px !important;
+      h1 {
+        font-size: 2.75em;
+        margin: 80px auto 0px;
+        max-width: 1000px;
+      }
+      p {
+        max-width: 600px;
+        margin: 1em auto;
+        padding: 0 1em;
+      }
+    
+      .icon-itunes {
+      @include hide-text;
+      @include retina-image(/images/app/itunes, contain);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 150px 55px;
+      width: 150px;
+      height: 55px;
+    }
+    
+    .icon-google-play {
+      @include hide-text;
+      @include retina-image(/images/app/google-play, contain);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: 150px 54px;
+      width: 150px;
+      height: 54px;
+    }
+
+    .icon-itunes:hover,
+    .icon-google-play:hover{
+      opacity: .75;
+    }
+    
+  }
+  
+  .phones {
+      max-height: 440px;
+      text-align: center;
+      margin: 50px auto -50px;
+      display: table;
+    }
+  
+
+  
+  
+  @media all and (max-width: 510px) {
+    .hero-leadership {
+      h1 {
+        font-size: 2.5em;
+        margin: 90px auto 30;
+        padding: 0 10px;
+      }
+      .icon-itunes {
+        @include hide-text;
+        @include retina-image(/images/app/itunes, contain);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 125px;
+      }
+
+      .icon-google-play {
+        @include hide-text;
+        @include retina-image(/images/app/google-play, contain);
+        background-position: center;
+        background-repeat: no-repeat;
+        width: 125px;
+        margin-left: 10px;
+      }
+    }
+  }
+  
+  .closing {
+    background-color: #fff;
+  }
+}

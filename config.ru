@@ -27,7 +27,6 @@ use Rack::Rewrite do
   r301 %r{^/(?i)message-archive/watch/margin/2/message/low-res/?$}, '/watch/margin/'
   r301 %r{^/(?i)one-prayer/?$}, '/watch/one-prayer-2010/'
   r301 %r{^/(?i)free-church-resources/?$}, '/equipping-churches/'
-  r301 %r{^/(?i)open/?$}, '/equipping-churches/'
   r301 %r{^/(?i)jobs/68/worship-pastor/?$}, '/jobs/'
   r301 %r{^/(?i)lgresources/?$}, '/lifegroups/'
   r301 %r{^/(?i)lifekids_resources/series/scoundrels/?$}, '/kids/'
@@ -38,7 +37,6 @@ use Rack::Rewrite do
   r301 %r{^/(?i)relief/?$}, '/lifemissions/'
   r301 %r{^/(?i)message-archive/one-prayer/1/?$}, '/watch/one-prayer-2010/'
   r301 %r{^/(?i)lcswerve/?$}, '/kids/'
-  r301 %r{^/(?i)open/?$}, '/equipping-churches/'
   r301 %r{^/(?i)mes/?$}, '/locations/'
   r301 %r{^/(?i)southokc_new/public/about_life/job_opportunities.php/?$}, '/jobs/'
   r301 %r{^/(?i)network/?$}, '/equipping-churches/'
@@ -138,6 +136,7 @@ use Rack::Rewrite do
 
   r301 %r{/bible/(\?.*)?}, 'http://app.bible.com/lifechurch$1'
   r301 %r{/catalyst/(\?.*)?}, 'http://open.church/catalyst$1'
+  r301 %r{/open/(\?.*)?}, 'http://open.life.church'
 
 end
 
