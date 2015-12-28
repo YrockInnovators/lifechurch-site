@@ -70,6 +70,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/healed/3000x680.jpg?1450214450
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/healed/480x340.jpg?1450214508
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/healed/960x680.jpg?1450214528
+  messages:
+  - title: Healed
+    headline: ''
+    video: ''
+    platform_id: GrOllTtJWZP_
 - id: christmas-2015
   title: Christmas 2015
   headline: Our Christmas memories may be different—but the real story of Christmas
