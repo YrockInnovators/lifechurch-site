@@ -4,8 +4,8 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
+- active: true
   type: campus
-  icon: tree
+  icon: calendar
   message: We'd love to see you this Christmas! Find locations, times, and more.
   url: /christmas/
