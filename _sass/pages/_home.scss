@@ -1,13 +1,13 @@
 .home {
   
   .lead {
-    color: #fff;
+    color: #444;
     font-size: 1.2em;
     max-width: 95%;
   }
   
   .large.action {
-    color: #fff;
+    color: #ac1f2d;
   }
 
   .home-menu {
@@ -87,7 +87,7 @@
       @include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
       background-color: #444;
-      padding-bottom: 8em;
+      padding-bottom: 7em;
     }
     
     .hero-copy {
@@ -102,12 +102,12 @@
       background-position: center;
       width: 100%;
       max-width: 1000px;
-      height: 105px;
-      margin: 40px auto 35px;
+      height: 200px;
+      margin: 20px auto 35px;
       
       @include media($medium-screen) {
-        height: 105px;
-        margin: 40px auto 35px;
+        height: 200px;
+        margin: 20px auto 35px;
       }
     }
   }
