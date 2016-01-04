@@ -35,6 +35,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/get-started/3000x680.jpg?1450289249
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/get-started/480x340.jpg?1450289296
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/get-started/960x680.jpg?1450289313
+  messages:
+  - title: Get Started
+    headline: ''
+    video: ''
+    platform_id: MSSb5ISJ2UtR
 - id: healed
   title: Healed
   headline: Scars don’t mark you as imperfect—they mark you as Healed.
