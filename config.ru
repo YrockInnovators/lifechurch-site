@@ -137,6 +137,8 @@ use Rack::Rewrite do
   r301 %r{/bible/(\?.*)?}, 'http://app.bible.com/lifechurch$1'
   r301 %r{/catalyst/(\?.*)?}, 'http://open.church/catalyst$1'
   r301 %r{/open/(\?.*)?}, 'http://open.life.church'
+  r301 %r{/20/(\?.*)?}, 'http://twenty.life.church'
+  r301 %r{/twenty/(\?.*)?}, 'http://twenty.life.church'
 
 end
 
