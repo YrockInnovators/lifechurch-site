@@ -935,6 +935,12 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
+  - id: 75
+    title: Big Brothers Big Sisters of Oklahoma
+    recipient: bao.serving@lifechurch.tv
+    url: ''
+    description_medium: 'Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships. '
 - id: edm
   title: Edmond, OK
   email: edm.serving@lifechurch.tv
