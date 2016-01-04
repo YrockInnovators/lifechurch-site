@@ -341,7 +341,13 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  missions: []
+  missions:
+  - id: 73
+    title: ReadWest
+    recipient: RRN-Serving@lifechurch.tv
+    url: ''
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
 - id: jnk
   title: Jenks, OK
   email: jnk.serving@lifechurch.tv
@@ -1378,6 +1384,12 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: mor.serving@lifechurch.tv
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@lifechurch.tv
@@ -2266,6 +2278,13 @@
     description_medium: Help foster parents through respite support and spiritual
       and emotional mentoring so that children in DHS custody have a stable and nurturing
       environment to heal and grow.
+  - id: 74
+    title: Payne County Youth Services
+    recipient: stw.serving@lifechurch.tv
+    url: ''
+    description_medium: Help provide a safe, comfortable and protective environment
+      for youth in crisis at the Emergency Youth Shelter through direct relationships
+      or supportive roles.
 - id: tul
   title: Tulsa, OK
   email: tul.serving@lifechurch.tv
