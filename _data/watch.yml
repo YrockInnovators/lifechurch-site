@@ -1,4 +1,39 @@
 ---
+- id: 20-years-and-counting
+  title: 20 Years and Counting
+  headline: 'God has done so much in the first two decades of Life.Church. And we
+    know exactly who God has sent to play the most important part in the future: you.'
+  description_small: 'Life.Church looks different than we did two decades ago. But
+    one thing has always been the same: the reason we do what we do. Come see how
+    you''re the most important part of what God is building in the next 20 years and
+    beyond.'
+  description_medium: 'From beginnings in a two-car garage to thousands worshipping
+    together each week, Life.Church looks different than we did two decades ago. But
+    one thing has always been the same: the reason we do what we do. Come see how
+    you''re the most important part of what God is building in the next 20 years and
+    beyond. '
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2332-20-years-and-counting
+  promo: p__qsmc7y1GH
+  resources_url: ''
+  categories:
+  - id: 46
+    name: Church Vision
+    created_at: '2014-06-11T15:25:52.761Z'
+    updated_at: '2014-06-11T15:25:52.761Z'
+  - id: 72
+    name: Leadership
+    created_at: '2014-06-11T15:52:33.291Z'
+    updated_at: '2014-06-11T15:52:33.291Z'
+  image_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/300x200.jpg?1452031608
+  image_medium: http://api-assets.lifechurch.tv/series/20-years-and-counting/600x400.jpg?1452031646
+  image_large: http://api-assets.lifechurch.tv/series/20-years-and-counting/1200x800.jpg?1452031667
+  image_social: http://api-assets.lifechurch.tv/series/20-years-and-counting/400x400.jpg?1452031687
+  image_banner_archive: http://api-assets.lifechurch.tv/series/20-years-and-counting/1500x340.jpg?1452031742
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/3000x680.jpg?1452031705
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/480x340.jpg?1452031781
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/960x680.jpg?1452031804
 - id: get-started
   title: Get Started
   headline: The wait is over. Your future is wide open—it’s time to Get Started.
