@@ -348,6 +348,12 @@
     url: ''
     description_medium: Provide quality one-on-one tutoring for adults seeking to
       transform their lives through enhanced literacy skills.
+  - id: 76
+    title: CareNet Pregnancy Centers of Albuquerque
+    recipient: RRN-Serving@lifechurch.tv
+    url: ''
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
 - id: jnk
   title: Jenks, OK
   email: jnk.serving@lifechurch.tv
@@ -1410,6 +1416,12 @@
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
+  - id: 77
+    title: Mission Norman
+    recipient: mor.serving@lifechurch.tv
+    url: ''
+    description_medium: Spread the love of Christ by ministering to the physical and
+      spiritual needs of people living in our community.
 - id: noc
   title: NW Oklahoma City, OK
   email: noc.serving@lifechurch.tv
