@@ -1,7 +1,7 @@
 .home {
   
   .lead {
-    color: #444;
+    color: #77777b;
     font-size: 1.2em;
     max-width: 95%;
   }
@@ -73,9 +73,9 @@
 
   .hero {
     min-height: 200px;
-    @include retina-image(/images/home/home-bg, cover, jpg);
+    //@include retina-image(/images/home/generic-bg, cover, jpg);
     background-position: center center;
-    background-color: #444;
+    background-color: #fff;
     position: relative;
     padding-bottom: 150px;
 
@@ -84,10 +84,10 @@
     }
 
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, cover, jpg);
+      //@include retina-image(/images/home/generic-bg, cover, jpg);
       height: auto;
-      background-color: #444;
-      padding-bottom: 7em;
+      background-color: #fff;
+      padding-bottom: 4em;
     }
     
     .hero-copy {
@@ -102,12 +102,12 @@
       background-position: center;
       width: 100%;
       max-width: 1000px;
-      height: 200px;
-      margin: 20px auto 35px;
+      height: 250px;
+      margin: 10px auto 25px;
       
       @include media($medium-screen) {
-        height: 200px;
-        margin: 20px auto 35px;
+        height: 250px;
+        margin: 10px auto 25px;
       }
     }
   }
