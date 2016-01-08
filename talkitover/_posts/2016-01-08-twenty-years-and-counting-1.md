@@ -61,7 +61,6 @@ Read Acts 2:42-47 and 4:33-35 out loud. This couldn’t be more directly speakin
 <p class="lead">Start doing. Commit to a step, and live it out this week.</p>
 
 * Are you “all in”? You’re in a LifeGroup, but has everyone found their place to serve? Encourage each person to get engaged in serving in the church. Your campus staff will be glad to help.
-
 * Want more reminders of God's faithfulness, power, and goodness? Subscribe to _Ask Think Imagine_ in the YouVersion Bible App. It was written by various Life.Church staff in celebration of our 20-year anniversary!
 
 * * *
