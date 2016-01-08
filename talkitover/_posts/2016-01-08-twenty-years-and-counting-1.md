@@ -12,11 +12,9 @@ title: Talk It Over
 ### _We Will_ Statements
 
 We will be an intensely **devoted** church.
-[Acts 2:42-43](https://www.bible.com/bible/111/act.2.42-43.niv)
-
+[Acts 2:42-43](https://www.bible.com/bible/111/act.2.42-43.niv)<br/>
 We will be an irrationally **generous** church.
-[Acts 2:44-45](https://www.bible.com/bible/111/act.2.44-45.niv) [Acts 4:33-34](https://www.bible.com/bible/111/act.4.33-34.niv)
-
+[Acts 2:44-45](https://www.bible.com/bible/111/act.2.44-45.niv) [Acts 4:33-34](https://www.bible.com/bible/111/act.4.33-34.niv)<br/>
 We will unapologetically share the love of **Jesus**.
 [Acts 2:47](https://www.bible.com/bible/111/act.2.47.niv)
 
