@@ -102,11 +102,11 @@
       background-position: center;
       width: 100%;
       max-width: 1000px;
-      height: 250px;
+      height: 230px;
       margin: 10px auto 25px;
       
       @include media($medium-screen) {
-        height: 250px;
+        height: 230px;
         margin: 10px auto 25px;
       }
     }
