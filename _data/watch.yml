@@ -73,6 +73,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/3000x680.jpg?1452031705
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/480x340.jpg?1452031781
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/960x680.jpg?1452031804
+  messages:
+  - title: 20 Years and Counting
+    headline: ''
+    video: ''
+    platform_id: wh4zmtbPXY9R
 - id: get-started
   title: Get Started
   headline: The wait is over. Your future is wide open—it’s time to Get Started.
