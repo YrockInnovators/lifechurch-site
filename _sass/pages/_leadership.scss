@@ -6,24 +6,43 @@
   .hero-leadership {
     @include retina-image(/images/leadership/hero-bg, cover, jpg);
     min-height: 400px !important;
+    .inner {
+      max-width: 900px;
       h1 {
-        font-size: 2.75em;
-        margin: 80px auto 0px;
-        max-width: 1000px;
+        @include hide-text;
+        @include retina-image(/images/leadership/logo, contain);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: left center;
+        width: 100%;
+        max-width: 600px;
+        height: 85px;
+        margin: 0px auto 0px;
+      }
+      h3 {
+        font-size: 2.35em;
+        margin: 40px auto 20px;
+        max-width: 600px;
+        font-weight: 100;
+        text-align: left;
+        .tweet-this {
+          font-size: 0.6em;
+        }
       }
       p {
         max-width: 600px;
         margin: 1em auto;
-        padding: 0 1em;
+        text-align: left;
       }
+    }
     
       .icon-itunes {
       @include hide-text;
       @include retina-image(/images/app/itunes, contain);
       background-position: center;
       background-repeat: no-repeat;
-      background-size: 150px 55px;
-      width: 150px;
+      background-size: 130px 55px;
+      width: 130px;
       height: 55px;
     }
     
@@ -44,12 +63,25 @@
     
   }
   
-  .phones {
-      max-height: 440px;
-      text-align: center;
-      margin: 50px auto -50px;
-      display: table;
-    }
+  .episode {
+    border-bottom: 2px solid $light-gray;
+    padding: 1em 0;
+  }
+  
+  div.week-1 {
+	margin: auto;
+	text-align: center;
+	background: #fff;
+  border: 0;
+}
+ 
+div.week-1 {
+	width: 100%;
+	height: auto;
+  padding: 1em 0;
+	display: none;
+  max-width: 800px;
+}
   
 
   
