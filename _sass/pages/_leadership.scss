@@ -7,21 +7,10 @@
     @include retina-image(/images/leadership/hero-bg, cover, jpg);
     min-height: 400px !important;
     .inner {
-      max-width: 900px;
-      h1 {
-        @include hide-text;
-        @include retina-image(/images/leadership/logo, contain);
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position: left center;
-        width: 100%;
-        max-width: 600px;
-        height: 85px;
-        margin: 0px auto 0px;
-      }
+      text-align: left;
       h3 {
-        font-size: 2.35em;
-        margin: 40px auto 20px;
+        font-size: 2.75em;
+        margin: 50px 0 20px;
         max-width: 600px;
         font-weight: 100;
         text-align: left;
@@ -37,26 +26,34 @@
     }
     
       .icon-itunes {
+        @include hide-text;
+        @include svg-image('/images/worship/icon-itunes');
+        background-size: 60px 60px;
+        width: 60px;
+        height: 60px;
+      }
+    
+    .icon-youtube {
       @include hide-text;
-      @include retina-image(/images/app/itunes, contain);
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: 130px 55px;
-      width: 130px;
-      height: 55px;
+      @include svg-image('/images/tools/tools-social-youtube');
+      background-size: 60px 60px;
+      width: 60px;
+      height: 60px;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
     }
     
     .icon-google-play {
       @include hide-text;
-      @include retina-image(/images/app/google-play, contain);
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: 150px 54px;
-      width: 150px;
-      height: 54px;
+      @include svg-image('/images/worship/icon-google-play');
+      background-size: 65px 65px;
+      width: 65px;
+      height: 65px;
     }
 
     .icon-itunes:hover,
+    .icon-youtube:hover,
     .icon-google-play:hover{
       opacity: .75;
     }
@@ -68,20 +65,17 @@
     padding: 1em 0;
   }
   
-  div.week-1 {
-	margin: auto;
-	text-align: center;
-	background: #fff;
-  border: 0;
-}
- 
-div.week-1 {
-	width: 100%;
-	height: auto;
-  padding: 1em 0;
-	display: none;
-  max-width: 800px;
-}
+  h1 {
+    @include hide-text;
+    @include retina-image(/images/leadership/logo, contain);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    max-width: 1000px;
+    height: 80px;
+    margin-bottom: 1em;
+  }
   
 
   
