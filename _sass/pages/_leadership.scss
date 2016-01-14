@@ -36,7 +36,8 @@
     .icon-youtube {
       @include hide-text;
       @include svg-image('/images/tools/tools-social-youtube');
-      background-size: 60px 60px;
+      background-size: cover;
+      background-position: center;
       width: 60px;
       height: 60px;
       -webkit-border-radius: 10px;
