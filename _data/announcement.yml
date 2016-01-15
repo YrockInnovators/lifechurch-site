@@ -5,7 +5,7 @@
 # url: link or leave blank
 
 - active: true
-  type: alert
+  type: notice
   icon: calendar
   message: We'd love to see you this Christmas! Find locations, times, and more.
   url: /christmas/
