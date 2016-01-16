@@ -8,10 +8,21 @@
     min-height: 400px !important;
     .inner {
       text-align: left;
+      h1 {
+        @include hide-text;
+        @include retina-image(/images/leadership/logo, contain);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: left center;
+        width: 100%;
+        max-width: 1000px;
+        height: 80px;
+        margin-top: 30px;
+      }
       h3 {
-        font-size: 2.75em;
-        margin: 50px 0 20px;
-        max-width: 600px;
+        font-size: 2.25em;
+        margin: 15px 0 0px;
+        max-width: 550px;
         font-weight: 100;
         text-align: left;
         .tweet-this {
@@ -19,7 +30,7 @@
         }
       }
       p {
-        max-width: 600px;
+        max-width: 550px;
         margin: 1em auto;
         text-align: left;
       }
@@ -28,9 +39,9 @@
       .icon-itunes {
         @include hide-text;
         @include svg-image('/images/worship/icon-itunes');
-        background-size: 60px 60px;
-        width: 60px;
-        height: 60px;
+        background-size: 50px 50px;
+        width: 50px;
+        height: 50px;
       }
     
     .icon-youtube {
@@ -38,8 +49,8 @@
       @include svg-image('/images/tools/tools-social-youtube');
       background-size: cover;
       background-position: center;
-      width: 60px;
-      height: 60px;
+      width: 50px;
+      height: 50px;
       -webkit-border-radius: 10px;
       -moz-border-radius: 10px;
       border-radius: 10px;
@@ -64,18 +75,6 @@
   .episode {
     border-bottom: 2px solid $light-gray;
     padding: 1em 0;
-  }
-  
-  h1 {
-    @include hide-text;
-    @include retina-image(/images/leadership/logo, contain);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center center;
-    width: 100%;
-    max-width: 1000px;
-    height: 80px;
-    margin-bottom: 1em;
   }
   
 
