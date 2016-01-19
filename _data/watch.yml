@@ -38,6 +38,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/dangerous-prayers/3000x680.jpg?1452101582
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/dangerous-prayers/480x340.jpg?1452101643
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/dangerous-prayers/960x680.jpg?1452101671
+  messages:
+  - title: Search Me
+    headline: ''
+    video: ''
+    platform_id: jGiFuhCPKN8I
 - id: 20-years-and-counting
   title: 20 Years and Counting
   headline: 'God has done so much in the first two decades of Life.Church. And we
