@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="map" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="193 18.6 940 430.4" enable-background="new 193 18.6 940 430.4" xml:space="preserve">
+<g id="land">
+	<path fill="#F6F0EF" d="M179.8,12.3c-0.4,0-0.7,0-1-1.6v442.6l964.1,1.5V12.3H179.8z"/>
+</g>
+<g id="greenery">
+	<polygon fill="#A2DDF5" points="578.7,317.3 596,330 603.3,312 589.3,302.7 577.3,308 	"/>
+	<polygon fill="#A2DDF5" points="605.3,324 608.7,332 616.7,338.7 611.3,353.3 618,359.3 636,360 642.7,345.3 624,311.3 
+		611.3,308.7 	"/>
+	<polygon fill="#A2DDF5" points="615.3,364.7 639.3,368.7 645.3,389.3 634.7,399.3 612,390 	"/>
+	<polygon fill="#A2DDF5" points="1090,449 1096.7,427.3 1112.7,426.7 1122.7,436.7 1122.7,452 	"/>
+	<polygon fill="#A2DDF5" points="859.3,79.3 849.3,88.7 858,99.3 868.7,100 874,88.7 	"/>
+	<path fill="#A2DDF5" d="M902,174c-2.7,0-6,11.3-6,11.3l16,6.7l6.7-15.3L908,172L902,174z"/>
+</g>
+<g id="smallroads">
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="791.3,344.7 945.3,344.7 945.3,449 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1021.3" y1="295.3" x2="1021.3" y2="449"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="945.3" y1="395.3" x2="1021.3" y2="395.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1012" y1="290" x2="1012" y2="14.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1011.3" y1="45.3" x2="1133" y2="45.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1049.3" y1="44" x2="1049.3" y2="236"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1016" y1="235.3" x2="1133" y2="235.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1050.7" y1="196" x2="1136" y2="196"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1050.7" y1="159.3" x2="1133" y2="159.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1051.3" y1="121.3" x2="1135.3" y2="121.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1108.7" y1="234.7" x2="1108.7" y2="280.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="1074" y1="273.3" x2="1074" y2="346"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="789.3" y1="54" x2="972" y2="54"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="970" y1="78.7" x2="970" y2="18.6"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="916.7" y1="53.3" x2="916.7" y2="18.6"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="824" y1="51.3" x2="824" y2="16"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M788,122h-50.7c0,0-26.7,2-70,27.3
+		C624,174.7,532.7,170,490,140S350.7,78,350.7,78s-18-12-83.3-12S193,66,193,66"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M563.3,162.7c0,0,44.7,46,52.7,64s0,64.7,0,64.7"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M596,166c0,0-17.3,6-4,28.7"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="270" y1="294" x2="270" y2="449"/>
+	<path fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" d="M190.7,428.7c2-0.7,81.3,0,81.3,0"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="215.3,293.3 215.3,312 269.3,312 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="240.7" y1="310" x2="240.7" y2="294"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="332.7,294 332.7,315.3 398,315.3 
+		474.7,340 474.7,414 496,449 	"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="375.3" y1="318" x2="375.3" y2="451.3"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="432.7,332 432.7,391.3 376.7,391.3 	"/>
+	<circle fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" cx="818.7" cy="319.3" r="15.3"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="819.3" y1="293.3" x2="819.3" y2="304"/>
+	<line fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" x1="792.7" y1="320" x2="803.3" y2="320"/>
+	<polyline fill="none" stroke="#F4E6D7" stroke-width="4" stroke-miterlimit="10" points="1018.7,378 1004,378 1004,356 1020,356 	
+		"/>
+</g>
+<g id="roads_1_">
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M1207,598"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M387,449"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M387,16"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M821-9"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M335-9"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M960,8"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M366,8"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="190" y1="293" x2="1133" y2="293"/>
+	<line fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" x1="790" y1="18.6" x2="790" y2="449"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M545.3,292.3V260c0,0,4-14-29.3-30.7
+		s-38.7-20.7-38.7-20.7s-4-8-58-6s-102.7,9.3-128-3.3"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M469.3,205.3c0,0-36.7-2.7-44,24.7
+		c-7.3,27.3,16.7,50,16.7,50"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M270.7,291.3V262c0,0,11.3-58.7,74.7-23.3"/>
+	<path fill="none" stroke="#F4D8B3" stroke-width="4" stroke-miterlimit="10" d="M270.7,262c0,0-8-48-52-66.7s-44-18.7-44-18.7"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M189,153c0,0,330,128,451,296"/>
+	<path fill="none" stroke="#EAB488" stroke-width="6" stroke-miterlimit="10" d="M182,162c0,0,330,128,451,296"/>
+</g>
+<g id="marker">
+	<path id="pin_1_" fill="#B9252D" d="M875,205c1-1.6,1.6-3.5,1.6-5.5c0-5.7-4.6-10.4-10.4-10.4c-5.7,0-10.4,4.6-10.4,10.4
+		c0,2.2,0.7,4.2,1.8,5.8l8.6,10.4L875,205z"/>
+</g>
+<text transform="matrix(0 1 -1 0 786.4844 165.089)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">N 23RD ST</text>
+<text transform="matrix(1 0 0 1 859.7048 295.9621)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">E KENOSHA ST</text>
+<text transform="matrix(0.8074 0.59 -0.59 0.8074 462.9805 303.2699)" fill="#877C6C" font-family="'HelveticaNeue-Bold'" font-size="10">BROKEN ARROW EXPY</text>
+</svg>

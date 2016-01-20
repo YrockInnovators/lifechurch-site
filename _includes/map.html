@@ -45,6 +45,14 @@
             </a>
             {% include map-connect.html %}
           </li>
+          <li>
+            <a id="opk" href="/overlandpark/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OPK');">
+              <span class="marker">B</span>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Overland Park KS</h6>
+              <p class="detail">{{ location.address }}</p>
+            </a>
+            {% include map-connect.html %}
+          </li>
         {% endif %}
         {% endfor %}
         </ul>
