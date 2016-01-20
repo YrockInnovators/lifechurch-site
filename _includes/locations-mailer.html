@@ -1,17 +1,19 @@
 <h6>Get Email Updates</h6>
 <p>Interested in attending, serving, promoting, or being part of the pre-launch core team? Let us know and we'll send you behind-the-scenes updates leading to our launch!</p>
 
+{% if location.id == 'OPK' %}
 <!--[if lte IE 8]>
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
 <![endif]-->
 <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
 <script>
   hbspt.forms.create({ 
-    css: '', // outputs unstyled form. remove line for HubSpot default styling. 
+    css: 'padding-bottom: 1em;',
     portalId: '449781',
-    formId: '78b5cdfc-1657-4e0f-b333-3845ad8831a5' // insert appropriate ID
+    formId: '78b5cdfc-1657-4e0f-b333-3845ad8831a5'
   });
 </script>
+{% endif %}
 
 <!-- <div id="mc_embed_signup">
   <form action="{{ page.mailer }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -25,10 +27,6 @@
     <!--<div style="position: absolute; left: -5000px;"><input type="text" name="b_b3c2f9fbc0f40f32a4499f197_54ae25fb12" tabindex="-1" value=""></div>
     <div class="clear"><p><input type="submit" value="Get updates" name="subscribe" id="mc-embedded-subscribe" class="button large expand" onclick="ga('send', 'event', 'Locations', 'Click', '{{ location.title }} Email');"></p></div>
   </form>
-</div>
+</div> 
 
- {% if location.id == 'mus' %}
-<p><a class="button large expand secondary" href="https://forms.lifechurch.tv/mus/view.php?id=10312" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');" target="_blank">Join the Core Group</a></p>
-{% else %} -->
-<p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');" target="_blank">Visit our Facebook Page </a></p>
-<!-- {% endif %} -->
+<p><a class="button large expand secondary" href="http://www.facebook.com/{{ location.facebook }}" onclick="ga('send', 'event', 'Locations', 'Click', 'Facebook Page');" target="_blank">Visit our Facebook Page </a></p> -->
