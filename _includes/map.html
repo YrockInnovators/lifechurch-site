@@ -46,8 +46,10 @@
             {% include map-connect.html %}
           </li>
           {% endif %}
+          {% endfor %}
           
-        {% if location.id == 'wch' %}
+          {% for location in site.data.locations %}
+          {% if location.id == 'wch' %}
           <li>
             <a id="wch" href="/wichita/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus WCH');">
               <span class="marker">B</span>
