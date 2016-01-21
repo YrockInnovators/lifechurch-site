@@ -21,7 +21,7 @@
           <li>
             <a id="wel" href="/wellington/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus WEL');">
               <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with&nbsp;</span>Wellington FL</h6>
+              <h6><span class="prepend-connect">Connect with&nbsp;</span>Wellington, FL</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -36,11 +36,24 @@
         <h4 class="state-title"><a href="javascript:void(0);">Kansas, US</a></h4>
         <ul class="map-list">
         {% for location in site.data.locations %}
-        {% if location.id == 'wch' %}
+          {% if location.id == 'OPK' %}
+          <li>
+            <a id="opk" href="/overlandpark/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OPK');">
+              <span class="marker">A</span>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Overland Park, KS (Coming Soon)</h6>
+              <p class="detail">{{ location.address }}</p>
+            </a>
+            {% include map-connect.html %}
+          </li>
+          {% endif %}
+          {% endfor %}
+          
+          {% for location in site.data.locations %}
+          {% if location.id == 'wch' %}
           <li>
             <a id="wch" href="/wichita/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus WCH');">
-              <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with &nbsp;</span>Wichita KS</h6>
+              <span class="marker">B</span>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Wichita, KS</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -59,7 +72,7 @@
           <li>
             <a id="rrn" href="/riorancho/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus RRN');">
               <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with &nbsp;</span>Rio Rancho NM</h6>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Rio Rancho, NM</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -78,7 +91,7 @@
           <li>
             <a id="alb" href="/albany/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus ALB');">
               <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with &nbsp;</span>Albany NY</h6>
+              <h6><span class="prepend-connect">Connect with &nbsp;</span>Albany, NY</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -101,7 +114,7 @@
             <li>
               <a id="bnb" href="/broadwaybritton/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus BNB');">
                 <span class="marker">A</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Broadway & Britton OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Broadway &amp; Britton, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -127,7 +140,7 @@
             <li>
               <a id="edm" href="/edmond/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus EDM');">
                 <span class="marker">B</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Edmond OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Edmond, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -140,7 +153,7 @@
             <li>
               <a id="mwc" href="/midwestcity/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus MWC');">
                 <span class="marker">C</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Midwest City OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Midwest City, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -153,7 +166,7 @@
             <li>
               <a id="mor" href="/moore/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus MOR');">
                 <span class="marker">D</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Moore OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Moore, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -166,7 +179,7 @@
             <li>
               <a id="mwc" href="/mustang/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus MUS');">
                 <span class="marker">E</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Mustang OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Mustang, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -179,7 +192,7 @@
             <li>
               <a id="noc" href="/northwestokc/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus NOC');">
                 <span class="marker">F</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>NW Oklahoma City OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>NW Oklahoma City, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -192,7 +205,7 @@
             <li>
               <a id="okc" href="/okc/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OKC');">
                 <span class="marker">G</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Oklahoma City OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Oklahoma City, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -205,7 +218,7 @@
             <li>
               <a id="soc" href="/southokc/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus SOC');">
                 <span class="marker">H</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Oklahoma City OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Oklahoma City, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -218,7 +231,7 @@
             <li>
               <a id="ykn" href="/yukon/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus YKN');">
                 <span class="marker">I</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Yukon OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Yukon, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -236,7 +249,7 @@
             <li>
               <a id="bao" href="/brokenarrow/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus BAO');">
                 <span class="marker">J</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Broken Arrow OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Broken Arrow, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -249,7 +262,7 @@
             <li>
               <a id="jnk" href="/jenks/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus JNK');">
                 <span class="marker">K</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Jenks OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Jenks, OK</h6>
                 {% if location.id == 'jnk' %}<p class="detail">{{ location.address }}</p>{% endif %}
               </a>
               {% include map-connect.html %}
@@ -262,7 +275,7 @@
             <li>
               <a id="ows" href="/owasso/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OWS');">
                 <span class="marker">L</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Owasso OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Owasso, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -275,7 +288,7 @@
             <li>
               <a id="tul" href="/tulsa/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus TUL');">
                 <span class="marker">M</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Tulsa OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Tulsa, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -288,7 +301,7 @@
             <li>
               <a id="sto" href="/southtulsa/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus STO');">
                 <span class="marker">N</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Tulsa OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Tulsa, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -301,7 +314,7 @@
             <li>
               <a id="sba" href="/southbrokenarrow/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus STO');">
                 <span class="marker">O</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Broken Arrow OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>South Broken Arrow, OK</h6>
                 <p class="detail">{{ location.address }}</p>
               </a>
               {% include map-connect.html %}
@@ -319,7 +332,7 @@
             <li>
               <a id="stw" href="/stillwater/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus STW');">
                 <span class="marker">P</span>
-                <h6><span class="prepend-connect">Connect with&nbsp;</span>Stillwater OK</h6>
+                <h6><span class="prepend-connect">Connect with&nbsp;</span>Stillwater, OK</h6>
                 {% if location.id == 'stw' %}<p class="detail">{{ location.address }}</p>{% endif %}
               </a>
               {% include map-connect.html %}
@@ -337,7 +350,7 @@
               <li>
                 <a id="shw" href="/shawnee/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus OKC');">
                   <span class="marker">Q</span>
-                  <h6><span class="prepend-connect">Connect with&nbsp;</span>Shawnee OK</h6>
+                  <h6><span class="prepend-connect">Connect with&nbsp;</span>Shawnee, OK</h6>
                   <p class="detail">{{ location.address }}</p>
                 </a>
                 {% include map-connect.html %}
@@ -357,7 +370,7 @@
           <li>
             <a id="hnv" href="/hendersonville/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus HNV');">
               <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with&nbsp;</span>Hendersonville TN</h6>
+              <h6><span class="prepend-connect">Connect with&nbsp;</span>Hendersonville, TN</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -376,7 +389,7 @@
           <li>
             <a id="klr" href="/keller/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus KLR');">
               <span class="marker">A</span>
-              <h6><span class="prepend-connect">Connect with&nbsp;</span>Keller TX</h6>
+              <h6><span class="prepend-connect">Connect with&nbsp;</span>Keller, TX</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}
@@ -389,7 +402,7 @@
           <li>
             <a id="ftw" href="/fortworth/{% if include.for and include.for != '' and include.for != 'locations' %}#{{ include.for }}{% endif %}" onclick="ga('send', 'event', 'Map', 'Click', 'Campus FTW');">
               <span class="marker">B</span>
-              <h6><span class="prepend-connect">Connect with&nbsp;</span>Fort Worth TX</h6>
+              <h6><span class="prepend-connect">Connect with&nbsp;</span>Fort Worth, TX</h6>
               <p class="detail">{{ location.address }}</p>
             </a>
             {% include map-connect.html %}

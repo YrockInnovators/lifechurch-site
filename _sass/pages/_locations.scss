@@ -382,7 +382,11 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
 
 // ~4 Specific Campus Pages ***************************************
 
-$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, ows, rrn, sba, shw, soc, sto, stw, tul, wel, wch, ykn;
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, opk, ows, rrn, sba, shw, soc, sto, stw, tul, wel, wch, ykn;
+
+.hs-form fieldset {
+  background: transparent;
+}
 
 @each $campus in $campuses {
   .location-#{$campus} .locations-hero {
