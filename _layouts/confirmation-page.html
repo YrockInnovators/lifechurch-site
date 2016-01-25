@@ -1,0 +1,14 @@
+---
+layout: compress
+---
+<!doctype html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"><![endif]-->
+<!--[if gte IE 9]><!--> <html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope itemtype="http://schema.org/Article"><!--<![endif]-->
+  <head>
+    {% include header-includes.html %}
+  </head>
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+    {{ content }}
+  </body>
+</html>
