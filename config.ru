@@ -83,6 +83,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)volunteer/?$}, '/serving/'
   r301 %r{^/(?i)lifekids_resources/toon_town/series/road-trip/?$}, '/kids/'
   r301 %r{^/(?i)leadership-development/?$}, '/digital-missions/'
+  r301 %r{^/(?i)leadership/?$}, '/leadershippodcast/'
   r301 %r{^/(?i)leadershipxp/?$}, '/jobs/'
   r301 %r{^/(?i)resources/podcasts/?$}, '/watch/'
   r301 %r{^/(?i)give/?$}, '/giving/'
