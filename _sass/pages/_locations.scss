@@ -389,6 +389,12 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, opk,
 }
 
 @each $campus in $campuses {
+  .location-#{$campus} .about-lctv-staff {
+    @include retina-image(/locations/assets/campus/#{$campus}-staff, cover, jpg);
+  }
+}
+
+@each $campus in $campuses {
   .location-#{$campus} .locations-hero {
     @include retina-image(/locations/assets/campus/#{$campus}-map, cover, jpg);
   }
@@ -434,6 +440,10 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
       height: auto;
     }
   }
+}
+
+.social {
+  padding: 1em 0;
 }
 
 .map {

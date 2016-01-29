@@ -2,6 +2,7 @@
 layout: default
 section: locations
 hero: locations-hero
+image_social: http://www.life.church/locations/assets/facebook-invite.jpg
 ---
 
 {% for location in site.data.locations %}
@@ -11,10 +12,20 @@ hero: locations-hero
     <div class="map-panel">
       <h1>{{ page.title }}</h1>
         <h5 style="color:red;margin-bottom:0px;">Coming Soon!</h5>
-      <h5>
-        {% unless page.phone == false %}{{ location.phone }}<br />{% endunless %}
-      </h5>
-
+      <p class="social">
+        <a href="http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more." 
+         class="action" 
+         onclick="return popitup('http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more.'); 
+                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Twitter');">
+         Share on Twitter <i class="icon icon-social-twitter"></i>
+      </a> 
+      <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}" 
+         class="action" 
+         onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}'); 
+                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Facebook');">
+         Share on Facebook <i class="icon icon-social-facebook"></i>
+      </a> 
+      </p>
       {% if page.mailer and page.times == true %}
       <hr />
       {% endif %}
@@ -30,6 +41,16 @@ hero: locations-hero
     </div>
   </div>
 </section>
+
+<div class="group dark about-lctv-staff">
+  <div class="container">
+    <section class="article-with-figure">
+      <article>
+      <h2>Life.Church wants to make a lasting difference in your life, in our community, and in the world.</h2>
+      <p>Our mission is to lead people to become fully devoted followers of Christ. That's how we're able to make a difference, and it's the driving force behind everything we do.</p>
+    </section>
+  </div>
+</div>
 
 {% if page.serving == true or location.missions != empty or page.events == true %}
 <!-- Location Header -->
