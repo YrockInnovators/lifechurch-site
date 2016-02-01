@@ -46,8 +46,12 @@ image_social: http://www.life.church/locations/assets/facebook-invite.jpg
   <div class="container">
     <section class="article-with-figure">
       <article>
+        {% if location.id == 'OPK' %}
+        <h2>Life.Church wants to make a difference in your life, in the Kansas City area, and in the world.</h2>
+        {% else %}
       <h2>Life.Church wants to make a difference in your life, in the {{ page.title }} area, and in the world.</h2>
-      <p>We hope you'll join us! Our team is eager to get to know you and your family, so be sure to sign up for our email updates so we can connect with you soon.</p>
+        {% endif %}
+      <p class="detail">We hope you'll join us! Our team is eager to get to know you and your family, so be sure to sign up for our email updates so we can connect with you soon.</p>
     </section>
   </div>
 </div>
