@@ -1,6 +1,6 @@
 ---
-- id: 30-second-theology-2016
-  title: 30 Second Theology 2016
+- id: 30-second-theology
+  title: 30 Second Theology
   headline: Is there anything you can learn from TV commercials? We think so. Don’t
     miss 30-Second Theology at Life.Church!
   description_small: Is there anything you can learn from half-minute commercials?
@@ -16,14 +16,14 @@
   promo: pECsxgonwxwj
   resources_url: ''
   categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://api-assets.lifechurch.tv/series/30-second-theology/300x200.jpg?1454433855
+  image_medium: http://api-assets.lifechurch.tv/series/30-second-theology/600x400.jpg?1454433873
+  image_large: http://api-assets.lifechurch.tv/series/30-second-theology/1200x800.jpg?1454433895
+  image_social: http://api-assets.lifechurch.tv/series/30-second-theology/400x400.jpg?1454433912
+  image_banner_archive: http://api-assets.lifechurch.tv/series/30-second-theology/1500x340.jpg?1454433966
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/30-second-theology/3000x680.jpg?1454433930
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/30-second-theology/480x340.jpg?1454433985
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/30-second-theology/960x680.jpg?1454434001
 - id: dangerous-prayers
   title: Dangerous Prayers
   headline: Pray boldly. Pray daringly. Pray with fire. And remember God's listening
