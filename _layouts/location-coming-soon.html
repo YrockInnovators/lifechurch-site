@@ -11,21 +11,6 @@ image_social: http://www.life.church/locations/assets/facebook-invite.jpg
   <div id="location" class="container">
     <div class="map-panel">
       <h1>{{ page.title }}</h1>
-        <h5 style="color:red;margin-bottom:0px;">Coming Soon!</h5>
-      <p class="social">
-        <a href="http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more." 
-         class="action" 
-         onclick="return popitup('http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more.'); 
-                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Twitter');">
-         Share on Twitter <i class="icon icon-social-twitter"></i>
-      </a> 
-      <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}" 
-         class="action" 
-         onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}'); 
-                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Facebook');">
-         Share on Facebook <i class="icon icon-social-facebook"></i>
-      </a> 
-      </p>
       {% if page.mailer and page.times == true %}
       <hr />
       {% endif %}
@@ -39,6 +24,22 @@ image_social: http://www.life.church/locations/assets/facebook-invite.jpg
       {% include locations-mailer.html %}
       {% endif %}
     </div>
+    <div class="social-panel">
+      <h2>Help Us Get The Word Out!</h2>
+      <img src="/locations/assets/campus/{{ location.id }}-share.jpg" />
+    <a href="http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more." 
+         class="button large" 
+         onclick="return popitup('http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more.'); 
+                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Twitter');">
+         Share on Twitter <i class="icon icon-social-twitter"></i>
+      </a> 
+      <a href="http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}" 
+         class="button large" 
+         onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&sdk=joey&u=http%3A%2F%2Fwww.life.church{{ page.permalink }}'); 
+                  ga('send', 'event', 'Watch Landing', 'Click', 'Share Facebook');">
+         Share on Facebook <i class="icon icon-social-facebook"></i>
+      </a> 
+  </div>
   </div>
 </section>
 
