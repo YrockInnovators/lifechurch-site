@@ -1,4 +1,39 @@
 ---
+- id: twisted
+  title: Twisted
+  headline: What happens when the most important message of all gets Twisted?
+  description_small: People love to quote their favorite Bible verses—but sometimes,
+    those verses get taken out of context. What happens when the most important message
+    of all gets Twisted?
+  description_medium: The Bible is full of wisdom. People love to quote their favorite
+    verses to encourage and inspire each other—but sometimes, those verses get taken
+    out of context. What happens when the most important message of all gets Twisted?
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2370-twisted
+  promo: 5O9IpFwDXGKe
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996Z'
+    updated_at: '2014-06-11T15:16:43.996Z'
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T15:18:02.732Z'
+    updated_at: '2014-06-11T15:18:02.732Z'
+  image_small: http://api-assets.lifechurch.tv/series/twisted/300x200.jpg?1454436425
+  image_medium: http://api-assets.lifechurch.tv/series/twisted/600x400.jpg?1454436443
+  image_large: http://api-assets.lifechurch.tv/series/twisted/1200x800.jpg?1454436459
+  image_social: http://api-assets.lifechurch.tv/series/twisted/400x400.jpg?1454436483
+  image_banner_archive: http://api-assets.lifechurch.tv/series/twisted/1500x340.jpg?1454437097
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/twisted/3000x680.jpg?1454437072
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted/480x340.jpg?1454437115
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted/960x680.jpg?1454437150
 - id: 30-second-theology
   title: 30 Second Theology
   headline: Is there anything you can learn from TV commercials? We think so. Don’t
@@ -16,14 +51,14 @@
   promo: pECsxgonwxwj
   resources_url: ''
   categories: []
-  image_small: http://api-assets.lifechurch.tv/series/30-second-theology/300x200.jpg?1454433855
-  image_medium: http://api-assets.lifechurch.tv/series/30-second-theology/600x400.jpg?1454433873
-  image_large: http://api-assets.lifechurch.tv/series/30-second-theology/1200x800.jpg?1454433895
-  image_social: http://api-assets.lifechurch.tv/series/30-second-theology/400x400.jpg?1454433912
-  image_banner_archive: http://api-assets.lifechurch.tv/series/30-second-theology/1500x340.jpg?1454433966
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/30-second-theology/3000x680.jpg?1454433930
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/30-second-theology/480x340.jpg?1454433985
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/30-second-theology/960x680.jpg?1454434001
+  image_small: http://api-assets.lifechurch.tv/series/30-second-theology/300x200.jpg?1454437466
+  image_medium: http://api-assets.lifechurch.tv/series/30-second-theology/600x400.jpg?1454437483
+  image_large: http://api-assets.lifechurch.tv/series/30-second-theology/1200x800.jpg?1454437503
+  image_social: http://api-assets.lifechurch.tv/series/30-second-theology/400x400.jpg?1454437521
+  image_banner_archive: http://api-assets.lifechurch.tv/series/30-second-theology/1500x340.jpg?1454437639
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/30-second-theology/3000x680.jpg?1454437618
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/30-second-theology/480x340.jpg?1454437658
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/30-second-theology/960x680.jpg?1454437675
 - id: dangerous-prayers
   title: Dangerous Prayers
   headline: Pray boldly. Pray daringly. Pray with fire. And remember God's listening
