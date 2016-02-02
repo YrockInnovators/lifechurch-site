@@ -319,6 +319,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
   margin-left: auto;
   margin-right: auto;
   position: relative;
+  padding-bottom: 4em;
 
   @include media($medium-screen) {
     min-height: 620px;
@@ -330,11 +331,13 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     max-width: 400px;
     text-align: left;
     float: left;
+    margin-bottom: 15px;
   }
   
   .social-panel {
     @extend .panel;
-    max-width: 320px;
+    max-width: 100%;
+    width: 325px;
     text-align: left;
     float: right;
     .large {
@@ -344,14 +347,17 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
       margin-bottom: 0.5em;
       font-size: 14px;
     }
-    h2 {
-      font-size: 1.3em;
+    h3 {
+      font-size: 1.5em;
       margin-top: 0;
     }
     img {
       border: 1px solid $medium-gray;
       max-height: 300px;
       text-align: center;
+    }
+    @media screen and (max-width: 640px) { 
+      float: left;
     }
   }
 
