@@ -422,6 +422,15 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, opk,
 @each $campus in $campuses {
   .location-#{$campus} .about-lctv-staff {
     @include retina-image(/locations/assets/campus/#{$campus}-staff, cover, jpg);
+    padding: 13em 0 5em;
+article {
+  width: 100%;
+  text-align: center;
+  padding: 0 3em;
+}
+h2 {
+  color: #fff;
+}
   }
 }
 
