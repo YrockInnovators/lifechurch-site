@@ -1,0 +1,16 @@
+// Life.Church Coming Soon Location Pages
+///////////////////////////////////////////////////////////////////////////////
+
+.location-coming-soon {
+  
+  // ~4 Specific Campus Pages ***************************************
+
+$campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, opk, ows, rrn, sba, shw, soc, sto, stw, tul, wel, wch, ykn;
+  
+    @each $campus in $campuses {
+  .location-#{$campus} .locations-hero {
+    background-image: url('/locations/assets/campus/#{$campus}-map.jpg'); 
+    background-size: cover;
+      }
+  }
+}

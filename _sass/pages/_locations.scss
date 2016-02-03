@@ -79,7 +79,7 @@
   }
 
   // Main panel on the map with all the content in
-  .map-panel {
+  .map-panel, .social-panel {
     @extend .panel;
     position: relative;
     margin: 265px 0 0;
@@ -319,6 +319,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
   margin-left: auto;
   margin-right: auto;
   position: relative;
+  padding-bottom: 4em;
 
   @include media($medium-screen) {
     min-height: 620px;
@@ -329,6 +330,36 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     @extend .panel;
     max-width: 400px;
     text-align: left;
+    float: left;
+    margin-bottom: 15px;
+  }
+  
+  .social-panel {
+    @extend .panel;
+    max-width: 100%;
+    width: 325px;
+    text-align: left;
+    float: right;
+    .large {
+      padding: 1em 1em;
+      width: 100%;
+      text-align: center;
+      margin-bottom: 0.5em;
+      font-size: 14px;
+    }
+    h3 {
+      font-size: 1.25em;
+      margin-top: 0;
+      font-weight: bold;
+    }
+    img {
+      border: 1px solid $medium-gray;
+      max-height: 300px;
+      text-align: center;
+    }
+    @media screen and (max-width: 640px) { 
+      float: left;
+    }
   }
 
   h1 {
@@ -389,10 +420,23 @@ $campuses: alb, bao, bnb, edm, ftw, hnv, jnk, klr, mor, mus, mwc, noc, okc, opk,
 }
 
 @each $campus in $campuses {
+  .location-#{$campus} .about-lctv-staff {
+    @include retina-image(/locations/assets/campus/#{$campus}-staff, cover, jpg);
+    padding: 13em 0 5em;
+article {
+  width: 100%;
+  text-align: center;
+  padding: 0 3em;
+}
+h2 {
+  color: #fff;
+}
+  }
+}
+
+@each $campus in $campuses {
   .location-#{$campus} .locations-hero {
-    .svg & { background-image: url('/locations/assets/campus/#{$campus}-map.svg'); }
-    .no-svg & { background-image: url('/locations/assets/campus/#{$campus}-map.gif'); }
-    background-size: cover;
+    @include retina-image(/locations/assets/campus/#{$campus}-map, cover, jpg);
   }
 }
 
@@ -436,6 +480,10 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
       height: auto;
     }
   }
+}
+
+.social {
+  padding: 1em 0;
 }
 
 .map {
