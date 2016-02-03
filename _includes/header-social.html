@@ -33,7 +33,7 @@
 {% endif %}
 
 <!-- Locations Facebook Fix -->  
-{% if location.layout == 'locations %} {% for location in site.data.locations %} {% if location.id == page.location-id %}
+{% if location.id == 'locations' %} {% for location in site.data.locations %} {% if location.id == page.location-id %}
   <meta property="og:title" content="Life.Church {{ page.title }}" />
   <meta property="og:type" content="website" />
   <meta property="fb:profile_id" content="{{ location.facebook }}" />
@@ -44,12 +44,6 @@
   <meta property="og:site_name" content="Life.Church" />
  {% endif %} {% endfor %} {% endif %}
 
-<!-- Locations Facebook Fix -->  
-{% if location.layout == 'location-coming-soon' %} {% for location in site.data.locations %} {% if location.id == page.location-id %}
-  <meta property="og:description" content="I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to keep up on the progress and find out how you can help." />
-  <meta property="og:image" content="http://www.life.church/locations/assets/facebook-invite.jpg" />>
- {% endif %} {% endfor %} {% else %}
-
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ page.title }}" />
 <meta property="og:type" content="article" />
@@ -57,7 +51,6 @@
 {% if page.image_social %}<meta property="og:image" content="{{ page.image_social }}" />{% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
 <meta property="og:site_name" content="Life.Church" />
-{% endif %}
 
 <!-- Twitter Card data -->
 <meta name="twitter:site" content="@lifechurch">
