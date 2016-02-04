@@ -44,9 +44,9 @@ image_social: http://www.life.church/locations/assets/campus/OPK-share.jpg
       <article>
       <h2>Life.Church wants to make a difference in your life, in the {{ page.title }} area, and in the world.</h2>
         {% if location.id == 'OPK' %}
-        <p>Were thrilled to serve the Kansas City community and we'd love to share more with you about our mission to lead people to become fully devoted followers of Christ.</p>
+        <p>We're thrilled to serve the Kansas City community and we'd love to share more with you about our mission to lead people to become fully devoted followers of Christ.</p>
         {% else %}
-        <p>Were thrilled to serve the {{ page.title }} community and we'd love to share more with you about our mission to lead people to become fully devoted followers of Christ.</p>
+        <p>We're thrilled to serve the {{ page.title }} community and we'd love to share more with you about our mission to lead people to become fully devoted followers of Christ.</p>
         {% endif %}
     </section>
   </div>
@@ -362,6 +362,10 @@ image_social: http://www.life.church/locations/assets/campus/OPK-share.jpg
       window.open("http://twitter.com/home/?status=I'm so excited that the newest Life.Church campus will be in {{ location.title }}! Visit www.life.church{{ page.permalink }} to learn more.", "", "height=300,width=550");
       window.location= "/overlandpark-share/";
     };
+    setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0017/7361.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   </script>
 {% endif %}
 
