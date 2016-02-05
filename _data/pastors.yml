@@ -167,3 +167,10 @@
   photo_portrait_2x: /locations/assets/campus/mus-connect-pastor@2x.jpg
   photo_campus: /locations/assets/campus/mus-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/mus-connect-campus@2x.jpg
+- id: OPK
+  name: Danny Duran
+  email: opk.pastor@life.church
+  photo_portrait: /locations/assets/campus/opk-connect-pastor.jpg
+  photo_portrait_2x: /locations/assets/campus/opk-connect-pastor@2x.jpg
+  photo_campus: /locations/assets/campus/mus-connect-campus.jpg
+  photo_campus_2x: /locations/assets/campus/mus-connect-campus@2x.jpg  
