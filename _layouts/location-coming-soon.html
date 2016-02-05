@@ -24,6 +24,16 @@ image_social: http://www.life.church/locations/assets/campus/OPK-share.jpg
       {% include locations-mailer.html %}
       {% endif %}
     </div>
+    
+    {% if location.id == 'OPK' %}
+      <div class="social-panel">
+        <p class="detail">Join us for an online service just for our community each 
+          Sunday at <strong>10:00 and 11:30am CST</strong>.<br />
+        <a href="http://overlandpark.life.church" target="_blank"><button style="margin-top:7px;">Visit Our Online Service</button></a>
+        </p>
+      </div>
+    {% endif %}
+    
     <div class="social-panel">
       <h3>Help Us Get The Word Out!</h3>
       <img src="/locations/assets/campus/{{ location.id }}-share.jpg" />

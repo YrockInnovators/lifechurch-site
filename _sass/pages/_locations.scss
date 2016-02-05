@@ -340,6 +340,7 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     width: 325px;
     text-align: left;
     float: right;
+    margin-bottom: 15px;
     .large {
       padding: 1em 1em;
       width: 100%;
@@ -354,8 +355,11 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     }
     img {
       border: 1px solid $medium-gray;
-      max-height: 300px;
+      max-height: 280px;
       text-align: center;
+    }
+    .detail {
+      font-size: 0.82em;
     }
     @media screen and (max-width: 640px) { 
       float: left;
