@@ -34,6 +34,31 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/twisted/3000x680.jpg?1454437072
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted/480x340.jpg?1454437115
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted/960x680.jpg?1454437150
+- id: 30-second-theology-2016
+  title: 30 Second Theology 2016
+  headline: Is there anything you can learn from TV commercials? We think so. Don’t
+    miss 30-Second Theology at Life.Church!
+  description_small: Is there anything you can learn from half-minute commercials?
+    We think so. Don’t miss 30-Second Theology at Life.Church—it’s your only chance
+    to catch this special message!
+  description_medium: When the biggest day in American football rolls around, TV advertising
+    also hits a fever pitch. Is there anything you can learn from those half-minute
+    clips? We think so. Don’t miss 30-Second Theology at Life.Church—it’s your only
+    chance to catch this special message!
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/1625-30-second-theology
+  promo: pECsxgonwxwj
+  resources_url: ''
+  categories: []
+  image_small: http://api-assets.lifechurch.tv/series/30-second-theology-2016/300x200.jpg?1454437466
+  image_medium: http://api-assets.lifechurch.tv/series/30-second-theology-2016/600x400.jpg?1454437483
+  image_large: http://api-assets.lifechurch.tv/series/30-second-theology-2016/1200x800.jpg?1454437503
+  image_social: http://api-assets.lifechurch.tv/series/30-second-theology-2016/400x400.jpg?1454437521
+  image_banner_archive: http://api-assets.lifechurch.tv/series/30-second-theology-2016/1500x340.jpg?1454437639
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/30-second-theology-2016/3000x680.jpg?1454437618
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/30-second-theology-2016/480x340.jpg?1454437658
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/30-second-theology-2016/960x680.jpg?1454437675
 - id: dangerous-prayers
   title: Dangerous Prayers
   headline: Pray boldly. Pray daringly. Pray with fire. And remember God's listening
