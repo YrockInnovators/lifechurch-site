@@ -355,8 +355,11 @@ $states: online, oklahoma, texas, tennessee, florida, kansas, newyork, newmexico
     }
     img {
       border: 1px solid $medium-gray;
-      max-height: 300px;
+      max-height: 280px;
       text-align: center;
+    }
+    .detail {
+      font-size: 0.82em;
     }
     @media screen and (max-width: 640px) { 
       float: left;
