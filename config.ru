@@ -141,6 +141,13 @@ use Rack::Rewrite do
   r301 %r{^/(?i)20/(\?.*)?}, 'http://twenty.life.church'
   r301 %r{^/(?i)twenty/(\?.*)?}, 'http://twenty.life.church'
 
+#OPK Redirects
+
+  r301 %r{^/(?i)more/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=mailer&utm_medium=promoted&utm_campaign=opk_launch'
+  r301 %r{^/(?i)details/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=door&utm_medium=promoted&utm_campaign=opk_launch'
+  r301 %r{^/(?i)info/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=invite&utm_medium=promoted&utm_campaign=opk_launch'
+  r301 %r{^/(?i)connect/(\?.*)?}, 'hhttp://www.life.church/overlandpark/?utm_source=perforated&utm_medium=promoted&utm_campaign=opk_launch'
+
 end
 
 use Rack::TryStatic,
