@@ -1747,6 +1747,12 @@
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
+  - id: 81
+    title: Night Light Tulsa
+    recipient: ows.serving@lifechurch.tv
+    url: ''
+    description_medium: Build relationships with members of Tulsa’s homeless community
+      every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
 - id: sba
   title: South Broken Arrow, OK
   email: sba.serving@lifechurch.tv
