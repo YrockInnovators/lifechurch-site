@@ -149,6 +149,18 @@
   image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-castcrew-600x400.jpg'
   image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-castcrew-1200x800.jpg'
 
+- id: serving-14
+  title: Content Writing
+  location: Central
+  recipient: info@lifechurch.tv
+  url: ''
+  description_small: 'You can use your writing gifts to help engage people online through repurposed series content and other curriculum resources.'
+  description_medium: 'The Content Development Team creates curriculum and resources to lead kids, students, and adults to grow spiritually. You can use your writing gifts to help engage people online through repurposed series content and other curriculum resources.'
+  website: ''
+  image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-300x200.jpg'
+  image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-600x400.jpg'
+  image_large: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-1200x800.jpg'
+
 - id: serving-15
   title: Bible.com
   location: Central
