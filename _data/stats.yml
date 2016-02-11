@@ -1,9 +1,9 @@
 - title: Lives Changed in 2015
-  number: "36,520"
+  number: "46,521"
   pages: "giving"
   icon: "icon-stat-heart.svg"
 - title: Average Attendance 2015
-  number: "68,076"
+  number: "68,203"
   pages: "giving"
   icon: "icon-stat-church.svg"
 - title: Lives Changed at Church Online in 2015
@@ -11,9 +11,17 @@
   pages: "giving, live"
   icon: "icon-stat-chop.svg"
 - title: People Baptized in 2015
-  number: "5,680"
+  number: "7,129"
   pages: "giving"
   icon: "icon-stat-water.svg"
+- title: Lifegroups in 2015
+  number: "47,000"
+  pages: "giving, live"
+  icon: "icon-stat-lg.svg" 
+- title: Next Gen Average Weekly Attendance
+  number: "16,689"
+  pages: "giving, live"
+  icon: "icon-stat-nextgen.svg"   
 - title: YouVersion Installs
   number: "206,000,000"
   pages: "digital-missions"
