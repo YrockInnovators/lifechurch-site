@@ -5,18 +5,64 @@
   
   .hero {
     background-color: #fdfdfd;
-    background-size: 1500px auto;
-    min-height: 300px;
+    min-height: 500px;
+    height: auto;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    @include retina-image(/images/easter/hero-easter, cover, jpg);
+    h1 {
+      @include hide-text;
+      @include retina-image(/images/christmas/title, contain);
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      width: 100%;
+      max-width: 550px;
+      height: 160px;
+      position: absolute;
+      margin: auto;
+      top: 25%;
+      left: 0;
+      right: 0;
+      display: none;
+    }
+  }
+  
+  #tertiary {
+    display: none;
+  }
+  
+  .fa-arrow-down {
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    font-size: 2.25em;
+    top: 485px;
+    width: 100%;
+    animation: blinker 2s linear infinite;
+    @keyframes blinker {
+      50% { opacity: 0.0; }
+    }
+    @media screen and (max-width: 640px) {
+      top: 395px;
+    }
   }
 
   .hero-easter {
-    @include retina-image(/images/easter/easter-bg, 1500px auto, jpg);
+    @include retina-image(/images/easter/hero-easter, cover, jpg);
+    margin: auto;
+    @media screen and (max-width: 640px) {
+      @include retina-image(/images/christmas/christmas-hero-mobile, 640px auto, jpg);
+    }
   }
   
   .hero-i-deserve-it {
-    @include retina-image(/images/easter/deserve-bg, 1500px auto, jpg);
+    @include retina-image(/announcements/assets/2015-11-12-christmas, 1500px auto, jpg);
+    min-height: 340px !important;
   }
-}
+  
+  
 
 .group.about-lctv {
   @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
@@ -27,4 +73,5 @@
     @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
     background-size: 1500px auto;
   }
+}
 }
