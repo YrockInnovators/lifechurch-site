@@ -146,7 +146,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)more/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=mailer&utm_medium=promoted&utm_campaign=opk_launch'
   r301 %r{^/(?i)details/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=door&utm_medium=promoted&utm_campaign=opk_launch'
   r301 %r{^/(?i)info/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=invite&utm_medium=promoted&utm_campaign=opk_launch'
-  r301 %r{^/(?i)connect/(\?.*)?}, 'hhttp://www.life.church/overlandpark/?utm_source=perforated&utm_medium=promoted&utm_campaign=opk_launch'
+  r301 %r{^/(?i)connect/(\?.*)?}, 'http://www.life.church/overlandpark/?utm_source=perforated&utm_medium=promoted&utm_campaign=opk_launch'
 
 end
 
