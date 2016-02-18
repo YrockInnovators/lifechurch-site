@@ -12,6 +12,18 @@
 <script src="/js/pages/persistent-nav.js"></script>
 {% endif %}
 
+{% if page.title == "Easter 2016 at Life.Church" %}
+  <!-- Include jQuery -->
+  <script src="//cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+  <!-- Include the Sidr JS -->
+  <script src="//cdn.jsdelivr.net/jquery.sidr/2.2.1/jquery.sidr.min.js"></script>
+  <script>
+$(document).ready(function() {
+  $('#simple-menu').sidr();
+});
+</script>
+{% endif %}
+
 {% if page.hero == "hero-connect" %}
 <script src="/js/pages/connect.js"></script>
 {% endif %}
