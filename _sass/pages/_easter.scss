@@ -43,14 +43,14 @@
     color: #fff;
     position: absolute;
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     top: 550px;
     animation: blinker 2s linear infinite;
     @keyframes blinker {
       50% { opacity: 0.0; }
     }
     @media screen and (max-width: 640px) {
-      top: 395px;
+      top: 500px;
     }
   }
 
