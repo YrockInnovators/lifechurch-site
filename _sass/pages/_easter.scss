@@ -88,6 +88,60 @@
       color: #fff;
       font-size: 0.85em;
       font-family: inherit !important;
+      border-bottom: 1px solid #111;
+      border-top: 1px solid #111;
+      &:hover {
+        background: #222;
+        background-image: none;
+      }
+      &:active {
+        background: #111;
+      }
+      a {
+        color: #fff;
+        &:hover {
+          background: #222;
+          background-image: none;
+        }
+      }
+    }
+    .times {
+      background: #444;
+      display: none;
+      color: #fff;
+      font-size: 0.75em;
+      font-family: inherit !important;
+      text-align: left;
+      padding: 1em 0;
+      float: left;
+      width: 100%;
+      &:hover {
+        background: #444;
+      }
+      h2 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 1em;
+        box-shadow: none;
+        font-family: inherit;
+        font-weight: bold;
+        text-align: center;
+        background: none;
+        letter-spacing: 1px;
+        clear: both;
+      }
+      span {
+        width: 50%;
+        display: block;
+        color: #fff;
+        line-height: 2em;
+        float: left;
+        background: #444;
+        &:hover {
+          background: #444;
+          background-image: none;
+        }
+      }
       a {
         color: #fff;
       }
