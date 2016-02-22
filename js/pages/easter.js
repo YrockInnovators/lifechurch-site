@@ -154,4 +154,10 @@ $('#sba').click(function() {
     $('#ykn').click(function() {
 	    $('.ykn').toggle('slow');
 	    return false;
-	});   
+	});
+
+// Church Online
+$('#co').click(function() {
+	    $('.co').toggle('slow');
+	    return false;
+	});

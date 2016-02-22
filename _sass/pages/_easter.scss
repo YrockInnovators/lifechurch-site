@@ -82,6 +82,11 @@
   }
 }
   .sidr {
+    li {
+      &:hover {
+        background: transparent;
+      }
+    }
     .sub {
       background: #333;
       display: none;
@@ -90,6 +95,12 @@
       font-family: inherit !important;
       border-bottom: 1px solid #111;
       border-top: 1px solid #111;
+      p {
+        padding: 15px 10px;
+        line-height: 2em;
+        text-align: left;
+        font-size: 0.8em;
+      }
       &:hover {
         background: #222;
         background-image: none;
