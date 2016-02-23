@@ -62,10 +62,11 @@
   .hero-like-jesus {
     @include retina-image(/images/easter/like-jesus, auto 100%, jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center top;
+    max-height: 550px;
 
     @include media($medium-screen) {
-      background-size: 1500px 550px;
+      background-size: cover;
     }
   }
   
@@ -84,7 +85,7 @@
   .sidr {
     li {
       &:hover {
-        background: transparent;
+        background: none;
       }
     }
     .sub {
@@ -128,6 +129,12 @@
       width: 100%;
       &:hover {
         background: #444;
+      }
+      p {
+        font-size: 0.9em;
+        margin-top: 15px;
+        clear: both;
+        float: right;
       }
       h2 {
         color: #fff;
