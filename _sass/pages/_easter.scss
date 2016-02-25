@@ -5,18 +5,72 @@
   
   .hero {
     background-color: #fdfdfd;
-    background-size: 1500px auto;
-    min-height: 300px;
-  }
-
-  .hero-easter {
-    @include retina-image(/images/easter/easter-bg, 1500px auto, jpg);
+    min-height: 500px;
+    height: auto;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    @include retina-image(/images/easter/hero-easter, cover, jpg);
+    .hero-inner {
+      padding: 100px 0 300px;
+      h1 {
+        @include hide-text;
+        @include retina-image(/images/easter/title, contain);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+        height: 140px;
+        margin: 0 auto 47px;
+        display: block;
+        text-indent: -9999px;
+      }
+      .cta {
+        color: #fff;
+        border: 2px solid #fff;
+        padding: 0.75em 1.5em;
+        font-weight: bold;
+        font-size: 1em;
+        &:hover {
+          background: #fff;
+          border: 2px solid #fff;
+          color: #222;
+        }
+      }
+    }
   }
   
-  .hero-i-deserve-it {
-    @include retina-image(/images/easter/deserve-bg, 1500px auto, jpg);
+  #tertiary {
+    display: none;
   }
-}
+  
+  .fa-arrow-down {
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    font-size: 1.5em;
+    top: 550px;
+    animation: blinker 2s linear infinite;
+    @keyframes blinker {
+      50% { opacity: 0.0; }
+    }
+    @media screen and (max-width: 640px) {
+      top: 500px;
+    }
+  }
+
+  .hero-like-jesus {
+    @include retina-image(/images/easter/like-jesus, auto 100%, jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    max-height: 550px;
+
+    @include media($medium-screen) {
+      background-size: cover;
+    }
+  }
+  
+  
 
 .group.about-lctv {
   @include retina-image(/images/watch/landings/about-bg-small, cover, jpg);
@@ -27,4 +81,111 @@
     @include retina-image(/images/watch/landings/about-bg, 1500px auto, jpg);
     background-size: 1500px auto;
   }
+}
+  .sidr {
+    li {
+      &:hover {
+        background: none;
+      }
+    }
+    .sub {
+      background: #333;
+      display: none;
+      color: #fff;
+      font-size: 0.85em;
+      font-family: inherit !important;
+      border-bottom: 1px solid #111;
+      border-top: 1px solid #111;
+      p {
+        padding: 15px 10px;
+        line-height: 2em;
+        text-align: left;
+        font-size: 0.8em;
+      }
+      &:hover {
+        background: #222;
+        background-image: none;
+      }
+      &:active {
+        background: #111;
+      }
+      a {
+        color: #fff;
+        &:hover {
+          background: #222;
+          background-image: none;
+        }
+      }
+    }
+    .times {
+      background: #444;
+      display: none;
+      color: #fff;
+      font-size: 0.75em;
+      font-family: inherit !important;
+      text-align: left;
+      padding: 1em 0;
+      float: left;
+      width: 100%;
+      &:hover {
+        background: #444;
+      }
+      p {
+        font-size: 0.9em;
+        margin-top: 15px;
+        clear: both;
+        float: right;
+      }
+      h2 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 1em;
+        box-shadow: none;
+        font-family: inherit;
+        font-weight: bold;
+        text-align: center;
+        background: none;
+        letter-spacing: 1px;
+        clear: both;
+      }
+      span {
+        width: 50%;
+        display: block;
+        color: #fff;
+        line-height: 2em;
+        float: left;
+        background: #444;
+        &:hover {
+          background: #444;
+          background-image: none;
+        }
+      }
+      a {
+        color: #fff;
+      }
+    }
+    .lc {
+      color: #111;
+      text-transform: uppercase;
+      line-height: 40px;
+      float: left;
+      padding: 0.5em 0;
+      width: 75%;
+    }
+    .close {
+      float: right;
+      width: 25%;
+      font-weight: bold;
+      font-size: 1.25em;
+      line-height: 55px;
+    }
+    a {
+      text-align: left;
+      .icon-arrow {
+        float: right;
+        line-height: 48px;
+        padding-right: 1em;
+      }
+    }
+  }  
 }
