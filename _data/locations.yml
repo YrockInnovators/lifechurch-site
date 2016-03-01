@@ -965,6 +965,12 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+  - id: 83
+    title: Little Light Christian School
+    recipient: bnb.serving@lifechurch.tv
+    url: ''
+    description_medium: Pour into the lives of children with incarcerated parents
+      and help break the cycle of incarceration in Oklahoma through mentoring relationships.
 - id: OPK
   title: Overland Park, KS
   email: 'opk.serving@life.church '
@@ -1126,13 +1132,6 @@
     url: www.edmondmobilemeals.org
     description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
       and recuperating adults while building relationships each visit.
-  - id: 64
-    title: Loveworks Leadership
-    recipient: okc.serving@lifechurch.tv
-    url: ''
-    description_medium: Provide tutoring and mentorship for school-age children in
-      the Norman area geared towards developing life and leadership skills through
-      academic, leadership and community programs.
   - id: 66
     title: True North Ministries
     recipient: okc.serving@lifechurch.tv
@@ -2074,6 +2073,13 @@
     url: ''
     description_medium: Minister to young women in the Tulsa community who find themselves
       in crisis pregnancies and help them make godly decisions.
+  - id: 82
+    title: 111Tulsa
+    recipient: tul.serving@lifechurch.tv
+    url: ''
+    description_medium: Engage in relationships to help prevent children from entering
+      state care, care for children who are in state care, and support the families
+      caring for these children.
 - id: ykn
   title: Yukon, OK
   email: ykn.serving@lifechurch.tv
@@ -2324,6 +2330,13 @@
     url: ''
     description_medium: 'Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships. '
+  - id: 82
+    title: 111Tulsa
+    recipient: bao.serving@lifechurch.tv
+    url: ''
+    description_medium: Engage in relationships to help prevent children from entering
+      state care, care for children who are in state care, and support the families
+      caring for these children.
 - id: sba
   title: South Broken Arrow, OK
   email: sba.serving@lifechurch.tv
@@ -2594,12 +2607,6 @@
     type: switch
     type_name: SWITCH
   missions:
-  - id: 28
-    title: First Care
-    recipient: wel.serving@lifechurch.tv
-    url: http://www.first-care.org/
-    description_medium: Help women make an educated decision about giving birth and
-      empower them to carry out their decision without guilt or shame.
   - id: 42
     title: 4Kids of South Florida
     recipient: wel.serving@lifechurch.tv
