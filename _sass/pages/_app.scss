@@ -7,13 +7,20 @@
     height: 1060px;
     max-height: 1060px;
     min-height: 1060px;
+    /* Fallback */
     background-image: url('/images/app/3D-iPhone.png');
-    background-color: #fff;
-    background-image: linear-gradient(270deg, #fff 20%, #ddd 70%);
-    background-position: right top;
+
+    /* CSS gradients */
+    background-image: url('/images/app/3D-iPhone.png'), 
+                      -moz-linear-gradient(top, #fff 0%, #ddd 100%);
+    background-image: url('/images/app/3D-iPhone.png'), 
+                      -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #fff));
+    background-image: url('/images/app/3D-iPhone.png'), 
+                      linear-gradient(to bottom, #fff, #ddd);
+    padding-top: 0;
+    background-position: 100% 50%, 0px 0px;
     background-size: contain, auto;
     background-repeat: no-repeat, repeat;
-    padding-top: 0;
     .inner {
       width: 44%;
       text-align: left;
@@ -35,23 +42,24 @@
     }
     
       .icon-itunes {
-      @include hide-text;
-      @include retina-image(/images/app/itunes, contain);
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: 150px 55px;
-      width: 150px;
-      height: 55px;
+        background-image: url(/images/app/itunes.png);
+        background-repeat: no-repeat;
+        background-size: 150px 50px;
+        width: 150px;
+        height: 50px;
+        text-indent: -9999px;
+        margin-top: 50px;
     }
     
     .icon-google-play {
-      @include hide-text;
-      @include retina-image(/images/app/google-play, contain);
+      background-image: url(/images/app/google-play.png);
       background-position: center;
       background-repeat: no-repeat;
-      background-size: 150px 54px;
+      background-size: 150px 50px;
       width: 150px;
-      height: 54px;
+      height: 50px;
+      text-indent: -9999px;
+      margin-top: 50px;
     }
 
     .icon-itunes:hover,
@@ -63,6 +71,9 @@
   }
   
   .article-with-figure {
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(270deg, #fff 33%, #ddd);
+    background-image: linear-gradient(180deg, #fff 33%, #ddd);
     h4 {
       color: #16a9d6;
       font-size: 18px;
@@ -167,35 +178,50 @@
     }
 }
   
+  .tv {
+    width: 100%;
+    padding-bottom: 0;
+    height: auto;
+    background: #f7f6f2 url('/images/app/tv-bg.jpg') no-repeat top center;
+    h1 {
+      color: #1e1f23;
+      font-size: 48px;
+      line-height: 60px;
+      letter-spacing: -2px;
+      text-align: center;
+      margin-bottom: 0;
+    }
+    h2 {
+      width: 45%;
+      margin: 0 auto;
+      font-size: 18px;
+      line-height: 32px;
+      font-weight: 700;
+      text-align: center;
+      color: #1e1f23;
+    }
+    .tv-slide { position:relative; width:100%; height:auto;
+      padding-top: 100px;min-height: 812px;
+    }
+    .tv-slide img { position:absolute; left:0; top:0; }
+  }
   
-
-@media all and (max-width: 510px) {
-    .hero-app {
-      h1 {
-        font-size: 2.5em;
-        margin: 90px auto 30;
-        padding: 0 10px;
-      }
-      .icon-itunes {
-        @include hide-text;
-        @include retina-image(/images/app/itunes, contain);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 125px;
-      }
-
-      .icon-google-play {
-        @include hide-text;
-        @include retina-image(/images/app/google-play, contain);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 125px;
-        margin-left: 10px;
-      }
+  .email {
+    padding: 120px 0;
+    background-color: $blue;
+    text-align: center;
+    h3 {
+      color: #fff;
+      font-size: 48px;
+      line-height: 60px;
+      font-weight: 900;
+      letter-spacing: -2px;
+    }
+    p {
+      color: #fff;
     }
   }
   
-  .closing {
-    background-color: #fff;
-  }
+
+
 }
