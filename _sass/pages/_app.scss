@@ -3,6 +3,32 @@
 
 .app {
   
+  #persistent-navigation {
+    li {
+    }
+    a {
+      color: #111;
+      font-size: 14px;
+      font-weight: 600;
+      vertical-align: top;
+      line-height: 1.5em;
+      padding: 0 15px 0 10px;
+    }
+    .active {
+        background: none;
+        color: $blue;
+      }
+    .icon-smartphone {
+      width: 14px;
+    }
+    .icon-tablet {
+      width: 27px;
+    }
+    .icon-tv {
+      width: 20px;
+    }
+  }
+  
   .hero-app {
     height: 1060px;
     max-height: 1060px;
