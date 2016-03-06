@@ -22,10 +22,6 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted-discussion/480x340.jpg?1455312250
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted-discussion/960x680.jpg?1455312291
   messages:
-  - title: The Root of All Evil
-    headline: ''
-    video: ''
-    platform_id: ''
   - title: Plans to Prosper
     headline: ''
     video: ''
@@ -74,10 +70,6 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted/480x340.jpg?1454437115
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted/960x680.jpg?1454437150
   messages:
-  - title: The Root of All Evil
-    headline: ''
-    video: ''
-    platform_id: ''
   - title: Plans to Prosper
     headline: ''
     video: ''
