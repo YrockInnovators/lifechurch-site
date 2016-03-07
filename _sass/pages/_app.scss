@@ -173,13 +173,13 @@
       @media screen and (max-width: 600px) {
         display: block;
         margin: 0 auto 1em;
-        width: 400px;
+        height: 300px;
       }
     }
     .fadein { position:relative; max-width:326px; height:auto; }
     .fadein img { position:absolute; left:0; top:0; 
       @media screen and (max-width: 600px) {
-        width: 400px;
+        height: 300px;
       }
     }
   }
