@@ -5,19 +5,24 @@
   
   #persistent-navigation {
     li {
-    }
-    a {
+      margin: 1em 0 0;
+      .active {
+        background: none;
+        color: $blue;
+      }
+      a {
       color: #111;
       font-size: 14px;
       font-weight: 600;
       vertical-align: top;
       line-height: 1.5em;
       padding: 0 15px 0 10px;
-    }
-    .active {
+      &:hover {
         background: none;
         color: $blue;
+        }
       }
+    }
     .icon-smartphone {
       width: 13px;
     }
@@ -47,6 +52,13 @@
     background-position: 100% 50%, 0px 0px;
     background-size: contain, auto;
     background-repeat: no-repeat, repeat;
+    @media screen and (max-width: 660px) {
+      background-position: 100% 80%, 0px 0px;
+    }
+    @media screen and (max-width: 600px) {
+      height: 1000px;
+      min-height: 800px;
+    }
     .inner {
       width: 44%;
       text-align: left;
@@ -98,8 +110,8 @@
   
   .article-with-figure {
     background-color: transparent;
-    background-image: -webkit-linear-gradient(270deg, #fff 33%, #ddd);
-    background-image: linear-gradient(180deg, #fff 33%, #ddd);
+    background-image: -webkit-linear-gradient(270deg, #eee 33%, #fff);
+    background-image: linear-gradient(180deg, #eee 33%, #fff);
     h4 {
       color: #16a9d6;
       font-size: 18px;
@@ -142,12 +154,34 @@
     article {
       width: 48.636%;
       float: right;
+      @media screen and (max-width: 660px) {
+        width: 50.636%;
+      }
+      @media screen and (max-width: 600px) {
+        float: left;
+        width: 100%;
+        padding: 0 10px;
+        clear: both;
+        text-align: left;
+      }
     }
     figure {
       width: 47.291%;
+      @media screen and (max-width: 660px) {
+        width: 37.291%;
+      }
+      @media screen and (max-width: 600px) {
+        display: block;
+        margin: 0 auto 1em;
+        width: 400px;
+      }
     }
-    .fadein { position:relative; width:326px; height:auto; }
-    .fadein img { position:absolute; left:0; top:0; }
+    .fadein { position:relative; max-width:326px; height:auto; }
+    .fadein img { position:absolute; left:0; top:0; 
+      @media screen and (max-width: 600px) {
+        width: 400px;
+      }
+    }
   }
   
   .tablet {
@@ -163,6 +197,12 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #1e1f23;
+    @media screen and (max-width: 600px) {
+      min-height: auto;
+      height: auto;
+      padding: 50px 0;
+      background-image: none;
+    }
     .copy {
       position: relative;
       left: 60%;
@@ -172,6 +212,20 @@
       min-width: 400px;
       margin-right: 0px;
       float: left;
+      @media screen and (max-width: 850px) {
+        left: 45%;
+      }
+      @media screen and (max-width: 660px) {
+        left: 36%;
+        max-height: 800px;
+      }
+      @media screen and (max-width: 600px) {
+        left: 0;
+        width: 100%;
+        text-align: center;
+        padding: 50px 0px;
+        margin-top: 0;
+      }
       h4 {
       color: #16a9d6;
       font-size: 18px;
@@ -225,26 +279,36 @@
       font-weight: 700;
       text-align: center;
       color: #1e1f23;
+      @media screen and (max-width: 600px) {
+        width: 100%;
+      }
     }
     .tv-slide { position:relative; width:100%; height:auto;
       padding-top: 100px;min-height: 812px;
+      @media screen and (max-width: 850px) {
+        min-height: 545px;
+      }
+      @media screen and (max-width: 660px) {
+        min-height: 420px;
+      }
+      @media screen and (max-width: 600px) {
+        min-height: 290px;
+      }
     }
     .tv-slide img { position:absolute; left:0; top:0; }
   }
   
-  .email {
-    padding: 120px 0;
-    background-color: $blue;
+  .group.alt {
     text-align: center;
     h3 {
-      color: #fff;
       font-size: 48px;
       line-height: 60px;
       font-weight: 900;
       letter-spacing: -2px;
+      color: $red;
     }
     p {
-      color: #fff;
+      color: inherit;
     }
   }
   
