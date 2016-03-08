@@ -80,7 +80,18 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i
 <section class="group alt" id="email">
   <div class="container">
     <h3>Stay in the know</h3>
-    Form Here
+    <!-- Hubspot Form -->
+    <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+    <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+    <script>
+      hbspt.forms.create({
+        css: '.hs-error-msgs {color: red; font-size:0.75em; font-style:italic; line-height:1.33em;position:absolute;margin-top:4em;} .hs-form fieldset {background: transparent;display: table; margin: auto; padding-bottom: 2em;}',
+        portalId: '449781',
+        formId: '3ca468c5-e2bc-4683-8329-3b8f900e63f8'
+      });
+    </script>
     <p>Get the latest news about Life.Church apps and tools.</p>
   </div>
 </section>

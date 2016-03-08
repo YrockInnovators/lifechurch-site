@@ -327,6 +327,23 @@
     }
   }
   
+  #hsForm_3ca468c5-e2bc-4683-8329-3b8f900e63f8 {
+    margin: auto;
+    display: table;
+    padding-bottom: 2em;
+    width: 450px;
+    max-width: 100%;
+    .input {
+      display: flex;
+      width: 100%;
+      float: left;
+      max-width: 300px;
+    }
+    .hs_submit {
+      float: left;
+      padding-left: 1em;
+    }
+  }
 
 
 }
