@@ -174,7 +174,6 @@
     }
     article {
       width: 48.636%;
-      float: right;
       @media screen and (max-width: 660px) {
         width: 50.636%;
       }
@@ -187,7 +186,7 @@
       }
     }
     figure {
-      width: 47.291%;
+      width: 37.291%;
       @media screen and (max-width: 660px) {
         width: 37.291%;
       }
@@ -331,7 +330,7 @@
       line-height: 60px;
       font-weight: 900;
       letter-spacing: -2px;
-      color: $red;
+      color: $black;
     }
     p {
       color: inherit;
