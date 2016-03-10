@@ -808,13 +808,6 @@
     type: switch
     type_name: SWITCH
   missions:
-  - id: 24
-    title: Eden Clinic
-    recipient: mwc.serving@lifechurch.tv
-    url: http://www.edenclinic.tv/
-    description_medium: In partnership with this Pregnancy Wellness program, provide
-      emotional support, material assistance, education and counseling, community
-      referrals, and pregnancy wellness classes.
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: mwc.serving@lifechurch.tv
