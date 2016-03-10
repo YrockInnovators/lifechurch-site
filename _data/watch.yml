@@ -41,45 +41,6 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/going-the-distance/480x340.jpg?1456524891
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/going-the-distance/960x680.jpg?1456524908
   messages: []
-- id: twisted-discussion
-  title: Twisted - Discussion
-  headline: ''
-  description_small: ''
-  description_medium: During Twisted, Pastor Craig Groeschel will lead weekly video
-    discussions to prompt your Discussion Group in conversation. Each week, he’ll
-    break the ice, get your group thinking, inspire you to share personally, and then
-    call on you to take action.
-  quote: ''
-  quote_cite: ''
-  open_url: ''
-  promo: ''
-  resources_url: ''
-  categories: []
-  image_small: http://api-assets.lifechurch.tv/series/twisted-discussion/300x200.jpg?1455312127
-  image_medium: http://api-assets.lifechurch.tv/series/twisted-discussion/600x400.jpg?1455312151
-  image_large: http://api-assets.lifechurch.tv/series/twisted-discussion/1200x800.jpg?1455312191
-  image_social: http://api-assets.lifechurch.tv/series/twisted-discussion/400x400.jpg?1455312209
-  image_banner_archive: http://api-assets.lifechurch.tv/series/twisted-discussion/1500x340.jpg?1455312269
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/twisted-discussion/3000x680.jpg?1455312231
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted-discussion/480x340.jpg?1455312250
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted-discussion/960x680.jpg?1455312291
-  messages:
-  - title: The Root of All Evil
-    headline: ''
-    video: ''
-    platform_id: LG_nNA9c8OAW
-  - title: Plans to Prosper
-    headline: ''
-    video: ''
-    platform_id: 2Az9Pz6CCmTf
-  - title: Do Not Judge
-    headline: ''
-    video: ''
-    platform_id: UUsICGs_M2Tj
-  - title: Ask Anything
-    headline: ''
-    video: ''
-    platform_id: pREGlFyDdfjO
 - id: twisted
   title: Twisted
   headline: What happens when the most important message of all gets Twisted?
@@ -132,6 +93,45 @@
     headline: ''
     video: ''
     platform_id: tartj4EbwHwN
+- id: twisted-discussion
+  title: Twisted - Discussion
+  headline: ''
+  description_small: ''
+  description_medium: During Twisted, Pastor Craig Groeschel will lead weekly video
+    discussions to prompt your Discussion Group in conversation. Each week, he’ll
+    break the ice, get your group thinking, inspire you to share personally, and then
+    call on you to take action.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories: []
+  image_small: http://api-assets.lifechurch.tv/series/twisted-discussion/300x200.jpg?1455312127
+  image_medium: http://api-assets.lifechurch.tv/series/twisted-discussion/600x400.jpg?1455312151
+  image_large: http://api-assets.lifechurch.tv/series/twisted-discussion/1200x800.jpg?1455312191
+  image_social: http://api-assets.lifechurch.tv/series/twisted-discussion/400x400.jpg?1455312209
+  image_banner_archive: http://api-assets.lifechurch.tv/series/twisted-discussion/1500x340.jpg?1455312269
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/twisted-discussion/3000x680.jpg?1455312231
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted-discussion/480x340.jpg?1455312250
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted-discussion/960x680.jpg?1455312291
+  messages:
+  - title: The Root of All Evil
+    headline: ''
+    video: ''
+    platform_id: LG_nNA9c8OAW
+  - title: Plans to Prosper
+    headline: ''
+    video: ''
+    platform_id: 2Az9Pz6CCmTf
+  - title: Do Not Judge
+    headline: ''
+    video: ''
+    platform_id: UUsICGs_M2Tj
+  - title: Ask Anything
+    headline: ''
+    video: ''
+    platform_id: pREGlFyDdfjO
 - id: 30-second-theology-2016
   title: 30 Second Theology 2016
   headline: Is there anything you can learn from TV commercials? We think so. Don’t
