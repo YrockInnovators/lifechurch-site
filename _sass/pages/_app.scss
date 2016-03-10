@@ -2,12 +2,12 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .app {
-  font-family: "proxima-nova", serif !important;
-  
-  #tertiary .breadcrumb a {
+  #tertiary {
+    padding-bottom: 0;
+    .breadcrumb a {
     line-height: 55px;
+    }
   }
-  
   #persistent-navigation {
     line-height: 2em;
     z-index: 3;
@@ -345,6 +345,12 @@
     padding-bottom: 2em;
     width: 460px;
     max-width: 100%;
+    label {
+      visibility: hidden;
+      placeholder {
+        visibility: visible;
+      }
+    }
     .input {
       display: flex;
       width: 100%;
