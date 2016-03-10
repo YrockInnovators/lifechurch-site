@@ -1,4 +1,46 @@
 ---
+- id: going-the-distance
+  title: Going the Distance
+  headline: Going the Distance alone is impossible—come learn about the One who paved
+    your way.
+  description_small: 'The gap between where we are and where we want to be can seem
+    like an ocean. Here’s the good news: the bridge was built before you ever thought
+    about Going the Distance.'
+  description_medium: 'The gap between where we are and where we want to be can seem
+    like an ocean. Here’s the good news: the bridge was built before you ever thought
+    about taking the first step. Going the Distance alone is impossible—come learn
+    about the one who paved your way. '
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2501-going-the-distance
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 25
+    name: Grace
+    created_at: '2014-06-11T15:17:05.430Z'
+    updated_at: '2014-06-11T15:17:05.430Z'
+  - id: 81
+    name: John Gray
+    created_at: '2016-02-26T19:51:52.965Z'
+    updated_at: '2016-02-26T19:51:52.965Z'
+  image_small: http://api-assets.lifechurch.tv/series/going-the-distance/300x200.jpg?1456524771
+  image_medium: http://api-assets.lifechurch.tv/series/going-the-distance/600x400.jpg?1456524793
+  image_large: http://api-assets.lifechurch.tv/series/going-the-distance/1200x800.jpg?1456524809
+  image_social: http://api-assets.lifechurch.tv/series/going-the-distance/400x400.jpg?1456524827
+  image_banner_archive: http://api-assets.lifechurch.tv/series/going-the-distance/1500x340.jpg?1456524868
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/going-the-distance/3000x680.jpg?1456524844
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/going-the-distance/480x340.jpg?1456524891
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/going-the-distance/960x680.jpg?1456524908
+  messages: []
 - id: twisted-discussion
   title: Twisted - Discussion
   headline: ''
