@@ -8,11 +8,11 @@ title: Talk It Over Week 1
 
 ## Going the Distance
 
-Get started by reflecting on Pastor John Gray’s message. What stuck out to you? 
+<p class="lead">Get started by reflecting on Pastor John Gray’s message. What stuck out to you?</p>
 
 Key Scripture
 
-_Then Jesus came with them to a place called Gethsemane, and said to the disciples, “Sit here while I go and pray over there.” And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed. Then He said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch with Me.” He went a little farther and fell on His face, and prayed, saying, “O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will.”_
+_Then Jesus came with them to a place called Gethsemane, and said to the disciples, “Sit here while I go and pray over there.” And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed. Then He said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch with Me.” He went a little farther and fell on His face, and prayed, saying, “O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will.”_  
 Matthew 26:36-39 NKJV  
 
 “He had to live a worthy life to die and unworthy death. He didn’t just die _for_ me. He died _as_ me. That’s the power of salvation.”
