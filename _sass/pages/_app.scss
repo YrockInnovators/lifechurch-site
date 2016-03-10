@@ -137,6 +137,7 @@
       line-height: 24px;
       font-weight: 700;
       letter-spacing: -1px;
+      margin-bottom: 0;
     }
     h1 {
       display: block;
@@ -148,6 +149,7 @@
       font-weight: 900;
       text-align: left;
       letter-spacing: -2px;
+      margin-bottom: 10px;
     }
     h5 {
       margin-top: 0px;
@@ -159,9 +161,12 @@
       font-style: normal;
       font-weight: 600;
       clear: both;
+      margin-top: 2px;
       img {
         max-width: 25px;
         margin-right: 10px;
+        vertical-align: middle;
+        margin-top: -4px;
       }
     }
     p {
@@ -189,6 +194,7 @@
     }
     figure {
       width: 37.291%;
+      margin-left: 6%;
       @media screen and (max-width: 660px) {
         width: 37.291%;
       }
@@ -227,7 +233,7 @@
     }
     .copy {
       position: relative;
-      left: 60%;
+      left: 63%;
       margin-top: 15%;
       width: 400px;
       max-width: 400px;
@@ -249,11 +255,12 @@
         margin-top: 0;
       }
       h4 {
-      color: #16a9d6;
-      font-size: 18px;
-      line-height: 24px;
-      font-weight: 700;
-      letter-spacing: -1px;
+        color: #16a9d6;
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 700;
+        letter-spacing: -1px;
+        margin-bottom: 0;
     }
     h1 {
       color: #fff;
@@ -262,9 +269,12 @@
       font-weight: 900;
       letter-spacing: -2px;
       margin-top: 0;
+      margin-bottom: 10px;
     }
     p {
       color: #fff;
+      line-height: 25px;
+      font-size: 18px;
     }
     .mini-copy {
       font-size: 14px;
@@ -300,7 +310,7 @@
       width: 55%;
       margin: 0 auto;
       font-size: 18px;
-      line-height: 32px;
+      line-height: 26px;
       font-weight: 700;
       text-align: center;
       color: #1e1f23;
