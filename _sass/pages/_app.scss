@@ -52,7 +52,7 @@
     background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
                       -moz-linear-gradient(top, #fff 0%, #ddd 100%);
     background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
-                      -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fff), color-stop(100%, #fff));
+                      -webkit-linear-gradient(270deg, #fff 33%, #ddd);
     background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
                       linear-gradient(to bottom, #fff, #ddd);
     padding-top: 0;
@@ -126,8 +126,8 @@
   
   .article-with-figure {
     background-color: transparent;
-    background-image: -webkit-linear-gradient(270deg, #ddd 33%, #fff);
-    background-image: linear-gradient(180deg, #ddd 33%, #fff);
+    background-image: -webkit-linear-gradient(270deg, #fff 33%, #ddd);
+    background-image: linear-gradient(180deg, #fff 33%, #ddd);
     @media screen and (max-width: 600px) {
       text-align: center !important;
     }
