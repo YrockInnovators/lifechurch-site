@@ -3,7 +3,7 @@
   .lead {
     color: #fff;
     font-size: 1.1em;
-    max-width: 500px;
+    max-width: 90%;
     text-align: left;
   }
   
@@ -75,9 +75,9 @@
 
   .hero {
     min-height: 200px;
-    @include retina-image(/images/home/home-bg, cover, jpg);
+    //@include retina-image(/images/home/home-bg, cover, jpg);
     background-position: center;
-    background-color: #4a4744;
+    background-color: #333;
     position: relative;
     //padding-bottom: 150px;
 
@@ -86,9 +86,9 @@
     }
 
     @include media($medium-screen) {
-      @include retina-image(/images/home/home-bg, cover, jpg);
+      //@include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
-      background-color: #4a4744;
+      background-color: #333;
       padding-bottom: 8em;
     }
     
