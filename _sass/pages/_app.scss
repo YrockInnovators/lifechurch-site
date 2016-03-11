@@ -2,6 +2,15 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .app {
+  .up {
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
+    position: fixed;
+    img {
+      max-width: 40px;
+    }
+  }
   #tertiary {
     padding-bottom: 0;
     .breadcrumb a {

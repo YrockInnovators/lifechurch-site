@@ -80,5 +80,13 @@
       $('.tv-slide img:gt(0)').hide();
       setInterval(function(){$('.tv-slide :first-child').fadeOut().next('img').fadeIn().end().appendTo('.tv-slide');}, 3000);
     });
+    $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
 </script>
 {% endif %}
