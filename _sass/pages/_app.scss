@@ -328,7 +328,7 @@
       }
     }
     .tv-slide { position:relative; width:100%; height:auto;
-      padding-top: 0px;min-height: 812px;margin-top: 0;
+      padding-top: 0px;min-height: 725px;margin-top: 0;
       @media screen and (max-width: 850px) {
         min-height: 545px;
       }
@@ -378,6 +378,8 @@
     .hs_submit {
       float: left;
       padding-left: 1em;
+      font-size: 13px;
+      line-height: auto;
     }
   }
 
