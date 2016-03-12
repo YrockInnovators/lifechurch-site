@@ -21,6 +21,7 @@
     a {
       @extend h4;
       color: $black;
+      font-weight: 200;
     }
 
     a:not(.current):hover {
