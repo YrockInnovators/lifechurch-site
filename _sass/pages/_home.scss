@@ -9,7 +9,6 @@
   
   .large.action {
     color: #fff;
-    float: left;
   }
 
   .home-menu {
@@ -75,18 +74,19 @@
 
   .hero {
     min-height: 200px;
-    //@include retina-image(/images/home/home-bg, cover, jpg);
+    @include retina-image(/images/home/home-bg, cover, jpg);
     background-position: center;
     background-color: #333;
     position: relative;
     //padding-bottom: 150px;
+    text-align: left;
 
     @include media(500px) {
       background-size: cover;
     }
 
     @include media($medium-screen) {
-      //@include retina-image(/images/home/home-bg, cover, jpg);
+      @include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
       background-color: #333;
       padding-bottom: 8em;
@@ -106,7 +106,7 @@
       width: 100%;
       max-width: 1000px;
       height: 140px;
-      margin: 50px auto 20px;
+      margin: 100px auto 20px;
       
       @include media($medium-screen) {
         height: 140px;

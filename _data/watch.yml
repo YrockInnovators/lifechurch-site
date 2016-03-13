@@ -40,7 +40,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/going-the-distance/3000x680.jpg?1456524844
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/going-the-distance/480x340.jpg?1456524891
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/going-the-distance/960x680.jpg?1456524908
-  messages: []
+  messages:
+  - title: Going the Distance
+    headline: ''
+    video: ''
+    platform_id: AalP8hn68gHW
 - id: twisted
   title: Twisted
   headline: What happens when the most important message of all gets Twisted?
