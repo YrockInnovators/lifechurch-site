@@ -321,6 +321,10 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559Z'
     updated_at: '2014-06-11T16:19:31.726Z'
+  - id: 80
+    name: Jefferson Bethke
+    created_at: '2015-12-28T15:22:31.777Z'
+    updated_at: '2015-12-28T15:22:31.777Z'
   image_small: http://api-assets.lifechurch.tv/series/healed/300x200.jpg?1450214374
   image_medium: http://api-assets.lifechurch.tv/series/healed/600x400.jpg?1450214396
   image_large: http://api-assets.lifechurch.tv/series/healed/1200x800.jpg?1450214418
