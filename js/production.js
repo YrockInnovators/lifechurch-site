@@ -165,7 +165,7 @@
 		}
 		
 		// touchList.identifiedTouch() does not exist in
-		// webkit yetâ€¦ we must do the search ourselves...
+		// webkit yet… we must do the search ourselves...
 		
 		i = -1;
 		l = touchList.length;
