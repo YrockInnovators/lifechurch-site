@@ -11,6 +11,43 @@
       max-width: 40px;
     }
   }
+  .social {
+    position: fixed;
+    top: 30%;
+    right: 0px;
+    z-index: 1600;
+    width: 120px;
+    margin-right: 20px;
+    @media screen and (max-width: 700px) {
+      display: none;
+    }
+    .share-icon {
+      max-width: 30%;
+      margin-bottom: 15px;
+      padding: 5px;
+      float: right;
+      border-radius: 8px;
+      background-color: hsla(0, 0%, 100%, .2);
+      -webkit-transition: all 200ms ease;
+      transition: all 200ms ease;
+      clear: both;
+    }
+    .reveal {
+      position: absolute;
+      top: 20px;
+      right: 45px;
+      color: #000;
+      visibility: hidden;
+      opacity: 0;
+      font-weight: 600;
+      font-size: 0.85em;
+      height: auto;
+    }
+    &:hover .reveal {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
   #tertiary {
     padding-bottom: 0;
     .breadcrumb a {
