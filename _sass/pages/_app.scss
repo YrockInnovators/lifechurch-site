@@ -2,84 +2,421 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .app {
+  .up {
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
+    position: fixed;
+    img {
+      max-width: 40px;
+    }
+  }
+  .social {
+    position: fixed;
+    top: 30%;
+    right: 0px;
+    z-index: 1600;
+    width: 120px;
+    margin-right: 20px;
+    @media screen and (max-width: 700px) {
+      display: none;
+    }
+    .share-icon {
+      max-width: 30%;
+      margin-bottom: 15px;
+      padding: 5px;
+      float: right;
+      border-radius: 8px;
+      background-color: hsla(0, 0%, 100%, .2);
+      -webkit-transition: all 200ms ease;
+      transition: all 200ms ease;
+      clear: both;
+    }
+    .reveal {
+      position: absolute;
+      top: 20px;
+      right: 45px;
+      color: #000;
+      visibility: hidden;
+      opacity: 0;
+      font-weight: 600;
+      font-size: 0.85em;
+      height: auto;
+    }
+    &:hover .reveal {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+  #tertiary {
+    padding-bottom: 0;
+    .breadcrumb a {
+    line-height: 55px;
+    }
+  }
+  #persistent-navigation {
+    line-height: 2em;
+    z-index: 3;
+    li {
+      margin: 1em 0 0;
+      .active {
+        background: none;
+        color: $blue;
+      }
+      a {
+      color: #111;
+      font-size: 14px;
+      font-weight: 600;
+      vertical-align: top;
+      line-height: 1.5em;
+      padding: 0 15px 0 5px;
+      &:hover {
+        background: none;
+        color: $blue;
+        }
+      }
+    }
+    .icon-smartphone {
+      width: 13px;
+    }
+    .icon-tablet {
+      width: 27px;
+    }
+    .icon-tv {
+      width: 20px;
+    }
+  }
   
   .hero-app {
-    @include retina-image(/images/app/hero-bg, cover, jpg);
-    min-height: 400px !important;
-      h1 {
-        font-size: 2.75em;
-        margin: 80px auto 0px;
+    height: 1060px;
+    max-height: 1060px;
+    min-height: 1060px;
+    /* Fallback */
+    background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png');
+
+    /* CSS gradients */
+    background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
+                      -moz-linear-gradient(top, #fff 0%, #ddd 100%);
+    background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
+                      -webkit-linear-gradient(270deg, #fff 33%, #ddd);
+    background-image: url('https://s3.amazonaws.com/lctv-site/app/3D-iPhone.png'), 
+                      linear-gradient(to bottom, #fff, #ddd);
+    background-position: 100% 50%, 0px 0px;
+    background-size: contain, auto;
+    background-repeat: no-repeat, repeat;
+    margin-top: -4em;
+    @media screen and (max-width: 660px) {
+      background-position: 100% 80%, 0px 0px;
+    }
+    @media screen and (max-width: 600px) {
+      height: 1000px;
+      min-height: 800px;
+    }
+    .inner {
+      width: 44%;
+      text-align: left;
+      margin-top: 7em;
+      @media screen and (max-width: 660px) {
+        margin-top: 0;
       }
-      p {
-        max-width: 600px;
-        margin: 1em auto;
-        padding: 0 1em;
-      }
+      h4 {
+      color: #16a9d6;
+      font-size: 18px;
+      line-height: 24px;
+      font-weight: 700;
+      letter-spacing: -1px;
+    }
+    h1 {
+      margin-bottom: 0px;
+      color: #1e1f23;
+      font-size: 72px;
+      line-height: 70px;
+      font-weight: 900;
+      letter-spacing: -2px;
+      margin-top: 0;
+      font-family: "proxima-nova", serif;
+    }
     
       .icon-itunes {
-      @include hide-text;
-      @include retina-image(/images/app/itunes, contain);
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: 150px 55px;
-      width: 150px;
-      height: 55px;
+        background-image: url(/images/app/itunes.png);
+        background-repeat: no-repeat;
+        background-size: 150px 50px;
+        width: 150px;
+        height: 50px;
+        text-indent: -9999px;
+        margin-top: 50px;
+        transition: all .4s ease-in-out;
     }
     
     .icon-google-play {
-      @include hide-text;
-      @include retina-image(/images/app/google-play, contain);
+      background-image: url(/images/app/google-play.png);
       background-position: center;
       background-repeat: no-repeat;
-      background-size: 150px 54px;
+      background-size: 150px 50px;
       width: 150px;
-      height: 54px;
+      height: 50px;
+      text-indent: -9999px;
+      margin-top: 50px;
+      transition: all .4s ease-in-out;
+      
     }
 
     .icon-itunes:hover,
     .icon-google-play:hover{
-      opacity: .75;
+      transform: scale(1.1);
     }
+  }
     
   }
   
-  .phones {
-      max-height: 440px;
-      text-align: center;
-      margin: 50px auto -50px;
-      display: table;
+  .article-with-figure {
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(270deg, #fff 33%, #ddd);
+    background-image: linear-gradient(180deg, #fff 33%, #ddd);
+    background-image: -moz-linear-gradient(top, #fff 0%, #ddd 100%);
+    @media screen and (max-width: 600px) {
+      text-align: center !important;
     }
-  
-
-  
-  
-  @media all and (max-width: 510px) {
-    .hero-app {
-      h1 {
-        font-size: 2.5em;
-        margin: 90px auto 30;
+    h4 {
+      color: #16a9d6;
+      font-size: 18px;
+      line-height: 24px;
+      font-weight: 700;
+      letter-spacing: -1px;
+      margin-bottom: 0;
+    }
+    h1 {
+      display: block;
+      margin: 0px auto 20px;
+      float: left;
+      color: #1e1f23;
+      font-size: 48px;
+      line-height: 60px;
+      font-weight: 900;
+      text-align: left;
+      letter-spacing: -2px;
+      margin-bottom: 10px;
+    }
+    h5 {
+      margin-top: 0px;
+      float: left;
+      font-family: inherit, sans-serif;
+      color: #1e1f23;
+      font-size: 20px;
+      line-height: 34px;
+      font-style: normal;
+      font-weight: 600;
+      clear: both;
+      margin-top: 2px;
+      img {
+        max-width: 25px;
+        margin-right: 10px;
+        vertical-align: middle;
+        margin-top: -4px;
+      }
+    }
+    p {
+      max-width: 400px;
+      margin-bottom: 30px;
+      float: left;
+      color: #1e1f23;
+      font-size: 18px;
+      line-height: 25px;
+      font-weight: 400;
+      clear: both;
+    }
+    article {
+      width: 48.636%;
+      @media screen and (max-width: 660px) {
+        width: 50.636%;
+      }
+      @media screen and (max-width: 600px) {
+        float: left;
+        width: 100%;
         padding: 0 10px;
+        clear: both;
+        text-align: left;
       }
-      .icon-itunes {
-        @include hide-text;
-        @include retina-image(/images/app/itunes, contain);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 125px;
+    }
+    figure {
+      width: 37.291%;
+      margin-left: 6%;
+      @media screen and (max-width: 660px) {
+        width: 37.291%;
       }
-
-      .icon-google-play {
-        @include hide-text;
-        @include retina-image(/images/app/google-play, contain);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 125px;
-        margin-left: 10px;
+      @media screen and (max-width: 600px) {
+        display: block;
+        margin: 0 auto 1em;
+        height: 300px;
+      }
+    }
+    .fadein { position:relative; max-width:326px; height:auto; }
+    .fadein img { position:absolute; left:0; top:0; 
+      @media screen and (max-width: 600px) {
+        height: 300px;
       }
     }
   }
   
-  .closing {
-    background-color: #fff;
+  .tablet {
+    height: 1080px;
+    max-height: 1200px;
+    min-height: 1080px;
+    padding-top: 50px;
+    padding-right: 70px;
+    background-color: #1e1f23;
+    background-image: url('https://s3.amazonaws.com/lctv-site/app/ipad-landscape.png');
+    background-position: -350px 42%;
+    background-size: 95%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #1e1f23;
+    @media screen and (max-width: 600px) {
+      min-height: auto;
+      height: auto;
+      padding: 50px 0;
+      background-image: none;
+    }
+    .copy {
+      position: relative;
+      left: 63%;
+      margin-top: 15%;
+      width: 400px;
+      max-width: 400px;
+      min-width: 400px;
+      margin-right: 0px;
+      float: left;
+      @media screen and (max-width: 850px) {
+        left: 45%;
+      }
+      @media screen and (max-width: 660px) {
+        left: 36%;
+        max-height: 800px;
+      }
+      @media screen and (max-width: 600px) {
+        left: 0;
+        width: 100%;
+        text-align: center;
+        padding: 50px 0px;
+        margin-top: 0;
+      }
+      h4 {
+        color: #16a9d6;
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 700;
+        letter-spacing: -1px;
+        margin-bottom: 0;
+    }
+    h1 {
+      color: #fff;
+      font-size: 48px;
+      line-height: 60px;
+      font-weight: 900;
+      letter-spacing: -2px;
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #fff;
+      line-height: 25px;
+      font-size: 18px;
+    }
+    .mini-copy {
+      font-size: 14px;
+      font-style: italic;
+      font-weight: 500;
+      margin-top: 20px;
+    }
   }
+    .button {
+      transition: all 500ms ease;
+      font-size: 16px;
+      font-weight: 700;
+    }
+}
+  
+  .tv {
+    width: 100%;
+    padding-bottom: 0;
+    height: auto;
+    background: #f3f4ef url('https://s3.amazonaws.com/lctv-site/app/tv-bg.jpg') no-repeat top center;
+    background-size: contain;
+    h1 {
+      color: #1e1f23;
+      font-size: 48px;
+      line-height: 60px;
+      letter-spacing: -2px;
+      text-align: center;
+      margin-bottom: 0;
+      font-weight: 900;
+    }
+    h2 {
+      width: 55%;
+      margin: 0 auto;
+      font-size: 18px;
+      line-height: 26px;
+      font-weight: 700;
+      text-align: center;
+      color: #1e1f23;
+      @media screen and (max-width: 600px) {
+        width: 100%;
+      }
+    }
+    .tv-slide { position:relative; width:100%; height:auto;
+      padding-top: 0px;min-height: 725px;margin-top: 0;
+      @media screen and (max-width: 850px) {
+        min-height: 545px;
+      }
+      @media screen and (max-width: 660px) {
+        min-height: 420px;
+      }
+      @media screen and (max-width: 600px) {
+        min-height: 290px;
+        margin-top: -30px;
+      }
+    }
+    .tv-slide img { position:absolute; left:0; top:0;width: 100%; }
+  }
+  
+  .email {
+    text-align: center;
+    h3 {
+      font-size: 48px;
+      line-height: 60px;
+      font-weight: 900;
+      letter-spacing: -2px;
+      color: $black;
+    }
+    p {
+      color: inherit;
+    }
+  }
+  
+  #hsForm_3ca468c5-e2bc-4683-8329-3b8f900e63f8 {
+    margin: auto;
+    display: table;
+    padding-bottom: 2em;
+    width: 460px;
+    max-width: 100%;
+    label span {
+      color: #fff;
+      placeholder {
+        visibility: visible;
+      }
+    }
+    .input {
+      display: flex;
+      width: 100%;
+      float: left;
+      max-width: 300px;
+    }
+    input[type="submit"] {
+      padding-left: 1em;
+      font-size: 13px;
+      line-height: 1.25em;
+    }
+  }
+
+
 }

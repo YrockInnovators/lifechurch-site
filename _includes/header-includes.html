@@ -46,6 +46,47 @@
   ga('send', 'pageview');
 </script>
   
+<!-- App Download -->
+  <meta name="apple-itunes-app" content="app-id=1014635777">
+  <meta name="google-play-app" content="app-id=church.life.app">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="/css/jquery.smartbanner.css" type="text/css" media="screen">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="android-touch-icon" href="android-icon.png" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+  <script src="/js/libs/jquery.smartbanner.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function($){
+        $.smartbanner({
+          title: 'Life.Church App',
+          author: 'Life.Church',
+          daysHidden: 1
+        });
+        })
+    </script>
+  
 {% if page.title == "Easter 2016 at Life.Church" %}
   <link rel="stylesheet" href="//cdn.jsdelivr.net/jquery.sidr/2.2.1/stylesheets/jquery.sidr.light.min.css">
+{% endif %}
+  
+{% if page.title == "Life.Church App" %}
+  <script>
+    $(function(){
+      $('.fadein img:gt(0)').hide();
+      setInterval(function(){$('.fadein :first-child').fadeOut().next('img').fadeIn().end().appendTo('.fadein');}, 3000);
+    });
+    $(function(){
+      $('.tv-slide img:gt(0)').hide();
+      setInterval(function(){$('.tv-slide :first-child').fadeOut().next('img').fadeIn().end().appendTo('.tv-slide');}, 3000);
+    });
+    $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
+</script>
 {% endif %}

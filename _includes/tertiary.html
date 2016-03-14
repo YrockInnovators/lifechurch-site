@@ -27,7 +27,17 @@
         {% include watch-resources.html %}
       </div>
       {% endif %}
+      
     </div>
     {% endif %}
+    {% if page.title == "Life.Church App" %}
+        <div class="persistent-navigation-wrapper large-element text-center">
+        <ul id="persistent-navigation" class="large-element">
+          <li><img width="29" src="/images/app/smartphone-dark.png" class="icon-smartphone" /> <a href="#smartphone">Smartphone</a></li>
+          <li><img width="29" src="/images/app/tablet-dark.png" class="icon-tablet" /> <a href="#tablet">Tablet</a></li>
+          <li><img width="29" src="/images/app/tv-dark.png" class="icon-tv" /> <a href="#tv">TV</a></li>
+        </ul>
+      </div>
+      {% endif %}
   </section>
 </div>

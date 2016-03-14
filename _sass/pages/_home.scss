@@ -106,11 +106,11 @@
       width: 100%;
       max-width: 1000px;
       height: 140px;
-      margin: 100px auto 20px;
+      margin: 50px auto 20px;
       
       @include media($medium-screen) {
         height: 140px;
-        margin: 50px auto 20px;
+        margin: 100px auto 20px;
       }
     }
   }
