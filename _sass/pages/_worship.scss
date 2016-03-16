@@ -32,6 +32,9 @@
     }
     .breadcrumb a {
     line-height: 55px;
+      @media all and (max-width: 500px) {
+        line-height: auto;
+      }
     }
   }
   #persistent-navigation.top {
@@ -93,6 +96,9 @@
         top: 0;
         left: 0;
         //visibility: hidden;
+        @media all and (max-width: 770px) {
+          visibility: hidden;
+        }
       }
     }
     #video-container:after {
@@ -112,6 +118,9 @@
       position: relative;
       margin: -35px auto 0;
       padding: 0 20px;
+      @media all and (max-width: 860px) {
+        margin: 0 auto;
+      }
       h1 {
         position: static;
         left: 0%;
