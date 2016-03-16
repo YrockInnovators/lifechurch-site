@@ -312,4 +312,66 @@
       }
     }
   }
+  .get-social {
+    height: 100vh;
+    max-height: 100vh;
+    margin-top: 0px;
+    padding-top: 15%;
+    padding-bottom: 12%;
+    background-image: url("https://s3.amazonaws.com/lctv-site/worship/social-hero.jpg");
+    background-position: 0px 0px, 50% 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-image: moz-linear-gradient(180deg, rgba(0, 0, 0, .5), #000);
+      background-image: -webkit-linear-gradient(270deg, rgba(0, 0, 0, .5), #000);
+		  opacity: .6;
+    }
+    .container {
+      text-align: center;
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+      }
+      p {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        margin: 20px auto 0px;
+        color: #fff;
+        font-size: 19px;
+        line-height: 26px;
+        font-weight: 400;
+        width: 70%;
+        max-width: 90%;
+      }
+      .social {
+        color: #fff;
+        font-size: 23px;
+        line-height: 25px;
+        &:hover {
+          transform: scale(1.2);
+        }
+        img {
+          max-width: 50px;
+          vertical-align: middle;
+          margin-right: 5px;
+        }
+      }
+    }
+  }
 }
