@@ -11,7 +11,7 @@
       @media all and (max-width: 860px) {
         width: 40%;
       }
-      @media all and (max-width: 767px) {
+      @media all and (max-width: 770px) {
         width: 30%;
       }
       @media all and (max-width: 641px) {
@@ -23,7 +23,7 @@
       @media all and (max-width: 860px) {
         width: 50%;
       }
-      @media all and (max-width: 767px) {
+      @media all and (max-width: 770px) {
         width: 60%;
       }
       @media all and (max-width: 641px) {
@@ -64,8 +64,8 @@
 
   .hero {
     top: -141px;
-    height: 102%;
-    max-height: 102%;
+    height: 102vh;
+    max-height: 102vh;
     padding: 17% 30px;
     position: relative;
     background: url('https://s3.amazonaws.com/lctv-site/worship/hero-bg.jpg') no-repeat center;
@@ -134,7 +134,7 @@
           line-height: 56px;
           margin-top: 20px;
         }
-        @media all and (max-width: 767px) {
+        @media all and (max-width: 770px) {
           margin-top: 77px;
         }
         @media all and (max-width: 641px) {
@@ -292,6 +292,9 @@
     }
     figure {
       width: 48.33333333%;
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
       @media all and (max-width: 641px) {
         width: 43.3333%;
       }
@@ -372,6 +375,9 @@
     }
     figure {
       width: 54.33333333%;
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
       @media all and (max-width: 641px) {
           width: 100%;
           float: none;
