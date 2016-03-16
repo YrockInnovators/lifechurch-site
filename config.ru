@@ -140,6 +140,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)open/(\?.*)?}, 'http://open.life.church'
   r301 %r{^/(?i)20/(\?.*)?}, 'http://twenty.life.church'
   r301 %r{^/(?i)twenty/(\?.*)?}, 'http://twenty.life.church'
+  r301 %r{^/(?i)brand/(\?.*)?}, ' https://lctv-site.s3.amazonaws.com/brand/LC_Pocket_Guidelines_Web.pdf'
 
 #OPK Redirects
 
