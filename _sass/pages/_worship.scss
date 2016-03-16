@@ -2,6 +2,47 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .worship {
+  
+  #tertiary {
+    padding-bottom: 0;
+    margin-bottom: 0;
+    .breadcrumb {
+      width: 50%;
+    }
+    .resources {
+      width: 45%;
+    }
+    .breadcrumb a {
+    line-height: 55px;
+    }
+  }
+  #persistent-navigation.top {
+    background: rgba(0,0,0,0.9);
+    border-bottom: none;
+  }
+  #persistent-navigation {
+    line-height: 2em;
+    z-index: 3;
+    li {
+      margin: 1em 0 0;
+      .active {
+        background: none;
+        color: $blue;
+      }
+      a {
+      color: #fff;
+      font-size: 14px;
+      font-weight: 600;
+      vertical-align: top;
+      line-height: 1.5em;
+      padding: 0 15px 0 5px;
+      &:hover {
+        background: none;
+        color: $blue;
+        }
+      }
+    }
+  }
 
   .hero {
     top: -141px;
@@ -25,7 +66,7 @@
         object-fit: cover;
         top: 0;
         left: 0;
-        visibility: hidden;
+        //visibility: hidden;
       }
     }
     #video-container:after {
