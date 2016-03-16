@@ -192,7 +192,7 @@
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     background-attachment: scroll, fixed;
-    @media all and (max-width: 500px) {
+    @media all and (max-width: 770px) {
       height: auto;
       max-height: none;
     }
@@ -322,7 +322,7 @@
     max-height: 100vh;
     padding-top: 5%;
     padding-bottom: 0%;
-    @media all and (max-width: 641px) {
+    @media all and (max-width: 770px) {
       height: auto;
       max-height: none;
       padding-bottom: 5%;
@@ -424,7 +424,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll, fixed;
-    @media all and (max-width: 500px) {
+    @media all and (max-width: 770px) {
       height: auto;
       max-height: none;
     }
@@ -502,6 +502,11 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+      padding-bottom: 15%;
+    }
     .container {
       text-align: center;
       h2 {
