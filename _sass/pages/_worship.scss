@@ -74,6 +74,9 @@
     position: relative;
     background: url('https://s3.amazonaws.com/lctv-site/worship/hero-bg.jpg') no-repeat center;
     background-size: cover;
+    @media all and (max-width: 770px) {
+      padding: 20vh 30px;
+    }
     @media all and (max-width: 641px) {
       height: auto;
       max-height: none;
