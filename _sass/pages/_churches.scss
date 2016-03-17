@@ -27,6 +27,7 @@
 
   #bible-engagement article img {
     padding-top: 3em;
+    height: auto;
   }
 
   #partnered-products {
@@ -150,18 +151,22 @@
 
 .video-thumb-open-1 {
   @include retina-image(/images/equipping-churches/ec-open-thumb-1, cover, jpg);
+  background-size: cover;
 }
 
 .video-thumb-open-2 {
   @include retina-image(/images/equipping-churches/ec-open-thumb-2, cover, jpg);
+  background-size: cover;
 }
 
 .video-thumb-network-1 {
   @include retina-image(/images/equipping-churches/ec-network-thumb-1, cover, jpg);
+  background-size: cover; 
 }
 
 .video-thumb-network-2 {
   @include retina-image(/images/equipping-churches/ec-network-thumb-2, cover, jpg);
+  background-size: cover;
 }
 
 .hbspt-form {
@@ -222,10 +227,6 @@
   #email-daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
     min-width: 237px;
   }
-}
-
-img {
-  height: auto;
 }
 
 .email-signup {
