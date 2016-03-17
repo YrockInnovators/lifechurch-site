@@ -7,12 +7,27 @@
     margin-top: .35em;
   }
 
+  .tio-video {
+    max-width:100%; 
+    width: 800px; 
+    height: 450px; 
+    padding-bottom: 0px;
+    clear: both;
+      @media screen and (max-width: 500px) {
+        max-height:  280px;
+        iframe {
+          max-height: 270px;
+        }
+      }
+  }
+
   .feature.padded {
     padding-top: 7em;
   }
 
   #bible-engagement article img {
     padding-top: 3em;
+    height: auto;
   }
 
   #partnered-products {
@@ -37,6 +52,17 @@
     width: 44.6183%;
     font-size: 0.8em;
   }
+
+  .yv-2column {
+    max-width:300px;
+  }
+  .youversion-events {
+    float: left;
+    display: block;
+    margin-right: 4.07256%;
+    width: 44.6183%;
+    font-size: 0.8em;
+  }
   
   .bible-kids {
     float: left;
@@ -44,6 +70,24 @@
     margin-right: 4.07256%;
     width: 50.3092%;
     font-size: 0.8em;
+  }
+}
+
+.yv-events-container {
+    padding-top: 0!important;
+}
+
+@media (max-width: 600px) {
+  .yv-events-container {
+    display: inline-block!important;
+    padding-left: 0px!important;
+  }
+
+  .bible-app {
+  width: 100%!important
+  }
+  .youversion-events {
+  width: 100%!important
   }
 }
 
@@ -107,16 +151,88 @@
 
 .video-thumb-open-1 {
   @include retina-image(/images/equipping-churches/ec-open-thumb-1, cover, jpg);
+  background-size: cover;
 }
 
 .video-thumb-open-2 {
   @include retina-image(/images/equipping-churches/ec-open-thumb-2, cover, jpg);
+  background-size: cover;
 }
 
 .video-thumb-network-1 {
   @include retina-image(/images/equipping-churches/ec-network-thumb-1, cover, jpg);
+  background-size: cover; 
 }
 
 .video-thumb-network-2 {
   @include retina-image(/images/equipping-churches/ec-network-thumb-2, cover, jpg);
+  background-size: cover;
+}
+
+.hbspt-form {
+  max-width: 600px;
+  margin: auto;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
+  display: inline-flex;
+}
+
+.hs-form .actions {
+    margin-top: -17px!important;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div.hs_submit > div.actions > input {
+  border-radius: 0px 4px 4px 0px !important;
+  width: 90px!important;
+  height: 20px!important;
+  background: #0EA9D6;
+  font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  border: none;
+}
+
+.hs-form .hs-button:hover:not(.inactive) {
+  background: #0b83a6;
+  color: white;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > label {
+  display:none;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > ul > li > label {
+  color: #B9252D;
+  font-weight: bold;
+}
+
+.digital-missions .digital-missions-bg {
+   height: auto!important;
+   background-image: none!important;
+}
+
+#email-daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
+  max-width: none !important;
+  width: 95% !important;
+  min-width: 400px;
+  height: 26px;
+  border-radius: 4px 0px 0px 4px;
+  border: none;
+  font-size: 15px;
+  padding-left: 7px;
+}
+
+@media (max-width: 600px) {
+  #email-daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
+    min-width: 237px;
+  }
+}
+
+.email-signup {
+  padding-top: 2em;
+  padding-bottom: .75em;
+  font-weight: 600;
+  font-size: 1.35em;
+  color: #B9252D;
 }
