@@ -68,9 +68,9 @@
 
   .hero {
     top: -141px;
-    height: 102vh;
-    max-height: 102vh;
-    padding: 17% 30px;
+    height: 105vh;
+    max-height: 105vh;
+    padding: 32vh 30px;
     position: relative;
     background: url('https://s3.amazonaws.com/lctv-site/worship/hero-bg.jpg') no-repeat center;
     background-size: cover;
@@ -225,6 +225,10 @@
           font-size: 33px;
           line-height: 45px;
         }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
     }
     p {
       display: block;
@@ -348,6 +352,10 @@
         font-size: 40px;
         color: #fff;
         font-weight: 600;
+        @media all and (max-width: 500px) {
+          font-size: 32px;
+          line-height: 42px;
+        }
       }
       p {
         display: block;
@@ -531,6 +539,9 @@
         font-weight: 400;
         width: 70%;
         max-width: 90%;
+        @media all and (max-width: 500px) {
+          width: 90%;
+        }
       }
       .social {
         color: #fff;
