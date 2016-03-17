@@ -50,7 +50,7 @@
     display: block;
     margin-right: 4.07256%;
     width: 44.6183%;
-    font-size: 0.8em;
+    font-size: 1em!important;
   }
 
   .yv-2column {
@@ -61,7 +61,7 @@
     display: block;
     margin-right: 4.07256%;
     width: 44.6183%;
-    font-size: 0.8em;
+    font-size: 1.0em;
   }
   
   .bible-kids {
@@ -225,8 +225,20 @@
 
 @media (max-width: 600px) {
   #email-daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
-    min-width: 237px;
+    min-width: 200px;
   }
+  .detail-link {
+  text-align: center!important;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .action i {
+      float: none!important;
+    }
+  .action {
+      text-align: center!important;
+    }  
 }
 
 .email-signup {
@@ -236,3 +248,8 @@
   font-size: 1.35em;
   color: #B9252D;
 }
+
+.action:last-child {
+  margin-bottom: 20px;
+}
+
