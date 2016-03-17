@@ -520,6 +520,11 @@
     }
     .container {
       text-align: center;
+      @media all and (max-width: 500px) {
+        .grid-item {
+          display: inline-block;
+        }
+      }
       h2 {
         display: block;
         width: 100%;
@@ -552,6 +557,11 @@
         line-height: 25px;
         -webkit-transition: all 500ms ease;
         transition: all 500ms ease;
+        @media all and (max-width: 500px) {
+          span {
+            display: none;
+          }
+        }
         img {
           max-width: 50px;
           vertical-align: middle;
