@@ -20,6 +20,7 @@
     }
     .resources {
       width: 45%;
+      float: right;
       @media all and (max-width: 860px) {
         width: 50%;
         float: right;
@@ -41,6 +42,9 @@
   #persistent-navigation.top {
     background: rgba(0,0,0,0.9);
     border-bottom: none;
+  }
+  .persistent-navigation-wrapper {
+    float: right;
   }
   #persistent-navigation {
     line-height: 2em;
