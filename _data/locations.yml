@@ -1245,40 +1245,6 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
-- id: OPK
-  f1_campus_id: 64790
-  f1_substatus_id: 4368
-  title: Overland Park, KS
-  email: 'opk.serving@life.church '
-  phone: ''
-  address: 6601 Edgewater Dr. Overland Park, KS 66223
-  facebook: '1078785968812011'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions: []
 - id: hnv
   f1_campus_id: 4344
   f1_substatus_id: 378
@@ -1781,6 +1747,40 @@
     description_medium: 'Help care for and mentor kids in our community by providing
       them with consistent and loving relationships. Kids in crisis can find shelter
       and safety at SafePlace. '
+- id: OPK
+  f1_campus_id: 64790
+  f1_substatus_id: 4368
+  title: Overland Park, KS
+  email: 'opk.serving@life.church '
+  phone: 913-279-0012
+  address: 6601 Edgewater Dr. Overland Park, KS 66223
+  facebook: '1078785968812011'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions: []
 - id: okc
   f1_campus_id: 4351
   f1_substatus_id: 381
