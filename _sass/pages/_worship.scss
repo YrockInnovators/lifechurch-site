@@ -264,6 +264,7 @@
           clear: both;
         }
         .grid-item {
+          width: 20%;
           @media all and (max-width: 500px) {
             width: 25%;
             float: left;
@@ -274,6 +275,7 @@
         background-image: url('https://s3.amazonaws.com/lctv-site/worship/spotify.png');
         background-repeat: no-repeat;
         background-size: 50px;
+        background-position: center;
         height: 50px;
         margin: auto;
         display: block;
@@ -285,6 +287,7 @@
         background-image: url('https://s3.amazonaws.com/lctv-site/worship/soundcloud.png');
         background-repeat: no-repeat;
         background-size: 50px;
+        background-position: center;
         height: 50px;
         margin: auto;
         display: block;
@@ -296,6 +299,7 @@
         background-image: url('https://s3.amazonaws.com/lctv-site/worship/google-play.png');
         background-repeat: no-repeat;
         background-size: 50px;
+        background-position: center;
         height: 50px;
         margin: auto;
         display: block;
@@ -307,6 +311,7 @@
         background-image: url('https://s3.amazonaws.com/lctv-site/worship/itunes.png');
         background-repeat: no-repeat;
         background-size: 50px;
+        background-position: center;
         height: 50px;
         margin: auto;
         display: block;
