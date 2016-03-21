@@ -98,3 +98,15 @@ class: worship header-light logo-red-white
 </section>
 
 <div class="up"><a href="#hero"><img src="https://s3.amazonaws.com/lctv-site/worship/Up-Arrow-White.png" /></a></div>
+
+<!-- JS -->
+<script>
+  $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
+</script>

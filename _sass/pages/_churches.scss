@@ -50,7 +50,7 @@
     display: block;
     margin-right: 4.07256%;
     width: 44.6183%;
-    font-size: 1em!important;
+    font-size: 1em;
   }
 
   .yv-2column {
@@ -71,23 +71,60 @@
     width: 50.3092%;
     font-size: 0.8em;
   }
+  .hbspt-form {
+  max-width: 600px;
+  margin: auto;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
+  display: inline-flex;
+}
+
+.hs-form .actions {
+    margin-top: -17px;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div.hs_submit > div.actions > input {
+  border-radius: 0px 4px 4px 0px ;
+  width: 90px;
+  height: 20px;
+  background: #0EA9D6;
+  font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 17px;
+  font-weight: bold;
+  border: none;
+}
+
+.hs-form .hs-button:hover:not(.inactive) {
+  background: #0b83a6;
+  color: white;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > label {
+  display:none;
+}
+
+#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > ul > li > label {
+  color: #B9252D;
+  font-weight: bold;
+}
 }
 
 .yv-events-container {
-    padding-top: 0!important;
+    padding-top: 0;
 }
 
 @media (max-width: 600px) {
   .yv-events-container {
-    display: inline-block!important;
-    padding-left: 0px!important;
+    display: inline-block;
+    padding-left: 0px;
   }
 
   .bible-app {
-  width: 100%!important
+  width: 100%
   }
   .youversion-events {
-  width: 100%!important
+  width: 100%
   }
 }
 
@@ -141,8 +178,8 @@
   height: 53px;
   padding: 30px;
   background-size: 20px auto;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
+  background-position: center ;
+  background-repeat: no-repeat ;
   border-radius: 100px;
   background-color: rgba(0,0,0,.6);
   display: block;
@@ -169,52 +206,14 @@
   background-size: cover;
 }
 
-.hbspt-form {
-  max-width: 600px;
-  margin: auto;
-}
-
-#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
-  display: inline-flex;
-}
-
-.hs-form .actions {
-    margin-top: -17px!important;
-}
-
-#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div.hs_submit > div.actions > input {
-  border-radius: 0px 4px 4px 0px !important;
-  width: 90px!important;
-  height: 20px!important;
-  background: #0EA9D6;
-  font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 17px;
-  font-weight: bold;
-  border: none;
-}
-
-.hs-form .hs-button:hover:not(.inactive) {
-  background: #0b83a6;
-  color: white;
-}
-
-#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > label {
-  display:none;
-}
-
-#hsForm_daa1d633-6e7a-4bd6-a83d-2d1c901b4630 > div:nth-child(1) > div > ul > li > label {
-  color: #B9252D;
-  font-weight: bold;
-}
-
 .digital-missions .digital-missions-bg {
-   height: auto!important;
-   background-image: none!important;
+   height: auto;
+   background-image: none;
 }
 
 #email-daa1d633-6e7a-4bd6-a83d-2d1c901b4630 {
-  max-width: none !important;
-  width: 95% !important;
+  max-width: none ;
+  width: 95% ;
   min-width: 400px;
   height: 26px;
   border-radius: 4px 0px 0px 4px;
@@ -228,16 +227,16 @@
     min-width: 200px;
   }
   .detail-link {
-  text-align: center!important;
+  text-align: center;
   }
 }
 
 @media only screen and (max-width: 40em) {
   .action i {
-      float: none!important;
+      float: none;
     }
   .action {
-      text-align: center!important;
+      text-align: center;
     }  
 }
 

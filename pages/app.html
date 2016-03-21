@@ -110,4 +110,15 @@ if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i
 
 <div class="up"><a href="#top"><img src="https://s3.amazonaws.com/lctv-site/app/up.png" /></a></div>
 
+<!-- JS -->
+<script>
+  $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
+</script>
 
