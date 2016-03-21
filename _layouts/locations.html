@@ -14,9 +14,9 @@ hero: locations-hero
         {% unless page.phone == false %}{{ location.phone }}<br />{% endunless %}
         {{ location.address }} 
         {% if location.id == 'bnb' %}
-        <a href="http://maps.google.com/?q=LifeChurch.tv Broadway and Britton Campus" class="action" target="_blank">(get directions)</a><br class="large-element" />
+        <a href="http://maps.google.com/?q=Life.Church Broadway and Britton Campus" class="action" target="_blank">(get directions)</a><br class="large-element" />
         {% elsif location.id == 'wel' %}
-        <a href="http://maps.google.com/?q=LifeChurch.tv Wellington" class="action" target="_blank">(get directions)</a><br class="large-element" />
+        <a href="http://maps.google.com/?q=Life.Church Wellington" class="action" target="_blank">(get directions)</a><br class="large-element" />
         {% else %}
         <a href="http://maps.google.com/?q={{ location.address }}" class="action" target="_blank">(get directions)</a><br class="large-element" />
         {% endif %}

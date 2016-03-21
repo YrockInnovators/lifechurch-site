@@ -3,7 +3,7 @@
   f1_campus_id: 60358
   f1_substatus_id: 4103
   title: Shawnee, OK
-  email: SHW.Serving@lifechurch.tv
+  email: SHW.Serving@life.church
   phone: 405-695-6600
   address: 5630 North Harrison Shawnee, OK 74804
   facebook: '1602447766664787'
@@ -109,7 +109,7 @@
   f1_campus_id: 39919
   f1_substatus_id: 3438
   title: Broadway and Britton, OK
-  email: bnb.serving@lifechurch.tv
+  email: bnb.serving@life.church
   phone: 405-213-0248
   address: 9001 N. Broadway Extension Oklahoma City, OK 73114
   facebook: '227205990810209'
@@ -165,33 +165,33 @@
   missions:
   - id: 3
     title: Whiz Kids
-    recipient: bnb.serving@lifechurch.tv
+    recipient: bnb.serving@life.church
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
-    recipient: bnb.serving@lifechurch.tv
+    recipient: bnb.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
   - id: 34
     title: The Spero Project
-    recipient: bnb.serving@lifechurch.tv
+    recipient: bnb.serving@life.church
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
   - id: 35
     title: City Rescue Mission
-    recipient: bnb.serving@lifechurch.tv
+    recipient: bnb.serving@life.church
     url: http://cityrescue.org/
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
   - id: 83
     title: Little Light Christian School
-    recipient: bnb.serving@lifechurch.tv
+    recipient: bnb.serving@life.church
     url: ''
     description_medium: Pour into the lives of children with incarcerated parents
       and help break the cycle of incarceration in Oklahoma through mentoring relationships.
@@ -199,7 +199,7 @@
   f1_campus_id: 17716
   f1_substatus_id: 1064
   title: Broken Arrow, OK
-  email: bao.serving@lifechurch.tv
+  email: bao.serving@life.church
   phone: 918-615-4246
   address: 2420 E. Kenosha Street Broken Arrow, OK 74014
   facebook: '229503863780213'
@@ -315,25 +315,25 @@
   missions:
   - id: 19
     title: Tulsa Boys Home
-    recipient: bao.serving@lifechurch.tv
+    recipient: bao.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
   - id: 53
     title: Reading Partners
-    recipient: bao.serving@lifechurch.tv
+    recipient: bao.serving@life.church
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
   - id: 75
     title: Big Brothers Big Sisters of Oklahoma
-    recipient: bao.serving@lifechurch.tv
+    recipient: bao.serving@life.church
     url: ''
     description_medium: 'Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships. '
   - id: 82
     title: 111Tulsa
-    recipient: bao.serving@lifechurch.tv
+    recipient: bao.serving@life.church
     url: ''
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
@@ -342,7 +342,7 @@
   f1_campus_id: 34645
   f1_substatus_id: 2719
   title: Keller, TX
-  email: klr.serving@lifechurch.tv
+  email: klr.serving@life.church
   phone: 682-593-1140
   address: 1075 Keller Pkwy. Keller, TX 76248
   facebook: '343331435797233'
@@ -398,7 +398,7 @@
   missions:
   - id: 65
     title: The Gatehouse
-    recipient: klr.serving@lifechurch.tv
+    recipient: klr.serving@life.church
     url: ''
     description_medium: Help women and children in crisis discover discover their
       paths to permanent, positive change through a safe refuge, practical resources,
@@ -407,7 +407,7 @@
   f1_campus_id: 41150
   f1_substatus_id: 3426
   title: Wichita, KS
-  email: wch.serving@lifechurch.tv
+  email: wch.serving@life.church
   phone: 316-202-6640
   address: 338 N. 127th St E. Wichita, KS 67206
   facebook: '1454704991443722'
@@ -439,14 +439,14 @@
   missions:
   - id: 1
     title: Big Brothers Big Sisters
-    recipient: wch.serving@lifechurch.tv
+    recipient: wch.serving@life.church
     url: http://www.bbbs.org/
     description_medium: Provide children with strong and enduring one-on-one relationships
       that can change their lives for the better—forever. Each volunteer will mentor
       a child.
   - id: 70
     title: Kansas Big Brothers Big Sisters
-    recipient: wch.serving@lifechurch.tv
+    recipient: wch.serving@life.church
     url: ''
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
@@ -454,7 +454,7 @@
   f1_campus_id: 4346
   f1_substatus_id: 1063
   title: Midwest City, OK
-  email: mwc.serving@lifechurch.tv
+  email: mwc.serving@life.church
   phone: 405-622-3233
   address: 6809 E. Reno Ave Midwest City, OK 73110
   facebook: '141521929249905'
@@ -546,33 +546,33 @@
   missions:
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
-    recipient: mwc.serving@lifechurch.tv
+    recipient: mwc.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
   - id: 34
     title: The Spero Project
-    recipient: mwc.serving@lifechurch.tv
+    recipient: mwc.serving@life.church
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
   - id: 35
     title: City Rescue Mission
-    recipient: mwc.serving@lifechurch.tv
+    recipient: mwc.serving@life.church
     url: http://cityrescue.org/
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
   - id: 72
     title: Mid-Del Youth & Family Center
-    recipient: mwc.serving@lifechurch.tv
+    recipient: mwc.serving@life.church
     url: ''
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
   - id: 78
     title: LifeTroops
-    recipient: mwc.serving@lifechurch.tv
+    recipient: mwc.serving@life.church
     url: ''
     description_medium: Help soldiers returning from combat and family members through
       spiritual mentorship, counseling, educational and other programs that will “bridge
@@ -581,7 +581,7 @@
   f1_campus_id: 42406
   f1_substatus_id: 3585
   title: Mustang, OK
-  email: mus.serving@lifechurch.tv
+  email: mus.serving@life.church
   phone: 405-256-2870
   address: 1052 E. State Highway 152 Mustang, OK 73064
   facebook: '1394105600889692'
@@ -673,19 +673,19 @@
   missions:
   - id: 55
     title: Autism Oklahoma
-    recipient: mus.serving@lifechurch.tv
+    recipient: mus.serving@life.church
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
   - id: 66
     title: True North Ministries
-    recipient: mus.serving@lifechurch.tv
+    recipient: mus.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
   - id: 71
     title: Evany Clinic
-    recipient: mus.serving@lifechurch.tv
+    recipient: mus.serving@life.church
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
@@ -693,7 +693,7 @@
   f1_campus_id: 4349
   f1_substatus_id: 380
   title: South Oklahoma City, OK
-  email: soc.serving@lifechurch.tv
+  email: soc.serving@life.church
   phone: 405-216-5433
   address: 7800 S. Walker Ave. Oklahoma City, OK 73139
   facebook: '152357570862'
@@ -797,33 +797,33 @@
   missions:
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
-    recipient: soc.serving@lifechurch.tv
+    recipient: soc.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
   - id: 47
     title: Stand in the Gap Ministries
-    recipient: soc.serving@lifechurch.tv
+    recipient: soc.serving@life.church
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 35
     title: City Rescue Mission
-    recipient: soc.serving@lifechurch.tv
+    recipient: soc.serving@life.church
     url: http://cityrescue.org/
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
   - id: 68
     title: Circle of Care
-    recipient: soc.serving@lifechurch.tv
+    recipient: soc.serving@life.church
     url: ''
     description_medium: Create a community of support for foster families and children
       entering foster care through collecting, assembling, and delivering welcome
       baskets to children within 24 hours of placement.
   - id: 69
     title: OKC Dream Center
-    recipient: soc.serving@lifechurch.tv
+    recipient: soc.serving@life.church
     url: ''
     description_medium: Build relationships with people in need to help restore their
       emotional, spiritual, and physical well-being through community outreach, hunger
@@ -832,7 +832,7 @@
   f1_campus_id: 13160
   f1_substatus_id: 401
   title: Yukon, OK
-  email: ykn.serving@lifechurch.tv
+  email: ykn.serving@life.church
   phone: 405-605-5433
   address: 1101 E. Main Street Yukon, OK 73099
   facebook: '310515131268'
@@ -936,13 +936,13 @@
   missions:
   - id: 13
     title: Youth & Family Services
-    recipient: ykn.serving@lifechurch.tv
+    recipient: ykn.serving@life.church
     url: http://www.yfsok.org/
     description_medium: Support families and children in foster care and engage in
       the foster care system on multiple levels.
   - id: 55
     title: Autism Oklahoma
-    recipient: ykn.serving@lifechurch.tv
+    recipient: ykn.serving@life.church
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
@@ -950,7 +950,7 @@
   f1_campus_id: 34644
   f1_substatus_id: 2718
   title: Moore, OK
-  email: mor.serving@lifechurch.tv
+  email: mor.serving@life.church
   phone: 405-237-4844
   address: 2916 S. Telephone Rd. Moore, OK 73160
   facebook: '409843575804511'
@@ -1066,34 +1066,34 @@
   missions:
   - id: 48
     title: Serve Moore
-    recipient: mor.serving@lifechurch.tv
+    recipient: mor.serving@life.church
     url: http://www.servemoore.com/
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
   - id: 47
     title: Stand in the Gap Ministries
-    recipient: mor.serving@lifechurch.tv
+    recipient: mor.serving@life.church
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 64
     title: Loveworks Leadership
-    recipient: mor.serving@lifechurch.tv
+    recipient: mor.serving@life.church
     url: ''
     description_medium: Provide tutoring and mentorship for school-age children in
       the Norman area geared towards developing life and leadership skills through
       academic, leadership and community programs.
   - id: 72
     title: Mid-Del Youth & Family Center
-    recipient: mor.serving@lifechurch.tv
+    recipient: mor.serving@life.church
     url: ''
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
   - id: 77
     title: Mission Norman
-    recipient: mor.serving@lifechurch.tv
+    recipient: mor.serving@life.church
     url: ''
     description_medium: Spread the love of Christ by ministering to the physical and
       spiritual needs of people living in our community.
@@ -1111,7 +1111,7 @@
   f1_campus_id: 4342
   f1_substatus_id: 376
   title: Edmond, OK
-  email: edm.serving@lifechurch.tv
+  email: edm.serving@life.church
   phone: 405-688-5433
   address: 4600 E. 2nd St. Edmond, OK 73034
   facebook: '206643266075'
@@ -1203,44 +1203,44 @@
   missions:
   - id: 3
     title: Whiz Kids
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
   - id: 4
     title: The Mentoring Project
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
   - id: 34
     title: The Spero Project
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://www.lilyfield.org/
     description_medium: Provide and support stable, loving families for infants and
       children through adoptive and foster care placements.
   - id: 54
     title: Peppers Ranch
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
   - id: 35
     title: City Rescue Mission
-    recipient: edm.serving@lifechurch.tv
+    recipient: edm.serving@life.church
     url: http://cityrescue.org/
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
@@ -1399,7 +1399,7 @@
   f1_campus_id: 4344
   f1_substatus_id: 378
   title: Hendersonville, TN
-  email: hnv.serving@lifechurch.tv
+  email: hnv.serving@life.church
   phone: 615-338-7241
   address: 120 Indian Lake Blvd. Hendersonville, TN 37075
   facebook: '121921428281'
@@ -1479,7 +1479,7 @@
   missions:
   - id: 33
     title: Room in the Inn
-    recipient: hnv.serving@lifechurch.tv
+    recipient: hnv.serving@life.church
     url: http://www.roomintheinn.org/
     description_medium: For those who call the streets of Nashville home, volunteers
       will help provide meals, sort mail, teach classes, and mentor.
@@ -1487,7 +1487,7 @@
   f1_campus_id: 30850
   f1_substatus_id: 2379
   title: Jenks, OK
-  email: jnk.serving@lifechurch.tv
+  email: jnk.serving@life.church
   phone: 539-777-1000
   address: 890 W. 81st St. Tulsa, OK 74132
   facebook: '283866385077708'
@@ -1603,7 +1603,7 @@
   missions:
   - id: 53
     title: Reading Partners
-    recipient: jnk.serving@lifechurch.tv
+    recipient: jnk.serving@life.church
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
@@ -1611,7 +1611,7 @@
   f1_campus_id: 42154
   f1_substatus_id: 3547
   title: South Broken Arrow, OK
-  email: sba.serving@lifechurch.tv
+  email: sba.serving@life.church
   phone: 539-664-7600
   address: 5801 S. Elm Place Broken Arrow, OK 74011
   facebook: '539342819532615'
@@ -1691,7 +1691,7 @@
   missions:
   - id: 47
     title: Stand in the Gap Ministries
-    recipient: sba.serving@lifechurch.tv
+    recipient: sba.serving@life.church
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
@@ -1699,7 +1699,7 @@
   f1_campus_id: 4341
   f1_substatus_id: 375
   title: Albany, NY
-  email: alb.serving@lifechurch.tv
+  email: alb.serving@life.church
   phone: 518-456-0969
   address: 560 Sand Creek Rd. Albany, NY 12205
   facebook: '198238577847'
@@ -1791,20 +1791,20 @@
   missions:
   - id: 30
     title: City Mission of Schenectady
-    recipient: alb.serving@lifechurch.tv
+    recipient: alb.serving@life.church
     url: http://citymission.com/
     description_medium: City Missions provides for the needs of the hungry and homeless
       in our community. Their mission is to help people get out of poverty - and stay
       out.
   - id: 31
     title: Habitat for Humanity
-    recipient: alb.serving@lifechurch.tv
+    recipient: alb.serving@life.church
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
   - id: 50
     title: Youth for Christ
-    recipient: alb.serving@lifechurch.tv
+    recipient: alb.serving@life.church
     url: http://www.cdyfc.org/
     description_medium: Work together with local churches to raise up lifelong followers
       of Christ through mentoring and building relationships with young people.
@@ -1812,7 +1812,7 @@
   f1_campus_id: 4352
   f1_substatus_id: 386
   title: Wellington, FL
-  email: wel.serving@lifechurch.tv
+  email: wel.serving@life.church
   phone: 561-793-6889
   address: 3061 State Road 7 Wellington, FL 33449
   facebook: '105749019464173'
@@ -1892,7 +1892,7 @@
   missions:
   - id: 42
     title: 4Kids of South Florida
-    recipient: wel.serving@lifechurch.tv
+    recipient: wel.serving@life.church
     url: https://www.4kidsofsfl.org/
     description_medium: 'Help care for and mentor kids in our community by providing
       them with consistent and loving relationships. Kids in crisis can find shelter
@@ -1935,7 +1935,7 @@
   f1_campus_id: 4405
   f1_substatus_id: 384
   title: South Tulsa, OK
-  email: sto.serving@lifechurch.tv
+  email: sto.serving@life.church
   phone: 918-938-0900
   address: 7071 E. 121st Street S. Bixby, OK 74008
   facebook: '168831606831'
@@ -2051,19 +2051,19 @@
   missions:
   - id: 19
     title: Tulsa Boys Home
-    recipient: sto.serving@lifechurch.tv
+    recipient: sto.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
   - id: 47
     title: Stand in the Gap Ministries
-    recipient: sto.serving@lifechurch.tv
+    recipient: sto.serving@life.church
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
   - id: 38
     title: Bixby Outreach Center
-    recipient: sto.serving@lifechurch.tv
+    recipient: sto.serving@life.church
     url: http://www.bixbyoc.org/
     description_medium: Help people who find themselves in situations that they did
       not expect by collecting, organizing, and distributing items.
@@ -2071,7 +2071,7 @@
   f1_campus_id: 4347
   f1_substatus_id: 383
   title: Tulsa, OK
-  email: tul.serving@lifechurch.tv
+  email: tul.serving@life.church
   phone: 918-459-5433
   address: 7015 E. 41st St. Tulsa, OK 74145
   facebook: '111300269668'
@@ -2187,32 +2187,32 @@
   missions:
   - id: 19
     title: Tulsa Boys Home
-    recipient: tul.serving@lifechurch.tv
+    recipient: tul.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
   - id: 39
     title: Emergency Infant Services
-    recipient: tul.serving@lifechurch.tv
+    recipient: tul.serving@life.church
     url: http://emergencyinfantservices.org/
     description_medium: Provide basic needs for infants and children through 5 years
       of age whose families are in crisis by organizing donations and meeting with
       families.
   - id: 43
     title: John 3:16
-    recipient: tul.serving@lifechurch.tv
+    recipient: tul.serving@life.church
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
   - id: 79
     title: Crisis Pregnancy Outreach
-    recipient: tul.serving@lifechurch.tv
+    recipient: tul.serving@life.church
     url: ''
     description_medium: Minister to young women in the Tulsa community who find themselves
       in crisis pregnancies and help them make godly decisions.
   - id: 82
     title: 111Tulsa
-    recipient: tul.serving@lifechurch.tv
+    recipient: tul.serving@life.church
     url: ''
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
@@ -2221,7 +2221,7 @@
   f1_campus_id: 7650
   f1_substatus_id: 382
   title: Owasso, OK
-  email: ows.serving@lifechurch.tv
+  email: ows.serving@life.church
   phone: 918-272-4393
   address: 14008 E. 96th St.  Owasso, OK 74055
   facebook: '136945189263'
@@ -2337,26 +2337,26 @@
   missions:
   - id: 19
     title: Tulsa Boys Home
-    recipient: ows.serving@lifechurch.tv
+    recipient: ows.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
   - id: 37
     title: Owasso Community Resources
-    recipient: ows.serving@lifechurch.tv
+    recipient: ows.serving@life.church
     url: http://owassohelps.org/
     description_medium: Offer services for families and individuals facing economic
       hardship. This program works to fight hunger, prevent homelessness, and to restore
       hope to families and individuals on their path to self-sufficiency.
   - id: 43
     title: John 3:16
-    recipient: ows.serving@lifechurch.tv
+    recipient: ows.serving@life.church
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
   - id: 81
     title: Night Light Tulsa
-    recipient: ows.serving@lifechurch.tv
+    recipient: ows.serving@life.church
     url: ''
     description_medium: Build relationships with members of Tulsa’s homeless community
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
@@ -2364,7 +2364,7 @@
   f1_campus_id: 57831
   f1_substatus_id: 3754
   title: Rio Rancho, NM
-  email: RRN-Serving@lifechurch.tv
+  email: RRN-Serving@life.church
   phone: 505-226-1010
   address: 4401 Northern Blvd NE Rio Rancho, NM 87124
   facebook: '773412792749687'
@@ -2396,13 +2396,13 @@
   missions:
   - id: 73
     title: ReadWest
-    recipient: RRN-Serving@lifechurch.tv
+    recipient: RRN-Serving@life.church
     url: ''
     description_medium: Provide quality one-on-one tutoring for adults seeking to
       transform their lives through enhanced literacy skills.
   - id: 76
     title: CareNet Pregnancy Centers of Albuquerque
-    recipient: RRN-Serving@lifechurch.tv
+    recipient: RRN-Serving@life.church
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
@@ -2410,7 +2410,7 @@
   f1_campus_id: 4350
   f1_substatus_id: 379
   title: NW Oklahoma City, OK
-  email: noc.serving@lifechurch.tv
+  email: noc.serving@life.church
   phone: 405-748-5433
   address: 5821 NW. Expressway Oklahoma City, OK 73132
   facebook: '156898983627'
@@ -2514,38 +2514,38 @@
   missions:
   - id: 3
     title: Whiz Kids
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: http://www.whizkidsok.org/
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
   - id: 8
     title: Novo Ministries
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: http://www.novoministries.org/
     description_medium: Connect passionate individuals with inner-city communities
       by helping facilitate weekly after-school programs.
   - id: 9
     title: Tulakes Elementary
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
       an under-resourced environment.
   - id: 4
     title: The Mentoring Project
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
   - id: 34
     title: The Spero Project
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
   - id: 66
     title: True North Ministries
-    recipient: noc.serving@lifechurch.tv
+    recipient: noc.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
@@ -2553,7 +2553,7 @@
   f1_campus_id: 4348
   f1_substatus_id: 385
   title: Stillwater, OK
-  email: stw.serving@lifechurch.tv
+  email: stw.serving@life.church
   phone: 405-624-5433
   address: 1917 North Country Club Rd. Stillwater, OK 74075
   facebook: '111614742192203'
@@ -2639,26 +2639,26 @@
   missions:
   - id: 26
     title: Stillwater Life Services
-    recipient: stw.serving@lifechurch.tv
+    recipient: stw.serving@life.church
     url: http://www.stillwaterlife.org/
     description_medium: Provide testing, treatment, one-on-one mentoring, and options
       for women and men who visit the pregnancy resource clinic.
   - id: 31
     title: Habitat for Humanity
-    recipient: stw.serving@lifechurch.tv
+    recipient: stw.serving@life.church
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
   - id: 67
     title: Meadows of Hope
-    recipient: stw.serving@lifechurch.tv
+    recipient: stw.serving@life.church
     url: ''
     description_medium: Help foster parents through respite support and spiritual
       and emotional mentoring so that children in DHS custody have a stable and nurturing
       environment to heal and grow.
   - id: 74
     title: Payne County Youth Services
-    recipient: stw.serving@lifechurch.tv
+    recipient: stw.serving@life.church
     url: ''
     description_medium: Help provide a safe, comfortable and protective environment
       for youth in crisis at the Emergency Youth Shelter through direct relationships
@@ -2667,7 +2667,7 @@
   f1_campus_id: 4343
   f1_substatus_id: 377
   title: Fort Worth, TX
-  email: ftw.serving@lifechurch.tv
+  email: ftw.serving@life.church
   phone: 817-923-5433
   address: 5298 Trail Lake Dr. Fort Worth, TX 76133
   facebook: '236157182628'
@@ -2759,7 +2759,7 @@
   missions:
   - id: 31
     title: Habitat for Humanity
-    recipient: ftw.serving@lifechurch.tv
+    recipient: ftw.serving@life.church
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
