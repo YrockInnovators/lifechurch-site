@@ -2,6 +2,15 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .worship {
+  .up {
+    position: absolute;
+    left: 2%;
+    bottom: 2%;
+    position: fixed;
+    img {
+      max-width: 40px;
+    }
+  }
   
   #tertiary {
     padding-bottom: 0;
@@ -103,7 +112,7 @@
         object-fit: cover;
         top: 0;
         left: 0;
-        //visibility: hidden;
+        visibility: hidden;
         @media all and (max-width: 770px) {
           visibility: hidden;
         }

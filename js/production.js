@@ -832,6 +832,16 @@ function popitup(url) {
   return false;
 }
 
+//scroll up fade
+$(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
+
 $(document).ready(function(){
 
   // SVG / PNG
