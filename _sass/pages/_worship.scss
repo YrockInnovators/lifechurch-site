@@ -425,6 +425,7 @@
         transition: all 683ms ease;
         &:hover {
           opacity: 0.5;
+          border: 0;
         }
       }
       .thumb {
@@ -435,6 +436,7 @@
         transition: all 683ms ease;
         &:hover {
           opacity: 0.5;
+          border: 0;
         }
       }
     }
