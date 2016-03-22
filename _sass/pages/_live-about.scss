@@ -81,6 +81,26 @@
       }
     }
   }
+  
+  .explore {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    z-index: 9999;
+    @media all and (max-width: 645px) {
+      display: none;
+    }
+    img {
+      max-width: 30px;
+    }
+    span {
+      color: $blue;
+      text-transform: capitalize;
+      font-size: 0.8em;
+    }
+  }
 
   .hero {
     top: -141px;
@@ -156,7 +176,7 @@
         font-size: 18px;
         margin-top: 20px;
         @media all and (max-width: 500px) {
-          width: 500px;
+          max-width: 500px;
         }
       }
       .button {
