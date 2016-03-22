@@ -24,10 +24,10 @@
         width: 30%;
       }
       @media all and (max-width: 641px) {
-        max-width: 28%;
+        width: 28%;
       }
       @media all and (max-width: 500px) {
-        max-width: 35%;
+        width: 35%;
       }
     }
     .resources {
@@ -156,7 +156,7 @@
         font-size: 18px;
         margin-top: 20px;
         @media all and (max-width: 500px) {
-          max-width: 500px;
+          width: 500px;
         }
       }
       .button {
