@@ -9,6 +9,40 @@
   facebook: '1'
   times: []
   missions: []
+- id: OPK
+  f1_campus_id: 64790
+  f1_substatus_id: 4368
+  title: Overland Park, KS
+  email: 'opk.serving@life.church '
+  phone: 913-279-0012
+  address: 6601 Edgewater Dr. Overland Park, KS 66223
+  facebook: '1078785968812011'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions: []
 - id: ows
   f1_campus_id: 7650
   f1_substatus_id: 382
@@ -1531,40 +1565,6 @@
     url: ''
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
-- id: OPK
-  f1_campus_id: 64790
-  f1_substatus_id: 4368
-  title: Overland Park, KS
-  email: 'opk.serving@life.church '
-  phone: 913-279-0012
-  address: 6601 Edgewater Dr. Overland Park, KS 66223
-  facebook: '1078785968812011'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions: []
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
