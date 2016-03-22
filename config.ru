@@ -132,6 +132,7 @@ use Rack::Rewrite do
 
   r301 %r{^/Christmas/?$}, '/christmas/'
   r301 %r{^/Watch/?$}, '/watch/'
+  r301 %r{^/Easter/?$}, '/easter/'
 
 #Redirects to External Urls
 
