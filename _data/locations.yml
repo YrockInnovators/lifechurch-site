@@ -518,52 +518,6 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
-- id: RRN
-  f1_campus_id: 57831
-  f1_substatus_id: 3754
-  title: Rio Rancho, NM
-  email: RRN-Serving@life.church
-  phone: 505-226-1010
-  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
-  facebook: '773412792749687'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service-time
-    type_name: Service time
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 73
-    title: ReadWest
-    recipient: RRN-Serving@life.church
-    url: ''
-    description_medium: Provide quality one-on-one tutoring for adults seeking to
-      transform their lives through enhanced literacy skills.
-  - id: 76
-    title: CareNet Pregnancy Centers of Albuquerque
-    recipient: RRN-Serving@life.church
-    url: ''
-    description_medium: Minister to young women and men in the community who find
-      themselves in crisis pregnancies and help them make godly decisions.
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -1565,6 +1519,52 @@
     url: ''
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
+- id: RRN
+  f1_campus_id: 57831
+  f1_substatus_id: 3754
+  title: Rio Rancho, NM
+  email: rrn.serving@life.church
+  phone: 505-226-1010
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service-time
+    type_name: Service time
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 73
+    title: ReadWest
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
+  - id: 76
+    title: CareNet Pregnancy Centers of Albuquerque
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
