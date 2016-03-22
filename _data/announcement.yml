@@ -4,8 +4,8 @@
 # message: the message in the announcement
 # url: link or leave blank
 
-- active: false
+- active: true
   type: notice
-  icon: calendar
-  message: We'd love to see you this Christmas! Find locations, times, and more.
-  url: /christmas/
+  icon: campus
+  message: We'd love to see you this Easter! Find locations, times, and more.
+  url: /easter/
