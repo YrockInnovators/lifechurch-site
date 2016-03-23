@@ -1505,6 +1505,18 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: SWITCH
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
   missions:
   - id: 1
     title: Big Brothers Big Sisters
