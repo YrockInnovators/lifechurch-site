@@ -16,7 +16,10 @@
 <!-- Announcement -->
 <div class="announcement {{ announcement.type }}">
   <div class="container">
-    {% if announcement.url %}<a class="announcement-link" href="{{ announcement.url }}">{% endif %}
+    {% if announcement.url %}
+    <a class="announcement-link" href="{{ announcement.url }}"
+      onclick="ga('send', 'event', 'Easter', 'Click', 'Announcement');">
+      {% endif %}
       <p><i class="announcement-icon icon-announcement-{{ announcement.icon }}"></i> {{ announcement.message }}</p>
     {% if announcement.url %}</a>{% endif %}
   </div>
