@@ -19,7 +19,11 @@ $('#ks').click(function() {
 	    $('.ks').toggle('slow');
 	    return false;
 	});
-$('.ks').click(function() {
+$('.opk').click(function() {
+	    $('.opk').toggle('slow');
+	    return false;
+	});
+$('.wch').click(function() {
 	    $('.wch').toggle('slow');
 	    return false;
 	});
@@ -155,6 +159,14 @@ $('#sba').click(function() {
 	    $('.ykn').toggle('slow');
 	    return false;
 	});
+$('#wch').click(function() {
+	    $('.wch').toggle('slow');
+	    return false;
+	}); 
+$('#opk').click(function() {
+	    $('.opk').toggle('slow');
+	    return false;
+	}); 
 
 // Church Online
 $('#co').click(function() {

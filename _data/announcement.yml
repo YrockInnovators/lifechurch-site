@@ -5,7 +5,7 @@
 # url: link or leave blank
 
 - active: true
-  type: notice
+  type: alert
   icon: campus
   message: We'd love to see you this Easter! Find locations, times, and more.
   url: /easter/
