@@ -88,7 +88,7 @@
   
   .explore {
     position: absolute;
-    top: 58%;
+    top: 12%;
     text-align: center;
     margin: auto;
     width: 100%;
@@ -143,7 +143,7 @@
         object-fit: cover;
         top: 0;
         left: 0;
-        visibility: hidden;
+        //visibility: hidden;
         @media all and (max-width: 770px) {
           visibility: hidden;
         }
@@ -235,6 +235,493 @@
           color: #fff;
         }
       }
+    }
+  }
+  
+  // Host Team
+  .host-team {
+    position: relative;
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 10% 30px;
+    float: none;
+    background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/serve/host-team-bg.jpg');
+    background-position: 0px 0px, 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: -144px;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+    }
+    .container {
+      clear: both;
+      article {
+        width: 47.66666667%;
+        float: left;
+        @media all and (max-width: 641px) {
+          width: 51%; 
+        }
+        @media all and (max-width: 500px) {
+          width: 100%;
+        }
+        h3 {
+          font-size: 18px;
+          line-height: 28px;
+          font-weight: 600;
+          color: $blue;
+        }
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        float: left;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+        margin-top: 0;
+        @media all and (max-width: 860px) { 
+          font-size: 38px;
+          line-height: 50px;
+        }
+        @media all and (max-width: 641px) {
+          font-size: 33px;
+          line-height: 45px;
+        }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
+      }
+    p {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 20px auto 0px;
+      float: left;
+      color: #fff;
+      font-size: 19px;
+      line-height: 26px;
+      font-weight: 400;
+      text-align: left;
+      padding-bottom: 1em;
+    }
+  }
+    figure {
+      width: 41.33333333%;
+      color: #fff;
+      font-size: 25px;
+      line-height: 33px;
+      margin-top: 180px;
+      font-weight: 200;
+      float: right;
+      p {
+        font-size: 18px;
+      }
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
+      @media all and (max-width: 641px) {
+        width: 43.3333%;
+      }
+      @media all and (max-width: 500px) {
+        width: 100%;
+      }
+    }
+    }
+  }
+  
+  // LifeGroups
+  .lifegroups {
+    position: relative;
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 10% 0px;
+    float: none;
+    background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/serve/lifegroups-bg.jpg');
+    background-position: left center;
+    background-size: cover;
+    background-attachment: fixed;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+    }
+    .container {
+      clear: both;
+      article {
+        width: 45.66666667%;
+        float: right;
+        @media all and (max-width: 641px) {
+          width: 100%; 
+        }
+        @media all and (max-width: 500px) {
+          width: 100%;
+        }
+        h3 {
+          font-size: 18px;
+          line-height: 28px;
+          font-weight: 600;
+          color: $blue;
+        }
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        float: left;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+        margin-top: 0;
+        @media all and (max-width: 860px) { 
+          font-size: 38px;
+          line-height: 50px;
+        }
+        @media all and (max-width: 641px) {
+          font-size: 33px;
+          line-height: 45px;
+        }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
+      }
+    p {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 20px auto 0px;
+      float: left;
+      color: #fff;
+      font-size: 19px;
+      line-height: 26px;
+      font-weight: 400;
+      text-align: left;
+      padding-bottom: 1em;
+      }
+    }
+      figure {
+        float: left;
+      }
+    }
+  }
+  
+  // Prayer Team
+  .prayer-team {
+    position: relative;
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 10% 30px;
+    float: none;
+    background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/serve/prayer-team-bg.jpg');
+    background-position: 0px 0px, 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+    }
+    .container {
+      clear: both;
+      article {
+        width: 47.66666667%;
+        float: left;
+        @media all and (max-width: 641px) {
+          width: 51%; 
+        }
+        @media all and (max-width: 500px) {
+          width: 100%;
+        }
+        h3 {
+          font-size: 18px;
+          line-height: 28px;
+          font-weight: 600;
+          color: $blue;
+        }
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        float: left;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+        margin-top: 0;
+        @media all and (max-width: 860px) { 
+          font-size: 38px;
+          line-height: 50px;
+        }
+        @media all and (max-width: 641px) {
+          font-size: 33px;
+          line-height: 45px;
+        }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
+      }
+    p {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 20px auto 0px;
+      float: left;
+      color: #fff;
+      font-size: 19px;
+      line-height: 26px;
+      font-weight: 400;
+      text-align: left;
+      padding-bottom: 1em;
+    }
+  }
+    figure {
+      width: 41.33333333%;
+      color: #fff;
+      font-size: 18px;
+      line-height: 33px;
+      margin-top: 100px;
+      font-weight: 200;
+      float: right;
+      text-align: center;
+      i {
+        color: #fff;
+        font-size: 130px;
+        text-align: center;
+        display: block;
+        clear: both;
+      }
+      p {
+        font-size: 18px;
+      }
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
+      @media all and (max-width: 641px) {
+        width: 43.3333%;
+      }
+      @media all and (max-width: 500px) {
+        width: 100%;
+      }
+    }
+    }
+  }
+  
+  // Social Media Team
+  .social-media {
+    position: relative;
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 10% 30px;
+    float: none;
+    background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/serve/social-media-bg.jpg');
+    background-position: 0px 0px, 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+    }
+    .container {
+      clear: both;
+      article {
+        width: 47.66666667%;
+        float: right;
+        @media all and (max-width: 641px) {
+          width: 51%; 
+        }
+        @media all and (max-width: 500px) {
+          width: 100%;
+        }
+        h3 {
+          font-size: 18px;
+          line-height: 28px;
+          font-weight: 600;
+          color: $blue;
+        }
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        float: left;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+        margin-top: 0;
+        @media all and (max-width: 860px) { 
+          font-size: 38px;
+          line-height: 50px;
+        }
+        @media all and (max-width: 641px) {
+          font-size: 33px;
+          line-height: 45px;
+        }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
+      }
+    p {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 20px auto 0px;
+      float: left;
+      color: #fff;
+      font-size: 19px;
+      line-height: 26px;
+      font-weight: 400;
+      text-align: left;
+      padding-bottom: 1em;
+    }
+  }
+    figure {
+      width: 41.33333333%;
+      color: #fff;
+      font-size: 18px;
+      line-height: 33px;
+      margin-top: 100px;
+      font-weight: 200;
+      float: left;
+      text-align: center;
+      i {
+        color: #fff;
+        font-size: 130px;
+        text-align: center;
+        display: block;
+        clear: both;
+      }
+      p {
+        font-size: 18px;
+      }
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
+      @media all and (max-width: 641px) {
+        width: 43.3333%;
+      }
+      @media all and (max-width: 500px) {
+        width: 100%;
+      }
+    }
+    }
+  }
+  
+  // Operations Team
+  .operations {
+    position: relative;
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding: 5% 30px;
+    float: none;
+    background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/serve/operations-bg.jpg');
+    background-position: 0px 0px, 50% 50%;
+    background-size: cover;
+    background-attachment: fixed;
+    @media all and (max-width: 770px) {
+      height: auto;
+      max-height: none;
+    }
+    .container {
+      clear: both;
+      article {
+        width: 47.66666667%;
+        float: left;
+        @media all and (max-width: 641px) {
+          width: 51%; 
+        }
+        @media all and (max-width: 500px) {
+          width: 100%;
+        }
+        h3 {
+          font-size: 18px;
+          line-height: 28px;
+          font-weight: 600;
+          color: $blue;
+        }
+      h2 {
+        display: block;
+        width: 100%;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-left: auto;
+        float: left;
+        line-height: 50px;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 600;
+        margin-top: 0;
+        @media all and (max-width: 860px) { 
+          font-size: 38px;
+          line-height: 50px;
+        }
+        @media all and (max-width: 641px) {
+          font-size: 33px;
+          line-height: 45px;
+        }
+        @media all and (max-width: 500px) {
+          font-size: 28px;
+          line-height: 38px;
+        }
+      }
+    p {
+      display: block;
+      width: 100%;
+      max-width: 100%;
+      margin: 20px auto 0px;
+      float: left;
+      color: #fff;
+      font-size: 19px;
+      line-height: 26px;
+      font-weight: 400;
+      text-align: left;
+      padding-bottom: 1em;
+    }
+  }
+    figure {
+      width: 41.33333333%;
+      color: #fff;
+      font-size: 18px;
+      line-height: 33px;
+      margin-top: 100px;
+      font-weight: 200;
+      float: right;
+      text-align: center;
+      i {
+        color: #fff;
+        font-size: 130px;
+        text-align: center;
+        display: block;
+        clear: both;
+      }
+      p {
+        font-size: 18px;
+      }
+      @media all and (max-width: 770px) {
+        margin-top: 100px;
+      }
+      @media all and (max-width: 641px) {
+        width: 43.3333%;
+      }
+      @media all and (max-width: 500px) {
+        width: 100%;
+      }
+    }
     }
   }
   

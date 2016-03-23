@@ -8,7 +8,7 @@ skrollable: true
 ---
 
   <div class="explore">
-    <a href="#get-started">
+    <a href="#host-team">
       <img src="https://s3.amazonaws.com/lctv-site/churchonline/volunteer/explore.png" /><br />
       <span>Explore Serving at Church Online</span>
     </a>
@@ -34,9 +34,11 @@ skrollable: true
 <!-- Fixed scrolling nav -->
 <div class="persistent-navigation-wrapper large-element text-center">
   <ul id="persistent-navigation" class="large-element">
-    <li><a href="#just-like-you">Community</a></li>
-    <li><a href="#services">Services</a></li>
-    <li><a href="#get-started">Get Started</a></li>
+    <li><a href="#host-team">Host Team</a></li>
+    <li><a href="#lifegroups">LifeGroups</a></li>
+    <li><a href="#prayer-team">Prayer Team</a></li>
+    <li><a href="#social-media">Social Media</a></li>
+    <li><a href="#operations">Operations</a></li>
   </ul>
 </div>
 
@@ -51,6 +53,93 @@ skrollable: true
       <a href="#get-started" class="button">Get Started</a>
     </div>
 </section>
+
+<!-- Host Team -->
+<section class="host-team" id="host-team">
+  <div class="container">
+    <article>
+      <h3>Host Team</h3>
+      <h2>The Church Online Host Team sets the stage for life change.</h2>
+      <p>As a Host Team member, you’ll hang out in the chat window and facilitate discussion, pray with attenders, and show the love of Jesus to people who may never have heard His name. If that sounds like you, we’ve got a Host Team spot with your screen name on it.</p>
+      <p><a href="#get-started">Join the Host Team <i class="icon-arrow"></i></a></p>
+    </article>
+    <figure>
+    </figure>
+  </div>
+</section>
+
+<!-- LifeGroups -->
+<section class="lifegroups" id="lifegroups">
+  <div class="container">
+    <figure>&nbsp;</figure>
+    <article>
+      <h3>LifeGroups</h3>
+      <h2>LifeGroups are the people we grow, laugh, and serve with.</h2>
+      <p>At Church Online, there are several groups that meet face-to-face or online via video, chat, or even telephone. Ready to leverage technology to lead people to become fully devoted followers of Christ? Leading a LifeGroup is a great first step.</p>
+      <p><a href="#get-started">Learn more about LifeGroups <i class="icon-arrow"></i></a></p>
+    </article>
+  </div>
+</section>
+
+<!-- Prayer Team -->
+<section class="prayer-team" id="prayer-team">
+  <div class="container">
+    <article>
+      <h3>Prayer Team</h3>
+      <h2>Broken. Angry. Alone.</h2>
+      <p>These are just some of the words that flood the Prayer Team request inbox every single day. The Prayer Team accepts requests from every corner of the world, and takes time to offer a prayerful response to the people who need it most. Spend some time with the Prayer Team and you’ll learn how powerful prayer has no limits.</p>
+      <p><a href="#get-started">Join the Prayer Team <i class="icon-arrow"></i></a></p>
+    </article>
+    <figure>
+      <a href="#">
+        <i class="fa fa-play-circle"></i>
+        Watch Ira's Story
+      </a>
+    </figure>
+  </div>
+</section>
+
+<!-- Social Media Team -->
+<section class="social-media" id="social-media">
+  <div class="container">
+    <figure>
+      <a href="#">
+        <i class="fa fa-play-circle"></i>
+        Watch Chelcie's Story
+      </a>
+    </figure>
+    <article>
+      <h3>Social Media</h3>
+      <h2>A light in the darkness.</h2>
+      <p>Social media is filled with despair, emptiness, and hopelessness. The Social Media Team is called to be a light in that darkness. A simple comment or bit of encouragement can change the course of someone’s day—maybe even their future. Got a phone and 15 minutes a week? You already have what you need to join the Social Media Team.</p>
+      <p><a href="#get-started">Join the Social Media Team <i class="icon-arrow"></i></a></p>
+    </article>
+  </div>
+</section>
+
+<!-- Operations Team -->
+<section class="operations" id="operations">
+  <div class="container">
+    <article>
+      <h3>Operations</h3>
+      <h2>Data analysis to extend the reach of Church Online.</h2>
+      <p>The Operations Team deploys data analysis to extend the reach of Church Online to the rest of the globe—and by extension, spread the Word of God to a world which desperately needs it. If you dream in charts and graphs, and there’s no number large enough to express your love for the global community, you might find a home serving on the Church Online Operations Team.</p>
+      <p><a href="#get-started">Join the Operations Team <i class="icon-arrow"></i></a></p>
+    </article>
+    <figure></figure>
+  </div>
+</section>
+
+<div class="container text-left padded" id="get-started"> 
+  <div class="grid-items grid-four involved-list">
+      {% for item in site.data.serving %}
+      {% if item.location == "Online" %}
+      {% include involved-item.html for='hubspot' %}
+      {% endif %}
+      {% endfor %}
+  </div>
+  <p class="text-center"><a href="//live.life.church" target="_blank" class="action large text-black" onclick="ga('send', 'event', 'Live', 'Click', 'Page Live');">Join us at Church Online <i class="icon icon-arrow"></i></a></p> 
+</div>
 
 <div class="up"><a href="#hero"><img src="https://s3.amazonaws.com/lctv-site/worship/Up-Arrow-White.png" /></a></div>
 
