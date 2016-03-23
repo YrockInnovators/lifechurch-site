@@ -3,6 +3,7 @@ layout: default
 title: About Church Online
 permalink: /online/
 class: live live-about header-light logo-red-white
+skrollable: true
 ---
 
 <div class="explore">
@@ -12,11 +13,26 @@ class: live live-about header-light logo-red-white
   </a>
 </div>
 
+<div class="resources"> 
+  <a href="#" class="active">About</a> 
+  <a href="/online/volunteer/">Serve</a>
+  <a href="//live.life.church" class="action">Live</a> 
+  <a href="//churchonline.life.church" class="action active">Blog</a> 
+</div>
+
+<div class="persistent-navigation-wrapper large-element text-center">
+  <ul id="persistent-navigation" class="large-element">
+    <li><a href="#just-like-you">Community</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#get-started">Get Started</a></li>
+  </ul>
+</div>
+
   <section class="hero" id="hero">
     <div class="copy">
       <h1>A church<br /> isn't a building.<br /> It's people.</h1>
       <p>Life.Church Online meets in every country around the world.<br /> Here’s how we do it—and why.</p>
-      <a href="#latest-release" class="button">Watch Video <i class="icon icon-play"></i></a>
+      <!--<a href="#latest-release" class="button">Watch Video <i class="icon icon-play"></i></a>-->
     </div>
   </section>
 
@@ -76,6 +92,14 @@ class: live live-about header-light logo-red-white
     $('.up').fadeIn();
   } else {
     $('.up').fadeOut();
+  }
+});
+  $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.persistent-navigation-wrapper').fadeIn();
+  } else {
+    $('.persistent-navigation-wrapper').fadeOut();
   }
 });
 </script>
