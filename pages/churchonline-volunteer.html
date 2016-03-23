@@ -1,0 +1,75 @@
+---
+layout: default
+title: Serve At Church Online
+permalink: /online/volunteer/
+class: live live-volunteer header-light logo-red-white
+section: live
+skrollable: true
+---
+
+  <div class="explore">
+    <a href="#get-started">
+      <img src="https://s3.amazonaws.com/lctv-site/churchonline/volunteer/explore.png" /><br />
+      <span>Explore Serving at Church Online</span>
+    </a>
+  </div>
+
+  <!-- Tertiary -->
+  <div class="container">
+    <section id="tertiary">
+      <nav class="breadcrumb">
+        <a href="//live.life.church">Church Online</a>
+        <a class="current" href="#">Serve</a>
+      </nav>
+
+      <div class="resources"> 
+        <a href="#" class="action">About</a> 
+        <a href="/online/volunteer/" class="action active">Serve</a>
+        <a href="//live.life.church" class="action">Live</a> 
+        <a href="//churchonline.life.church" class="action">Blog</a> 
+      </div>
+    </section>
+  </div>
+
+<!-- Fixed scrolling nav -->
+<div class="persistent-navigation-wrapper large-element text-center">
+  <ul id="persistent-navigation" class="large-element">
+    <li><a href="#just-like-you">Community</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#get-started">Get Started</a></li>
+  </ul>
+</div>
+
+<!-- Video Header -->
+<section class="hero" id="hero">
+  <div id="video-container">
+    <video style="" loop="loop" autoplay="autoplay"><source data-wf-ignore="" src="https://daks2k3a4ib2z.cloudfront.net/56e2eec322a68dcf7164922f/56e2f473f5174c4a5517c8b8_PC-Typing-transcode.webm"><source data-wf-ignore="" src="https://daks2k3a4ib2z.cloudfront.net/56e2eec322a68dcf7164922f/56e2f473f5174c4a5517c8b8_PC-Typing-transcode.webm,https://daks2k3a4ib2z.cloudfront.net/56e2eec322a68dcf7164922f/56e2f473f5174c4a5517c8b8_PC-Typing-transcode.mp4"></video>
+  </div>
+    <div class="copy">
+      <h1>Ready to be part of Church Online?</h1>
+      <p>Whether you prefer to stay behind the scenes of if you're excited to build new relationships, you'll find the perfect way to serve at Church Online.</p>
+      <a href="#get-started" class="button">Get Started</a>
+    </div>
+</section>
+
+<div class="up"><a href="#hero"><img src="https://s3.amazonaws.com/lctv-site/worship/Up-Arrow-White.png" /></a></div>
+
+<!-- JS -->
+<script>
+  $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.up').fadeIn();
+  } else {
+    $('.up').fadeOut();
+  }
+});
+  $(document).scroll(function() {
+  var y = $(this).scrollTop();
+  if (y > 500) {
+    $('.persistent-navigation-wrapper').fadeIn();
+  } else {
+    $('.persistent-navigation-wrapper').fadeOut();
+  }
+});
+</script>
