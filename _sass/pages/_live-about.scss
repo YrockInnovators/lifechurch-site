@@ -46,14 +46,15 @@
       @media all and (max-width: 641px) {
         display: none;
       }
-    }
-    .breadcrumb a {
-    line-height: 55px;
-      @media all and (max-width: 500px) {
-        line-height: auto;
+      a {
+        color: #fff;
+      }
+      .active {
+        color: $blue;
       }
     }
   }
+    
   #persistent-navigation.top {
     background: rgba(0,0,0,0.9);
     border-bottom: none;
