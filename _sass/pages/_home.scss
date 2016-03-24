@@ -1,14 +1,16 @@
 .home {
   
   .lead {
-    color: #fff;
-    font-size: 1.1em;
-    max-width: 90%;
-    text-align: left;
+    color: #636464;
+    font-size: 1.0em;
+    max-width: 100%;
+    display: none;
   }
   
   .large.action {
-    color: #fff;
+    color: #636464;
+    font-size: 1.25em;
+    text-align: left;
   }
 
   .home-menu {
@@ -75,15 +77,10 @@
   .hero {
     min-height: 200px;
     @include retina-image(/images/home/home-bg, cover, jpg);
-    background-position: center;
+    background-position: center top;
     background-color: #333;
     position: relative;
     //padding-bottom: 150px;
-    text-align: left;
-
-    @include media(500px) {
-      background-size: cover;
-    }
 
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, cover, jpg);
@@ -92,8 +89,18 @@
       padding-bottom: 8em;
     }
     
+    @media screen and (max-width: 770px) {
+      background-size: cover;
+      background-image: url(/images/home/home-bg-small.jpg);
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    @media screen and (max-width: 550px) {
+      background-position: top center;
+    }
+    
     .hero-copy {
-      margin: 0em auto 9em;
+      margin: 0em auto 15em;
       max-width: 50em;
     }
     
@@ -102,15 +109,15 @@
       @include retina-image(/images/home/home-title, contain);
       background-size: contain;
       background-repeat: no-repeat;
-      background-position: left;
+      background-position: center top;
       width: 100%;
       max-width: 1000px;
       height: 140px;
-      margin: 50px auto 20px;
+      margin: -10px auto 0px;
       
       @include media($medium-screen) {
         height: 140px;
-        margin: 100px auto 20px;
+        margin: -10px auto 0px;
       }
     }
   }
