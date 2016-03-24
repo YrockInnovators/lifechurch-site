@@ -114,7 +114,7 @@
     top: -141px;
     height: 105vh;
     max-height: 105vh;
-    padding: 32vh 30px;
+    padding: 32vh 0px;
     position: relative;
     background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/volunteer/hero.jpg');
     background-size: cover;
@@ -207,12 +207,12 @@
     display: block;
     height: 100vh;
     max-height: 100vh;
-    padding: 10% 30px;
+    padding: 10% 0px;
     float: none;
     background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/volunteer/just-like-you-bg.jpg');
     background-position: 0px 0px, 50% 50%;
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: auto, cover;
+    background-attachment: scroll, fixed;
     margin-top: -144px;
     @media all and (max-width: 770px) {
       height: auto;
@@ -302,12 +302,12 @@
     display: block;
     height: 100vh;
     max-height: 100vh;
-    padding: 10% 30px;
+    padding: 10% 0px;
     float: none;
     background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/volunteer/services-bg.jpg');
     background-position: 0px 0px, 50% 50%;
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: auto, cover;
+    background-attachment: scroll, fixed;
     @media all and (max-width: 770px) {
       height: auto;
       max-height: none;
@@ -397,12 +397,12 @@
     display: block;
     height: 100vh;
     max-height: 100vh;
-    padding: 10% 30px;
+    padding: 10% 0px;
     float: none;
     background-image: url('https://s3.amazonaws.com/lctv-site/churchonline/volunteer/get-started-bg.jpg');
     background-position: 0px 0px, 50% 50%;
-    background-size: cover;
-    background-attachment: fixed;
+    background-size: auto, cover;
+    background-attachment: scroll, fixed;
     @media all and (max-width: 770px) {
       height: auto;
       max-height: none;
