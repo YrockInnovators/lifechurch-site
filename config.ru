@@ -127,6 +127,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)equipping-churches/?$}, '/churches/'
   r301 %r{^/(?i)serveatchurchonline/?$}, '/serving/#church-online'
   r301 %r{^/(?i)southwestokc/?$}, '/southokc/'
+  r301 %r{^/(?i)churchonline/?$}, '/online/'
 
 #Redirects for existing pages (case-sensitive fix)
 
@@ -139,6 +140,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)bible/(\?.*)?}, 'http://app.bible.com/lifechurch$1'
   r301 %r{^/(?i)catalyst/(\?.*)?}, 'http://open.church/catalyst$1'
   r301 %r{^/(?i)open/(\?.*)?}, 'http://open.life.church'
+  r301 %r{^/(?i)live/(\?.*)?}, 'http://live.life.church'
   r301 %r{^/(?i)20/(\?.*)?}, 'http://twenty.life.church'
   r301 %r{^/(?i)twenty/(\?.*)?}, 'http://twenty.life.church'
   r301 %r{^/(?i)brand/(\?.*)?}, ' https://lctv-site.s3.amazonaws.com/brand/LC_Pocket_Guidelines_Web.pdf'
