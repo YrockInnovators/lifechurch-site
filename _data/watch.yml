@@ -34,7 +34,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/easter-2016/3000x680.jpg?1457983609
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/easter-2016/480x340.jpg?1457983649
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/easter-2016/960x680.jpg?1457983684
-  messages: []
+  messages:
+  - title: Consider Jesus
+    headline: ''
+    video: ''
+    platform_id: AuiQnQkpnFVn
 - id: going-the-distance
   title: Going the Distance
   headline: Going the Distance alone is impossible—come learn about the One who paved
