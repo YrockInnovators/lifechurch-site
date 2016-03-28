@@ -310,6 +310,12 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
+  - id: 84
+    title: Tulsa Hills Youth Ranch
+    recipient: jnk.serving@life.church
+    url: ''
+    description_medium: Help provide a welcoming place for kids to feel loved, accepted,
+      and heard through a purposeful relationship with a mentor.
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
