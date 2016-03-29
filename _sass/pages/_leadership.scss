@@ -25,6 +25,9 @@
         max-width: 550px;
         font-weight: 100;
         text-align: left;
+        @media all and (max-width: 510px) {
+          font-size: 1.75em;
+        }
         .tweet-this {
           font-size: 0.6em;
         }
@@ -38,7 +41,7 @@
     
       .icon-itunes {
         @include hide-text;
-        @include svg-image('/images/worship/icon-itunes');
+        background: url('https://s3.amazonaws.com/lctv-site/worship/itunes.png');
         background-size: 50px 50px;
         width: 50px;
         height: 50px;
@@ -49,11 +52,9 @@
       @include svg-image('/images/tools/tools-social-youtube');
       background-size: cover;
       background-position: center;
-      width: 50px;
-      height: 50px;
-      -webkit-border-radius: 10px;
-      -moz-border-radius: 10px;
-      border-radius: 10px;
+      width: 65px;
+      height: 65px;
+      vertical-align: super;
     }
     
     .icon-google-play {
@@ -83,18 +84,13 @@
   @media all and (max-width: 510px) {
     .hero-leadership {
       h1 {
-        font-size: 2.5em;
+        font-size: 1.75em;
         margin: 90px auto 30;
         padding: 0 10px;
       }
-      .icon-itunes {
-        @include hide-text;
-        @include retina-image(/images/app/itunes, contain);
-        background-position: center;
-        background-repeat: no-repeat;
-        width: 125px;
+      h3 {
+        font-size: 1.75em;
       }
-
       .icon-google-play {
         @include hide-text;
         @include retina-image(/images/app/google-play, contain);
