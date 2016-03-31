@@ -1,4 +1,41 @@
 ---
+- id: love-like-jesus
+  title: Love Like Jesus
+  headline: Love isn’t only something you do—it can be the lens that lets you see
+    the world in a new light. It’s time to Love Like Jesus.
+  description_small: What if, when we looked around, all we saw was love? The greatest
+    sacrifice in history shows us how to make it happen. Let’s learn to Love Like
+    Jesus.
+  description_medium: There’s so much pain and hurt in the world, sometimes it's hard
+    to see anything else. But what if, when we looked around, all we saw was love?
+    The greatest sacrifice in history shows us how to make it happen. Let’s learn
+    to Love Like Jesus.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2407-love-like-jesus
+  promo: uV9lu1NFgCu3
+  resources_url: ''
+  categories:
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852Z'
+    updated_at: '2014-06-05T19:41:17.695Z'
+  - id: 28
+    name: Serving
+    created_at: '2014-06-11T15:17:48.142Z'
+    updated_at: '2014-06-11T15:17:48.142Z'
+  - id: 45
+    name: Virtues
+    created_at: '2014-06-11T15:25:27.460Z'
+    updated_at: '2014-06-11T15:25:27.460Z'
+  image_small: http://api-assets.lifechurch.tv/series/love-like-jesus/300x200.jpg?1457984941
+  image_medium: http://api-assets.lifechurch.tv/series/love-like-jesus/600x400.jpg?1457984967
+  image_large: http://api-assets.lifechurch.tv/series/love-like-jesus/1200x800.jpg?1457984987
+  image_social: http://api-assets.lifechurch.tv/series/love-like-jesus/400x400.jpg?1457985025
+  image_banner_archive: http://api-assets.lifechurch.tv/series/love-like-jesus/1500x340.jpg?1457985061
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/3000x680.jpg?1457985042
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/love-like-jesus/480x340.jpg?1457985082
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/960x680.jpg?1457985107
 - id: easter-2016
   title: Easter 2016
   headline: This Easter, Life.Church invites you to experience the most powerful love
