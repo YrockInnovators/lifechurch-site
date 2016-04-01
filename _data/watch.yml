@@ -36,6 +36,7 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/3000x680.jpg?1457985042
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/love-like-jesus/480x340.jpg?1457985082
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/960x680.jpg?1457985107
+  messages: []
 - id: easter-2016
   title: Easter 2016
   headline: This Easter, Life.Church invites you to experience the most powerful love
