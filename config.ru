@@ -11,7 +11,7 @@ use Rack::Rewrite do
   r301 %r{(.*)}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
     (rack_env['HTTP_HOST'] =~ /www.lifechurch.tv/) == 0
   }
-  
+
   r301 %r{^/(?i)digerati/?$}, '/digital-missions/'
   r301 %r{^/(?i)carols/?$}, '/watch/carols/'
   r301 %r{^/(?i)welcome/?$}, '/who-we-are/'
@@ -138,6 +138,7 @@ use Rack::Rewrite do
 
 #Redirects to External Urls
 
+  r301 %r{^/(?i)keyboard/?$}, 'http://lifechurchkeyboard.webflow.io'
   r301 %r{^/(?i)bible/(\?.*)?}, 'http://app.bible.com/lifechurch$1'
   r301 %r{^/(?i)catalyst/(\?.*)?}, 'http://open.church/catalyst$1'
   r301 %r{^/(?i)open/(\?.*)?}, 'http://open.life.church'
