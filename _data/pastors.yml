@@ -63,7 +63,7 @@
   photo_campus: /locations/assets/campus/klr-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/klr-connect-campus@2x.jpg
 - id: mor
-  name: Michael Metcalf
+  name: Jeff Moore
   email: mor.pastor@life.church
   photo_portrait: /locations/assets/campus/mor-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/mor-connect-pastor@2x.jpg
@@ -133,7 +133,7 @@
   photo_campus: /locations/assets/campus/wel-connect-campus.jpg
   photo_campus_2x: /locations/assets/campus/wel-connect-campus@2x.jpg
 - id: ykn
-  name: Jeff Moore
+  name: Jonathan Holcomb
   email: ykn.pastor@life.church
   photo_portrait: /locations/assets/campus/ykn-connect-pastor.jpg
   photo_portrait_2x: /locations/assets/campus/ykn-connect-pastor@2x.jpg
