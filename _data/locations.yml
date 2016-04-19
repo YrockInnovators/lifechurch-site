@@ -135,7 +135,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -282,7 +282,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -378,7 +378,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   missions:
   - id: 3
     title: Whiz Kids
@@ -509,7 +509,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:00PM
     time: 18-00
     day: sat
@@ -623,7 +623,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -766,7 +766,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -921,7 +921,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   missions:
   - id: 42
     title: 4Kids of South Florida
@@ -981,7 +981,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1089,7 +1089,7 @@
     day: wed
     duration: 60
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   missions:
   - id: 55
     title: Autism Oklahoma
@@ -1186,7 +1186,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1320,7 +1320,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -1458,7 +1458,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1621,7 +1621,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -1714,7 +1714,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1971,7 +1971,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
@@ -2122,7 +2122,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2278,7 +2278,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2405,7 +2405,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2494,7 +2494,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2601,7 +2601,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   missions:
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
@@ -2727,7 +2727,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   missions:
   - id: 26
     title: Stillwater Life Services
@@ -2827,7 +2827,7 @@
     day: wed
     duration: 120
     type: switch
-    type_name: SWITCH
+    type_name: Switch
   - title: 05:00PM
     time: 17-00
     day: sat
