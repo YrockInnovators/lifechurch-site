@@ -114,7 +114,7 @@ function processData() {
 
         $.each(data, function(index, item) {
             // check if search term is in content or title 
-            if (item.tags.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
+            if (item.description_medium.toLowerCase().indexOf(q.toLowerCase()) > -1 || location.title.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
                 var result = populateResultContent($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;
@@ -150,6 +150,7 @@ function showSearchResults(results) {
  */
 function populateResultContent(html, item) {
     html = injectContent(html, item.title, '##Title##');
+    html = injectContent(html, item.title, '##Location##');
     html = injectContent(html, item.description_medium, '##Description##');
     html = injectContent(html, item.tags, '##Tags##');
     return html;
