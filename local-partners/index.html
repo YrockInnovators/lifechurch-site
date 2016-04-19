@@ -1,0 +1,93 @@
+---
+layout: default
+section: locations
+title: Local Partners
+class: header-red localpartners logo-white-white header-light
+hero: localpartners-bg
+---
+<script src="/js/layout/search-missions.js"></script>
+
+  <div class="hero-inner">
+    <div class="hero-copy alt" style="margin:0 auto 1em;">
+      <figure class="connectlocally-logo"></figure>
+      <!--<h1 class="h2">Partnering with the local church</h1>-->
+      <p class="detail" style="margin-top:1em;">We believe the local church is the hope of our communities, which is why we are committed to providing relief and restoration to our communities through partnerships with local organizations. After all, we can do infinitely more together than we can apart.</p>
+    </div>
+  </div>
+</section>
+
+<div class="container padded">
+  <!-- Search form -->
+  <form method="get" action="/local-partners" data-search-form>
+    <input type="search" name="q" id="q" placeholder="Search for a cause" data-search-input autofocus="autofocus" />
+  </form>
+
+  <!-- Search results placeholder -->
+  <div class="search-description">
+    <p data-search-found class="detail">
+      <span data-search-found-count></span> result(s) found for &ldquo;<span data-search-found-term></span>&rdquo;.
+    </p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="grid-items grid-three">
+    <div data-search-results></div>
+  </div>
+</div>
+
+<!-- Search result template -->
+<script type="text/x-template" id="search-result">
+  <div class="grid-item grid-three">
+      <div id="{{ item.id }}" class="grid-item panel involved-item">
+        <h6>##Title##</h6>
+        <p class="detail">##Description##</p>
+      </div>
+    </a>
+  </div>
+</script>
+</di>
+
+<div class="group of-grid-items">
+  <!-- Archive Grid -->
+  <div class="container">
+    <div class="grid-items grid-three involved-list">
+      {% for location in site.data.locations %}
+      {% for item in location.missions %}
+        <div id="{{ item.id }}" class="grid-item panel involved-item">
+          <h6>{{ item.title }}</h6>
+          <p class="detail" style="font-style:italic;">{{ location.title }}</p>
+          <p class="detail">{{ item.description_medium | newline_to_br }}</p>
+
+          <div class="cta">
+            <p>
+              <a href="#"
+                 class="action get-involved"
+                 onclick="ga('send', 'event', '{{ type }}', 'Click', 'Expand {{ item.title }}');">
+                 Get Involved <i class="icon icon-arrow"></i>
+              </a>
+            </p>
+          <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
+            <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
+            <input type="hidden" class="title" name="subject" value="{{ location.title }} - {{ item.title }}" />
+            <hr />
+            <h6>Get Connected</h6>
+            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
+            <input type="text" class="details" name="name" placeholder="Name" />
+            <input type="text" class="details" name="email" placeholder="Email" />
+
+            {% if page.title != "Serving Opportunities" %}
+            <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
+            {% endif %}
+
+            <input type="submit"
+                   class="button small submit-involved"
+                   value="Send to Life.Church"
+                   onclick="ga('send', 'event', '{{ type }}', 'Click', 'New {{ item.title }}');" />
+          </form>
+          </div>
+        </div>
+      {% endfor %}
+      {% endfor %}
+  </div>
+</div>
