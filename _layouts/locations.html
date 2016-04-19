@@ -32,7 +32,7 @@ hero: locations-hero
             <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
               <time>{{ time.title }}</time>
               <span>
-                {% if time.type == 'service-time' %}Service &amp; LifeKids
+                {% if time.type == 'service' %}Service &amp; LifeKids
                 {% elsif time.type == 'switch' %}Switch &amp; Roots
                 {% endif %}
               </span>
@@ -47,7 +47,7 @@ hero: locations-hero
             <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
               <time>{{ time.title }}</time>
               <span>
-                {% if time.type == 'service-time' %}Service &amp; LifeKids
+                {% if time.type == 'service' %}Service &amp; LifeKids
                 {% elsif time.type == 'switch' %}Switch &amp; Roots
                 {% endif %}
               </span>
