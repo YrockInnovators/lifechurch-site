@@ -150,7 +150,7 @@ function showSearchResults(results) {
  */
 function populateResultContent(html, item) {
     html = injectContent(html, item.title, '##Title##');
-    html = injectContent(html, item.title, '##Location##');
+    html = injectContent(html, item.location, '##Location##');
     html = injectContent(html, item.description_medium, '##Description##');
     html = injectContent(html, item.tags, '##Tags##');
     return html;
