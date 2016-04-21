@@ -31,55 +31,43 @@ permalink: /local-partners/
 
 <div class="container">
   <div class="grid-items grid-three involved-list">
-    {% for location in site.data.locations %}
-    {% for item in location.missions %}
-    {% capture type %}Locations{% endcapture %}
     <div data-search-results></div>
-    {% endfor %}
-    {% endfor %}
   </div>
 </div>
 
 <!-- Search result template -->
 <script type="text/x-template" id="search-result">
   <!-- Archive Grid -->
-  <div id="{{ item.id }}" class="grid-item panel involved-item">
-    <h6 style="font-weight:900;font-size:1.35em;color:black;">##Title##</h6>
-    <p class="detail" style="font-style:italic;color:#b4b4b4;">##Location##</p>
-    <p class="detail">##Description##</p>
-    <div class="cta">
-    <p>
-      <a href="#"
-         class="action get-involved"
-         onclick="ga('send', 'event', '{{ type }}', 'Click', 'Expand {{ item.title }}');">
-         Get Involved <i class="icon icon-arrow"></i>
-      </a>
-    </p>
-  
-    <form class="form-involved" style="display:none" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
-      {% if page.title == "Serving Opportunities" %}
-        <input type="hidden" class="recipient" name="recipient" value="{{ item.recipient }}" />
-        <input type="hidden" class="title" name="subject" value="{{ item.location }} - {{ item.title }}" />
-      {% else %}
-        <input type="hidden" class="recipient" name="recipient" value="{{ location.email }}" />
-        <input type="hidden" class="title" name="subject" value="{{ location.title }} - {{ item.title }}" />
-      {% endif %}
-      <hr />
-      <h6>Get Connected</h6>
-      <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
-      <input type="text" class="details" name="name" placeholder="Name" />
-      <input type="text" class="details" name="email" placeholder="Email" />
+    <div id="##Id##" class="grid-item panel involved-item">
+      <h6 style="font-weight:900;font-size:1.35em;color:black;">##Title##</h6>
+      <p class="detail" style="font-style:italic;color:#b4b4b4;">##Location##</p>
+      <p class="detail">##Description##</p>
+      <div class="cta">
+      <p>
+        <a href="#"
+           class="action get-involved"
+           onclick="ga('send', 'event', '##Id##', 'Click', 'Expand ##Title##');">
+           Get Involved <i class="icon icon-arrow"></i>
+        </a>
+      </p>
 
-      {% if page.title != "Serving Opportunities" %}
-      <input type="text" class="details" name="number" placeholder="Phone number (optional)" />
-      {% endif %}
+      <form class="form-involved" style="display:none" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
+          <input type="hidden" class="recipient" name="recipient" value="##Recipient##" />
+          <input type="hidden" class="title" name="subject" value="##Location## - ##Title##" />
+        <hr />
+        <h6>Get Connected</h6>
+        <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
+        <input type="text" class="details" name="name" placeholder="Name" />
+        <input type="text" class="details" name="email" placeholder="Email" />
 
-      <input type="submit"
-             class="button small submit-involved"
-             value="Send to Life.Church"
-             onclick="ga('send', 'event', '{{ type }}', 'Click', 'New {{ item.title }}');" />
-    </form>
-  </div>
+        <input type="text" class="details" name="number" placeholder="Phone (Optional)" />
+
+        <input type="submit"
+               class="button small submit-involved"
+               value="Get Involved"
+               onclick="ga('send', 'event', 'Local Partners ##Id##', 'Click', '##Title##');" />
+      </form>
+    </div>
   </div>
 </script>
 
@@ -96,3 +84,5 @@ permalink: /local-partners/
   </div>
 </div>
 </div>
+
+<script type="text/javascript" src="/js/search-missions.js"></script>

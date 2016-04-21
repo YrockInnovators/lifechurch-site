@@ -11,7 +11,7 @@
     Initialisation
     ========================================================================== */
 
-var q, jsonFeedUrl = "/missions.json",
+var q, jsonFeedUrl = "https://www.life.church/missions.json",
     $searchForm = $("[data-search-form]"),
     $searchInput = $("[data-search-input]"),
     $resultTemplate = $("#search-result"),
@@ -114,7 +114,7 @@ function processData() {
 
         $.each(data, function(index, item) {
             // check if search term is in content or title 
-            if (item.description_medium.toLowerCase().indexOf(q.toLowerCase()) > -1 || location.title.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
+            if (item.description_medium.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.tags.toLowerCase().indexOf(q.toLowerCase()) > -1 || item.title.toLowerCase().indexOf(q.toLowerCase()) > -1) {
                 var result = populateResultContent($resultTemplate.html(), item);
                 resultsCount++;
                 results += result;
@@ -149,9 +149,11 @@ function showSearchResults(results) {
  * @return {String} Populated HTML
  */
 function populateResultContent(html, item) {
+    html = injectContent(html, item.id, '##Id##');
     html = injectContent(html, item.title, '##Title##');
     html = injectContent(html, item.location, '##Location##');
     html = injectContent(html, item.description_medium, '##Description##');
+    html = injectContent(html, item.recipient, '##Recipient##');
     html = injectContent(html, item.tags, '##Tags##');
     return html;
 }
