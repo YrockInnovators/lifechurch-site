@@ -2412,14 +2412,7 @@
     duration: 120
     type: roots
     type_name: Roots
-  missions:
-  - id: 33
-    title: Room in the Inn
-    recipient: hnv.serving@life.church
-    url: http://www.roomintheinn.org/
-    description_medium: For those who call the streets of Nashville home, volunteers
-      will help provide meals, sort mail, teach classes, and mentor.
-    tags: []
+  missions: []
 - id: sba
   f1_campus_id: 42154
   f1_substatus_id: 3547
