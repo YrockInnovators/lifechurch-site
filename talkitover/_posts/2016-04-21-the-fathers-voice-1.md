@@ -17,9 +17,9 @@ Psalm 46:10 NIV
 
 **Hearing His Voice**
 
-1. It's not about what you do. It's about why you do it. But you can't know the _what_ or the _why_, without knowing the _who_.
+* It's not about what you do. It's about why you do it. But you can't know the _what_ or the _why_, without knowing the _who_.
 
-2. Be still, and listen for the Father’s voice.
+* Be still, and listen for the Father’s voice.
 
 * * *
 
@@ -56,10 +56,10 @@ Heavenly Father, we really love it when we hear You through Your Word, in prayer
 
 * What can you do to filter out all the other voices to hear your heavenly Father's voice?
 * Are you still wondering what your why is? Consider attending your campus’ next Chazown Experience together.
-* Read a Bible Plan about hearing from God What can you do to filter out all the other voices to hear your heavenly Father's voice?
-* Are you still wondering what your why is? Consider attending your campus’ next Chazown Experience together.
 * Read a Bible Plan about hearing from God [go2.lc/godsvoice](https://www.bible.com/reading-plans/1281-hearing-the-voice-of-god)
 
 * * *
+
+There’s a Bible Plan just for you. Start reading today and Go After God’s Heart. [go2.lc/leaderplan](https://www.bible.com/reading-plans/2272-go-after-gods-heart)
 
 _Want the Talk It Over guide emailed to you each week? Make it happen at [go2.lc/emailme](http://info.life.church/talkitover)_
