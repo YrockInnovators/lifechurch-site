@@ -29,6 +29,20 @@ permalink: /local-partners/
   </div>
 </div>
 
+<div class="group of-grid-items">
+  <!-- Archive Grid -->
+  <div class="container">
+    <div class="grid-items grid-three involved-list">
+      {% for location in site.data.locations %}
+      {% for item in location.missions %}
+      {% capture type %}Locations{% endcapture %}
+      {% include involved-local-partners.html %}
+      {% endfor %}
+       {% endfor %} 
+    </div>
+  </div> 
+</div>
+
 <div class="container">
   <div class="grid-items grid-three involved-list">
     <div data-search-results></div>
@@ -51,7 +65,7 @@ permalink: /local-partners/
         </a>
       </p>
 
-      <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post" style="display:none">
+      <form class="form-involved" style="display:none;" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
           <input type="hidden" class="recipient" name="recipient" value="##Recipient##" />
           <input type="hidden" class="title" name="subject" value="##Location## - ##Title##" />
         <hr />
@@ -65,24 +79,10 @@ permalink: /local-partners/
         <input type="submit"
                class="button small submit-involved"
                value="Get Involved"
-               onclick="ga('send', 'event', 'Local Partners ##Id##', 'Click', '##Title##');" />
+               onclick="ga('send', 'event', 'Local Partners ##Id##', 'Click', '##Title##');missionsContactValidate();" />
       </form>
     </div>
   </div>
 </script>
-
-<div class="group of-grid-items">
-  <!-- Archive Grid -->
-  <div class="container">
-    <div class="grid-items grid-three involved-list">
-      {% for location in site.data.locations %}
-      {% for item in location.missions %}
-      {% capture type %}Locations{% endcapture %}
-      {% include involved-local-partners.html %}
-      {% endfor %}
-       {% endfor %} 
-  </div>
-</div>
-</div>
 
 <script type="text/javascript" src="/js/search-missions.js"></script>

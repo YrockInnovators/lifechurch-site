@@ -885,6 +885,42 @@ $(document).ready(function(){
   });
 
 });
+function missionsContactValidate() {
+  // Keep Involved form users on the site
+  $('.form-involved').submit(function(event) {
+    event.preventDefault();
+
+    var form = $(this);
+
+    var recipient = form.find('input[name="recipient"]').val();
+    var subject = form.find('input[name="subject"]').val();
+    var name = form.find('input[name="name"]').val();
+    var email = form.find('input[name="email"]').val();
+    var number = form.find('input[name="number"]').val();
+    var detail = name + ": " + email + " " + number;
+
+    if (name.replace(/ /g,'').length == 0 || email.replace(/ /g,'').length == 0)
+    {
+      form.addClass('validation');
+      return false;
+    }
+    else {
+      $.post(form.attr('action'), {
+        recipient: recipient,
+        subject: subject,
+        detail: detail,
+        user: email,
+        key: '345e8e6fb8'
+      });
+
+      form.parent().fadeOut();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
+      form.parent().parent('.cta').removeClass('open').addClass('sent');
+      form.parent().parent().find('.cta-thanks').fadeIn();
+    }    
+  });
+  }
+
 $(function() {
 
   // Keep Involved form users on the site
