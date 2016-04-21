@@ -1,4 +1,40 @@
 ---
+- id: the-fathers-voice
+  title: The Father's Voice
+  headline: You’ll always hear the truth if you listen for The Father's Voice.
+  description_small: We’re surrounded by so many voices, it may seem impossible to
+    tell which one’s right. But you’ll always hear the truth if you listen for The
+    Father's Voice.
+  description_medium: Some voices are loud and full of authority. Others are soft
+    and comforting. Some are kind, some make us laugh, and some we’d rather not hear.
+    We’re surrounded by so many voices, it may seem impossible to tell which one’s
+    right. But you’ll always hear the truth if you listen for The Father's Voice.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2576-the-father-s-voice
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863Z'
+    updated_at: '2014-02-03T22:38:58.863Z'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086Z'
+    updated_at: '2014-06-11T15:21:10.086Z'
+  - id: 83
+    name: Michael Jr.
+    created_at: '2016-04-14T17:07:24.151Z'
+    updated_at: '2016-04-14T17:07:24.151Z'
+  image_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/300x200.jpg?1460653917
+  image_medium: http://api-assets.lifechurch.tv/series/the-fathers-voice/600x400.jpg?1460653944
+  image_large: http://api-assets.lifechurch.tv/series/the-fathers-voice/1200x800.jpg?1460653969
+  image_social: http://api-assets.lifechurch.tv/series/the-fathers-voice/400x400.jpg?1460653990
+  image_banner_archive: http://api-assets.lifechurch.tv/series/the-fathers-voice/1500x340.jpg?1460654039
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/3000x680.jpg?1460654023
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/480x340.jpg?1460654057
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/960x680.jpg?1460654091
 - id: love-like-jesus
   title: Love Like Jesus
   headline: Love isn’t only something you do—it can be the lens that lets you see
