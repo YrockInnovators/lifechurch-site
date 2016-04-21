@@ -189,7 +189,12 @@
     url: ''
     description_medium: Build relationships with members of Tulsa’s homeless community
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
-    tags: []
+    tags:
+    - food
+    - " clothing"
+    - " shelter"
+    - " owasso"
+    - " oklahoma"
 - id: jnk
   f1_campus_id: 30850
   f1_substatus_id: 2379
@@ -321,7 +326,11 @@
     url: ''
     description_medium: Help provide a welcoming place for kids to feel loved, accepted,
       and heard through a purposeful relationship with a mentor.
-    tags: []
+    tags:
+    - mentoring
+    - " education"
+    - " jenks"
+    - " oklahoma"
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
@@ -416,7 +425,12 @@
     url: ''
     description_medium: Pour into the lives of children with incarcerated parents
       and help break the cycle of incarceration in Oklahoma through mentoring relationships.
-    tags: []
+    tags:
+    - mentoring
+    - " education"
+    - " broadway"
+    - " britton"
+    - " oklahoma"
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -691,7 +705,11 @@
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
       caring for these children.
-    tags: []
+    tags:
+    - adoption
+    - " fostering"
+    - " tulsa"
+    - " broken arrow"
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -1675,7 +1693,11 @@
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
       caring for these children.
-    tags: []
+    tags:
+    - adoption
+    - " fostering"
+    - " tulsa"
+    - " broken arrow"
 - id: wch
   f1_campus_id: 41150
   f1_substatus_id: 3426
@@ -2047,7 +2069,11 @@
     url: ''
     description_medium: Help single mothers and their children through life skills
       mentoring and assisting to meet their basic needs.
-    tags: []
+    tags:
+    - single
+    - " mom"
+    - " moms"
+    - " oklahoma"
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -2412,14 +2438,7 @@
     duration: 120
     type: roots
     type_name: Roots
-  missions:
-  - id: 33
-    title: Room in the Inn
-    recipient: hnv.serving@life.church
-    url: http://www.roomintheinn.org/
-    description_medium: For those who call the streets of Nashville home, volunteers
-      will help provide meals, sort mail, teach classes, and mentor.
-    tags: []
+  missions: []
 - id: sba
   f1_campus_id: 42154
   f1_substatus_id: 3547
