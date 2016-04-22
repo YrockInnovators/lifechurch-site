@@ -27,7 +27,7 @@ function missionsContactValidate() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
+      form.parent().parent().append("").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    

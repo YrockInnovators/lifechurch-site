@@ -7,6 +7,26 @@ $connect-locally-orange: #ff4611;
   #navigation .nav-live.is-live.alt {
     color: darken($connect-locally-orange, 25%) !important;
   }
+  .text-center {
+    font-weight: bold;
+    text-align: center;
+  }
+  ul.causes {
+    width: 100%;
+    li {
+      float: left;
+      display: inline-block;
+      list-style-type: none;
+      a {
+        font-size: 0.8em;
+        padding: 0 0.5em;
+        border-right: 1px solid #ccc;
+        &active {
+          font-weight: bold;
+        }
+      }
+    }
+  }
 
   .connectlocally-logo {
     @include svg-image('../images/branding/connectlocally-white');
