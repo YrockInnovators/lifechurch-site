@@ -15,10 +15,25 @@
         js = d.createElement(s); js.id = id;
         js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=567912296616576";
         fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
+      }(document, 'script', 'facebook-jssdk'));
+
+      </script>
+
+      <!-- Track Facebook Shares in Google Analytics -->
+
+      <script>
+      $(document).ready(function() {
+       var pathName = window.location.pathname;
+
+          $('.button-facebook').click(function() {
+            var selId = $(this).attr('id');
+            ga('send', 'social', 'facebook', 'share', pathName);
+          });
+        });
+      </script>
 
       <div class="button-twitter">
-        <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-hashtags="lifechurchtv">Tweet</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-hashtags="lifechurch">Tweet</a>
       </div>
 
       <div class="button-facebook">
