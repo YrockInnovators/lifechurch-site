@@ -40,7 +40,6 @@
     position: absolute;
     top: 19px;
     left: 15px;
-    width: 70%;
 
     @include media($medium-screen) {
       top: 15px;
@@ -77,4 +76,8 @@
 // For whenever the modal is visible, we don't want the body to be scrollable
 .noscroll {
   overflow: hidden;
+}
+
+.button-facebook {
+  margin-top: -4px;
 }
