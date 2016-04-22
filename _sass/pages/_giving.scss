@@ -226,15 +226,23 @@
 // LifeMissions page
 
   .hero-lifemissions  {
-    @include retina-image(/images/lifemissions/lm-lifemissions, 650px auto, jpg);
+    @include retina-image(/images/lifemissions/lm-lifemissions, cover, jpg);
     background-color: #F9F9F9;
     background-repeat: no-repeat;
-    background-position: center bottom;
+    background-position: center top;
     padding-bottom: 7em;
 
     @include media($medium-screen) {
-      background-size: 1500px 315px;
+      background-size: cover;
       padding-bottom: 13em;
+    }
+    .hero-copy {
+      color: white;
+      h1 {
+        color: white;
+        max-width: 600px;
+        margin: auto;
+      }
     }
   }
 
