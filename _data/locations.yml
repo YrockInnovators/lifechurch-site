@@ -169,9 +169,9 @@
       hungry, homeless, and at-risk by serving the community and building relationships.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@life.church
@@ -181,10 +181,10 @@
       hope to families and individuals on their path to self-sufficiency.
     tags:
     - outreach
-    - " community"
-    - " involvement"
-    - " neighborhood"
-    - " oklahoma"
+    - community
+    - involvement
+    - neighborhood
+    - oklahoma
   - id: 19
     title: Tulsa Boys Home
     recipient: ows.serving@life.church
@@ -193,8 +193,8 @@
       and responsible young men.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 81
     title: Night Light Tulsa
     recipient: ows.serving@life.church
@@ -203,10 +203,10 @@
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " owasso"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - owasso
+    - oklahoma
 - id: jnk
   f1_campus_id: 30850
   f1_substatus_id: 2379
@@ -333,9 +333,9 @@
       skills and invest in their life.
     tags:
     - mentoring
-    - " education"
-    - " reading"
-    - " oklahoma"
+    - education
+    - reading
+    - oklahoma
   - id: 84
     title: Tulsa Hills Youth Ranch
     recipient: jnk.serving@life.church
@@ -344,9 +344,9 @@
       and heard through a purposeful relationship with a mentor.
     tags:
     - mentoring
-    - " education"
-    - " jenks"
-    - " oklahoma"
+    - education
+    - jenks
+    - oklahoma
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
@@ -413,9 +413,9 @@
       to fully engage in a biblical response to under-resourced populations.
     tags:
     - neighborhood
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - community
+    - involvement
+    - oklahoma
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: bnb.serving@life.church
@@ -424,8 +424,8 @@
       mentoring relationships with those leaving incarceration.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 3
     title: Whiz Kids
     recipient: bnb.serving@life.church
@@ -435,8 +435,8 @@
       moral values.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 83
     title: Little Light Christian School
     recipient: bnb.serving@life.church
@@ -445,10 +445,10 @@
       and help break the cycle of incarceration in Oklahoma through mentoring relationships.
     tags:
     - mentoring
-    - " education"
-    - " broadway"
-    - " britton"
-    - " oklahoma"
+    - education
+    - broadway
+    - britton
+    - oklahoma
   - id: 35
     title: City Rescue Mission
     recipient: bnb.serving@life.church
@@ -458,9 +458,9 @@
       City Rescue Mission.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -575,9 +575,9 @@
       Oklahoma.
     tags:
     - mentoring
-    - " education"
-    - " autism"
-    - " oklahoma"
+    - education
+    - autism
+    - oklahoma
   - id: 13
     title: Youth & Family Services
     recipient: ykn.serving@life.church
@@ -586,8 +586,8 @@
       the foster care system on multiple levels.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
@@ -714,9 +714,9 @@
       hungry, homeless, and at-risk by serving the community and building relationships.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@life.church
@@ -726,9 +726,9 @@
       families.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
   - id: 19
     title: Tulsa Boys Home
     recipient: tul.serving@life.church
@@ -737,8 +737,8 @@
       and responsible young men.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 82
     title: 111Tulsa
     recipient: tul.serving@life.church
@@ -748,9 +748,9 @@
       caring for these children.
     tags:
     - adoption
-    - " fostering"
-    - " tulsa"
-    - " broken arrow"
+    - fostering
+    - tulsa
+    - brokenarrow
   - id: 79
     title: Crisis Pregnancy Outreach
     recipient: tul.serving@life.church
@@ -759,9 +759,9 @@
       in crisis pregnancies and help them make godly decisions.
     tags:
     - tulsa
-    - " pregnancy"
-    - " outreach"
-    - " oklahoma"
+    - pregnancy
+    - outreach
+    - oklahoma
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -876,9 +876,9 @@
       to fully engage in a biblical response to under-resourced populations.
     tags:
     - neighborhood
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - community
+    - involvement
+    - oklahoma
   - id: 9
     title: Tulakes Elementary
     recipient: noc.serving@life.church
@@ -887,9 +887,9 @@
       an under-resourced environment.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
-    - " school"
+    - education
+    - oklahoma
+    - school
   - id: 8
     title: Novo Ministries
     recipient: noc.serving@life.church
@@ -898,11 +898,11 @@
       by helping facilitate weekly after-school programs.
     tags:
     - mentoring
-    - " education"
-    - " neighborhood"
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - education
+    - neighborhood
+    - community
+    - involvement
+    - oklahoma
   - id: 4
     title: The Mentoring Project
     recipient: noc.serving@life.church
@@ -911,8 +911,8 @@
       training, resourcing, and encouragement.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 3
     title: Whiz Kids
     recipient: noc.serving@life.church
@@ -922,8 +922,8 @@
       moral values.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 66
     title: True North Ministries
     recipient: noc.serving@life.church
@@ -932,8 +932,8 @@
       men through mentoring relationships, men’s events, and weekend retreats.
     tags:
     - spiritual
-    - " development"
-    - " oklahoma"
+    - development
+    - oklahoma
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -1025,8 +1025,8 @@
       and safety at SafePlace. '
     tags:
     - adoption
-    - " fostering"
-    - " florida"
+    - fostering
+    - florida
 - id: klr
   f1_campus_id: 34645
   f1_substatus_id: 2719
@@ -1094,9 +1094,9 @@
       and healing relationships.
     tags:
     - recovery
-    - " transitional"
-    - " living"
-    - " texas"
+    - transitional
+    - living
+    - texas
 - id: mus
   f1_campus_id: 42406
   f1_substatus_id: 3585
@@ -1199,9 +1199,9 @@
       Oklahoma.
     tags:
     - mentoring
-    - " education"
-    - " autism"
-    - " oklahoma"
+    - education
+    - autism
+    - oklahoma
   - id: 71
     title: Evany Clinic
     recipient: mus.serving@life.church
@@ -1210,8 +1210,8 @@
       themselves in crisis pregnancies and help them make godly decisions.
     tags:
     - pregnancy
-    - " care"
-    - " oklahoma"
+    - care
+    - oklahoma
   - id: 66
     title: True North Ministries
     recipient: mus.serving@life.church
@@ -1220,8 +1220,8 @@
       men through mentoring relationships, men’s events, and weekend retreats.
     tags:
     - spiritual
-    - " development"
-    - " oklahoma"
+    - development
+    - oklahoma
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
@@ -1324,8 +1324,8 @@
       of Christ through mentoring and building relationships with young people.
     tags:
     - mentoring
-    - " education"
-    - " new york"
+    - education
+    - newyork
   - id: 31
     title: Habitat for Humanity
     recipient: alb.serving@life.church
@@ -1334,9 +1334,9 @@
       as a partner to create healthy and sustainable communities.
     tags:
     - neighborhood
-    - " community"
-    - " build"
-    - " outreach"
+    - community
+    - build
+    - outreach
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@life.church
@@ -1346,9 +1346,9 @@
       out.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " new york"
+    - clothing
+    - shelter
+    - newyork
 - id: mor
   f1_campus_id: 34644
   f1_substatus_id: 2718
@@ -1476,9 +1476,9 @@
       residents.
     tags:
     - neighborhood
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - community
+    - involvement
+    - oklahoma
   - id: 47
     title: Stand in the Gap Ministries
     recipient: mor.serving@life.church
@@ -1487,8 +1487,8 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 77
     title: Mission Norman
     recipient: mor.serving@life.church
@@ -1497,8 +1497,8 @@
       spiritual needs of people living in our community.
     tags:
     - spiritual
-    - " development"
-    - " oklahoma"
+    - development
+    - oklahoma
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mor.serving@life.church
@@ -1508,8 +1508,8 @@
       field trips.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@life.church
@@ -1519,8 +1519,8 @@
       academic, leadership and community programs.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
 - id: edm
   f1_campus_id: 4342
   f1_substatus_id: 376
@@ -1623,8 +1623,8 @@
       and growth-oriented activities with children living on the ranch.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
     recipient: edm.serving@life.church
@@ -1633,8 +1633,8 @@
       children through adoptive and foster care placements.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 34
     title: The Spero Project
     recipient: edm.serving@life.church
@@ -1643,9 +1643,9 @@
       to fully engage in a biblical response to under-resourced populations.
     tags:
     - neighborhood
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - community
+    - involvement
+    - oklahoma
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: edm.serving@life.church
@@ -1654,8 +1654,8 @@
       mentoring relationships with those leaving incarceration.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 4
     title: The Mentoring Project
     recipient: edm.serving@life.church
@@ -1664,8 +1664,8 @@
       training, resourcing, and encouragement.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 3
     title: Whiz Kids
     recipient: edm.serving@life.church
@@ -1675,8 +1675,8 @@
       moral values.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 35
     title: City Rescue Mission
     recipient: edm.serving@life.church
@@ -1686,9 +1686,9 @@
       City Rescue Mission.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
 - id: bao
   f1_campus_id: 17716
   f1_substatus_id: 1064
@@ -1815,9 +1815,9 @@
       skills and invest in their life.
     tags:
     - mentoring
-    - " education"
-    - " reading"
-    - " oklahoma"
+    - education
+    - reading
+    - oklahoma
   - id: 19
     title: Tulsa Boys Home
     recipient: bao.serving@life.church
@@ -1826,8 +1826,8 @@
       and responsible young men.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 82
     title: 111Tulsa
     recipient: bao.serving@life.church
@@ -1837,9 +1837,9 @@
       caring for these children.
     tags:
     - adoption
-    - " fostering"
-    - " tulsa"
-    - " broken arrow"
+    - fostering
+    - tulsa
+    - brokenarrow
   - id: 75
     title: Big Brothers Big Sisters of Oklahoma
     recipient: bao.serving@life.church
@@ -1848,9 +1848,9 @@
       build their futures through positive mentoring relationships. '
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
-    - " big"
+    - education
+    - oklahoma
+    - big
 - id: wch
   f1_campus_id: 41150
   f1_substatus_id: 3426
@@ -1906,8 +1906,8 @@
       a child.
     tags:
     - mentoring
-    - " education"
-    - " kansas"
+    - education
+    - kansas
   - id: 70
     title: Kansas Big Brothers Big Sisters
     recipient: wch.serving@life.church
@@ -1916,9 +1916,9 @@
       build their futures through positive mentoring relationships.
     tags:
     - mentoring
-    - " education"
-    - " big"
-    - " kansas"
+    - education
+    - big
+    - kansas
 - id: RRN
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -1961,8 +1961,8 @@
       transform their lives through enhanced literacy skills.
     tags:
     - mentoring
-    - " education"
-    - " new mexico"
+    - education
+    - newmexico
   - id: 76
     title: CareNet Pregnancy Centers of Albuquerque
     recipient: rrn.serving@life.church
@@ -1971,8 +1971,8 @@
       themselves in crisis pregnancies and help them make godly decisions.
     tags:
     - pregnancy
-    - " care"
-    - " new mexico"
+    - care
+    - newmexico
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -2193,9 +2193,9 @@
       and recuperating adults while building relationships each visit.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
   - id: 55
     title: Autism Oklahoma
     recipient: okc.serving@life.church
@@ -2204,9 +2204,9 @@
       Oklahoma.
     tags:
     - mentoring
-    - " education"
-    - " autism"
-    - " oklahoma"
+    - education
+    - autism
+    - oklahoma
   - id: 54
     title: Peppers Ranch
     recipient: okc.serving@life.church
@@ -2215,8 +2215,8 @@
       and growth-oriented activities with children living on the ranch.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 3
     title: Whiz Kids
     recipient: okc.serving@life.church
@@ -2226,8 +2226,8 @@
       moral values.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 80
     title: Bethel Foundation
     recipient: okc.serving@life.church
@@ -2236,9 +2236,9 @@
       mentoring and assisting to meet their basic needs.
     tags:
     - single
-    - " mom"
-    - " moms"
-    - " oklahoma"
+    - mom
+    - moms
+    - oklahoma
   - id: 78
     title: LifeTroops
     recipient: okc.serving@life.church
@@ -2248,8 +2248,8 @@
       the gap” between reintegration and everyday life.
     tags:
     - military
-    - " depression"
-    - " oklahoma"
+    - depression
+    - oklahoma
   - id: 66
     title: True North Ministries
     recipient: okc.serving@life.church
@@ -2258,8 +2258,8 @@
       men through mentoring relationships, men’s events, and weekend retreats.
     tags:
     - spiritual
-    - " development"
-    - " oklahoma"
+    - development
+    - oklahoma
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -2374,8 +2374,8 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: soc.serving@life.church
@@ -2384,8 +2384,8 @@
       mentoring relationships with those leaving incarceration.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 69
     title: OKC Dream Center
     recipient: soc.serving@life.church
@@ -2395,11 +2395,11 @@
       relief services, or youth mentoring and coaching.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " neighborhood"
-    - " community"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - neighborhood
+    - community
+    - oklahoma
   - id: 68
     title: Circle of Care
     recipient: soc.serving@life.church
@@ -2409,8 +2409,8 @@
       baskets to children within 24 hours of placement.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@life.church
@@ -2420,9 +2420,9 @@
       City Rescue Mission.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
 - id: sto
   f1_campus_id: 4405
   f1_substatus_id: 384
@@ -2549,8 +2549,8 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 38
     title: Bixby Outreach Center
     recipient: sto.serving@life.church
@@ -2559,9 +2559,9 @@
       not expect by collecting, organizing, and distributing items.
     tags:
     - community
-    - " outreach"
-    - " neighborhood"
-    - " oklahoma"
+    - outreach
+    - neighborhood
+    - oklahoma
   - id: 19
     title: Tulsa Boys Home
     recipient: sto.serving@life.church
@@ -2570,8 +2570,8 @@
       and responsible young men.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
 - id: hnv
   f1_campus_id: 4344
   f1_substatus_id: 378
@@ -2744,8 +2744,8 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -2848,9 +2848,9 @@
       to fully engage in a biblical response to under-resourced populations.
     tags:
     - neighborhood
-    - " community"
-    - " involvement"
-    - " oklahoma"
+    - community
+    - involvement
+    - oklahoma
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: mwc.serving@life.church
@@ -2859,8 +2859,8 @@
       mentoring relationships with those leaving incarceration.
     tags:
     - mentoring
-    - " education"
-    - " oklahoma"
+    - education
+    - oklahoma
   - id: 78
     title: LifeTroops
     recipient: mwc.serving@life.church
@@ -2870,8 +2870,8 @@
       the gap” between reintegration and everyday life.
     tags:
     - military
-    - " depression"
-    - " oklahoma"
+    - depression
+    - oklahoma
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
@@ -2881,8 +2881,8 @@
       field trips.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
   - id: 35
     title: City Rescue Mission
     recipient: mwc.serving@life.church
@@ -2892,9 +2892,9 @@
       City Rescue Mission.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
+    - clothing
+    - shelter
+    - oklahoma
 - id: stw
   f1_campus_id: 4348
   f1_substatus_id: 385
@@ -2991,9 +2991,9 @@
       as a partner to create healthy and sustainable communities.
     tags:
     - neighborhood
-    - " community"
-    - " build"
-    - " outreach"
+    - community
+    - build
+    - outreach
   - id: 26
     title: Stillwater Life Services
     recipient: stw.serving@life.church
@@ -3002,9 +3002,9 @@
       for women and men who visit the pregnancy resource clinic.
     tags:
     - pregnancy
-    - " care"
-    - " mentoring"
-    - " education"
+    - care
+    - mentoring
+    - education
   - id: 74
     title: Payne County Youth Services
     recipient: stw.serving@life.church
@@ -3014,11 +3014,11 @@
       or supportive roles.
     tags:
     - food
-    - " clothing"
-    - " shelter"
-    - " oklahoma"
-    - " foster"
-    - " adoption"
+    - clothing
+    - shelter
+    - oklahoma
+    - foster
+    - adoption
   - id: 67
     title: Meadows of Hope
     recipient: stw.serving@life.church
@@ -3028,8 +3028,8 @@
       environment to heal and grow.
     tags:
     - adoption
-    - " fostering"
-    - " oklahoma"
+    - fostering
+    - oklahoma
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -3132,6 +3132,6 @@
       as a partner to create healthy and sustainable communities.
     tags:
     - neighborhood
-    - " community"
-    - " build"
-    - " outreach"
+    - community
+    - build
+    - outreach
