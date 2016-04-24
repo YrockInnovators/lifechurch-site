@@ -35,7 +35,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/3000x680.jpg?1460654023
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/480x340.jpg?1460654057
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/960x680.jpg?1460654091
-  messages: []
+  messages:
+  - title: The Father's Voice
+    headline: ''
+    video: ''
+    platform_id: cscqUlYApmww
 - id: love-like-jesus
   title: Love Like Jesus
   headline: Love isn’t only something you do—it can be the lens that lets you see
