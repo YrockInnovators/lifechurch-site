@@ -17,16 +17,16 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 83
     name: Michael Jr.
-    created_at: '2016-04-14T17:07:24.151Z'
-    updated_at: '2016-04-14T17:07:24.151Z'
+    created_at: '2016-04-14T12:07:24.151-05:00'
+    updated_at: '2016-04-14T12:07:24.151-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/300x200.jpg?1460653917
   image_medium: http://api-assets.lifechurch.tv/series/the-fathers-voice/600x400.jpg?1460653944
   image_large: http://api-assets.lifechurch.tv/series/the-fathers-voice/1200x800.jpg?1460653969
@@ -59,16 +59,16 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 28
     name: Serving
-    created_at: '2014-06-11T15:17:48.142Z'
-    updated_at: '2014-06-11T15:17:48.142Z'
+    created_at: '2014-06-11T10:17:48.142-05:00'
+    updated_at: '2014-06-11T10:17:48.142-05:00'
   - id: 45
     name: Virtues
-    created_at: '2014-06-11T15:25:27.460Z'
-    updated_at: '2014-06-11T15:25:27.460Z'
+    created_at: '2014-06-11T10:25:27.460-05:00'
+    updated_at: '2014-06-11T10:25:27.460-05:00'
   image_small: http://api-assets.lifechurch.tv/series/love-like-jesus/300x200.jpg?1457984941
   image_medium: http://api-assets.lifechurch.tv/series/love-like-jesus/600x400.jpg?1457984967
   image_large: http://api-assets.lifechurch.tv/series/love-like-jesus/1200x800.jpg?1457984987
@@ -107,16 +107,16 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 28
     name: Serving
-    created_at: '2014-06-11T15:17:48.142Z'
-    updated_at: '2014-06-11T15:17:48.142Z'
+    created_at: '2014-06-11T10:17:48.142-05:00'
+    updated_at: '2014-06-11T10:17:48.142-05:00'
   - id: 82
     name: Easter
-    created_at: '2016-03-14T19:06:10.330Z'
-    updated_at: '2016-03-14T19:06:10.330Z'
+    created_at: '2016-03-14T14:06:10.330-05:00'
+    updated_at: '2016-03-14T14:06:10.330-05:00'
   image_small: http://api-assets.lifechurch.tv/series/easter-2016/300x200.jpg?1457983527
   image_medium: http://api-assets.lifechurch.tv/series/easter-2016/600x400.jpg?1457983545
   image_large: http://api-assets.lifechurch.tv/series/easter-2016/1200x800.jpg?1457983567
@@ -149,20 +149,20 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 25
     name: Grace
-    created_at: '2014-06-11T15:17:05.430Z'
-    updated_at: '2014-06-11T15:17:05.430Z'
+    created_at: '2014-06-11T10:17:05.430-05:00'
+    updated_at: '2014-06-11T10:17:05.430-05:00'
   - id: 81
     name: John Gray
-    created_at: '2016-02-26T19:51:52.965Z'
-    updated_at: '2016-02-26T19:51:52.965Z'
+    created_at: '2016-02-26T13:51:52.965-06:00'
+    updated_at: '2016-02-26T13:51:52.965-06:00'
   image_small: http://api-assets.lifechurch.tv/series/going-the-distance/300x200.jpg?1456524771
   image_medium: http://api-assets.lifechurch.tv/series/going-the-distance/600x400.jpg?1456524793
   image_large: http://api-assets.lifechurch.tv/series/going-the-distance/1200x800.jpg?1456524809
@@ -197,16 +197,16 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 29
     name: Wisdom
-    created_at: '2014-06-11T15:18:02.732Z'
-    updated_at: '2014-06-11T15:18:02.732Z'
+    created_at: '2014-06-11T10:18:02.732-05:00'
+    updated_at: '2014-06-11T10:18:02.732-05:00'
   image_small: http://api-assets.lifechurch.tv/series/twisted/300x200.jpg?1454436425
   image_medium: http://api-assets.lifechurch.tv/series/twisted/600x400.jpg?1454436443
   image_large: http://api-assets.lifechurch.tv/series/twisted/1200x800.jpg?1454436459
@@ -313,20 +313,20 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/dangerous-prayers/300x200.jpg?1452101495
   image_medium: http://api-assets.lifechurch.tv/series/dangerous-prayers/600x400.jpg?1452101517
   image_large: http://api-assets.lifechurch.tv/series/dangerous-prayers/1200x800.jpg?1452101545
@@ -369,12 +369,12 @@
   categories:
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/300x200.jpg?1452031608
   image_medium: http://api-assets.lifechurch.tv/series/20-years-and-counting/600x400.jpg?1452031646
   image_large: http://api-assets.lifechurch.tv/series/20-years-and-counting/1200x800.jpg?1452031667
@@ -406,16 +406,16 @@
   categories:
   - id: 27
     name: Trust
-    created_at: '2014-06-11T15:17:23.291Z'
-    updated_at: '2014-06-11T15:17:23.291Z'
+    created_at: '2014-06-11T10:17:23.291-05:00'
+    updated_at: '2014-06-11T10:17:23.291-05:00'
   - id: 34
     name: Optimistic
-    created_at: '2014-06-11T15:19:48.323Z'
-    updated_at: '2014-06-11T15:19:48.323Z'
+    created_at: '2014-06-11T10:19:48.323-05:00'
+    updated_at: '2014-06-11T10:19:48.323-05:00'
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   image_small: http://api-assets.lifechurch.tv/series/get-started/300x200.jpg?1450289120
   image_medium: http://api-assets.lifechurch.tv/series/get-started/600x400.jpg?1450289179
   image_large: http://api-assets.lifechurch.tv/series/get-started/1200x800.jpg?1450289195
@@ -446,20 +446,20 @@
   categories:
   - id: 33
     name: Pain
-    created_at: '2014-06-11T15:19:30.049Z'
-    updated_at: '2014-06-11T15:19:30.049Z'
+    created_at: '2014-06-11T10:19:30.049-05:00'
+    updated_at: '2014-06-11T10:19:30.049-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   - id: 80
     name: Jefferson Bethke
-    created_at: '2015-12-28T15:22:31.777Z'
-    updated_at: '2015-12-28T15:22:31.777Z'
+    created_at: '2015-12-28T09:22:31.777-06:00'
+    updated_at: '2015-12-28T09:22:31.777-06:00'
   image_small: http://api-assets.lifechurch.tv/series/healed/300x200.jpg?1450214374
   image_medium: http://api-assets.lifechurch.tv/series/healed/600x400.jpg?1450214396
   image_large: http://api-assets.lifechurch.tv/series/healed/1200x800.jpg?1450214418
@@ -491,8 +491,8 @@
   categories:
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/christmas-2015/300x200.jpg?1450214158
   image_medium: http://api-assets.lifechurch.tv/series/christmas-2015/600x400.jpg?1450214173
   image_large: http://api-assets.lifechurch.tv/series/christmas-2015/1200x800.jpg?1450214198
@@ -524,28 +524,28 @@
   categories:
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 31
     name: Insecurity
-    created_at: '2014-06-11T15:18:45.147Z'
-    updated_at: '2014-06-11T15:18:45.147Z'
+    created_at: '2014-06-11T10:18:45.147-05:00'
+    updated_at: '2014-06-11T10:18:45.147-05:00'
   - id: 33
     name: Pain
-    created_at: '2014-06-11T15:19:30.049Z'
-    updated_at: '2014-06-11T15:19:30.049Z'
+    created_at: '2014-06-11T10:19:30.049-05:00'
+    updated_at: '2014-06-11T10:19:30.049-05:00'
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   image_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/300x200.jpg?1449000446
   image_medium: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/600x400.jpg?1449000471
   image_large: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/1200x800.jpg?1449000507
@@ -587,24 +587,24 @@
   categories:
   - id: 20
     name: Tithe
-    created_at: '2014-06-11T15:15:22.933Z'
-    updated_at: '2014-06-11T15:15:22.933Z'
+    created_at: '2014-06-11T10:15:22.933-05:00'
+    updated_at: '2014-06-11T10:15:22.933-05:00'
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   - id: 79
     name: Technology
-    created_at: '2015-11-20T22:33:36.233Z'
-    updated_at: '2015-11-20T22:33:36.233Z'
+    created_at: '2015-11-20T16:33:36.233-06:00'
+    updated_at: '2015-11-20T16:33:36.233-06:00'
   image_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/300x200.jpg?1448059050
   image_medium: http://api-assets.lifechurch.tv/series/because-of-you-2015/600x400.jpg?1448059096
   image_large: http://api-assets.lifechurch.tv/series/because-of-you-2015/1200x800.jpg?1448059115
@@ -636,16 +636,16 @@
   categories:
   - id: 27
     name: Trust
-    created_at: '2014-06-11T15:17:23.291Z'
-    updated_at: '2014-06-11T15:17:23.291Z'
+    created_at: '2014-06-11T10:17:23.291-05:00'
+    updated_at: '2014-06-11T10:17:23.291-05:00'
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-time-is-now/300x200.jpg?1446570634
   image_medium: http://api-assets.lifechurch.tv/series/the-time-is-now/600x400.jpg?1446571660
   image_large: http://api-assets.lifechurch.tv/series/the-time-is-now/1200x800.jpg?1446571211
@@ -686,20 +686,20 @@
   categories:
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 27
     name: Trust
-    created_at: '2014-06-11T15:17:23.291Z'
-    updated_at: '2014-06-11T15:17:23.291Z'
+    created_at: '2014-06-11T10:17:23.291-05:00'
+    updated_at: '2014-06-11T10:17:23.291-05:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 78
     name: Michael Jr.
-    created_at: '2015-10-28T19:50:38.967Z'
-    updated_at: '2015-10-28T19:50:38.967Z'
+    created_at: '2015-10-28T14:50:38.967-05:00'
+    updated_at: '2015-10-28T14:50:38.967-05:00'
   image_small: http://api-assets.lifechurch.tv/series/punchline/300x200.jpg?1446065891
   image_medium: http://api-assets.lifechurch.tv/series/punchline/600x400.jpg?1446065922
   image_large: http://api-assets.lifechurch.tv/series/punchline/1200x800.jpg?1446065947
@@ -731,28 +731,28 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 31
     name: Insecurity
-    created_at: '2014-06-11T15:18:45.147Z'
-    updated_at: '2014-06-11T15:18:45.147Z'
+    created_at: '2014-06-11T10:18:45.147-05:00'
+    updated_at: '2014-06-11T10:18:45.147-05:00'
   - id: 35
     name: Feelings
-    created_at: '2014-06-11T15:20:16.022Z'
-    updated_at: '2014-06-11T15:20:16.022Z'
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/struggles2015/300x200.jpg?1444767195
   image_medium: http://api-assets.lifechurch.tv/series/struggles2015/600x400.jpg?1444853483
   image_large: http://api-assets.lifechurch.tv/series/struggles2015/1200x800.jpg?1444767271
@@ -782,16 +782,16 @@
   categories:
   - id: 34
     name: Optimistic
-    created_at: '2014-06-11T15:19:48.323Z'
-    updated_at: '2014-06-11T15:19:48.323Z'
+    created_at: '2014-06-11T10:19:48.323-05:00'
+    updated_at: '2014-06-11T10:19:48.323-05:00'
   - id: 35
     name: Feelings
-    created_at: '2014-06-11T15:20:16.022Z'
-    updated_at: '2014-06-11T15:20:16.022Z'
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
   - id: 36
     name: Thoughts
-    created_at: '2014-06-11T15:20:28.824Z'
-    updated_at: '2014-06-11T15:20:28.824Z'
+    created_at: '2014-06-11T10:20:28.824-05:00'
+    updated_at: '2014-06-11T10:20:28.824-05:00'
   image_small: http://api-assets.lifechurch.tv/series/stay-positive/300x200.jpg?1440796569
   image_medium: http://api-assets.lifechurch.tv/series/stay-positive/600x400.jpg?1440797145
   image_large: http://api-assets.lifechurch.tv/series/stay-positive/1200x800.jpg?1440797165
@@ -843,8 +843,8 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/labels/300x200.jpg?1441390126
   image_medium: http://api-assets.lifechurch.tv/series/labels/600x400.jpg?1441390146
   image_large: http://api-assets.lifechurch.tv/series/labels/1200x800.jpg?1441390171
@@ -875,20 +875,20 @@
   categories:
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 35
     name: Feelings
-    created_at: '2014-06-11T15:20:16.022Z'
-    updated_at: '2014-06-11T15:20:16.022Z'
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/a-way-out/300x200.jpg?1437580213
   image_medium: http://api-assets.lifechurch.tv/series/a-way-out/600x400.jpg?1437580235
   image_large: http://api-assets.lifechurch.tv/series/a-way-out/1200x800.jpg?1437580262
@@ -953,16 +953,16 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-christian-atheist/300x200.jpg?1434057026
   image_medium: http://api-assets.lifechurch.tv/series/the-christian-atheist/600x400.jpg?1434057101
   image_large: http://api-assets.lifechurch.tv/series/the-christian-atheist/1200x800.jpg?1434057630
@@ -1004,12 +1004,12 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 76
     name: Louie Giglio
-    created_at: '2015-05-28T21:33:37.850Z'
-    updated_at: '2015-05-28T21:33:37.850Z'
+    created_at: '2015-05-28T16:33:37.850-05:00'
+    updated_at: '2015-05-28T16:33:37.850-05:00'
   image_small: http://api-assets.lifechurch.tv/series/man-in-the-mirror/300x200.jpg?1438357983
   image_medium: http://api-assets.lifechurch.tv/series/man-in-the-mirror/600x400.jpg?1438358021
   image_large: http://api-assets.lifechurch.tv/series/man-in-the-mirror/1200x800.jpg?1438358049
@@ -1044,12 +1044,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   image_small: http://api-assets.lifechurch.tv/series/pray/300x200.jpg?1428614956
   image_medium: http://api-assets.lifechurch.tv/series/pray/600x400.jpg?1428614977
   image_large: http://api-assets.lifechurch.tv/series/pray/1200x800.jpg?1428615003
@@ -1093,16 +1093,16 @@
   categories:
   - id: 16
     name: Forgiveness
-    created_at: '2014-06-11T15:14:32.742Z'
-    updated_at: '2014-06-11T15:14:32.742Z'
+    created_at: '2014-06-11T10:14:32.742-05:00'
+    updated_at: '2014-06-11T10:14:32.742-05:00'
   - id: 25
     name: Grace
-    created_at: '2014-06-11T15:17:05.430Z'
-    updated_at: '2014-06-11T15:17:05.430Z'
+    created_at: '2014-06-11T10:17:05.430-05:00'
+    updated_at: '2014-06-11T10:17:05.430-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/i-deserve-it/300x200.jpg?1425056222
   image_medium: http://api-assets.lifechurch.tv/series/i-deserve-it/600x400.jpg?1425056246
   image_large: http://api-assets.lifechurch.tv/series/i-deserve-it/1200x800.jpg?1425056289
@@ -1145,16 +1145,16 @@
   categories:
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   image_small: http://api-assets.lifechurch.tv/series/dont-stop/300x200.jpg?1438358854
   image_medium: http://api-assets.lifechurch.tv/series/dont-stop/600x400.jpg?1438358893
   image_large: http://api-assets.lifechurch.tv/series/dont-stop/1200x800.jpg?1438358945
@@ -1189,12 +1189,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 57
     name: Pierre du Plessis
-    created_at: '2014-06-11T15:47:09.892Z'
-    updated_at: '2014-06-11T15:47:09.892Z'
+    created_at: '2014-06-11T10:47:09.892-05:00'
+    updated_at: '2014-06-11T10:47:09.892-05:00'
   image_small: http://api-assets.lifechurch.tv/series/chasing-light/300x200.jpg?1424713917
   image_medium: http://api-assets.lifechurch.tv/series/chasing-light/600x400.jpg?1425672858
   image_large: http://api-assets.lifechurch.tv/series/chasing-light/1200x800.jpg?1425672805
@@ -1229,12 +1229,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 29
     name: Wisdom
-    created_at: '2014-06-11T15:18:02.732Z'
-    updated_at: '2014-06-11T15:18:02.732Z'
+    created_at: '2014-06-11T10:18:02.732-05:00'
+    updated_at: '2014-06-11T10:18:02.732-05:00'
   image_small: http://api-assets.lifechurch.tv/series/god-never-said-that/300x200.jpg?1421707083
   image_medium: http://api-assets.lifechurch.tv/series/god-never-said-that/600x400.jpg?1421707111
   image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1421707138
@@ -1276,16 +1276,16 @@
   categories:
   - id: 28
     name: Serving
-    created_at: '2014-06-11T15:17:48.142Z'
-    updated_at: '2014-06-11T15:17:48.142Z'
+    created_at: '2014-06-11T10:17:48.142-05:00'
+    updated_at: '2014-06-11T10:17:48.142-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   image_small: http://api-assets.lifechurch.tv/series/jesus-and-we/300x200.jpg?1417023216
   image_medium: http://api-assets.lifechurch.tv/series/jesus-and-we/600x400.jpg?1417023345
   image_large: http://api-assets.lifechurch.tv/series/jesus-and-we/1200x800.jpg?1417023578
@@ -1327,20 +1327,20 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 20
     name: Tithe
-    created_at: '2014-06-11T15:15:22.933Z'
-    updated_at: '2014-06-11T15:15:22.933Z'
+    created_at: '2014-06-11T10:15:22.933-05:00'
+    updated_at: '2014-06-11T10:15:22.933-05:00'
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   image_small: http://api-assets.lifechurch.tv/series/first-things-first/300x200.jpg?1438360202
   image_medium: http://api-assets.lifechurch.tv/series/first-things-first/600x400.jpg?1438360222
   image_large: http://api-assets.lifechurch.tv/series/first-things-first/1200x800.jpg?1438360249
@@ -1370,20 +1370,20 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 22
     name: Spiritual Growth
-    created_at: '2014-06-11T15:16:13.079Z'
-    updated_at: '2014-06-11T15:16:13.079Z'
+    created_at: '2014-06-11T10:16:13.079-05:00'
+    updated_at: '2014-06-11T10:16:13.079-05:00'
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/come-to-worship/300x200.jpg?1416522949
   image_medium: http://api-assets.lifechurch.tv/series/come-to-worship/600x400.jpg?1416522970
   image_large: http://api-assets.lifechurch.tv/series/come-to-worship/1200x800.jpg?1416523001
@@ -1425,20 +1425,20 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 24
     name: Mercy
-    created_at: '2014-06-11T15:16:57.275Z'
-    updated_at: '2014-06-11T15:16:57.275Z'
+    created_at: '2014-06-11T10:16:57.275-05:00'
+    updated_at: '2014-06-11T10:16:57.275-05:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/unlikely/300x200.jpg?1438361006
   image_medium: http://api-assets.lifechurch.tv/series/unlikely/600x400.jpg?1438361026
   image_large: http://api-assets.lifechurch.tv/series/unlikely/1200x800.jpg?1438361089
@@ -1469,16 +1469,16 @@
   categories:
   - id: 12
     name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 17
     name: Dating
-    created_at: '2014-06-11T15:14:52.700Z'
-    updated_at: '2014-06-11T15:14:52.700Z'
+    created_at: '2014-06-11T10:14:52.700-05:00'
+    updated_at: '2014-06-11T10:14:52.700-05:00'
   image_small: http://api-assets.lifechurch.tv/series/love-song/300x200.jpg?1413230455
   image_medium: http://api-assets.lifechurch.tv/series/love-song/600x400.jpg?1413230483
   image_large: http://api-assets.lifechurch.tv/series/love-song/1200x800.jpg?1413230508
@@ -1525,16 +1525,16 @@
   categories:
   - id: 20
     name: Tithe
-    created_at: '2014-06-11T15:15:22.933Z'
-    updated_at: '2014-06-11T15:15:22.933Z'
+    created_at: '2014-06-11T10:15:22.933-05:00'
+    updated_at: '2014-06-11T10:15:22.933-05:00'
   - id: 28
     name: Serving
-    created_at: '2014-06-11T15:17:48.142Z'
-    updated_at: '2014-06-11T15:17:48.142Z'
+    created_at: '2014-06-11T10:17:48.142-05:00'
+    updated_at: '2014-06-11T10:17:48.142-05:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/in-his-house/300x200.jpeg?1412709197
   image_medium: http://api-assets.lifechurch.tv/series/in-his-house/600x400.jpeg?1412709219
   image_large: http://api-assets.lifechurch.tv/series/in-his-house/1200x800.jpeg?1412709249
@@ -1569,36 +1569,36 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 31
     name: Insecurity
-    created_at: '2014-06-11T15:18:45.147Z'
-    updated_at: '2014-06-11T15:18:45.147Z'
+    created_at: '2014-06-11T10:18:45.147-05:00'
+    updated_at: '2014-06-11T10:18:45.147-05:00'
   - id: 35
     name: Feelings
-    created_at: '2014-06-11T15:20:16.022Z'
-    updated_at: '2014-06-11T15:20:16.022Z'
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/struggles/300x200.jpg?1410207282
   image_medium: http://api-assets.lifechurch.tv/series/struggles/600x400.jpg?1410207346
   image_large: http://api-assets.lifechurch.tv/series/struggles/1200x800.jpg?1410207407
@@ -1644,20 +1644,20 @@
   categories:
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/stand/300x200.jpg?1405366982
   image_medium: http://api-assets.lifechurch.tv/series/stand/600x400.jpg?1405367007
   image_large: http://api-assets.lifechurch.tv/series/stand/1200x800.jpg?1405367040
@@ -1703,12 +1703,12 @@
   categories:
   - id: 21
     name: Fruits of the Spirit
-    created_at: '2014-06-11T15:15:50.342Z'
-    updated_at: '2014-06-11T15:15:50.342Z'
+    created_at: '2014-06-11T10:15:50.342-05:00'
+    updated_at: '2014-06-11T10:15:50.342-05:00'
   - id: 59
     name: Judah Smith
-    created_at: '2014-06-11T15:48:39.506Z'
-    updated_at: '2014-06-11T15:48:39.506Z'
+    created_at: '2014-06-11T10:48:39.506-05:00'
+    updated_at: '2014-06-11T10:48:39.506-05:00'
   image_small: http://api-assets.lifechurch.tv/series/love/300x200.jpg?1402933720
   image_medium: http://api-assets.lifechurch.tv/series/love/600x400.jpg?1402933753
   image_large: http://api-assets.lifechurch.tv/series/love/1200x800.jpg?1402933772
@@ -1743,12 +1743,12 @@
   categories:
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/puzzled/300x200.jpg?1401807842
   image_medium: http://api-assets.lifechurch.tv/series/puzzled/600x400.jpg?1401807867
   image_large: http://api-assets.lifechurch.tv/series/puzzled/1200x800.jpg?1401807892
@@ -1782,16 +1782,16 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 74
     name: Carl Lentz
-    created_at: '2014-06-11T16:14:48.792Z'
-    updated_at: '2014-06-11T16:14:48.792Z'
+    created_at: '2014-06-11T11:14:48.792-05:00'
+    updated_at: '2014-06-11T11:14:48.792-05:00'
   image_small: http://api-assets.lifechurch.tv/series/in-the-fire/300x200.jpg?1400172764
   image_medium: http://api-assets.lifechurch.tv/series/in-the-fire/600x400.jpg?1400172786
   image_large: http://api-assets.lifechurch.tv/series/in-the-fire/1200x800.jpg?1400172809
@@ -1825,12 +1825,12 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   - id: 15
     name: Family
-    created_at: '2014-06-05T19:32:01.499Z'
-    updated_at: '2014-06-05T19:32:01.499Z'
+    created_at: '2014-06-05T14:32:01.499-05:00'
+    updated_at: '2014-06-05T14:32:01.499-05:00'
   image_small: http://api-assets.lifechurch.tv/series/outlasters/300x200.jpg?1398097251
   image_medium: http://api-assets.lifechurch.tv/series/outlasters/600x400.jpg?1398097230
   image_large: http://api-assets.lifechurch.tv/series/outlasters/1200x800.jpg?1398097208
@@ -1873,12 +1873,12 @@
   categories:
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 35
     name: Feelings
-    created_at: '2014-06-11T15:20:16.022Z'
-    updated_at: '2014-06-11T15:20:16.022Z'
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-counselor/300x200.jpg?1396290251
   image_medium: http://api-assets.lifechurch.tv/series/the-counselor/600x400.jpg?1396296632
   image_large: http://api-assets.lifechurch.tv/series/the-counselor/1200x800.jpg?1396290667
@@ -1920,8 +1920,8 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-artisan-soul/300x200.jpg?1396043492
   image_medium: http://api-assets.lifechurch.tv/series/the-artisan-soul/600x400.jpg?1396043573
   image_large: http://api-assets.lifechurch.tv/series/the-artisan-soul/1200x800.jpg?1396043604
@@ -1955,8 +1955,8 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   image_small: http://api-assets.lifechurch.tv/series/being-rich/300x200.jpg?1396042535
   image_medium: http://api-assets.lifechurch.tv/series/being-rich/600x400.jpg?1396042589
   image_large: http://api-assets.lifechurch.tv/series/being-rich/1200x800.jpg?1396042616
@@ -2002,8 +2002,8 @@
   categories:
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   image_small: http://api-assets.lifechurch.tv/series/small-things/300x200.jpg?1396042267
   image_medium: http://api-assets.lifechurch.tv/series/small-things/600x400.jpg?1396042312
   image_large: http://api-assets.lifechurch.tv/series/small-things/1200x800.jpg?1396042380
@@ -2045,12 +2045,12 @@
   categories:
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 49
     name: Christine Caine
-    created_at: '2014-06-11T15:27:08.231Z'
-    updated_at: '2014-06-11T15:27:08.231Z'
+    created_at: '2014-06-11T10:27:08.231-05:00'
+    updated_at: '2014-06-11T10:27:08.231-05:00'
   image_small: http://api-assets.lifechurch.tv/series/maker-of-miracles/300x200.jpg?1438631869
   image_medium: http://api-assets.lifechurch.tv/series/maker-of-miracles/600x400.jpg?1438631897
   image_large: http://api-assets.lifechurch.tv/series/maker-of-miracles/1200x800.jpg?1438631936
@@ -2079,16 +2079,16 @@
   categories:
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/fear-not/300x200.jpg?1396042061
   image_medium: http://api-assets.lifechurch.tv/series/fear-not/600x400.jpg?1396042126
   image_large: http://api-assets.lifechurch.tv/series/fear-not/1200x800.jpg?1396042178
@@ -2126,16 +2126,16 @@
   categories:
   - id: 22
     name: Spiritual Growth
-    created_at: '2014-06-11T15:16:13.079Z'
-    updated_at: '2014-06-11T15:16:13.079Z'
+    created_at: '2014-06-11T10:16:13.079-05:00'
+    updated_at: '2014-06-11T10:16:13.079-05:00'
   - id: 50
     name: Kevin Durant
-    created_at: '2014-06-11T15:27:20.154Z'
-    updated_at: '2014-06-11T15:27:20.154Z'
+    created_at: '2014-06-11T10:27:20.154-05:00'
+    updated_at: '2014-06-11T10:27:20.154-05:00'
   - id: 74
     name: Carl Lentz
-    created_at: '2014-06-11T16:14:48.792Z'
-    updated_at: '2014-06-11T16:14:48.792Z'
+    created_at: '2014-06-11T11:14:48.792-05:00'
+    updated_at: '2014-06-11T11:14:48.792-05:00'
   image_small: http://api-assets.lifechurch.tv/series/growing-spiritually/300x200.jpg?1438362767
   image_medium: http://api-assets.lifechurch.tv/series/growing-spiritually/600x400.jpg?1438362797
   image_large: http://api-assets.lifechurch.tv/series/growing-spiritually/1200x800.jpg?1438362835
@@ -2165,8 +2165,8 @@
   categories:
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/necessary-sins/300x200.jpg?1396041700
   image_medium: http://api-assets.lifechurch.tv/series/necessary-sins/600x400.jpg?1396041749
   image_large: http://api-assets.lifechurch.tv/series/necessary-sins/1200x800.jpg?1396041777
@@ -2207,12 +2207,12 @@
   categories:
   - id: 38
     name: For Men
-    created_at: '2014-06-11T15:20:48.371Z'
-    updated_at: '2014-06-11T15:20:48.371Z'
+    created_at: '2014-06-11T10:20:48.371-05:00'
+    updated_at: '2014-06-11T10:20:48.371-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/fight/300x200.jpg?1396041413
   image_medium: http://api-assets.lifechurch.tv/series/fight/600x400.jpg?1396041470
   image_large: http://api-assets.lifechurch.tv/series/fight/1200x800.jpg?1396041534
@@ -2241,12 +2241,12 @@
   categories:
   - id: 20
     name: Tithe
-    created_at: '2014-06-11T15:15:22.933Z'
-    updated_at: '2014-06-11T15:15:22.933Z'
+    created_at: '2014-06-11T10:15:22.933-05:00'
+    updated_at: '2014-06-11T10:15:22.933-05:00'
   - id: 62
     name: Robert Morris
-    created_at: '2014-06-11T15:49:13.579Z'
-    updated_at: '2014-06-11T15:49:13.579Z'
+    created_at: '2014-06-11T10:49:13.579-05:00'
+    updated_at: '2014-06-11T10:49:13.579-05:00'
   image_small: http://api-assets.lifechurch.tv/series/multiply-2013/300x200.jpg?1396041297
   image_medium: http://api-assets.lifechurch.tv/series/multiply-2013/600x400.jpg?1396041347
   image_large: http://api-assets.lifechurch.tv/series/multiply-2013/1200x800.jpg?1396041369
@@ -2284,8 +2284,8 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   image_small: http://api-assets.lifechurch.tv/series/friending/300x200.jpg?1396040901
   image_medium: http://api-assets.lifechurch.tv/series/friending/600x400.jpg?1396041037
   image_large: http://api-assets.lifechurch.tv/series/friending/1200x800.jpg?1396041057
@@ -2327,12 +2327,12 @@
   categories:
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 51
     name: Ed Young
-    created_at: '2014-06-11T15:27:31.681Z'
-    updated_at: '2014-06-11T15:27:31.681Z'
+    created_at: '2014-06-11T10:27:31.681-05:00'
+    updated_at: '2014-06-11T10:27:31.681-05:00'
   image_small: http://api-assets.lifechurch.tv/series/rescue/300x200.jpg?1438368485
   image_medium: http://api-assets.lifechurch.tv/series/rescue/600x400.jpg?1438368519
   image_large: http://api-assets.lifechurch.tv/series/rescue/1200x800.jpg?1438368539
@@ -2361,12 +2361,12 @@
   categories:
   - id: 23
     name: Faith
-    created_at: '2014-06-11T15:16:43.996Z'
-    updated_at: '2014-06-11T15:16:43.996Z'
+    created_at: '2014-06-11T10:16:43.996-05:00'
+    updated_at: '2014-06-11T10:16:43.996-05:00'
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/elisha/300x200.jpg?1396039930
   image_medium: http://api-assets.lifechurch.tv/series/elisha/600x400.jpg?1396039995
   image_large: http://api-assets.lifechurch.tv/series/elisha/1200x800.jpg?1396040035
@@ -2408,8 +2408,8 @@
   categories:
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/on-the-road/300x200.jpg?1396039428
   image_medium: http://api-assets.lifechurch.tv/series/on-the-road/600x400.jpg?1396039710
   image_large: http://api-assets.lifechurch.tv/series/on-the-road/1200x800.jpg?1396039728
@@ -2446,12 +2446,12 @@
   categories:
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   - id: 52
     name: Bobby Gruenewald
-    created_at: '2014-06-11T15:28:00.582Z'
-    updated_at: '2014-06-11T15:28:00.582Z'
+    created_at: '2014-06-11T10:28:00.582-05:00'
+    updated_at: '2014-06-11T10:28:00.582-05:00'
   image_small: http://api-assets.lifechurch.tv/series/just-getting-started/300x200.jpg?1396038955
   image_medium: http://api-assets.lifechurch.tv/series/just-getting-started/600x400.jpg?1396039010
   image_large: http://api-assets.lifechurch.tv/series/just-getting-started/1200x800.jpg?1396039033
@@ -2480,24 +2480,24 @@
   categories:
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 53
     name: Rick Warren
-    created_at: '2014-06-11T15:28:14.901Z'
-    updated_at: '2014-06-11T15:28:14.901Z'
+    created_at: '2014-06-11T10:28:14.901-05:00'
+    updated_at: '2014-06-11T10:28:14.901-05:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   - id: 55
     name: Joel Osteen
-    created_at: '2014-06-11T15:41:20.437Z'
-    updated_at: '2014-06-11T15:41:20.437Z'
+    created_at: '2014-06-11T10:41:20.437-05:00'
+    updated_at: '2014-06-11T10:41:20.437-05:00'
   - id: 56
     name: Dave Ramsey
-    created_at: '2014-06-11T15:42:22.866Z'
-    updated_at: '2014-06-11T15:42:22.866Z'
+    created_at: '2014-06-11T10:42:22.866-05:00'
+    updated_at: '2014-06-11T10:42:22.866-05:00'
   image_small: http://api-assets.lifechurch.tv/series/helping-the-hurting/300x200.jpg?1438369094
   image_medium: http://api-assets.lifechurch.tv/series/helping-the-hurting/600x400.jpg?1438369130
   image_large: http://api-assets.lifechurch.tv/series/helping-the-hurting/1200x800.jpg?1438369159
@@ -2526,8 +2526,8 @@
   categories:
   - id: 15
     name: Family
-    created_at: '2014-06-05T19:32:01.499Z'
-    updated_at: '2014-06-05T19:32:01.499Z'
+    created_at: '2014-06-05T14:32:01.499-05:00'
+    updated_at: '2014-06-05T14:32:01.499-05:00'
   image_small: http://api-assets.lifechurch.tv/series/bless-this-home/300x200.jpg?1396038303
   image_medium: http://api-assets.lifechurch.tv/series/bless-this-home/600x400.jpg?1396038350
   image_large: http://api-assets.lifechurch.tv/series/bless-this-home/1200x800.jpg?1396038377
@@ -2568,8 +2568,8 @@
   categories:
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   image_small: http://api-assets.lifechurch.tv/series/i-am-jesus/300x200.jpg?1396037425
   image_medium: http://api-assets.lifechurch.tv/series/i-am-jesus/600x400.jpg?1396037484
   image_large: http://api-assets.lifechurch.tv/series/i-am-jesus/1200x800.jpg?1396037519
@@ -2610,12 +2610,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/new/300x200.jpg?1396037280
   image_medium: http://api-assets.lifechurch.tv/series/new/600x400.jpg?1396037336
   image_large: http://api-assets.lifechurch.tv/series/new/1200x800.jpg?1396037368
@@ -2653,8 +2653,8 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/altar-ego/300x200.jpg?1396036237
   image_medium: http://api-assets.lifechurch.tv/series/altar-ego/600x400.jpg?1396036279
   image_large: http://api-assets.lifechurch.tv/series/altar-ego/1200x800.jpg?1396036298
@@ -2695,8 +2695,8 @@
   categories:
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   image_small: http://api-assets.lifechurch.tv/series/my-story/300x200.jpg?1396036085
   image_medium: http://api-assets.lifechurch.tv/series/my-story/600x400.jpg?1396036159
   image_large: http://api-assets.lifechurch.tv/series/my-story/1200x800.jpg?1396036183
@@ -2737,16 +2737,16 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 48
     name: Ken Blanchard
-    created_at: '2014-06-11T15:26:46.456Z'
-    updated_at: '2014-06-11T15:26:46.456Z'
+    created_at: '2014-06-11T10:26:46.456-05:00'
+    updated_at: '2014-06-11T10:26:46.456-05:00'
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/lead-like-jesus/300x200.jpg?1438617235
   image_medium: http://api-assets.lifechurch.tv/series/lead-like-jesus/600x400.jpg?1438617323
   image_large: http://api-assets.lifechurch.tv/series/lead-like-jesus/1200x800.jpg?1438617348
@@ -2776,16 +2776,16 @@
   categories:
   - id: 15
     name: Family
-    created_at: '2014-06-05T19:32:01.499Z'
-    updated_at: '2014-06-05T19:32:01.499Z'
+    created_at: '2014-06-05T14:32:01.499-05:00'
+    updated_at: '2014-06-05T14:32:01.499-05:00'
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   image_small: http://api-assets.lifechurch.tv/series/like-a-child/300x200.jpg?1396035268
   image_medium: http://api-assets.lifechurch.tv/series/like-a-child/600x400.jpg?1396035345
   image_large: http://api-assets.lifechurch.tv/series/like-a-child/1200x800.jpg?1396035377
@@ -2827,12 +2827,12 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   image_small: http://api-assets.lifechurch.tv/series/because-of-you-2012/300x200.jpg?1396024682
   image_medium: http://api-assets.lifechurch.tv/series/because-of-you-2012/600x400.jpg?1396024750
   image_large: http://api-assets.lifechurch.tv/series/because-of-you-2012/1200x800.jpg?1396030792
@@ -2865,12 +2865,12 @@
   categories:
   - id: 18
     name: Death
-    created_at: '2014-06-11T15:15:02.642Z'
-    updated_at: '2014-06-11T15:15:02.642Z'
+    created_at: '2014-06-11T10:15:02.642-05:00'
+    updated_at: '2014-06-11T10:15:02.642-05:00'
   - id: 73
     name: Supernatural
-    created_at: '2014-06-11T15:52:47.494Z'
-    updated_at: '2014-06-11T15:52:47.494Z'
+    created_at: '2014-06-11T10:52:47.494-05:00'
+    updated_at: '2014-06-11T10:52:47.494-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-end/300x200.jpg?1396034855
   image_medium: http://api-assets.lifechurch.tv/series/the-end/600x400.jpg?1396034937
   image_large: http://api-assets.lifechurch.tv/series/the-end/1200x800.jpg?1396034967
@@ -2907,12 +2907,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/love-and-hate/300x200.jpg?1396034718
   image_medium: http://api-assets.lifechurch.tv/series/love-and-hate/600x400.jpg?1396034761
   image_large: http://api-assets.lifechurch.tv/series/love-and-hate/1200x800.jpg?1396034791
@@ -2946,12 +2946,12 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   - id: 20
     name: Tithe
-    created_at: '2014-06-11T15:15:22.933Z'
-    updated_at: '2014-06-11T15:15:22.933Z'
+    created_at: '2014-06-11T10:15:22.933-05:00'
+    updated_at: '2014-06-11T10:15:22.933-05:00'
   image_small: http://api-assets.lifechurch.tv/series/strapped/300x200.jpg?1396034569
   image_medium: http://api-assets.lifechurch.tv/series/strapped/600x400.jpg?1396034612
   image_large: http://api-assets.lifechurch.tv/series/strapped/1200x800.jpg?1396034664
@@ -2997,12 +2997,12 @@
   categories:
   - id: 12
     name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   image_small: http://api-assets.lifechurch.tv/series/from-this-day-forward/300x200.jpg?1396034418
   image_medium: http://api-assets.lifechurch.tv/series/from-this-day-forward/600x400.jpg?1396034477
   image_large: http://api-assets.lifechurch.tv/series/from-this-day-forward/1200x800.jpg?1396034502
@@ -3048,12 +3048,12 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 57
     name: Pierre du Plessis
-    created_at: '2014-06-11T15:47:09.892Z'
-    updated_at: '2014-06-11T15:47:09.892Z'
+    created_at: '2014-06-11T10:47:09.892-05:00'
+    updated_at: '2014-06-11T10:47:09.892-05:00'
   image_small: http://api-assets.lifechurch.tv/series/more-than-dust/300x200.jpg?1438618116
   image_medium: http://api-assets.lifechurch.tv/series/more-than-dust/600x400.jpg?1438618144
   image_large: http://api-assets.lifechurch.tv/series/more-than-dust/1200x800.jpg?1438618174
@@ -3082,12 +3082,12 @@
   categories:
   - id: 21
     name: Fruits of the Spirit
-    created_at: '2014-06-11T15:15:50.342Z'
-    updated_at: '2014-06-11T15:15:50.342Z'
+    created_at: '2014-06-11T10:15:50.342-05:00'
+    updated_at: '2014-06-11T10:15:50.342-05:00'
   - id: 34
     name: Optimistic
-    created_at: '2014-06-11T15:19:48.323Z'
-    updated_at: '2014-06-11T15:19:48.323Z'
+    created_at: '2014-06-11T10:19:48.323-05:00'
+    updated_at: '2014-06-11T10:19:48.323-05:00'
   image_small: http://api-assets.lifechurch.tv/series/perspective/300x200.jpg?1396033276
   image_medium: http://api-assets.lifechurch.tv/series/perspective/600x400.jpg?1396033518
   image_large: http://api-assets.lifechurch.tv/series/perspective/1200x800.jpg?1396033550
@@ -3129,12 +3129,12 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/forget-you/300x200.jpg?1396032329
   image_medium: http://api-assets.lifechurch.tv/series/forget-you/600x400.jpg?1396032423
   image_large: http://api-assets.lifechurch.tv/series/forget-you/1200x800.jpg?1396032471
@@ -3167,12 +3167,12 @@
   categories:
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/soul-detox/300x200.jpg?1396032146
   image_medium: http://api-assets.lifechurch.tv/series/soul-detox/600x400.jpg?1396032219
   image_large: http://api-assets.lifechurch.tv/series/soul-detox/1200x800.jpg?1396032245
@@ -3214,12 +3214,12 @@
   categories:
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   image_small: http://api-assets.lifechurch.tv/series/why-2012/300x200.jpg?1396031869
   image_medium: http://api-assets.lifechurch.tv/series/why-2012/600x400.jpg?1396031942
   image_large: http://api-assets.lifechurch.tv/series/why-2012/1200x800.jpg?1396031995
@@ -3261,12 +3261,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   image_small: http://api-assets.lifechurch.tv/series/found-favor/300x200.jpg?1396031561
   image_medium: http://api-assets.lifechurch.tv/series/found-favor/600x400.jpg?1396031652
   image_large: http://api-assets.lifechurch.tv/series/found-favor/1200x800.jpg?1396031694
@@ -3299,12 +3299,12 @@
   categories:
   - id: 38
     name: For Men
-    created_at: '2014-06-11T15:20:48.371Z'
-    updated_at: '2014-06-11T15:20:48.371Z'
+    created_at: '2014-06-11T10:20:48.371-05:00'
+    updated_at: '2014-06-11T10:20:48.371-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/samson-2012/300x200.jpg?1396031079
   image_medium: http://api-assets.lifechurch.tv/series/samson-2012/600x400.jpg?1396031139
   image_large: http://api-assets.lifechurch.tv/series/samson-2012/1200x800.jpg?1396031170
@@ -3345,12 +3345,12 @@
   categories:
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/better/300x200.jpg?1396025667
   image_medium: http://api-assets.lifechurch.tv/series/better/600x400.jpg?1396025751
   image_large: http://api-assets.lifechurch.tv/series/better/1200x800.jpg?1396025777
@@ -3391,12 +3391,12 @@
   categories:
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/300x200.jpg?1438631314
   image_medium: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/600x400.jpg?1438631341
   image_large: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/1200x800.jpg?1438631366
@@ -3425,16 +3425,16 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/carols/300x200.jpg?1396024882
   image_medium: http://api-assets.lifechurch.tv/series/carols/600x400.jpg?1396024923
   image_large: http://api-assets.lifechurch.tv/series/carols/1200x800.jpg?1396024948
@@ -3475,8 +3475,8 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   image_small: http://api-assets.lifechurch.tv/series/those-people/300x200.jpg?1396022828
   image_medium: http://api-assets.lifechurch.tv/series/those-people/600x400.jpg?1396022900
   image_large: http://api-assets.lifechurch.tv/series/those-people/1200x800.jpg?1396022945
@@ -3517,16 +3517,16 @@
   categories:
   - id: 21
     name: Fruits of the Spirit
-    created_at: '2014-06-11T15:15:50.342Z'
-    updated_at: '2014-06-11T15:15:50.342Z'
+    created_at: '2014-06-11T10:15:50.342-05:00'
+    updated_at: '2014-06-11T10:15:50.342-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 63
     name: James MacDonald
-    created_at: '2014-06-11T15:49:34.518Z'
-    updated_at: '2014-06-11T15:49:34.518Z'
+    created_at: '2014-06-11T10:49:34.518-05:00'
+    updated_at: '2014-06-11T10:49:34.518-05:00'
   image_small: http://api-assets.lifechurch.tv/series/passing-the-test/300x200.jpg?1396022464
   image_medium: http://api-assets.lifechurch.tv/series/passing-the-test/600x400.jpg?1396022525
   image_large: http://api-assets.lifechurch.tv/series/passing-the-test/1200x800.jpg?1396022575
@@ -3559,8 +3559,8 @@
   categories:
   - id: 72
     name: Leadership
-    created_at: '2014-06-11T15:52:33.291Z'
-    updated_at: '2014-06-11T15:52:33.291Z'
+    created_at: '2014-06-11T10:52:33.291-05:00'
+    updated_at: '2014-06-11T10:52:33.291-05:00'
   image_small: http://api-assets.lifechurch.tv/series/change-your-world/300x200.jpg?1396021202
   image_medium: http://api-assets.lifechurch.tv/series/change-your-world/600x400.jpg?1396021262
   image_large: http://api-assets.lifechurch.tv/series/change-your-world/1200x800.jpg?1396021294
@@ -3601,12 +3601,12 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 47
     name: Chris Hodges
-    created_at: '2014-06-11T15:26:28.191Z'
-    updated_at: '2014-06-11T15:26:28.191Z'
+    created_at: '2014-06-11T10:26:28.191-05:00'
+    updated_at: '2014-06-11T10:26:28.191-05:00'
   image_small: http://api-assets.lifechurch.tv/series/twogather/300x200.jpg?1396021016
   image_medium: http://api-assets.lifechurch.tv/series/twogather/600x400.jpg?1396021101
   image_large: http://api-assets.lifechurch.tv/series/twogather/1200x800.jpg?1396021134
@@ -3639,16 +3639,16 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/bold/300x200.jpg?1396020776
   image_medium: http://api-assets.lifechurch.tv/series/bold/600x400.jpg?1396020833
   image_large: http://api-assets.lifechurch.tv/series/bold/1200x800.jpg?1396020862
@@ -3690,24 +3690,24 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   - id: 64
     name: Miles Paludan
-    created_at: '2014-06-11T15:50:02.989Z'
-    updated_at: '2014-06-11T15:50:02.989Z'
+    created_at: '2014-06-11T10:50:02.989-05:00'
+    updated_at: '2014-06-11T10:50:02.989-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/re/300x200.jpg?1396020632
   image_medium: http://api-assets.lifechurch.tv/series/re/600x400.jpg?1396020704
   image_large: http://api-assets.lifechurch.tv/series/re/1200x800.jpg?1396020726
@@ -3749,16 +3749,16 @@
   categories:
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   - id: 75
     name: Spiritual Warfare
-    created_at: '2014-08-05T18:45:34.299Z'
-    updated_at: '2014-08-05T20:06:31.641Z'
+    created_at: '2014-08-05T13:45:34.299-05:00'
+    updated_at: '2014-08-05T15:06:31.641-05:00'
   image_small: http://api-assets.lifechurch.tv/series/getting-past-your-past/300x200.jpg?1396019390
   image_medium: http://api-assets.lifechurch.tv/series/getting-past-your-past/600x400.jpg?1396019450
   image_large: http://api-assets.lifechurch.tv/series/getting-past-your-past/1200x800.jpg?1396019479
@@ -3799,20 +3799,20 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 56
     name: Dave Ramsey
-    created_at: '2014-06-11T15:42:22.866Z'
-    updated_at: '2014-06-11T15:42:22.866Z'
+    created_at: '2014-06-11T10:42:22.866-05:00'
+    updated_at: '2014-06-11T10:42:22.866-05:00'
   image_small: http://api-assets.lifechurch.tv/series/weird/300x200.jpg?1396018778
   image_medium: http://api-assets.lifechurch.tv/series/weird/600x400.jpg?1396018846
   image_large: http://api-assets.lifechurch.tv/series/weird/1200x800.jpg?1396018886
@@ -3857,16 +3857,16 @@
   categories:
   - id: 21
     name: Fruits of the Spirit
-    created_at: '2014-06-11T15:15:50.342Z'
-    updated_at: '2014-06-11T15:15:50.342Z'
+    created_at: '2014-06-11T10:15:50.342-05:00'
+    updated_at: '2014-06-11T10:15:50.342-05:00'
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   image_small: http://api-assets.lifechurch.tv/series/sun-stand-still/300x200.jpg?1396016407
   image_medium: http://api-assets.lifechurch.tv/series/sun-stand-still/600x400.jpg?1396016463
   image_large: http://api-assets.lifechurch.tv/series/sun-stand-still/1200x800.jpg?1396016485
@@ -3899,12 +3899,12 @@
   categories:
   - id: 31
     name: Insecurity
-    created_at: '2014-06-11T15:18:45.147Z'
-    updated_at: '2014-06-11T15:18:45.147Z'
+    created_at: '2014-06-11T10:18:45.147-05:00'
+    updated_at: '2014-06-11T10:18:45.147-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   image_small: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/300x200.jpg?1396015782
   image_medium: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/600x400.jpg?1396015845
   image_large: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/1200x800.jpg?1396015877
@@ -3948,12 +3948,12 @@
   categories:
   - id: 30
     name: Fears
-    created_at: '2014-06-11T15:18:18.611Z'
-    updated_at: '2014-06-11T15:18:18.611Z'
+    created_at: '2014-06-11T10:18:18.611-05:00'
+    updated_at: '2014-06-11T10:18:18.611-05:00'
   - id: 60
     name: Sam Roberts
-    created_at: '2014-06-11T15:48:49.991Z'
-    updated_at: '2014-06-11T15:48:49.991Z'
+    created_at: '2014-06-11T10:48:49.991-05:00'
+    updated_at: '2014-06-11T10:48:49.991-05:00'
   image_small: http://api-assets.lifechurch.tv/series/i-quit/300x200.jpg?1396018576
   image_medium: http://api-assets.lifechurch.tv/series/i-quit/600x400.jpg?1396018624
   image_large: http://api-assets.lifechurch.tv/series/i-quit/1200x800.jpg?1396018673
@@ -3996,8 +3996,8 @@
   categories:
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   image_small: http://api-assets.lifechurch.tv/series/xv/300x200.jpg?1438632750
   image_medium: http://api-assets.lifechurch.tv/series/xv/600x400.jpg?1438632769
   image_large: http://api-assets.lifechurch.tv/series/xv/1200x800.jpg?1438632790
@@ -4027,8 +4027,8 @@
   categories:
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   image_small: http://api-assets.lifechurch.tv/series/first/300x200.jpg?1396013916
   image_medium: http://api-assets.lifechurch.tv/series/first/600x400.jpg?1396014102
   image_large: http://api-assets.lifechurch.tv/series/first/1200x800.jpg?1396014131
@@ -4057,12 +4057,12 @@
   categories:
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 47
     name: Chris Hodges
-    created_at: '2014-06-11T15:26:28.191Z'
-    updated_at: '2014-06-11T15:26:28.191Z'
+    created_at: '2014-06-11T10:26:28.191-05:00'
+    updated_at: '2014-06-11T10:26:28.191-05:00'
   image_small: http://api-assets.lifechurch.tv/series/never-lose-heart/300x200.jpg?1438633231
   image_medium: http://api-assets.lifechurch.tv/series/never-lose-heart/600x400.jpg?1438633268
   image_large: http://api-assets.lifechurch.tv/series/never-lose-heart/1200x800.jpg?1438633295
@@ -4091,20 +4091,20 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 26
     name: Hope
-    created_at: '2014-06-11T15:17:15.185Z'
-    updated_at: '2014-06-11T15:17:15.185Z'
+    created_at: '2014-06-11T10:17:15.185-05:00'
+    updated_at: '2014-06-11T10:17:15.185-05:00'
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/christmas10/300x200.jpg?1395958092
   image_medium: http://api-assets.lifechurch.tv/series/christmas10/600x400.jpg?1395958139
   image_large: http://api-assets.lifechurch.tv/series/christmas10/1200x800.jpg?1395958159
@@ -4132,16 +4132,16 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   - id: 33
     name: Pain
-    created_at: '2014-06-11T15:19:30.049Z'
-    updated_at: '2014-06-11T15:19:30.049Z'
+    created_at: '2014-06-11T10:19:30.049-05:00'
+    updated_at: '2014-06-11T10:19:30.049-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/masquerade/300x200.jpg?1395956137
   image_medium: http://api-assets.lifechurch.tv/series/masquerade/600x400.jpg?1395956192
   image_large: http://api-assets.lifechurch.tv/series/masquerade/1200x800.jpg?1395956220
@@ -4186,20 +4186,20 @@
   categories:
   - id: 21
     name: Fruits of the Spirit
-    created_at: '2014-06-11T15:15:50.342Z'
-    updated_at: '2014-06-11T15:15:50.342Z'
+    created_at: '2014-06-11T10:15:50.342-05:00'
+    updated_at: '2014-06-11T10:15:50.342-05:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   - id: 59
     name: Judah Smith
-    created_at: '2014-06-11T15:48:39.506Z'
-    updated_at: '2014-06-11T15:48:39.506Z'
+    created_at: '2014-06-11T10:48:39.506-05:00'
+    updated_at: '2014-06-11T10:48:39.506-05:00'
   - id: 65
     name: Dino Rizzo
-    created_at: '2014-06-11T15:50:20.388Z'
-    updated_at: '2014-06-11T15:50:20.388Z'
+    created_at: '2014-06-11T10:50:20.388-05:00'
+    updated_at: '2014-06-11T10:50:20.388-05:00'
   image_small: http://api-assets.lifechurch.tv/series/planted/300x200.jpg?1395955990
   image_medium: http://api-assets.lifechurch.tv/series/planted/600x400.jpg?1395956048
   image_large: http://api-assets.lifechurch.tv/series/planted/1200x800.jpg?1395956078
@@ -4233,8 +4233,8 @@
   categories:
   - id: 39
     name: Purpose
-    created_at: '2014-06-11T15:21:10.086Z'
-    updated_at: '2014-06-11T15:21:10.086Z'
+    created_at: '2014-06-11T10:21:10.086-05:00'
+    updated_at: '2014-06-11T10:21:10.086-05:00'
   image_small: http://api-assets.lifechurch.tv/series/chazown/300x200.jpg?1395955851
   image_medium: http://api-assets.lifechurch.tv/series/chazown/600x400.jpg?1395956613
   image_large: http://api-assets.lifechurch.tv/series/chazown/1200x800.jpg?1395955909
@@ -4264,16 +4264,16 @@
   categories:
   - id: 15
     name: Family
-    created_at: '2014-06-05T19:32:01.499Z'
-    updated_at: '2014-06-05T19:32:01.499Z'
+    created_at: '2014-06-05T14:32:01.499-05:00'
+    updated_at: '2014-06-05T14:32:01.499-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 66
     name: Dr. Samuel R. Chand
-    created_at: '2014-06-11T15:50:32.197Z'
-    updated_at: '2014-06-11T15:50:32.197Z'
+    created_at: '2014-06-11T10:50:32.197-05:00'
+    updated_at: '2014-06-11T10:50:32.197-05:00'
   image_small: http://api-assets.lifechurch.tv/series/i-believe-in-you/300x200.jpg?1395955702
   image_medium: http://api-assets.lifechurch.tv/series/i-believe-in-you/600x400.jpg?1395955753
   image_large: http://api-assets.lifechurch.tv/series/i-believe-in-you/1200x800.jpg?1395955780
@@ -4314,12 +4314,12 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 36
     name: Thoughts
-    created_at: '2014-06-11T15:20:28.824Z'
-    updated_at: '2014-06-11T15:20:28.824Z'
+    created_at: '2014-06-11T10:20:28.824-05:00'
+    updated_at: '2014-06-11T10:20:28.824-05:00'
   image_small: http://api-assets.lifechurch.tv/series/toxic/300x200.jpg?1395955541
   image_medium: http://api-assets.lifechurch.tv/series/toxic/600x400.jpg?1395955585
   image_large: http://api-assets.lifechurch.tv/series/toxic/1200x800.jpg?1395955605
@@ -4364,20 +4364,20 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 54
     name: Steven Furtick
-    created_at: '2014-06-11T15:35:51.030Z'
-    updated_at: '2014-06-11T15:35:51.030Z'
+    created_at: '2014-06-11T10:35:51.030-05:00'
+    updated_at: '2014-06-11T10:35:51.030-05:00'
   - id: 67
     name: Ray Johnston
-    created_at: '2014-06-11T15:50:48.524Z'
-    updated_at: '2014-06-11T15:50:48.524Z'
+    created_at: '2014-06-11T10:50:48.524-05:00'
+    updated_at: '2014-06-11T10:50:48.524-05:00'
   - id: 68
     name: Brian Houston
-    created_at: '2014-06-11T15:51:04.977Z'
-    updated_at: '2014-06-11T15:51:04.977Z'
+    created_at: '2014-06-11T10:51:04.977-05:00'
+    updated_at: '2014-06-11T10:51:04.977-05:00'
   image_small: http://api-assets.lifechurch.tv/series/one-prayer-10/300x200.jpg?1395955200
   image_medium: http://api-assets.lifechurch.tv/series/one-prayer-10/600x400.jpg?1395955247
   image_large: http://api-assets.lifechurch.tv/series/one-prayer-10/1200x800.jpg?1395955275
@@ -4418,16 +4418,16 @@
   categories:
   - id: 17
     name: Dating
-    created_at: '2014-06-11T15:14:52.700Z'
-    updated_at: '2014-06-11T15:14:52.700Z'
+    created_at: '2014-06-11T10:14:52.700-05:00'
+    updated_at: '2014-06-11T10:14:52.700-05:00'
   - id: 45
     name: Virtues
-    created_at: '2014-06-11T15:25:27.460Z'
-    updated_at: '2014-06-11T15:25:27.460Z'
+    created_at: '2014-06-11T10:25:27.460-05:00'
+    updated_at: '2014-06-11T10:25:27.460-05:00'
   - id: 69
     name: Amy Groeschel
-    created_at: '2014-06-11T15:51:17.593Z'
-    updated_at: '2014-06-11T15:51:17.593Z'
+    created_at: '2014-06-11T10:51:17.593-05:00'
+    updated_at: '2014-06-11T10:51:17.593-05:00'
   image_small: http://api-assets.lifechurch.tv/series/forgotten-virtues/300x200.jpg?1395954850
   image_medium: http://api-assets.lifechurch.tv/series/forgotten-virtues/600x400.jpg?1395954906
   image_large: http://api-assets.lifechurch.tv/series/forgotten-virtues/1200x800.jpg?1395955104
@@ -4472,12 +4472,12 @@
   categories:
   - id: 18
     name: Death
-    created_at: '2014-06-11T15:15:02.642Z'
-    updated_at: '2014-06-11T15:15:02.642Z'
+    created_at: '2014-06-11T10:15:02.642-05:00'
+    updated_at: '2014-06-11T10:15:02.642-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/faq/300x200.jpg?1395955372
   image_medium: http://api-assets.lifechurch.tv/series/faq/600x400.jpg?1395955419
   image_large: http://api-assets.lifechurch.tv/series/faq/1200x800.jpg?1395955438
@@ -4515,20 +4515,20 @@
   categories:
   - id: 18
     name: Death
-    created_at: '2014-06-11T15:15:02.642Z'
-    updated_at: '2014-06-11T15:15:02.642Z'
+    created_at: '2014-06-11T10:15:02.642-05:00'
+    updated_at: '2014-06-11T10:15:02.642-05:00'
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 64
     name: Miles Paludan
-    created_at: '2014-06-11T15:50:02.989Z'
-    updated_at: '2014-06-11T15:50:02.989Z'
+    created_at: '2014-06-11T10:50:02.989-05:00'
+    updated_at: '2014-06-11T10:50:02.989-05:00'
   - id: 70
     name: Joel A'Bell
-    created_at: '2014-06-11T15:51:31.851Z'
-    updated_at: '2014-06-11T15:51:31.851Z'
+    created_at: '2014-06-11T10:51:31.851-05:00'
+    updated_at: '2014-06-11T10:51:31.851-05:00'
   image_small: http://api-assets.lifechurch.tv/series/red-letter-day/300x200.jpg?1395954671
   image_medium: http://api-assets.lifechurch.tv/series/red-letter-day/600x400.jpg?1395954722
   image_large: http://api-assets.lifechurch.tv/series/red-letter-day/1200x800.jpg?1395954745
@@ -4574,12 +4574,12 @@
   categories:
   - id: 12
     name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   image_small: http://api-assets.lifechurch.tv/series/once-upon-a-marriage/300x200.jpg?1395954447
   image_medium: http://api-assets.lifechurch.tv/series/once-upon-a-marriage/600x400.jpg?1395954510
   image_large: http://api-assets.lifechurch.tv/series/once-upon-a-marriage/1200x800.jpg?1395954560
@@ -4621,8 +4621,8 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   image_small: http://api-assets.lifechurch.tv/series/margin/300x200.jpg?1395954017
   image_medium: http://api-assets.lifechurch.tv/series/margin/600x400.jpg?1395954063
   image_large: http://api-assets.lifechurch.tv/series/margin/1200x800.jpg?1395954090
@@ -4664,8 +4664,8 @@
   categories:
   - id: 42
     name: Disciplines
-    created_at: '2014-06-11T15:23:03.968Z'
-    updated_at: '2014-06-11T15:23:03.968Z'
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
   image_small: http://api-assets.lifechurch.tv/series/one-thing/300x200.jpg?1395952110
   image_medium: http://api-assets.lifechurch.tv/series/one-thing/600x400.jpg?1395936667
   image_large: http://api-assets.lifechurch.tv/series/one-thing/1200x800.jpg?1395936568
@@ -4693,12 +4693,12 @@
   categories:
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 77
     name: Christmas
-    created_at: '2015-10-20T19:18:40.447Z'
-    updated_at: '2015-10-20T19:18:40.447Z'
+    created_at: '2015-10-20T14:18:40.447-05:00'
+    updated_at: '2015-10-20T14:18:40.447-05:00'
   image_small: http://api-assets.lifechurch.tv/series/this-christmas/300x200.jpg?1395945033
   image_medium: http://api-assets.lifechurch.tv/series/this-christmas/600x400.jpg?1395945103
   image_large: http://api-assets.lifechurch.tv/series/this-christmas/1200x800.jpg?1395945170
@@ -4766,16 +4766,16 @@
   categories:
   - id: 41
     name: God
-    created_at: '2014-06-11T15:22:41.520Z'
-    updated_at: '2014-06-11T15:22:41.520Z'
+    created_at: '2014-06-11T10:22:41.520-05:00'
+    updated_at: '2014-06-11T10:22:41.520-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   - id: 64
     name: Miles Paludan
-    created_at: '2014-06-11T15:50:02.989Z'
-    updated_at: '2014-06-11T15:50:02.989Z'
+    created_at: '2014-06-11T10:50:02.989-05:00'
+    updated_at: '2014-06-11T10:50:02.989-05:00'
   image_small: http://api-assets.lifechurch.tv/series/carbon-copy/300x200.jpg?1395946430
   image_medium: http://api-assets.lifechurch.tv/series/carbon-copy/600x400.jpg?1395946485
   image_large: http://api-assets.lifechurch.tv/series/carbon-copy/1200x800.jpg?1395946538
@@ -4809,8 +4809,8 @@
   categories:
   - id: 73
     name: Supernatural
-    created_at: '2014-06-11T15:52:47.494Z'
-    updated_at: '2014-06-11T15:52:47.494Z'
+    created_at: '2014-06-11T10:52:47.494-05:00'
+    updated_at: '2014-06-11T10:52:47.494-05:00'
   image_small: http://api-assets.lifechurch.tv/series/ghost/300x200.jpg?1395946626
   image_medium: http://api-assets.lifechurch.tv/series/ghost/600x400.jpg?1395946673
   image_large: http://api-assets.lifechurch.tv/series/ghost/1200x800.jpg?1395946702
@@ -4852,16 +4852,16 @@
   categories:
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 61
     name: Chris Beall
-    created_at: '2014-06-11T15:49:00.818Z'
-    updated_at: '2014-06-11T15:49:00.818Z'
+    created_at: '2014-06-11T10:49:00.818-05:00'
+    updated_at: '2014-06-11T10:49:00.818-05:00'
   - id: 71
     name: Andy Stanley
-    created_at: '2014-06-11T15:52:23.089Z'
-    updated_at: '2014-06-11T15:52:23.089Z'
+    created_at: '2014-06-11T10:52:23.089-05:00'
+    updated_at: '2014-06-11T10:52:23.089-05:00'
   image_small: http://api-assets.lifechurch.tv/series/place-for-everyone/300x200.jpg?1395946819
   image_medium: http://api-assets.lifechurch.tv/series/place-for-everyone/600x400.jpg?1395946866
   image_large: http://api-assets.lifechurch.tv/series/place-for-everyone/1200x800.jpg?1395946917
@@ -4896,12 +4896,12 @@
   categories:
   - id: 12
     name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
   - id: 13
     name: Sins
-    created_at: '2014-06-05T19:20:27.559Z'
-    updated_at: '2014-06-11T16:19:31.726Z'
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
   image_small: http://api-assets.lifechurch.tv/series/five-easy-steps/300x200.jpg?1395949098
   image_medium: http://api-assets.lifechurch.tv/series/five-easy-steps/600x400.jpg?1395949158
   image_large: http://api-assets.lifechurch.tv/series/five-easy-steps/1200x800.jpg?1395949182
@@ -4944,16 +4944,16 @@
   categories:
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 49
     name: Christine Caine
-    created_at: '2014-06-11T15:27:08.231Z'
-    updated_at: '2014-06-11T15:27:08.231Z'
+    created_at: '2014-06-11T10:27:08.231-05:00'
+    updated_at: '2014-06-11T10:27:08.231-05:00'
   image_small: http://api-assets.lifechurch.tv/series/stop-acting-like-a-christian/300x200.jpg?1395949281
   image_medium: http://api-assets.lifechurch.tv/series/stop-acting-like-a-christian/600x400.jpg?1395949351
   image_large: http://api-assets.lifechurch.tv/series/stop-acting-like-a-christian/1200x800.jpg?1395949381
@@ -4987,16 +4987,16 @@
   categories:
   - id: 28
     name: Serving
-    created_at: '2014-06-11T15:17:48.142Z'
-    updated_at: '2014-06-11T15:17:48.142Z'
+    created_at: '2014-06-11T10:17:48.142-05:00'
+    updated_at: '2014-06-11T10:17:48.142-05:00'
   - id: 44
     name: Witnessing
-    created_at: '2014-06-11T15:25:15.255Z'
-    updated_at: '2014-06-11T15:25:15.255Z'
+    created_at: '2014-06-11T10:25:15.255-05:00'
+    updated_at: '2014-06-11T10:25:15.255-05:00'
   - id: 46
     name: Church Vision
-    created_at: '2014-06-11T15:25:52.761Z'
-    updated_at: '2014-06-11T15:25:52.761Z'
+    created_at: '2014-06-11T10:25:52.761-05:00'
+    updated_at: '2014-06-11T10:25:52.761-05:00'
   image_small: http://api-assets.lifechurch.tv/series/behind-the-curtain/300x200.jpg?1395949464
   image_medium: http://api-assets.lifechurch.tv/series/behind-the-curtain/600x400.jpg?1395949509
   image_large: http://api-assets.lifechurch.tv/series/behind-the-curtain/1200x800.jpg?1395949530
@@ -5034,12 +5034,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   image_small: http://api-assets.lifechurch.tv/series/one-prayer-09/300x200.jpg?1395949925
   image_medium: http://api-assets.lifechurch.tv/series/one-prayer-09/600x400.jpg?1395949977
   image_large: http://api-assets.lifechurch.tv/series/one-prayer-09/1200x800.jpg?1395949997
@@ -5080,12 +5080,12 @@
   categories:
   - id: 14
     name: Worship
-    created_at: '2014-06-05T19:23:33.805Z'
-    updated_at: '2014-06-05T19:23:33.805Z'
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
   - id: 40
     name: Miracles
-    created_at: '2014-06-11T15:21:20.475Z'
-    updated_at: '2014-06-11T15:21:20.475Z'
+    created_at: '2014-06-11T10:21:20.475-05:00'
+    updated_at: '2014-06-11T10:21:20.475-05:00'
   image_small: http://api-assets.lifechurch.tv/series/elijah/300x200.jpg?1395950082
   image_medium: http://api-assets.lifechurch.tv/series/elijah/600x400.jpg?1395950122
   image_large: http://api-assets.lifechurch.tv/series/elijah/1200x800.jpg?1395950151
@@ -5128,12 +5128,12 @@
   categories:
   - id: 2
     name: Knowing God
-    created_at: '2014-02-03T22:38:58.863Z'
-    updated_at: '2014-02-03T22:38:58.863Z'
+    created_at: '2014-02-03T16:38:58.863-06:00'
+    updated_at: '2014-02-03T16:38:58.863-06:00'
   - id: 43
     name: Trials
-    created_at: '2014-06-11T15:23:13.523Z'
-    updated_at: '2014-06-11T15:23:13.523Z'
+    created_at: '2014-06-11T10:23:13.523-05:00'
+    updated_at: '2014-06-11T10:23:13.523-05:00'
   image_small: http://api-assets.lifechurch.tv/series/can-you-see-him/300x200.jpg?1395950540
   image_medium: http://api-assets.lifechurch.tv/series/can-you-see-him/600x400.jpg?1395950764
   image_large: http://api-assets.lifechurch.tv/series/can-you-see-him/1200x800.jpg?1395950790
@@ -5174,12 +5174,12 @@
   categories:
   - id: 5
     name: Money
-    created_at: '2014-02-03T22:38:58.881Z'
-    updated_at: '2014-06-05T19:12:14.043Z'
+    created_at: '2014-02-03T16:38:58.881-06:00'
+    updated_at: '2014-06-05T14:12:14.043-05:00'
   - id: 56
     name: Dave Ramsey
-    created_at: '2014-06-11T15:42:22.866Z'
-    updated_at: '2014-06-11T15:42:22.866Z'
+    created_at: '2014-06-11T10:42:22.866-05:00'
+    updated_at: '2014-06-11T10:42:22.866-05:00'
   image_small: http://api-assets.lifechurch.tv/series/life-money-hope/300x200.jpg?1395950860
   image_medium: http://api-assets.lifechurch.tv/series/life-money-hope/600x400.jpg?1395950919
   image_large: http://api-assets.lifechurch.tv/series/life-money-hope/1200x800.jpg?1395950946
@@ -5218,12 +5218,12 @@
   categories:
   - id: 12
     name: Marriage
-    created_at: '2014-06-05T19:14:26.586Z'
-    updated_at: '2014-06-05T19:14:26.586Z'
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
   - id: 1
     name: Relationships
-    created_at: '2014-02-03T22:38:58.852Z'
-    updated_at: '2014-06-05T19:41:17.695Z'
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
   image_small: http://api-assets.lifechurch.tv/series/the-vow/300x200.jpg?1395951072
   image_medium: http://api-assets.lifechurch.tv/series/the-vow/600x400.jpg?1395951126
   image_large: http://api-assets.lifechurch.tv/series/the-vow/1200x800.jpg?1395951144
