@@ -23,7 +23,7 @@
 <meta itemprop="description" content="{{ series.description_medium }}">
 {% endif %} {% endfor %} {% else %}
 
-<!-- Locations Facebook Fix -->  
+<!-- Locations Facebook Fix -->
 {% if location.id == 'locations' %} {% for location in site.data.locations %} {% if location.id == page.location-id %}
   <meta property="og:title" content="Life.Church {{ page.title }}" />
   <meta property="og:type" content="website" />
@@ -45,7 +45,7 @@
 
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:type" content="article" />
+<meta property="og:type" content="website" />
 <meta property="og:url" content="http://www.life.church{{ page.url }}" />
 {% if page.image_social %}<meta property="og:image" content="{{ page.image_social }}" />{% endif %}
 {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
