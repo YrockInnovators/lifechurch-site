@@ -178,6 +178,7 @@ function populateResultContent(html, item) {
     html = injectContent(html, item.description_medium, '##Description##');
     html = injectContent(html, item.recipient, '##Recipient##');
     html = injectContent(html, item.tags, '##Tags##');
+    html = injectContent(html, item.cause, '##Cause##');
     return html;
 }
 
