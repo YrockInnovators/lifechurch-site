@@ -167,6 +167,7 @@
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
+    cause: 
     tags: food,clothing,shelter,oklahoma,tulsa
   - id: 37
     title: Owasso Community Resources
@@ -175,6 +176,7 @@
     description_medium: Offer services for families and individuals facing economic
       hardship. This program works to fight hunger, prevent homelessness, and to restore
       hope to families and individuals on their path to self-sufficiency.
+    cause: 
     tags: outreach,community,involvement,neighborhood,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
@@ -182,6 +184,7 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
+    cause: 
     tags: mentoring,education,oklahoma,tulsa
   - id: 81
     title: Night Light Tulsa
@@ -189,6 +192,7 @@
     url: ''
     description_medium: Build relationships with members of Tulsa’s homeless community
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
+    cause: 
     tags: food,clothing,shelter,owasso,oklahoma,tulsa
 - id: jnk
   f1_campus_id: 30850
@@ -314,6 +318,7 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
+    cause: 
     tags: mentoring,education,reading,oklahoma,tulsa
   - id: 84
     title: Tulsa Hills Youth Ranch
@@ -321,6 +326,7 @@
     url: ''
     description_medium: Help provide a welcoming place for kids to feel loved, accepted,
       and heard through a purposeful relationship with a mentor.
+    cause: 
     tags: mentoring,education,jenks,oklahoma,tulsa
 - id: bnb
   f1_campus_id: 39919
@@ -386,6 +392,7 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+    cause: 
     tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
@@ -393,6 +400,7 @@
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 3
     title: Whiz Kids
@@ -401,6 +409,7 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 83
     title: Little Light Christian School
@@ -408,6 +417,7 @@
     url: ''
     description_medium: Pour into the lives of children with incarcerated parents
       and help break the cycle of incarceration in Oklahoma through mentoring relationships.
+    cause: 
     tags: mentoring,education,broadway,britton,oklahoma,okc
   - id: 35
     title: City Rescue Mission
@@ -416,6 +426,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+    cause: 
     tags: food,clothing,shelter,oklahoma,okc
 - id: ykn
   f1_campus_id: 13160
@@ -529,6 +540,7 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
+    cause: 
     tags: mentoring,education,autism,oklahoma,okc
   - id: 13
     title: Youth & Family Services
@@ -536,6 +548,7 @@
     url: http://www.yfsok.org/
     description_medium: Support families and children in foster care and engage in
       the foster care system on multiple levels.
+    cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
 - id: tul
   f1_campus_id: 4347
@@ -661,6 +674,7 @@
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
+    cause: 
     tags: food,clothing,shelter,oklahoma,tulsa
   - id: 39
     title: Emergency Infant Services
@@ -669,6 +683,7 @@
     description_medium: Provide basic needs for infants and children through 5 years
       of age whose families are in crisis by organizing donations and meeting with
       families.
+    cause: 
     tags: food,clothing,shelter,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
@@ -676,6 +691,7 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
+    cause: 
     tags: mentoring,education,oklahoma,tulsa
   - id: 79
     title: Crisis Pregnancy Outreach
@@ -683,6 +699,7 @@
     url: ''
     description_medium: Minister to young women in the Tulsa community who find themselves
       in crisis pregnancies and help them make godly decisions.
+    cause: 
     tags: tulsa,pregnancy,outreach,oklahoma
   - id: 82
     title: 111Tulsa
@@ -691,6 +708,7 @@
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
       caring for these children.
+    cause: Adoption/Fostering
     tags: adoption,fostering,tulsa
 - id: noc
   f1_campus_id: 4350
@@ -804,6 +822,7 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+    cause: 
     tags: neighborhood,community,involvement,oklahoma,okc
   - id: 9
     title: Tulakes Elementary
@@ -811,6 +830,7 @@
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
       an under-resourced environment.
+    cause: 
     tags: mentoring,education,oklahoma,school,okc
   - id: 3
     title: Whiz Kids
@@ -819,6 +839,7 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 4
     title: The Mentoring Project
@@ -826,6 +847,7 @@
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 8
     title: Novo Ministries
@@ -833,6 +855,7 @@
     url: http://www.novoministries.org/
     description_medium: Connect passionate individuals with inner-city communities
       by helping facilitate weekly after-school programs.
+    cause: 
     tags: mentoring,education,neighborhood,community,involvement,oklahoma,okc
   - id: 66
     title: True North Ministries
@@ -840,6 +863,7 @@
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
+    cause: 
     tags: spiritual,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
@@ -930,6 +954,7 @@
     description_medium: 'Help care for and mentor kids in our community by providing
       them with consistent and loving relationships. Kids in crisis can find shelter
       and safety at SafePlace. '
+    cause: Adoption/Fostering
     tags: adoption,fostering,florida,wellington
 - id: klr
   f1_campus_id: 34645
@@ -996,6 +1021,7 @@
     description_medium: Help women and children in crisis discover discover their
       paths to permanent, positive change through a safe refuge, practical resources,
       and healing relationships.
+    cause: 
     tags: recovery,transitional,living,texas,dfw
 - id: mus
   f1_campus_id: 42406
@@ -1097,6 +1123,7 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
+    cause: 
     tags: mentoring,education,autism,oklahoma,okc
   - id: 71
     title: Evany Clinic
@@ -1104,6 +1131,7 @@
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
+    cause: 
     tags: pregnancy,care,oklahoma,okc
   - id: 66
     title: True North Ministries
@@ -1111,6 +1139,7 @@
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
+    cause: 
     tags: spiritual,development,oklahoma,okc
 - id: alb
   f1_campus_id: 4341
@@ -1212,6 +1241,7 @@
     url: http://www.cdyfc.org/
     description_medium: Work together with local churches to raise up lifelong followers
       of Christ through mentoring and building relationships with young people.
+    cause: 
     tags: mentoring,education,newyork,albany
   - id: 31
     title: Habitat for Humanity
@@ -1219,6 +1249,7 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
+    cause: 
     tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 30
     title: City Mission of Schenectady
@@ -1227,6 +1258,7 @@
     description_medium: City Missions provides for the needs of the hungry and homeless
       in our community. Their mission is to help people get out of poverty - and stay
       out.
+    cause: 
     tags: food,clothing,shelter,newyork,albany
 - id: mor
   f1_campus_id: 34644
@@ -1353,6 +1385,7 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
+    cause: 
     tags: neighborhood,community,involvement,oklahoma,okc
   - id: 47
     title: Stand in the Gap Ministries
@@ -1360,6 +1393,7 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: 
     tags: mentoring,education,oklahoma,okc,tulsa
   - id: 77
     title: Mission Norman
@@ -1367,6 +1401,7 @@
     url: ''
     description_medium: Spread the love of Christ by ministering to the physical and
       spiritual needs of people living in our community.
+    cause: 
     tags: spiritual,development,oklahoma,okc
   - id: 64
     title: Loveworks Leadership
@@ -1375,6 +1410,7 @@
     description_medium: Provide tutoring and mentorship for school-age children in
       the Norman area geared towards developing life and leadership skills through
       academic, leadership and community programs.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
@@ -1383,6 +1419,7 @@
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
 - id: edm
   f1_campus_id: 4342
@@ -1484,6 +1521,7 @@
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
@@ -1491,6 +1529,7 @@
     url: http://www.lilyfield.org/
     description_medium: Provide and support stable, loving families for infants and
       children through adoptive and foster care placements.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
   - id: 34
     title: The Spero Project
@@ -1498,6 +1537,7 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+    cause: 
     tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
@@ -1505,6 +1545,7 @@
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 3
     title: Whiz Kids
@@ -1513,6 +1554,7 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 4
     title: The Mentoring Project
@@ -1520,6 +1562,7 @@
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 35
     title: City Rescue Mission
@@ -1528,6 +1571,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+    cause: 
     tags: food,clothing,shelter,oklahoma,okc
 - id: bao
   f1_campus_id: 17716
@@ -1653,6 +1697,7 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
+    cause: 
     tags: mentoring,education,reading,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
@@ -1660,6 +1705,7 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
+    cause: 
     tags: mentoring,education,oklahoma,tulsa
   - id: 75
     title: Big Brothers Big Sisters of Oklahoma
@@ -1667,6 +1713,7 @@
     url: ''
     description_medium: 'Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships. '
+    cause: 
     tags: mentoring,education,oklahoma,tulsa
   - id: 82
     title: 111Tulsa
@@ -1675,6 +1722,7 @@
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
       caring for these children.
+    cause: Adoption/Fostering
     tags: adoption,fostering,tulsa
 - id: wch
   f1_campus_id: 41150
@@ -1729,6 +1777,7 @@
     description_medium: Provide children with strong and enduring one-on-one relationships
       that can change their lives for the better—forever. Each volunteer will mentor
       a child.
+    cause: 
     tags: mentoring,education,kansas
   - id: 70
     title: Kansas Big Brothers Big Sisters
@@ -1736,6 +1785,7 @@
     url: ''
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
+    cause: 
     tags: mentoring,education,big,kansas
 - id: RRN
   f1_campus_id: 57831
@@ -1777,6 +1827,7 @@
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
+    cause: 
     tags: pregnancy,care,newmexico,riorancho
   - id: 73
     title: ReadWest
@@ -1784,6 +1835,7 @@
     url: ''
     description_medium: Provide quality one-on-one tutoring for adults seeking to
       transform their lives through enhanced literacy skills.
+    cause: 
     tags: mentoring,education,newmexico,riorancho
 - id: shw
   f1_campus_id: 60358
@@ -2003,6 +2055,7 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
+    cause: 
     tags: mentoring,education,autism,oklahoma,okc
   - id: 54
     title: Peppers Ranch
@@ -2010,6 +2063,7 @@
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
   - id: 3
     title: Whiz Kids
@@ -2018,6 +2072,7 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 56
     title: Edmond Mobile Meals
@@ -2025,6 +2080,7 @@
     url: www.edmondmobilemeals.org
     description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
       and recuperating adults while building relationships each visit.
+    cause: 
     tags: food,clothing,shelter,oklahoma,okc
   - id: 66
     title: True North Ministries
@@ -2032,6 +2088,7 @@
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
+    cause: 
     tags: spiritual,development,oklahoma,okc
   - id: 80
     title: Bethel Foundation
@@ -2039,6 +2096,7 @@
     url: ''
     description_medium: Help single mothers and their children through life skills
       mentoring and assisting to meet their basic needs.
+    cause: 
     tags: single,mom,moms,oklahoma,okc
   - id: 78
     title: LifeTroops
@@ -2047,6 +2105,7 @@
     description_medium: Help soldiers returning from combat and family members through
       spiritual mentorship, counseling, educational and other programs that will “bridge
       the gap” between reintegration and everyday life.
+    cause: 
     tags: military,depression,oklahoma,okc
 - id: soc
   f1_campus_id: 4349
@@ -2160,6 +2219,7 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: 
     tags: mentoring,education,oklahoma,okc,tulsa
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
@@ -2167,6 +2227,7 @@
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 69
     title: OKC Dream Center
@@ -2175,6 +2236,7 @@
     description_medium: Build relationships with people in need to help restore their
       emotional, spiritual, and physical well-being through community outreach, hunger
       relief services, or youth mentoring and coaching.
+    cause: 
     tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
   - id: 68
     title: Circle of Care
@@ -2183,6 +2245,7 @@
     description_medium: Create a community of support for foster families and children
       entering foster care through collecting, assembling, and delivering welcome
       baskets to children within 24 hours of placement.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
   - id: 35
     title: City Rescue Mission
@@ -2191,6 +2254,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+    cause: 
     tags: food,clothing,shelter,oklahoma,okc
 - id: sto
   f1_campus_id: 4405
@@ -2316,6 +2380,7 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: 
     tags: mentoring,education,oklahoma,okc,tulsa
   - id: 38
     title: Bixby Outreach Center
@@ -2323,6 +2388,7 @@
     url: http://www.bixbyoc.org/
     description_medium: Help people who find themselves in situations that they did
       not expect by collecting, organizing, and distributing items.
+    cause: 
     tags: community,outreach,neighborhood,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
@@ -2330,6 +2396,7 @@
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
+    cause: 
     tags: mentoring,education,oklahoma,tulsa
 - id: hnv
   f1_campus_id: 4344
@@ -2501,6 +2568,7 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: 
     tags: mentoring,education,oklahoma,okc,tulsa
 - id: mwc
   f1_campus_id: 4346
@@ -2602,6 +2670,7 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
+    cause: 
     tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
@@ -2609,6 +2678,7 @@
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
+    cause: 
     tags: mentoring,education,oklahoma,okc
   - id: 35
     title: City Rescue Mission
@@ -2617,6 +2687,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
+    cause: 
     tags: food,clothing,shelter,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
@@ -2625,6 +2696,7 @@
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
   - id: 78
     title: LifeTroops
@@ -2633,6 +2705,7 @@
     description_medium: Help soldiers returning from combat and family members through
       spiritual mentorship, counseling, educational and other programs that will “bridge
       the gap” between reintegration and everyday life.
+    cause: 
     tags: military,depression,oklahoma,okc
 - id: stw
   f1_campus_id: 4348
@@ -2728,6 +2801,7 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
+    cause: 
     tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 26
     title: Stillwater Life Services
@@ -2735,6 +2809,7 @@
     url: http://www.stillwaterlife.org/
     description_medium: Provide testing, treatment, one-on-one mentoring, and options
       for women and men who visit the pregnancy resource clinic.
+    cause: 
     tags: pregnancy,care,mentoring,education,okc
   - id: 74
     title: Payne County Youth Services
@@ -2743,6 +2818,7 @@
     description_medium: Help provide a safe, comfortable and protective environment
       for youth in crisis at the Emergency Youth Shelter through direct relationships
       or supportive roles.
+    cause: 
     tags: food,clothing,shelter,oklahoma,foster,adoption,okc
   - id: 67
     title: Meadows of Hope
@@ -2751,6 +2827,7 @@
     description_medium: Help foster parents through respite support and spiritual
       and emotional mentoring so that children in DHS custody have a stable and nurturing
       environment to heal and grow.
+    cause: 
     tags: adoption,fostering,oklahoma,okc
 - id: ftw
   f1_campus_id: 4343
@@ -2852,4 +2929,5 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
+    cause: 
     tags: neighborhood,community,build,outreach,albany,okc,dfw
