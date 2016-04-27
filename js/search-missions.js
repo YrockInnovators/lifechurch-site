@@ -119,7 +119,6 @@ function processData() {
                 var tagsArray = item.tags.toLowerCase().split(',');
                 if($.isArray(queryArray)) {
                     if((($.inArray(queryArray[0], tagsArray) > -1) && ($.inArray(queryArray[1], tagsArray) > -1))) {
-                        console.log("found match from 2");
                         var result = populateResultContent($resultTemplate.html(), item);
                         resultsCount++;
                         results += result;
@@ -143,7 +142,7 @@ function processData() {
             toggleLoadingClass();
         }
 
-        populateResultsString(resultsCount);
+        //populateResultsString(resultsCount);
         showSearchResults(results);
     }
 }
