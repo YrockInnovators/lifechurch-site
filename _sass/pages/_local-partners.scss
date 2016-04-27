@@ -11,17 +11,26 @@ $connect-locally-orange: #ff4611;
     font-weight: bold;
     text-align: center;
   }
+  hr {
+    clear: both;
+  }
   ul.causes {
-    width: 100%;
+    display: table;
+    margin: auto;
+    text-align: center;
     li {
       float: left;
       display: inline-block;
       list-style-type: none;
+      border-right: 1px solid #ccc;
+      line-height: 1em;
+      &:last-child {
+        border-right: none;
+      }
       a {
         font-size: 0.8em;
         padding: 0 0.5em;
-        border-right: 1px solid #ccc;
-        &active {
+        &:active, &:current {
           font-weight: bold;
         }
       }
