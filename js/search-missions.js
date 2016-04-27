@@ -31,8 +31,13 @@ $(document).ready( function() {
 
     // initiate search functionality
     initSearch();
+
 });
 
+function scrollToAnchor(aid){
+    var aTag = $("a[name='"+ aid +"']");
+    $('html,body').animate({scrollTop: aTag.offset().top},'slow');
+}
 
 
 
@@ -156,6 +161,7 @@ function processData() {
 function showSearchResults(results) {
     // Add results HTML to placeholder
     $resultsPlaceholder.html(results);
+    scrollToAnchor('results');
 }
 
 
