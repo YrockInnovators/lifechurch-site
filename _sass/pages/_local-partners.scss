@@ -36,6 +36,9 @@ $connect-locally-orange: #ff4611;
       }
     }
   }
+  #hide {
+    visibility: hidden;
+  }
 
   .connectlocally-logo {
     @include svg-image('../images/branding/connectlocally-white');
