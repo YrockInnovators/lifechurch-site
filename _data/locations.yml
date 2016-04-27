@@ -167,7 +167,7 @@
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,tulsa
   - id: 37
     title: Owasso Community Resources
     recipient: ows.serving@life.church
@@ -175,21 +175,21 @@
     description_medium: Offer services for families and individuals facing economic
       hardship. This program works to fight hunger, prevent homelessness, and to restore
       hope to families and individuals on their path to self-sufficiency.
-    tags: outreach,community,involvement,neighborhood,oklahoma
+    tags: outreach,community,involvement,neighborhood,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
     recipient: ows.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,tulsa
   - id: 81
     title: Night Light Tulsa
     recipient: ows.serving@life.church
     url: ''
     description_medium: Build relationships with members of Tulsa’s homeless community
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
-    tags: food,clothing,shelter,owasso,oklahoma
+    tags: food,clothing,shelter,owasso,oklahoma,tulsa
 - id: jnk
   f1_campus_id: 30850
   f1_substatus_id: 2379
@@ -314,14 +314,14 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
-    tags: mentoring,education,reading,oklahoma
+    tags: mentoring,education,reading,oklahoma,tulsa
   - id: 84
     title: Tulsa Hills Youth Ranch
     recipient: jnk.serving@life.church
     url: ''
     description_medium: Help provide a welcoming place for kids to feel loved, accepted,
       and heard through a purposeful relationship with a mentor.
-    tags: mentoring,education,jenks,oklahoma
+    tags: mentoring,education,jenks,oklahoma,tulsa
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
@@ -386,14 +386,14 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-    tags: neighborhood,community,involvement,oklahoma
+    tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: bnb.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
   - id: 3
     title: Whiz Kids
     recipient: bnb.serving@life.church
@@ -401,14 +401,14 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
   - id: 83
     title: Little Light Christian School
     recipient: bnb.serving@life.church
     url: ''
     description_medium: Pour into the lives of children with incarcerated parents
       and help break the cycle of incarceration in Oklahoma through mentoring relationships.
-    tags: mentoring,education,broadway,britton,oklahoma
+    tags: mentoring,education,broadway,britton,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: bnb.serving@life.church
@@ -416,7 +416,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,okc
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -529,14 +529,14 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
-    tags: mentoring,education,autism,oklahoma
+    tags: mentoring,education,autism,oklahoma,okc
   - id: 13
     title: Youth & Family Services
     recipient: ykn.serving@life.church
     url: http://www.yfsok.org/
     description_medium: Support families and children in foster care and engage in
       the foster care system on multiple levels.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
@@ -661,7 +661,7 @@
     url: http://john316mission.org/home.php
     description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
       hungry, homeless, and at-risk by serving the community and building relationships.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,tulsa
   - id: 39
     title: Emergency Infant Services
     recipient: tul.serving@life.church
@@ -669,22 +669,14 @@
     description_medium: Provide basic needs for infants and children through 5 years
       of age whose families are in crisis by organizing donations and meeting with
       families.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
     recipient: tul.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
-    tags: mentoring,education,oklahoma
-  - id: 82
-    title: 111Tulsa
-    recipient: tul.serving@life.church
-    url: ''
-    description_medium: Engage in relationships to help prevent children from entering
-      state care, care for children who are in state care, and support the families
-      caring for these children.
-    tags: adoption,fostering,tulsa,brokenarrow
+    tags: mentoring,education,oklahoma,tulsa
   - id: 79
     title: Crisis Pregnancy Outreach
     recipient: tul.serving@life.church
@@ -692,6 +684,14 @@
     description_medium: Minister to young women in the Tulsa community who find themselves
       in crisis pregnancies and help them make godly decisions.
     tags: tulsa,pregnancy,outreach,oklahoma
+  - id: 82
+    title: 111Tulsa
+    recipient: tul.serving@life.church
+    url: ''
+    description_medium: Engage in relationships to help prevent children from entering
+      state care, care for children who are in state care, and support the families
+      caring for these children.
+    tags: adoption,fostering,tulsa
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -804,28 +804,14 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-    tags: neighborhood,community,involvement,oklahoma
+    tags: neighborhood,community,involvement,oklahoma,okc
   - id: 9
     title: Tulakes Elementary
     recipient: noc.serving@life.church
     url: http://tes.putnamcityschools.org/
     description_medium: Support children, families, teachers, and administrators in
       an under-resourced environment.
-    tags: mentoring,education,oklahoma,school
-  - id: 8
-    title: Novo Ministries
-    recipient: noc.serving@life.church
-    url: http://www.novoministries.org/
-    description_medium: Connect passionate individuals with inner-city communities
-      by helping facilitate weekly after-school programs.
-    tags: mentoring,education,neighborhood,community,involvement,oklahoma
-  - id: 4
-    title: The Mentoring Project
-    recipient: noc.serving@life.church
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
-      training, resourcing, and encouragement.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,school,okc
   - id: 3
     title: Whiz Kids
     recipient: noc.serving@life.church
@@ -833,14 +819,28 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
+  - id: 4
+    title: The Mentoring Project
+    recipient: noc.serving@life.church
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
+    tags: mentoring,education,oklahoma,okc
+  - id: 8
+    title: Novo Ministries
+    recipient: noc.serving@life.church
+    url: http://www.novoministries.org/
+    description_medium: Connect passionate individuals with inner-city communities
+      by helping facilitate weekly after-school programs.
+    tags: mentoring,education,neighborhood,community,involvement,oklahoma,okc
   - id: 66
     title: True North Ministries
     recipient: noc.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
-    tags: spiritual,development,oklahoma
+    tags: spiritual,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -930,7 +930,7 @@
     description_medium: 'Help care for and mentor kids in our community by providing
       them with consistent and loving relationships. Kids in crisis can find shelter
       and safety at SafePlace. '
-    tags: adoption,fostering,florida
+    tags: adoption,fostering,florida,wellington
 - id: klr
   f1_campus_id: 34645
   f1_substatus_id: 2719
@@ -996,7 +996,7 @@
     description_medium: Help women and children in crisis discover discover their
       paths to permanent, positive change through a safe refuge, practical resources,
       and healing relationships.
-    tags: recovery,transitional,living,texas
+    tags: recovery,transitional,living,texas,dfw
 - id: mus
   f1_campus_id: 42406
   f1_substatus_id: 3585
@@ -1097,21 +1097,21 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
-    tags: mentoring,education,autism,oklahoma
+    tags: mentoring,education,autism,oklahoma,okc
   - id: 71
     title: Evany Clinic
     recipient: mus.serving@life.church
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
-    tags: pregnancy,care,oklahoma
+    tags: pregnancy,care,oklahoma,okc
   - id: 66
     title: True North Ministries
     recipient: mus.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
-    tags: spiritual,development,oklahoma
+    tags: spiritual,development,oklahoma,okc
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
@@ -1212,14 +1212,14 @@
     url: http://www.cdyfc.org/
     description_medium: Work together with local churches to raise up lifelong followers
       of Christ through mentoring and building relationships with young people.
-    tags: mentoring,education,newyork
+    tags: mentoring,education,newyork,albany
   - id: 31
     title: Habitat for Humanity
     recipient: alb.serving@life.church
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
-    tags: neighborhood,community,build,outreach
+    tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@life.church
@@ -1227,7 +1227,7 @@
     description_medium: City Missions provides for the needs of the hungry and homeless
       in our community. Their mission is to help people get out of poverty - and stay
       out.
-    tags: food,clothing,shelter,newyork
+    tags: food,clothing,shelter,newyork,albany
 - id: mor
   f1_campus_id: 34644
   f1_substatus_id: 2718
@@ -1353,29 +1353,21 @@
     description_medium: Help bring healing and restoration to Moore, Oklahoma and
       its surrounding communities by sharing the Gospel and meeting the needs of its
       residents.
-    tags: neighborhood,community,involvement,oklahoma
+    tags: neighborhood,community,involvement,oklahoma,okc
   - id: 47
     title: Stand in the Gap Ministries
     recipient: mor.serving@life.church
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 77
     title: Mission Norman
     recipient: mor.serving@life.church
     url: ''
     description_medium: Spread the love of Christ by ministering to the physical and
       spiritual needs of people living in our community.
-    tags: spiritual,development,oklahoma
-  - id: 72
-    title: Mid-Del Youth & Family Center
-    recipient: mor.serving@life.church
-    url: ''
-    description_medium: Provide hope and restoration for children living in emergency
-      shelter through tutoring, mentoring relationships, reading at story time, or
-      field trips.
-    tags: adoption,fostering,oklahoma
+    tags: spiritual,development,oklahoma,okc
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@life.church
@@ -1383,7 +1375,15 @@
     description_medium: Provide tutoring and mentorship for school-age children in
       the Norman area geared towards developing life and leadership skills through
       academic, leadership and community programs.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
+    tags: adoption,fostering,oklahoma,okc
 - id: edm
   f1_campus_id: 4342
   f1_substatus_id: 376
@@ -1484,35 +1484,28 @@
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
     recipient: edm.serving@life.church
     url: http://www.lilyfield.org/
     description_medium: Provide and support stable, loving families for infants and
       children through adoptive and foster care placements.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
   - id: 34
     title: The Spero Project
     recipient: edm.serving@life.church
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-    tags: neighborhood,community,involvement,oklahoma
+    tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: edm.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
-    tags: mentoring,education,oklahoma
-  - id: 4
-    title: The Mentoring Project
-    recipient: edm.serving@life.church
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
-      training, resourcing, and encouragement.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
   - id: 3
     title: Whiz Kids
     recipient: edm.serving@life.church
@@ -1520,7 +1513,14 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
+  - id: 4
+    title: The Mentoring Project
+    recipient: edm.serving@life.church
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
+    tags: mentoring,education,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: edm.serving@life.church
@@ -1528,7 +1528,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,okc
 - id: bao
   f1_campus_id: 17716
   f1_substatus_id: 1064
@@ -1653,14 +1653,21 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
-    tags: mentoring,education,reading,oklahoma
+    tags: mentoring,education,reading,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
     recipient: bao.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,tulsa
+  - id: 75
+    title: Big Brothers Big Sisters of Oklahoma
+    recipient: bao.serving@life.church
+    url: ''
+    description_medium: 'Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships. '
+    tags: mentoring,education,oklahoma,tulsa
   - id: 82
     title: 111Tulsa
     recipient: bao.serving@life.church
@@ -1668,14 +1675,7 @@
     description_medium: Engage in relationships to help prevent children from entering
       state care, care for children who are in state care, and support the families
       caring for these children.
-    tags: adoption,fostering,tulsa,brokenarrow
-  - id: 75
-    title: Big Brothers Big Sisters of Oklahoma
-    recipient: bao.serving@life.church
-    url: ''
-    description_medium: 'Help children and at-risk youth realize their potential and
-      build their futures through positive mentoring relationships. '
-    tags: mentoring,education,oklahoma,big
+    tags: adoption,fostering,tulsa
 - id: wch
   f1_campus_id: 41150
   f1_substatus_id: 3426
@@ -1771,20 +1771,20 @@
     type: lifekids
     type_name: LifeKids
   missions:
-  - id: 73
-    title: ReadWest
-    recipient: rrn.serving@life.church
-    url: ''
-    description_medium: Provide quality one-on-one tutoring for adults seeking to
-      transform their lives through enhanced literacy skills.
-    tags: mentoring,education,newmexico
   - id: 76
     title: CareNet Pregnancy Centers of Albuquerque
     recipient: rrn.serving@life.church
     url: ''
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
-    tags: pregnancy,care,newmexico
+    tags: pregnancy,care,newmexico,riorancho
+  - id: 73
+    title: ReadWest
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
+    tags: mentoring,education,newmexico,riorancho
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -1997,27 +1997,20 @@
     type: service
     type_name: Service
   missions:
-  - id: 56
-    title: Edmond Mobile Meals
-    recipient: okc.serving@life.church
-    url: www.edmondmobilemeals.org
-    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
-      and recuperating adults while building relationships each visit.
-    tags: food,clothing,shelter,oklahoma
   - id: 55
     title: Autism Oklahoma
     recipient: okc.serving@life.church
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
-    tags: mentoring,education,autism,oklahoma
+    tags: mentoring,education,autism,oklahoma,okc
   - id: 54
     title: Peppers Ranch
     recipient: okc.serving@life.church
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
   - id: 3
     title: Whiz Kids
     recipient: okc.serving@life.church
@@ -2025,14 +2018,28 @@
     description_medium: Improve the well-being of inner city youth through academic
       tutoring, positive mentoring relationships, and communicating spiritual and
       moral values.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
+  - id: 56
+    title: Edmond Mobile Meals
+    recipient: okc.serving@life.church
+    url: www.edmondmobilemeals.org
+    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
+      and recuperating adults while building relationships each visit.
+    tags: food,clothing,shelter,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: okc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    tags: spiritual,development,oklahoma,okc
   - id: 80
     title: Bethel Foundation
     recipient: okc.serving@life.church
     url: ''
     description_medium: Help single mothers and their children through life skills
       mentoring and assisting to meet their basic needs.
-    tags: single,mom,moms,oklahoma
+    tags: single,mom,moms,oklahoma,okc
   - id: 78
     title: LifeTroops
     recipient: okc.serving@life.church
@@ -2040,14 +2047,7 @@
     description_medium: Help soldiers returning from combat and family members through
       spiritual mentorship, counseling, educational and other programs that will “bridge
       the gap” between reintegration and everyday life.
-    tags: military,depression,oklahoma
-  - id: 66
-    title: True North Ministries
-    recipient: okc.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    tags: spiritual,development,oklahoma
+    tags: military,depression,oklahoma,okc
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -2160,14 +2160,14 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: soc.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc
   - id: 69
     title: OKC Dream Center
     recipient: soc.serving@life.church
@@ -2175,7 +2175,7 @@
     description_medium: Build relationships with people in need to help restore their
       emotional, spiritual, and physical well-being through community outreach, hunger
       relief services, or youth mentoring and coaching.
-    tags: food,clothing,shelter,neighborhood,community,oklahoma
+    tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
   - id: 68
     title: Circle of Care
     recipient: soc.serving@life.church
@@ -2183,7 +2183,7 @@
     description_medium: Create a community of support for foster families and children
       entering foster care through collecting, assembling, and delivering welcome
       baskets to children within 24 hours of placement.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@life.church
@@ -2191,7 +2191,7 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,okc
 - id: sto
   f1_campus_id: 4405
   f1_substatus_id: 384
@@ -2316,21 +2316,21 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 38
     title: Bixby Outreach Center
     recipient: sto.serving@life.church
     url: http://www.bixbyoc.org/
     description_medium: Help people who find themselves in situations that they did
       not expect by collecting, organizing, and distributing items.
-    tags: community,outreach,neighborhood,oklahoma
+    tags: community,outreach,neighborhood,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
     recipient: sto.serving@life.church
     url: http://www.tulsaboyshome.org/tulsaboys/default.asp
     description_medium: Help restore the lives of boys and lead them to be healthy
       and responsible young men.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,tulsa
 - id: hnv
   f1_campus_id: 4344
   f1_substatus_id: 378
@@ -2501,7 +2501,7 @@
     url: http://www.sitgm.org/
     description_medium: Defend widows and orphans and set prisoners free through Life
       Launch, Women in Transition, and Stand in the Gap for Widows.
-    tags: mentoring,education,oklahoma
+    tags: mentoring,education,oklahoma,okc,tulsa
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -2602,30 +2602,14 @@
     url: http://www.thesperoproject.com/
     description_medium: Confront injustice and oppression by mobilizing the Church
       to fully engage in a biblical response to under-resourced populations.
-    tags: neighborhood,community,involvement,oklahoma
+    tags: neighborhood,community,involvement,oklahoma,okc
   - id: 23
     title: T.E.E.M (The Education and Employment Ministry)
     recipient: mwc.serving@life.church
     url: http://www.teem.org/
     description_medium: Empower individuals to reach their God-given potential through
       mentoring relationships with those leaving incarceration.
-    tags: mentoring,education,oklahoma
-  - id: 78
-    title: LifeTroops
-    recipient: mwc.serving@life.church
-    url: ''
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    tags: military,depression,oklahoma
-  - id: 72
-    title: Mid-Del Youth & Family Center
-    recipient: mwc.serving@life.church
-    url: ''
-    description_medium: Provide hope and restoration for children living in emergency
-      shelter through tutoring, mentoring relationships, reading at story time, or
-      field trips.
-    tags: adoption,fostering,oklahoma
+    tags: mentoring,education,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: mwc.serving@life.church
@@ -2633,7 +2617,23 @@
     description_medium: Provide help, hope, healing, and restoration to our community’s
       marginalized families and neighbors by working under the call of Christ with
       City Rescue Mission.
-    tags: food,clothing,shelter,oklahoma
+    tags: food,clothing,shelter,oklahoma,okc
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mwc.serving@life.church
+    url: ''
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
+    tags: adoption,fostering,oklahoma,okc
+  - id: 78
+    title: LifeTroops
+    recipient: mwc.serving@life.church
+    url: ''
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    tags: military,depression,oklahoma,okc
 - id: stw
   f1_campus_id: 4348
   f1_substatus_id: 385
@@ -2728,14 +2728,14 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
-    tags: neighborhood,community,build,outreach
+    tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 26
     title: Stillwater Life Services
     recipient: stw.serving@life.church
     url: http://www.stillwaterlife.org/
     description_medium: Provide testing, treatment, one-on-one mentoring, and options
       for women and men who visit the pregnancy resource clinic.
-    tags: pregnancy,care,mentoring,education
+    tags: pregnancy,care,mentoring,education,okc
   - id: 74
     title: Payne County Youth Services
     recipient: stw.serving@life.church
@@ -2743,7 +2743,7 @@
     description_medium: Help provide a safe, comfortable and protective environment
       for youth in crisis at the Emergency Youth Shelter through direct relationships
       or supportive roles.
-    tags: food,clothing,shelter,oklahoma,foster,adoption
+    tags: food,clothing,shelter,oklahoma,foster,adoption,okc
   - id: 67
     title: Meadows of Hope
     recipient: stw.serving@life.church
@@ -2751,7 +2751,7 @@
     description_medium: Help foster parents through respite support and spiritual
       and emotional mentoring so that children in DHS custody have a stable and nurturing
       environment to heal and grow.
-    tags: adoption,fostering,oklahoma
+    tags: adoption,fostering,oklahoma,okc
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2852,4 +2852,4 @@
     url: http://www.habitat.org/
     description_medium: Build and renovate high-quality, affordable housing and serve
       as a partner to create healthy and sustainable communities.
-    tags: neighborhood,community,build,outreach
+    tags: neighborhood,community,build,outreach,albany,okc,dfw

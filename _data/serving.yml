@@ -152,10 +152,10 @@
 - id: serving-14
   title: Content Writing
   location: Central
-  recipient: heather.brower@life.church
+  recipient:
   url: ''
-  description_small: 'You can use your writing gifts to help engage people online through repurposed series content and other curriculum resources.'
-  description_medium: 'The Content Development Team creates curriculum and resources to lead kids, students, and adults to grow spiritually. You can use your writing gifts to help engage people online through repurposed series content and other curriculum resources.'
+  description_small: 'Various teams at Life.Church create content to lead kids, students, and adults to grow spiritually. You can use your gifts to help research topics, proofread, write blog posts, devotional content, emails, and more!'
+  description_medium: 'Various teams at Life.Church create content to lead kids, students, and adults to grow spiritually. You can use your gifts to help research topics, proofread, write blog posts, devotional content, emails, and more!'
   website: ''
   image_small: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-300x200.jpg'
   image_medium: 'https://s3.amazonaws.com/lctv-site/static/serving/serving-administrative-600x400.jpg'
