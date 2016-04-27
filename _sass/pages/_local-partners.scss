@@ -4,6 +4,9 @@
 $connect-locally-orange: #ff4611;
 
 .localpartners {
+  .involved-item {
+    min-height: 360px;
+  }
   .cause-panel {
     padding: 3em;
     min-height: 500px;
