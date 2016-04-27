@@ -1,8 +1,11 @@
 <div id="{{ item.id }}" class="grid-item panel involved-item">
 <h6 style="font-weight:900;font-size:1.35em;color:black;">{{ item.title }}</h6>
-<p class="detail" style="font-style:italic;color:#b4b4b4;">{{location.title}}</p>
+<p class="detail" style="font-style:italic;color:#b4b4b4">{{location.title}}</p>
+{% if item.cause != null %}
+<p><a class="button">{{ item.cause }}</a></p>
+{% endif %}
 <p class="detail">{{ item.description_medium | newline_to_br }}</p>
-      
+
 <div class="cta">
   <p>
     <a href="#"
@@ -11,7 +14,7 @@
        Get Involved <i class="icon icon-arrow"></i>
     </a>
   </p>
-  
+
   <form class="form-involved" action="http://lifechurch-site-mailer.herokuapp.com/involved" method="post">
     {% if page.title == "Serving Opportunities" %}
       <input type="hidden" class="recipient" name="recipient" value="{{ item.recipient }}" />

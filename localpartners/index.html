@@ -15,32 +15,47 @@ permalink: /localpartners/
   </div>
 </section>
 
-<div class="container padded">
-  <!-- Causes -->
-  <p class="text-center">Causes</p>
-  <ul class="causes">
-    <li><a href="/localpartners/?q=adoption">Adoption/Fostering</a></li>
-    <li><a href="/localpartners/?q=food">Food, Clothing &amp; Shelter</a></li>
-    <li><a href="/localpartners/?q=mentor">Mentoring &amp; Education</a></li>
-    <li><a href="/localpartners/?q=recovery">Recovery &amp; Transitional Living</a></li>
-    <li><a href="/localpartners/?q=spiritual">Spritual Development</a></li>
-    <li><a href="/localpartners/?q=military">Military</a></li>
-    <li><a href="/localpartners/?q=pregnancy">Pregnancy Care</a></li>
-    <li><a href="/localpartners/?q=neighborhood">Neigborhood/Community Development</a></li>
-  </ul>
-  <hr />
-  <!-- Regions -->
-  <p class="text-center">Regions</p>
-  <ul class="causes">
-    <li><a href="/localpartners/?q=okc">OKC</a></li>
-    <li><a href="/localpartners/?q=tulsa">Tulsa</a></li>
-    <li><a href="/localpartners/?q=dfw">DFW</a></li>
-    <li><a href="/localpartners/?q=hendersonville">Hendersonville</a></li>
-    <li><a href="/localpartners/?q=albany">Albany</a></li>
-    <li><a href="/localpartners/?q=wellington">Wellington</a></li>
-    <li><a href="/localpartners/?q=rio-rancho">Rio Rancho</a></li>
-    <li><a href="/localpartners/?q=kansas">Kansas</a></li>
-  </ul>
+<div class="container">
+  <section class="grid-items grid-one text-center">
+    <div class="grid-item">
+      <h2>Search Our Causes and Regions</h2>
+    </div>
+  </section>
+  <section class="grid-items grid-two text-center">
+    <div class="grid-item panel cause-panel">
+      <h3>Causes</h3>
+      <article>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec accumsan velit. Nunc fermentum justo non urna consequat, vel rutrum augue facilisis. Vestibulum in tristique risus. Sed vestibulum eros orci, et ultrices mi commodo quis. Donec et sollicitudin leo, id vestibulum augue. Maecenas ut interdum velit, quis facilisis lacus. Nam finibus hendrerit mi, vel rutrum ex molestie eu.</p>
+      </article>
+      <ul id="persistent-navigation">
+        <li><a href="/localpartners/?q=adoption" class="button">Adoption/Fostering</a></li>
+        <li><a href="/localpartners/?q=food" class="button">Food, Clothing &amp; Shelter</a></li>
+        <li><a href="/localpartners/?q=mentor" class="button">Mentoring &amp; Education</a></li>
+        <li><a href="/localpartners/?q=recovery" class="button">Recovery &amp; Transitional Living</a></li>
+        <li><a href="/localpartners/?q=spiritual" class="button">Spritual Development</a></li>
+        <li><a href="/localpartners/?q=military" class="button">Military</a></li>
+        <li><a href="/localpartners/?q=pregnancy" class="button">Pregnancy Care</a></li>
+        <li><a href="/localpartners/?q=neighborhood" class="button">Neigborhood/Community Development</a></li>
+      </ul>
+    </div>
+    <div class="grid-item panel cause-panel">
+      <h3>Regions</h3>
+      <article>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec accumsan velit. Nunc fermentum justo non urna consequat, vel rutrum augue facilisis. Vestibulum in tristique risus. Sed vestibulum eros orci, et ultrices mi commodo quis. Donec et sollicitudin leo, id vestibulum augue. Maecenas ut interdum velit, quis facilisis lacus. Nam finibus hendrerit mi, vel rutrum ex molestie eu.</p>
+      </article>
+      <ul id="persistent-navigation">
+        <li><a href="/localpartners/?q=okc" class="button">OKC</a></li>
+        <li><a href="/localpartners/?q=tulsa" class="button">Tulsa</a></li>
+        <li><a href="/localpartners/?q=dfw" class="button">DFW</a></li>
+        <li><a href="/localpartners/?q=hendersonville" class="button">Hendersonville</a></li>
+        <li><a href="/localpartners/?q=albany" class="button">Albany</a></li>
+        <li><a href="/localpartners/?q=wellington" class="button">Wellington</a></li>
+        <li><a href="/localpartners/?q=rio-rancho" class="button">Rio Rancho</a></li>
+        <li><a href="/localpartners/?q=kansas" class="button">Kansas</a></li>
+      </ul>
+    </div>
+  </section>
+
   <!-- Search form -->
   <form method="get" action="/localpartners" data-search-form id="hide">
     <input type="search" name="q" id="q" placeholder="Search for a cause..." data-search-input autofocus="autofocus" />
@@ -63,9 +78,9 @@ permalink: /localpartners/
       {% capture type %}Locations{% endcapture %}
       {% include involved-local-partners.html %}
       {% endfor %}
-       {% endfor %} 
+       {% endfor %}
     </div>
-  </div> 
+  </div>
 </div>
 
 <div class="container">

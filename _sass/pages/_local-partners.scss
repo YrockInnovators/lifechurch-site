@@ -4,11 +4,25 @@
 $connect-locally-orange: #ff4611;
 
 .localpartners {
+  .cause-panel {
+    padding: 3em;
+    min-height: 500px;
+  }
+  #persistent-navigation li {
+    margin: 0.2em 0;
+    a {
+      background: #0EA9D6 !important;
+      color: white !important;
+      font-size: 12px !important;
+    }
+  }
+  h3 {
+    font-weight: 900;
+  }
   #navigation .nav-live.is-live.alt {
     color: darken($connect-locally-orange, 25%) !important;
   }
   .text-center {
-    font-weight: bold;
     text-align: center;
   }
   hr {
