@@ -79,8 +79,8 @@ function execSearch(q) {
         if (showLoader) {
             toggleLoadingClass();
         }
-
         getSearchResults(processData());
+        $("#search-results-grid").show();
     }
 }
 
@@ -135,7 +135,7 @@ function processData() {
             results = "";
             $.each(data, function(index, item) {
                 var tagsArray = item.tags.toLowerCase().split(',');
-                if (($.inArray(queryArray[0], tagsArray) > -1)) {
+                if (($.inArray(queryArray[0], tagsArray) > -1) || (item.cause.toLowerCase().indexOf(q.toLowerCase()) > -1)) {
                     var result = populateResultContent($resultTemplate.html(), item);
                     resultsCount++;
                     results += result;
