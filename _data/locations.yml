@@ -192,7 +192,7 @@
     url: ''
     description_medium: Build relationships with members of Tulsa’s homeless community
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
-    cause: 
+    cause: Food, Clothing & Shelter
     tags: food,clothing,shelter,owasso,oklahoma,tulsa
 - id: jnk
   f1_campus_id: 30850
@@ -318,7 +318,7 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,reading,oklahoma,tulsa
   - id: 84
     title: Tulsa Hills Youth Ranch
@@ -326,7 +326,7 @@
     url: ''
     description_medium: Help provide a welcoming place for kids to feel loved, accepted,
       and heard through a purposeful relationship with a mentor.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,jenks,oklahoma,tulsa
 - id: bnb
   f1_campus_id: 39919
@@ -411,14 +411,6 @@
       moral values.
     cause: 
     tags: mentoring,education,oklahoma,okc
-  - id: 83
-    title: Little Light Christian School
-    recipient: bnb.serving@life.church
-    url: ''
-    description_medium: Pour into the lives of children with incarcerated parents
-      and help break the cycle of incarceration in Oklahoma through mentoring relationships.
-    cause: 
-    tags: mentoring,education,broadway,britton,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: bnb.serving@life.church
@@ -428,6 +420,14 @@
       City Rescue Mission.
     cause: 
     tags: food,clothing,shelter,oklahoma,okc
+  - id: 83
+    title: Little Light Christian School
+    recipient: bnb.serving@life.church
+    url: ''
+    description_medium: Pour into the lives of children with incarcerated parents
+      and help break the cycle of incarceration in Oklahoma through mentoring relationships.
+    cause: Mentoring & Education
+    tags: mentoring,education,broadway,britton,oklahoma,okc
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -534,14 +534,6 @@
     type: service
     type_name: Service
   missions:
-  - id: 55
-    title: Autism Oklahoma
-    recipient: ykn.serving@life.church
-    url: autismoklahoma.org
-    description_medium: Grow, learn, and serve the families affected by autism in
-      Oklahoma.
-    cause: 
-    tags: mentoring,education,autism,oklahoma,okc
   - id: 13
     title: Youth & Family Services
     recipient: ykn.serving@life.church
@@ -550,6 +542,14 @@
       the foster care system on multiple levels.
     cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
+  - id: 55
+    title: Autism Oklahoma
+    recipient: ykn.serving@life.church
+    url: autismoklahoma.org
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
+    cause: Mentoring & Education
+    tags: mentoring,education,autism,oklahoma,okc
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
@@ -699,7 +699,7 @@
     url: ''
     description_medium: Minister to young women in the Tulsa community who find themselves
       in crisis pregnancies and help them make godly decisions.
-    cause: 
+    cause: Pregnancy Care
     tags: tulsa,pregnancy,outreach,oklahoma
   - id: 82
     title: 111Tulsa
@@ -863,7 +863,7 @@
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
-    cause: 
+    cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
@@ -1021,7 +1021,7 @@
     description_medium: Help women and children in crisis discover discover their
       paths to permanent, positive change through a safe refuge, practical resources,
       and healing relationships.
-    cause: 
+    cause: Recovery & Transitional Living
     tags: recovery,transitional,living,texas,dfw
 - id: mus
   f1_campus_id: 42406
@@ -1123,24 +1123,24 @@
     url: autismoklahoma.org
     description_medium: Grow, learn, and serve the families affected by autism in
       Oklahoma.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,autism,oklahoma,okc
-  - id: 71
-    title: Evany Clinic
-    recipient: mus.serving@life.church
-    url: ''
-    description_medium: Minister to young women and men in the community who find
-      themselves in crisis pregnancies and help them make godly decisions.
-    cause: 
-    tags: pregnancy,care,oklahoma,okc
   - id: 66
     title: True North Ministries
     recipient: mus.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
-    cause: 
+    cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
+  - id: 71
+    title: Evany Clinic
+    recipient: mus.serving@life.church
+    url: ''
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
+    cause: Pregnancy Care
+    tags: pregnancy,care,oklahoma,okc
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
@@ -1395,14 +1395,6 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     cause: 
     tags: mentoring,education,oklahoma,okc,tulsa
-  - id: 77
-    title: Mission Norman
-    recipient: mor.serving@life.church
-    url: ''
-    description_medium: Spread the love of Christ by ministering to the physical and
-      spiritual needs of people living in our community.
-    cause: 
-    tags: spiritual,development,oklahoma,okc
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@life.church
@@ -1410,8 +1402,16 @@
     description_medium: Provide tutoring and mentorship for school-age children in
       the Norman area geared towards developing life and leadership skills through
       academic, leadership and community programs.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 77
+    title: Mission Norman
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: Spread the love of Christ by ministering to the physical and
+      spiritual needs of people living in our community.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mor.serving@life.church
@@ -1419,7 +1419,7 @@
     description_medium: Provide hope and restoration for children living in emergency
       shelter through tutoring, mentoring relationships, reading at story time, or
       field trips.
-    cause: 
+    cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
 - id: edm
   f1_campus_id: 4342
@@ -1521,7 +1521,7 @@
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
-    cause: 
+    cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
   - id: 49
     title: Lilyfield Christian Adoption and Foster Care
@@ -1697,7 +1697,7 @@
     url: www.readingpartners.org
     description_medium: Meet weekly with an elementary student to improve reading
       skills and invest in their life.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,reading,oklahoma,tulsa
   - id: 19
     title: Tulsa Boys Home
@@ -1713,7 +1713,7 @@
     url: ''
     description_medium: 'Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships. '
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,oklahoma,tulsa
   - id: 82
     title: 111Tulsa
@@ -1785,7 +1785,7 @@
     url: ''
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,big,kansas
 - id: RRN
   f1_campus_id: 57831
@@ -1821,22 +1821,22 @@
     type: lifekids
     type_name: LifeKids
   missions:
-  - id: 76
-    title: CareNet Pregnancy Centers of Albuquerque
-    recipient: rrn.serving@life.church
-    url: ''
-    description_medium: Minister to young women and men in the community who find
-      themselves in crisis pregnancies and help them make godly decisions.
-    cause: 
-    tags: pregnancy,care,newmexico,riorancho
   - id: 73
     title: ReadWest
     recipient: rrn.serving@life.church
     url: ''
     description_medium: Provide quality one-on-one tutoring for adults seeking to
       transform their lives through enhanced literacy skills.
-    cause: 
+    cause: Mentoring & Education
     tags: mentoring,education,newmexico,riorancho
+  - id: 76
+    title: CareNet Pregnancy Centers of Albuquerque
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
+    cause: Pregnancy Care
+    tags: pregnancy,care,newmexico,riorancho
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -2049,22 +2049,22 @@
     type: service
     type_name: Service
   missions:
-  - id: 55
-    title: Autism Oklahoma
-    recipient: okc.serving@life.church
-    url: autismoklahoma.org
-    description_medium: Grow, learn, and serve the families affected by autism in
-      Oklahoma.
-    cause: 
-    tags: mentoring,education,autism,oklahoma,okc
   - id: 54
     title: Peppers Ranch
     recipient: okc.serving@life.church
     url: www.peppersranch.com
     description_medium: Help break the cycle of child abuse and neglect through loving
       and growth-oriented activities with children living on the ranch.
-    cause: 
+    cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
+  - id: 56
+    title: Edmond Mobile Meals
+    recipient: okc.serving@life.church
+    url: www.edmondmobilemeals.org
+    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
+      and recuperating adults while building relationships each visit.
+    cause: Food, Clothing & Shelter
+    tags: food,clothing,shelter,oklahoma,okc
   - id: 3
     title: Whiz Kids
     recipient: okc.serving@life.church
@@ -2074,22 +2074,31 @@
       moral values.
     cause: 
     tags: mentoring,education,oklahoma,okc
-  - id: 56
-    title: Edmond Mobile Meals
+  - id: 55
+    title: Autism Oklahoma
     recipient: okc.serving@life.church
-    url: www.edmondmobilemeals.org
-    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
-      and recuperating adults while building relationships each visit.
-    cause: 
-    tags: food,clothing,shelter,oklahoma,okc
+    url: autismoklahoma.org
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
+    cause: Mentoring & Education
+    tags: mentoring,education,autism,oklahoma,okc
   - id: 66
     title: True North Ministries
     recipient: okc.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
-    cause: 
+    cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
+  - id: 78
+    title: LifeTroops
+    recipient: okc.serving@life.church
+    url: ''
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc
   - id: 80
     title: Bethel Foundation
     recipient: okc.serving@life.church
@@ -2098,15 +2107,6 @@
       mentoring and assisting to meet their basic needs.
     cause: 
     tags: single,mom,moms,oklahoma,okc
-  - id: 78
-    title: LifeTroops
-    recipient: okc.serving@life.church
-    url: ''
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    cause: 
-    tags: military,depression,oklahoma,okc
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -2236,17 +2236,8 @@
     description_medium: Build relationships with people in need to help restore their
       emotional, spiritual, and physical well-being through community outreach, hunger
       relief services, or youth mentoring and coaching.
-    cause: 
+    cause: Food, Clothing & Shelter
     tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
-  - id: 68
-    title: Circle of Care
-    recipient: soc.serving@life.church
-    url: ''
-    description_medium: Create a community of support for foster families and children
-      entering foster care through collecting, assembling, and delivering welcome
-      baskets to children within 24 hours of placement.
-    cause: 
-    tags: adoption,fostering,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: soc.serving@life.church
@@ -2256,6 +2247,15 @@
       City Rescue Mission.
     cause: 
     tags: food,clothing,shelter,oklahoma,okc
+  - id: 68
+    title: Circle of Care
+    recipient: soc.serving@life.church
+    url: ''
+    description_medium: Create a community of support for foster families and children
+      entering foster care through collecting, assembling, and delivering welcome
+      baskets to children within 24 hours of placement.
+    cause: Adoption/Fostering
+    tags: adoption,fostering,oklahoma,okc
 - id: sto
   f1_campus_id: 4405
   f1_substatus_id: 384
@@ -2689,15 +2689,6 @@
       City Rescue Mission.
     cause: 
     tags: food,clothing,shelter,oklahoma,okc
-  - id: 72
-    title: Mid-Del Youth & Family Center
-    recipient: mwc.serving@life.church
-    url: ''
-    description_medium: Provide hope and restoration for children living in emergency
-      shelter through tutoring, mentoring relationships, reading at story time, or
-      field trips.
-    cause: 
-    tags: adoption,fostering,oklahoma,okc
   - id: 78
     title: LifeTroops
     recipient: mwc.serving@life.church
@@ -2705,8 +2696,17 @@
     description_medium: Help soldiers returning from combat and family members through
       spiritual mentorship, counseling, educational and other programs that will “bridge
       the gap” between reintegration and everyday life.
-    cause: 
+    cause: Military
     tags: military,depression,oklahoma,okc
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mwc.serving@life.church
+    url: ''
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
+    cause: Adoption/Fostering
+    tags: adoption,fostering,oklahoma,okc
 - id: stw
   f1_campus_id: 4348
   f1_substatus_id: 385
@@ -2811,15 +2811,6 @@
       for women and men who visit the pregnancy resource clinic.
     cause: 
     tags: pregnancy,care,mentoring,education,okc
-  - id: 74
-    title: Payne County Youth Services
-    recipient: stw.serving@life.church
-    url: ''
-    description_medium: Help provide a safe, comfortable and protective environment
-      for youth in crisis at the Emergency Youth Shelter through direct relationships
-      or supportive roles.
-    cause: 
-    tags: food,clothing,shelter,oklahoma,foster,adoption,okc
   - id: 67
     title: Meadows of Hope
     recipient: stw.serving@life.church
@@ -2827,8 +2818,17 @@
     description_medium: Help foster parents through respite support and spiritual
       and emotional mentoring so that children in DHS custody have a stable and nurturing
       environment to heal and grow.
-    cause: 
+    cause: Adoption/Fostering
     tags: adoption,fostering,oklahoma,okc
+  - id: 74
+    title: Payne County Youth Services
+    recipient: stw.serving@life.church
+    url: ''
+    description_medium: Help provide a safe, comfortable and protective environment
+      for youth in crisis at the Emergency Youth Shelter through direct relationships
+      or supportive roles.
+    cause: Food, Clothing & Shelter
+    tags: food,clothing,shelter,oklahoma,foster,adoption,okc
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
