@@ -840,14 +840,6 @@
       moral values.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 66
-    title: True North Ministries
-    recipient: noc.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -1226,14 +1218,6 @@
       of Christ through mentoring and building relationships with young people.
     cause: Mentoring & Education
     tags: mentoring,education,newyork,albany
-  - id: 31
-    title: Habitat for Humanity
-    recipient: alb.serving@life.church
-    url: http://www.habitat.org/
-    description_medium: Build and renovate high-quality, affordable housing and serve
-      as a partner to create healthy and sustainable communities.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 30
     title: City Mission of Schenectady
     recipient: alb.serving@life.church
@@ -1370,14 +1354,6 @@
       residents.
     cause: Neighborhood/Community Development
     tags: neighborhood,community,involvement,oklahoma,okc
-  - id: 47
-    title: Stand in the Gap Ministries
-    recipient: mor.serving@life.church
-    url: http://www.sitgm.org/
-    description_medium: Defend widows and orphans and set prisoners free through Life
-      Launch, Women in Transition, and Stand in the Gap for Widows.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 66
     title: True North Ministries
     recipient: mor.serving@life.church
@@ -2253,6 +2229,14 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 4
+    title: The Mentoring Project
+    recipient: soc.serving@life.church
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
   - id: 69
     title: OKC Dream Center
     recipient: soc.serving@life.church
@@ -2713,6 +2697,14 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: mwc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: mwc.serving@life.church
@@ -2946,12 +2938,4 @@
     duration: 60
     type: service
     type_name: Service
-  missions:
-  - id: 31
-    title: Habitat for Humanity
-    recipient: ftw.serving@life.church
-    url: http://www.habitat.org/
-    description_medium: Build and renovate high-quality, affordable housing and serve
-      as a partner to create healthy and sustainable communities.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,build,outreach,albany,okc,dfw
+  missions: []
