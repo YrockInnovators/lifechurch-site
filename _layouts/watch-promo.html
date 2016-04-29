@@ -7,15 +7,15 @@ class: header-red section-watch section-series
 {% for series in site.data.watch %}
 {% if series.id == page.series-id %}
 
-<a href="javascript:void(0)"  
-   style="background-image: url('{{ series.image_banner_archive_small_2x }}')" 
+<a href="javascript:void(0)"
+   style="background-image: url('{{ series.image_banner_archive_small_2x }}')"
    data-banner-archive-2x="background-image: url('{{ series.image_banner_archive_small_2x }}')"
    data-banner-archive-large="background-image: url('{{ series.image_banner_archive }}')"
    data-banner-archive-large-2x="background-image: url('{{ series.image_banner_archive_2x }}')"
    data-video-player="{{ series.promo }}"
    class="hero section-light hero-watch-archive"
    onclick="ga('send', 'event', 'Watch', 'Click', 'Play Message Hero');">
-   
+
   <div class="inner">
     <span class="play-large"></span>
     <h1>{{ series.title }}</h1>
@@ -42,3 +42,5 @@ class: header-red section-watch section-series
 {% endif %}
 
 {% endfor %}
+
+{% include watch-opt-ins.html %}
