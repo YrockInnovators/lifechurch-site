@@ -136,9 +136,4 @@ class: header-red section-watch section-series
 {% endif %}
 {% endfor %}
 
-{% if page.opt-in == true %}
-  <!-- desktop -->
-  {{ page.opt-in-desktop }}
-  <!-- mobile -->
-  {{ page.opt-in-mobile }}
-{% endif %}
+{% include watch-opt-ins.html %}
