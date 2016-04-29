@@ -18,14 +18,14 @@ permalink: /localpartners/
   <section class="grid-items grid-one text-center">
     <div class="grid-item">
       <h2>Find a Local Partner</h2>
-      <p>You can find a local partner by cause or community. Just select the causes you're interested in and your community to see local partners near you.</p>
+      <p>Just select the causes you're interested in and your community to find local partners near you.</p>
     </div>
   </section>
   <section class="grid-items grid-two text-center">
     <div class="grid-item panel cause-panel">
       <h3>Needs</h3>
       <article>
-        <p>To learn more about local partners meeting specific needs in your community, select one or more of the options below.</p>
+        <p>Learn more about local partners meeting specific needs by selecting one or more options below.</p>
       </article>
       <ul id="persistent-navigation">
         <li><a href="/localpartners/?q=adoption-fostering" class="button">Adoption &amp; Fostering</a></li>
@@ -51,11 +51,9 @@ permalink: /localpartners/
         <li><a href="/localpartners/?q=albany" class="button">Albany, NY</a></li>
         <li><a href="/localpartners/?q=wellington" class="button">Wellington, FL</a></li>
         <li><a href="/localpartners/?q=rio-rancho" class="button">Rio Rancho, NM</a></li>
-        <li><a href="/localpartners/?q=overland-park" class="button">Overland Park, KS</a></li>
         <li><a href="/localpartners/?q=wichita" class="button">Wichita, KS</a></li>
       </ul>
     </div>
-    <a name="results"></a>
   </section>
 
   <!-- Search form -->
@@ -86,10 +84,19 @@ permalink: /localpartners/
 </div>
 
 <div class="container" id="search-results-grid">
+  <a name="results"></a>
   <div class="grid-items grid-one text-center">
-    <div class="grid-item">
+    <div data-has-search-results class="hide">
+      <div class="grid-item">
+          <h2>Connect with a Local Partner</h2>
+          <p>Below are the organizations that match your interests. Learn more about local partners and share your information to get involved.</p>
+      </div>
+    </div>
+    <div data-has-no-search-results class="hide">
+      <div class="grid-item">
         <h2>Connect with a Local Partner</h2>
-        <p>Below are the organizations that match your interests. Learn more about local partners and share your information to get involved.</p>
+        <p>We don't yet have a local partner that matches your selections.</p>
+      </div>
     </div>
   </div>
   <div class="grid-items grid-three involved-list">

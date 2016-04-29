@@ -147,6 +147,12 @@ function processData() {
             toggleLoadingClass();
         }
 
+        if (resultsCount > 0) {
+            $('[data-has-search-results').show();
+        } else {
+            $('[data-has-no-search-results').show();
+        }
+
         //populateResultsString(resultsCount);
         showSearchResults(results);
     }

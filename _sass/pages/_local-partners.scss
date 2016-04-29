@@ -10,9 +10,12 @@ $connect-locally-orange: #ff4611;
   #search-results-grid {
     display: none;
   }
+  .hide {
+    display: none;
+  }
   .cause-panel {
     padding: 3em;
-    min-height: 500px;
+    min-height: 370px;
   }
   #persistent-navigation li {
     margin: 0.2em 0;
