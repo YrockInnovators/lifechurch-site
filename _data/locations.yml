@@ -1378,6 +1378,21 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc,tulsa
+  - id: 66
+    title: True North Ministries
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 90
+    title: Hope is Alive
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Food, Clothing, & Shelter
+    tags: []
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@life.church
@@ -1387,6 +1402,13 @@
       academic, leadership and community programs.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 86
+    title: Angels Foster Family Network
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Adoption & Foster Care
+    tags: []
   - id: 77
     title: Mission Norman
     recipient: mor.serving@life.church
@@ -1707,6 +1729,13 @@
       caring for these children.
     cause: Adoption & Foster Care
     tags: adoption,fostering,tulsa
+  - id: 91
+    title: Wings of Freedom
+    recipient: bao.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Recovery & Transitional Living
+    tags: []
 - id: wch
   f1_campus_id: 41150
   f1_substatus_id: 3426
@@ -1760,7 +1789,7 @@
     description_medium: Help children and at-risk youth realize their potential and
       build their futures through positive mentoring relationships.
     cause: Mentoring & Education
-    tags: mentoring,education,big,kansas
+    tags: mentoring,education,big,overland-park,wichita
 - id: RRN
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -1916,7 +1945,21 @@
     duration: 60
     type: service
     type_name: Service
-  missions: []
+  missions:
+  - id: 88
+    title: Cargo Ranch
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Mentoring & Education
+    tags: []
+  - id: 89
+    title: Family Promise of Shawnee
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Food, Clothing, & Shelter
+    tags: []
 - id: okc
   f1_campus_id: 4351
   f1_substatus_id: 381
@@ -2081,6 +2124,13 @@
       the gap” between reintegration and everyday life.
     cause: Military
     tags: military,depression,oklahoma,okc
+  - id: 87
+    title: Branch15
+    recipient: okc.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Recovery & Transitional Living
+    tags: []
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -2545,6 +2595,14 @@
       Launch, Women in Transition, and Stand in the Gap for Widows.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc,tulsa
+  - id: 43
+    title: John 3:16
+    recipient: sba.serving@life.church
+    url: http://john316mission.org/home.php
+    description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
+      hungry, homeless, and at-risk by serving the community and building relationships.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,oklahoma,tulsa
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -2664,15 +2722,6 @@
       City Rescue Mission.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,oklahoma,okc
-  - id: 78
-    title: LifeTroops
-    recipient: mwc.serving@life.church
-    url: ''
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    cause: Military
-    tags: military,depression,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
