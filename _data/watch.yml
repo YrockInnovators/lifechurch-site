@@ -48,6 +48,7 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/3000x680.jpg?1461189195
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/480x340.jpg?1461189231
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/960x680.jpg?1461189271
+  messages: []
 - id: the-fathers-voice
   title: The Father's Voice
   headline: You’ll always hear the truth if you listen for The Father's Voice.
