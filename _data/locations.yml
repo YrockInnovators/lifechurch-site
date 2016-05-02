@@ -1807,7 +1807,7 @@
     description_medium: Provide quality one-on-one tutoring for adults seeking to
       transform their lives through enhanced literacy skills.
     cause: Mentoring & Education
-    tags: mentoring,education,newmexico,riorancho
+    tags: mentoring,education,newmexico,rio-rancho
   - id: 76
     title: CareNet Pregnancy Centers of Albuquerque
     recipient: rrn.serving@life.church
@@ -1815,7 +1815,7 @@
     description_medium: Minister to young women and men in the community who find
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
-    tags: pregnancy,care,newmexico,riorancho
+    tags: pregnancy,care,newmexico,rio-rancho
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -2488,7 +2488,7 @@
       meaningful assistance and quality programs such as after-school tutoring, career
       development, and summer camp activities.
     cause: Mentoring & Education
-    tags: []
+    tags: 
 - id: sba
   f1_campus_id: 42154
   f1_substatus_id: 3547
@@ -2811,14 +2811,6 @@
     type: switch
     type_name: Switch
   missions:
-  - id: 31
-    title: Habitat for Humanity
-    recipient: stw.serving@life.church
-    url: http://www.habitat.org/
-    description_medium: Build and renovate high-quality, affordable housing and serve
-      as a partner to create healthy and sustainable communities.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,build,outreach,albany,okc,dfw
   - id: 26
     title: Stillwater Life Services
     recipient: stw.serving@life.church
@@ -2827,6 +2819,14 @@
       for women and men who visit the pregnancy resource clinic.
     cause: Pregnancy Care
     tags: pregnancy,care,mentoring,education,okc
+  - id: 31
+    title: Habitat for Humanity
+    recipient: stw.serving@life.church
+    url: http://www.habitat.org/
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,build,outreach,okc
   - id: 67
     title: Meadows of Hope
     recipient: stw.serving@life.church
