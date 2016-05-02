@@ -1,6 +1,6 @@
 ---
 published: true
-layout: watch-promo
+layout: watch-archive
 categories: watch
 series-id: how-to-neighbor
 title: How to Neighbor
