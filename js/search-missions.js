@@ -71,7 +71,7 @@ function initSearch() {
 
 /**
  * Executes search
- * @param {String} q
+ * @param {String} q 
  * @return null
  */
 function execSearch(q) {
@@ -79,8 +79,8 @@ function execSearch(q) {
         if (showLoader) {
             toggleLoadingClass();
         }
+
         getSearchResults(processData());
-        $("#search-results-grid").show();
     }
 }
 
@@ -148,9 +148,9 @@ function processData() {
         }
 
         if (resultsCount > 0) {
-            $('[data-has-search-results').show();
+            $('[data-has-search-results]').show();
         } else {
-            $('[data-has-no-search-results').show();
+            $('[data-has-no-search-results]').show();
         }
 
         //populateResultsString(resultsCount);
