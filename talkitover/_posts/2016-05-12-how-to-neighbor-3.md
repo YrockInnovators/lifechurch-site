@@ -13,7 +13,7 @@ Key Scriptures
 _"... Whatever you did for one of the least of these brothers and sisters of mine, you did for me."_  
 Matthew 25:40 NIV 
 
-Proverbs 19:17, 1 John 3:17-18, 1 John 3:17-18, Luke 4:18-19 
+[Proverbs 19:17](https://www.bible.com/bible/111/pro.19.17.niv) [1 John 3:17-18](https://www.bible.com/bible/111/1jn.3.17-18.niv) [Luke 4:18-19](https://www.bible.com/bible/111/luke.4.18-19.niv) 
 
 ## What Is Poverty?
 
