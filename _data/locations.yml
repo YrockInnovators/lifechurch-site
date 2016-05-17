@@ -541,6 +541,14 @@
       Oklahoma.
     cause: Mentoring & Education
     tags: mentoring,education,autism,oklahoma,okc
+  - id: 75
+    title: Big Brothers Big Sisters of Oklahoma
+    recipient: ykn.serving@life.church
+    url: ''
+    description_medium: 'Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships. '
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,tulsa
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
@@ -840,6 +848,14 @@
       moral values.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: noc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -1354,14 +1370,22 @@
       residents.
     cause: Neighborhood/Community Development
     tags: neighborhood,community,involvement,oklahoma,okc
-  - id: 66
-    title: True North Ministries
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: mor.serving@life.church
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc,tulsa
+  - id: 77
+    title: Mission Norman
     recipient: mor.serving@life.church
     url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
+    description_medium: Spread the love of Christ by ministering to the physical and
+      spiritual needs of people living in our community.
     cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
+    tags: neighborhood,community,oklahoma,okc
   - id: 90
     title: Hope is Alive
     recipient: mor.serving@life.church
@@ -1385,14 +1409,6 @@
     description_medium: ''
     cause: Adoption & Foster Care
     tags: []
-  - id: 77
-    title: Mission Norman
-    recipient: mor.serving@life.church
-    url: ''
-    description_medium: Spread the love of Christ by ministering to the physical and
-      spiritual needs of people living in our community.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mor.serving@life.church
@@ -1922,6 +1938,14 @@
     type: service
     type_name: Service
   missions:
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: SHW.Serving@life.church
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 88
     title: Cargo Ranch
     recipient: SHW.Serving@life.church
@@ -2697,14 +2721,6 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 66
-    title: True North Ministries
-    recipient: mwc.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
   - id: 35
     title: City Rescue Mission
     recipient: mwc.serving@life.church
