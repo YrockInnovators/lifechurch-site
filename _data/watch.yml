@@ -40,14 +40,14 @@
     name: Virtues
     created_at: '2014-06-11T10:25:27.460-05:00'
     updated_at: '2014-06-11T10:25:27.460-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/300x200.jpg?1461189118
-  image_medium: http://api-assets.lifechurch.tv/series/how-to-neighbor/600x400.jpg?1461189139
+  image_small: ''
+  image_medium: ''
   image_large: http://api-assets.lifechurch.tv/series/how-to-neighbor/1200x800.jpg?1461189158
-  image_social: http://api-assets.lifechurch.tv/series/how-to-neighbor/400x400.jpg?1461189180
-  image_banner_archive: http://api-assets.lifechurch.tv/series/how-to-neighbor/1500x340.jpg?1461189213
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/3000x680.jpg?1461189195
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/480x340.jpg?1461189231
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/960x680.jpg?1461189271
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Empowering The Poor
     headline: ''
@@ -2397,7 +2397,7 @@
     updated_at: '2014-06-11T10:27:31.681-05:00'
   image_small: http://api-assets.lifechurch.tv/series/rescue/300x200.jpg?1438368485
   image_medium: http://api-assets.lifechurch.tv/series/rescue/600x400.jpg?1438368519
-  image_large: http://api-assets.lifechurch.tv/series/rescue/1200x800.jpg?1438368539
+  image_large: ''
   image_social: http://api-assets.lifechurch.tv/series/rescue/400x400.jpg?1438368558
   image_banner_archive: http://api-assets.lifechurch.tv/series/rescue/1500x340.jpg?1438368598
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/rescue/3000x680.jpg?1438368581
