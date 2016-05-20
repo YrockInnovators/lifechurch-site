@@ -319,6 +319,14 @@
       and heard through a purposeful relationship with a mentor.
     cause: Mentoring & Education
     tags: mentoring,education,jenks,oklahoma,tulsa
+  - id: 93
+    title: James Mission
+    recipient: jnk.serving@life.church
+    url: ''
+    description_medium: Provide support and resources to families of adopted and foster
+      children, single parents, and families in need.
+    cause: Adoption & Foster Care
+    tags: oklahoma,okc,adoption
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
@@ -1108,6 +1116,14 @@
     type: switch
     type_name: Switch
   missions:
+  - id: 13
+    title: Youth & Family Services
+    recipient: mus.serving@life.church
+    url: http://www.yfsok.org/
+    description_medium: Support families and children in foster care and engage in
+      the foster care system on multiple levels.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,oklahoma,okc
   - id: 55
     title: Autism Oklahoma
     recipient: mus.serving@life.church
@@ -1386,13 +1402,6 @@
       spiritual needs of people living in our community.
     cause: Spiritual Development
     tags: neighborhood,community,oklahoma,okc
-  - id: 90
-    title: Hope is Alive
-    recipient: mor.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: Food, Clothing, & Shelter
-    tags: []
   - id: 64
     title: Loveworks Leadership
     recipient: mor.serving@life.church
@@ -1418,6 +1427,14 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
+  - id: 90
+    title: Hope is Alive
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: Help change the lives of individuals and families affected
+      by addiction through mentorship, spiritual guidance, and leadership development.
+    cause: Food, Clothing, & Shelter
+    tags: []
 - id: edm
   f1_campus_id: 4342
   f1_substatus_id: 376
@@ -1725,7 +1742,9 @@
     title: Wings of Freedom
     recipient: bao.serving@life.church
     url: ''
-    description_medium: ''
+    description_medium: Help people transform themselves into healthy, productive
+      members of our community after they leave prison or choose to break free from
+      addiction.
     cause: Recovery & Transitional Living
     tags: []
 - id: wch
@@ -1950,16 +1969,25 @@
     title: Cargo Ranch
     recipient: SHW.Serving@life.church
     url: ''
-    description_medium: ''
+    description_medium: Share hope and build character in children and youth by meeting
+      their emotional and spiritual needs in an outdoor environment.
     cause: Mentoring & Education
     tags: []
   - id: 89
     title: Family Promise of Shawnee
     recipient: SHW.Serving@life.church
     url: ''
-    description_medium: ''
+    description_medium: 'Help families in need by mentoring them to achieve self-sufficiency. '
     cause: Food, Clothing, & Shelter
     tags: []
+  - id: 92
+    title: Community Renewal of Pottawatomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: Serve as a block leader to help your neighbors restore our
+      community through intentional, caring relationships.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,development,oklahoma,okc
 - id: okc
   f1_campus_id: 4351
   f1_substatus_id: 381
@@ -2128,7 +2156,8 @@
     title: Branch15
     recipient: okc.serving@life.church
     url: ''
-    description_medium: ''
+    description_medium: Walk alongside women on their paths to recovery and independent,
+      sustainable living.
     cause: Recovery & Transitional Living
     tags: []
 - id: soc
@@ -2954,4 +2983,11 @@
     duration: 60
     type: service
     type_name: Service
-  missions: []
+  missions:
+  - id: 94
+    title: Union Gospel Mission
+    recipient: ftw.serving@life.church
+    url: ''
+    description_medium: Help provide love, hope, and a new beginning for the homeless.
+    cause: Food, Clothing, & Shelter
+    tags: fortworth,texas,food
