@@ -1,4 +1,44 @@
 ---
+- id: the-right-heart
+  title: The Right Heart
+  headline: 'Love isn’t about following the right rules—it’s about having The Right
+    Heart. '
+  description_small: 'Join special guest Joyce Meyer to see why love isn’t about following
+    the right rules—it’s about having The Right Heart. '
+  description_medium: 'Love God, love people—sounds simple enough. So why is it so
+    hard to live out? Maybe it’s because we''re going about it all wrong. Join special
+    guest Joyce Meyer to see why love isn’t about following the right rules—it’s about
+    having The Right Heart. '
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2598-bad-advice
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T14:23:33.805-05:00'
+    updated_at: '2014-06-05T14:23:33.805-05:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
+  - id: 84
+    name: Joyce Meyer
+    created_at: '2016-05-19T10:00:44.134-05:00'
+    updated_at: '2016-05-19T10:00:44.134-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/the-right-heart/300x200.jpg?1463670544
+  image_medium: http://api-assets.lifechurch.tv/series/the-right-heart/600x400.jpg?1463670480
+  image_large: http://api-assets.lifechurch.tv/series/the-right-heart/1200x800.jpg?1438368539
+  image_social: http://api-assets.lifechurch.tv/series/the-right-heart/400x400.jpg?1463670406
+  image_banner_archive: http://api-assets.lifechurch.tv/series/the-right-heart/1500x340.jpg?1463670446
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-right-heart/3000x680.jpg?1463670459
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463670432
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463670419
 - id: how-to-neighbor
   title: How to Neighbor
   headline: 'You don''t get to pick who your neighbors are, but you can choose something
