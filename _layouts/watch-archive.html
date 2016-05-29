@@ -89,7 +89,20 @@ class: header-red section-watch section-series
      <p>{{ series.description_medium | newline_to_br }}</p>
 
      <p class="detail">
-       <a onclick="ga('send', 'event', 'Watch', 'Click', 'Request Prayer');" href="http://cta-redirect.hubspot.com/cta/redirect/449781/6e612759-3613-4e7b-a493-f94e8bbdcc35" class="action button">Request Prayer</a>
+      <!--  <a onclick="ga('send', 'event', 'Watch', 'Click', 'Request Prayer');" href="http://cta-redirect.hubspot.com/cta/redirect/449781/6e612759-3613-4e7b-a493-f94e8bbdcc35" class="action button">Request Prayer</a> -->
+
+       <!--HubSpot Call-to-Action Code -->
+          <span class="hs-cta-wrapper" id="hs-cta-wrapper-6e612759-3613-4e7b-a493-f94e8bbdcc35">
+              <span class="hs-cta-node hs-cta-6e612759-3613-4e7b-a493-f94e8bbdcc35" id="hs-cta-6e612759-3613-4e7b-a493-f94e8bbdcc35">
+                  <!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]-->
+                  <a onclick="ga('send', 'event', 'Watch', 'Click', 'Request Prayer');"href="http://cta-redirect.hubspot.com/cta/redirect/449781/6e612759-3613-4e7b-a493-f94e8bbdcc35" ><img class="hs-cta-img" id="hs-cta-img-6e612759-3613-4e7b-a493-f94e8bbdcc35" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/449781/6e612759-3613-4e7b-a493-f94e8bbdcc35.png"  alt="Request Prayer"/></a>
+              </span>
+              <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
+              <script type="text/javascript">
+                  hbspt.cta.load(449781, '6e612759-3613-4e7b-a493-f94e8bbdcc35', {});
+              </script>
+          </span>
+<!-- end HubSpot Call-to-Action Code -->
        <a onclick="return popitup('http://twitter.com/home/?status=I’d love to share this @lifechurch message with you: “{{ series.title }}” http://life.church{{ page.url }}');ga('send', 'event', 'Watch', 'Click', 'Invite on Twitter')" href="http://twitter.com/home/?status=I'd love to share this @lifechurch message with you: “{{ series.title }}” http://life.church{{ page.url }}" target="_blank" class="action"><i class="icon-social-twitter"></i> Invite on Twitter</a>
        <a onclick="return popitup('http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.life.church{{ page.url }}');ga('send', 'event', 'Watch', 'Click', 'Invite on Facebook')" href="http://www.facebook.com/sharer.php?app_id=567912296616576&amp;sdk=joey&amp;u=http%3A%2F%2Fwww.life.church{{ page.url }}" target="_blank" class="action"><i class="icon-social-facebook"></i> Invite on Facebook</a>
        <!--<a href="https://plus.google.com/share?url=www.lifechurch.tv{{ page.url }}" target="_blank" class="action small"><i class="icon-social-gplus"></i> Invite on Google+</a>-->
