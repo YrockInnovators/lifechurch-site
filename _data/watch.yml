@@ -39,6 +39,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-right-heart/3000x680.jpg?1463670459
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463670432
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463670419
+  messages:
+  - title: The Right Heart
+    headline: ''
+    video: ''
+    platform_id: ftI1ArX_DPhs
 - id: how-to-neighbor
   title: How to Neighbor
   headline: 'You don''t get to pick who your neighbors are, but you can choose something
