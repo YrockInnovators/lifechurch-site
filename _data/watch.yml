@@ -40,7 +40,11 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463670432
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463670419
   messages:
-  - title: The Right Heart
+  - title: The Right Heart, Part 2
+    headline: ''
+    video: ''
+    platform_id: CYvKhtGtR2ZF
+  - title: The Right Heart, Part 1
     headline: ''
     video: ''
     platform_id: ftI1ArX_DPhs
