@@ -1,4 +1,59 @@
 ---
+- id: bad-advice
+  title: Bad Advice
+  headline: Let's untangle our lives by learning how to avoid Bad Advice.
+  description_small: Behind every mess of harmful habits and rough relationships,
+    we can look back and see where we got on the wrong track. Let's learning how to
+    avoid Bad Advice.
+  description_medium: "“How did I end up here?” Behind every mess of harmful habits
+    and rough relationships, we can look back and see where we got on the wrong track.
+    Let's untangle our lives by learning how to avoid Bad Advice."
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2598-bad-advice
+  promo: x7LaMpWAG8zr
+  resources_url: ''
+  categories:
+  - id: 12
+    name: Marriage
+    created_at: '2014-06-05T14:14:26.586-05:00'
+    updated_at: '2014-06-05T14:14:26.586-05:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T16:38:58.852-06:00'
+    updated_at: '2014-06-05T14:41:17.695-05:00'
+  - id: 17
+    name: Dating
+    created_at: '2014-06-11T10:14:52.700-05:00'
+    updated_at: '2014-06-11T10:14:52.700-05:00'
+  - id: 19
+    name: Jobs
+    created_at: '2014-06-11T10:15:11.246-05:00'
+    updated_at: '2014-06-11T10:15:11.246-05:00'
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T10:18:02.732-05:00'
+    updated_at: '2014-06-11T10:18:02.732-05:00'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T10:20:16.022-05:00'
+    updated_at: '2014-06-11T10:20:16.022-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T10:23:03.968-05:00'
+    updated_at: '2014-06-11T10:23:03.968-05:00'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T14:20:27.559-05:00'
+    updated_at: '2014-06-11T11:19:31.726-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/bad-advice/300x200.jpg?1465229111
+  image_medium: http://api-assets.lifechurch.tv/series/bad-advice/600x400.jpg?1465229124
+  image_large: http://api-assets.lifechurch.tv/series/bad-advice/1200x800.jpg?1465229084
+  image_social: http://api-assets.lifechurch.tv/series/bad-advice/400x400.jpg?1465229097
+  image_banner_archive: http://api-assets.lifechurch.tv/series/bad-advice/1500x340.jpg?1465229142
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/bad-advice/3000x680.jpg?1465229154
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/bad-advice/480x340.jpg?1465229168
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/bad-advice/960x680.jpg?1465229188
 - id: the-right-heart
   title: The Right Heart
   headline: Love isn’t about following the right rules—it’s about having The Right
@@ -89,14 +144,14 @@
     name: Virtues
     created_at: '2014-06-11T10:25:27.460-05:00'
     updated_at: '2014-06-11T10:25:27.460-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/300x200.jpg?1464102332
-  image_medium: http://api-assets.lifechurch.tv/series/how-to-neighbor/600x400.jpg?1464102317
+  image_small: ''
+  image_medium: ''
   image_large: http://api-assets.lifechurch.tv/series/how-to-neighbor/1200x800.jpg?1461189158
-  image_social: http://api-assets.lifechurch.tv/series/how-to-neighbor/400x400.jpg?1464102345
-  image_banner_archive: http://api-assets.lifechurch.tv/series/how-to-neighbor/1500x340.jpg?1464102290
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/3000x680.jpg?1464102279
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/480x340.jpg?1464102240
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/960x680.jpg?1464102226
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
   messages:
   - title: Loving The Lonely
     headline: ''
