@@ -144,14 +144,14 @@
     name: Virtues
     created_at: '2014-06-11T10:25:27.460-05:00'
     updated_at: '2014-06-11T10:25:27.460-05:00'
-  image_small: ''
-  image_medium: ''
-  image_large: http://api-assets.lifechurch.tv/series/how-to-neighbor/1200x800.jpg?1461189158
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
+  image_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/300x200.jpg?1465243699
+  image_medium: http://api-assets.lifechurch.tv/series/how-to-neighbor/600x400.jpg?1465243806
+  image_large: http://api-assets.lifechurch.tv/series/how-to-neighbor/1200x800.jpg?1464102303
+  image_social: http://api-assets.lifechurch.tv/series/how-to-neighbor/400x400.jpg?1465243714
+  image_banner_archive: http://api-assets.lifechurch.tv/series/how-to-neighbor/1500x340.jpg?1465243859
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/3000x680.jpg?1465243875
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/480x340.jpg?1465243787
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/960x680.jpg?1465243837
   messages:
   - title: Loving The Lonely
     headline: ''
