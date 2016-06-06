@@ -3,7 +3,7 @@
   .lead {
     color: white;
     font-size: 1.0em;
-    width: 70%;
+    width: 85%;
     max-width: 750px;
     margin: 2em auto;
     @media all and (max-width: 600px) {
@@ -85,14 +85,14 @@
     min-height: 200px;
     @include retina-image(/images/home/home-bg, cover, jpg);
     background-position: top center;
-    background-color: #333;
+    background-color: #ecd0cf;
     position: relative;
     //padding-bottom: 150px;
 
     @include media($medium-screen) {
       @include retina-image(/images/home/home-bg, cover, jpg);
       height: auto;
-      background-color: #333;
+      background-color: #ecd0cf;
       padding-bottom: 7em;
     }
     
