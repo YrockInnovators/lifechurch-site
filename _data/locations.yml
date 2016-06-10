@@ -185,6 +185,14 @@
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,owasso,oklahoma,tulsa
+  - id: 95
+    title: Little Light House
+    recipient: ows.serving@life.church
+    url: http://www.littlelighthouse.org
+    description_medium: Help improve the quality of life for children with special
+      needs, their families, and their communities.
+    cause: Mentoring & Education
+    tags: Mentoring&Education,Recovery&TransitionalLiving
 - id: jnk
   f1_campus_id: 30850
   f1_substatus_id: 2379
