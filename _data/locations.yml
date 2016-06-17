@@ -1426,6 +1426,14 @@
     description_medium: ''
     cause: Adoption & Foster Care
     tags: []
+  - id: 90
+    title: Hope is Alive
+    recipient: mor.serving@life.church
+    url: ''
+    description_medium: Help change the lives of individuals and families affected
+      by addiction through mentorship, spiritual guidance, and leadership development.
+    cause: Recovery & Transitional Living
+    tags: Recovery&TransitionalLiving
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mor.serving@life.church
@@ -1435,14 +1443,6 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-  - id: 90
-    title: Hope is Alive
-    recipient: mor.serving@life.church
-    url: ''
-    description_medium: Help change the lives of individuals and families affected
-      by addiction through mentorship, spiritual guidance, and leadership development.
-    cause: Food, Clothing, & Shelter
-    tags: []
 - id: edm
   f1_campus_id: 4342
   f1_substatus_id: 376
@@ -1996,6 +1996,14 @@
       community through intentional, caring relationships.
     cause: Neighborhood/Community Development
     tags: neighborhood,community,development,oklahoma,okc
+  - id: 96
+    title: Community Renewal of Pottawtomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: 'Help neighbors restore their community through intentional,
+      caring relationships. '
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/CommunityDevelopment
 - id: okc
   f1_campus_id: 4351
   f1_substatus_id: 381
@@ -2459,6 +2467,14 @@
       and responsible young men.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,tulsa
+  - id: 97
+    title: Bixby Outreach Center
+    recipient: sto.serving@life.church
+    url: ''
+    description_medium: 'Assist your neighbors in need through a cooperative community
+      effort filled with compassion and dignity. '
+    cause: Neighborhood/Community Development
+    tags: Food,Clothing&Shelter,tulsa
 - id: hnv
   f1_campus_id: 4344
   f1_substatus_id: 378
