@@ -20,7 +20,7 @@ jQuery(function() {
   seconds = void 0;
   intervalId = void 0;
   return $.ajax({
-    url: "http://live.life.church/api/v1/events/current",
+    url: "https://lifechurch-tv.churchonline.org/api/v1/events/current",
     dataType: "json",
     success: function(data) {
       var date, dateString, seconds_till;
