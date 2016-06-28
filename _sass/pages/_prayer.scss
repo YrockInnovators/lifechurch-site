@@ -2,7 +2,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 
 .prayer {
-  background: black;
+  background: #fff;
   
   .hero {
     @include retina-image(/images/prayer/prayer-bg-small, 559px auto, jpg);
