@@ -1,11 +1,11 @@
 require 'rack/contrib/try_static'
 require 'rack/contrib/not_found'
 require 'rack/rewrite'
-require 'rack-slashenforce'
+#require 'rack-slashenforce'
 
 
 use Rack::Deflater
-use Rack::AppendTrailingSlash
+#use Rack::AppendTrailingSlash
 
 use Rack::Rewrite do
   r301 %r{(.*)}, 'http://www.life.church$&', :if => Proc.new {|rack_env|
