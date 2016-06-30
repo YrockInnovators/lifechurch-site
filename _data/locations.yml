@@ -3017,3 +3017,13 @@
     type: lifekids
     type_name: LifeKids
   missions: []
+- id: int
+  f1_campus_id: 387
+  f1_substatus_id: 33723449
+  title: Church Online
+  email: ''
+  phone: '4052167170'
+  address: 4600 E 2nd St Edmond, Oklahoma 73034
+  facebook: https://www.facebook.com/life.church
+  times: []
+  missions: []
