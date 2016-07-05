@@ -1627,14 +1627,26 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
+    type: service
+    type_name: Service
+  - title: 06:00PM
+    time: 18-00
+    day: sun
+    duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
