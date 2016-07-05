@@ -2699,18 +2699,12 @@
     time: 17-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: service
     type_name: Service
   - title: 06:30PM
@@ -2721,16 +2715,28 @@
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 12:30AM
+    time: 00-30
+    day: thu
+    duration: 60
+    type: service
+    type_name: Service
   missions:
   - id: 34
     title: The Spero Project
