@@ -1,4 +1,25 @@
 ---
+- id: at-the-movies-2016
+  title: At The Movies 2016
+  headline: ''
+  description_small: Average movies entertain us. The best ones inspire us. So what
+    can movies tell us about our own lives? Plenty! Grab some popcorn and find a seat
+  description_medium: Average movies entertain us. The best ones inspire us. So what
+    can movies tell us about our own lives? Plenty! Grab some popcorn and find a seat!
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories: []
+  image_small: http://api-assets.lifechurch.tv/series/at-the-movies-2016/300x200.jpg?1467996453
+  image_medium: http://api-assets.lifechurch.tv/series/at-the-movies-2016/600x400.jpg?1467996469
+  image_large: http://api-assets.lifechurch.tv/series/at-the-movies-2016/1200x800.jpg?1467996484
+  image_social: http://api-assets.lifechurch.tv/series/at-the-movies-2016/400x400.jpg?1467996598
+  image_banner_archive: http://api-assets.lifechurch.tv/series/at-the-movies-2016/1500x340.jpg?1467996513
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/at-the-movies-2016/3000x680.jpg?1467996531
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/at-the-movies-2016/480x340.jpg?1467996561
+  image_banner_archive_small_2x: ''
 - id: bad-advice
   title: Bad Advice
   headline: Let's untangle our lives by learning how to avoid Bad Advice.
