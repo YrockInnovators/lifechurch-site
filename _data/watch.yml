@@ -2,10 +2,10 @@
 - id: the-last-four
   title: The Last Four
   headline: ''
-  description_small: Pastor Craig gives his insight into the last four verses he highlighted
-    in the YouVersion Bible App.
-  description_medium: Pastor Craig gives his insight into the last four verses he
-    highlighted in the YouVersion Bible App.
+  description_small: In The Last Four, Craig gives his insight into the last four
+    verses he highlighted in the YouVersion Bible App.
+  description_medium: In The Last Four, Craig gives his insight into the last four
+    verses he highlighted in the YouVersion Bible App.
   quote: ''
   quote_cite: ''
   open_url: ''
@@ -20,6 +20,7 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-last-four/3000x680.jpg?1467997992
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-last-four/480x340.jpg?1467998018
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-last-four/960x680.jpg?1467998028
+  messages: []
 - id: at-the-movies-2016
   title: At The Movies 2016
   headline: ''
