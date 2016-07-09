@@ -20,7 +20,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-last-four/3000x680.jpg?1467997992
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-last-four/480x340.jpg?1467998018
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-last-four/960x680.jpg?1467998028
-  messages: []
+  messages:
+  - title: Psalm 143:8
+    headline: ''
+    video: 
+    platform_id: eL3h07ioBn43
 - id: at-the-movies-2016
   title: At The Movies 2016
   headline: ''
