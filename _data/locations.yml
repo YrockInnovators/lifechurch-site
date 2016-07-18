@@ -3160,18 +3160,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
   missions: []
 - id: int
   f1_campus_id: 387
