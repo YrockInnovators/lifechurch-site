@@ -2868,15 +2868,15 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 35
-    title: City Rescue Mission
+  - id: 78
+    title: LifeTroops
     recipient: mwc.serving@life.church
-    url: http://cityrescue.org/
-    description_medium: Provide help, hope, healing, and restoration to our community’s
-      marginalized families and neighbors by working under the call of Christ with
-      City Rescue Mission.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,okc
+    url: ''
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
