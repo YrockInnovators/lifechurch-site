@@ -30,7 +30,7 @@
   image_large: http://api-assets.lifechurch.tv/series/i-choose/1200x800.jpg?1470236198
   image_social: http://api-assets.lifechurch.tv/series/i-choose/400x400.jpg?1470236340
   image_banner_archive: http://api-assets.lifechurch.tv/series/i-choose/1500x340.jpg?1470236985
-  image_banner_archive_2x: ''
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-choose/3000x680.jpg?1470237821
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-choose/480x340.jpg?1470237028
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-choose/960x680.jpg?1470237069
 - id: the-last-four
