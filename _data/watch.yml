@@ -91,7 +91,7 @@
   image_banner_archive: http://api-assets.lifechurch.tv/series/at-the-movies-2016/1500x340.jpg?1467996513
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/at-the-movies-2016/3000x680.jpg?1467996531
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/at-the-movies-2016/480x340.jpg?1467996561
-  image_banner_archive_small_2x: ''
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/at-the-movies-2016/960x680.jpg?1470430112
 - id: bad-advice
   title: Bad Advice
   headline: Let's untangle our lives by learning how to avoid Bad Advice.
