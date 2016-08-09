@@ -2899,10 +2899,16 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 09:00PM
+    time: 21-00
     day: sun
     duration: 60
     type: service
@@ -2911,14 +2917,14 @@
     time: 18-30
     day: mon
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: mon
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
