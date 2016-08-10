@@ -1,43 +1,4 @@
 ---
-- id: i-choose
-  title: I Choose
-  headline: There might be more on the line than you thought when you say “I Choose.”
-  description_small: We are the result of our decisions. While we agonize over little
-    things like what to wear and what to eat, are we glossing over the big choices?
-  description_medium: We are the result of our decisions. While we agonize over little
-    things like what to wear and what to eat, are we glossing over the big choices?
-    There might be more on the line than you thought when you say “I Choose.”
-  quote: ''
-  quote_cite: ''
-  open_url: https://open.church/resources/2741-i-choose
-  promo: bp1_79csz77J
-  resources_url: ''
-  categories:
-  - id: 29
-    name: Wisdom
-    created_at: '2014-06-11T15:18:02.732-05:00'
-    updated_at: '2014-06-11T15:18:02.732-05:00'
-  - id: 39
-    name: Purpose
-    created_at: '2014-06-11T15:21:10.086-05:00'
-    updated_at: '2014-06-11T15:21:10.086-05:00'
-  - id: 42
-    name: Disciplines
-    created_at: '2014-06-11T15:23:03.968-05:00'
-    updated_at: '2014-06-11T15:23:03.968-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/i-choose/300x200.jpg?1470236145
-  image_medium: http://api-assets.lifechurch.tv/series/i-choose/600x400.jpg?1470236175
-  image_large: http://api-assets.lifechurch.tv/series/i-choose/1200x800.jpg?1470236198
-  image_social: http://api-assets.lifechurch.tv/series/i-choose/400x400.jpg?1470236340
-  image_banner_archive: http://api-assets.lifechurch.tv/series/i-choose/1500x340.jpg?1470236985
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-choose/3000x680.jpg?1470237821
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-choose/480x340.jpg?1470237028
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-choose/960x680.jpg?1470237069
-  messages:
-  - title: Purpose Over Popularity
-    headline: ''
-    video: 
-    platform_id: kq9c7Bo4sr19
 - id: the-last-four
   title: The Last Four
   headline: ''
@@ -97,55 +58,6 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/at-the-movies-2016/3000x680.jpg?1467996531
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/at-the-movies-2016/480x340.jpg?1467996561
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/at-the-movies-2016/960x680.jpg?1470430112
-- id: the-right-heart
-  title: The Right Heart
-  headline: Love isn’t about following the right rules—it’s about having The Right
-    Heart.
-  description_small: Join special guest Joyce Meyer to see why love isn’t about following
-    the right rules—it’s about having The Right Heart.
-  description_medium: Love God, love people—sounds simple enough. So why is it so
-    hard to live out? Maybe it’s because we're going about it all wrong. Join special
-    guest Joyce Meyer to see why love isn’t about following the right rules—it’s about
-    having The Right Heart.
-  quote: ''
-  quote_cite: ''
-  open_url: https://open.church/resources/2608-the-right-heart
-  promo: ''
-  resources_url: ''
-  categories:
-  - id: 14
-    name: Worship
-    created_at: '2014-06-05T19:23:33.805-05:00'
-    updated_at: '2014-06-05T19:23:33.805-05:00'
-  - id: 1
-    name: Relationships
-    created_at: '2014-02-03T22:38:58.852-06:00'
-    updated_at: '2014-06-05T19:41:17.695-05:00'
-  - id: 42
-    name: Disciplines
-    created_at: '2014-06-11T15:23:03.968-05:00'
-    updated_at: '2014-06-11T15:23:03.968-05:00'
-  - id: 84
-    name: Joyce Meyer
-    created_at: '2016-05-19T15:00:44.134-05:00'
-    updated_at: '2016-05-19T15:00:44.134-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-right-heart/300x200.jpg?1463688544
-  image_medium: http://api-assets.lifechurch.tv/series/the-right-heart/600x400.jpg?1463688480
-  image_large: http://api-assets.lifechurch.tv/series/the-right-heart/1200x800.jpg?1438386539
-  image_social: http://api-assets.lifechurch.tv/series/the-right-heart/400x400.jpg?1463688406
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-right-heart/1500x340.jpg?1463688446
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-right-heart/3000x680.jpg?1463688459
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463688432
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463688419
-  messages:
-  - title: Love, Love, and Then Love Some More
-    headline: ''
-    video: ''
-    platform_id: CYvKhtGtR2ZF
-  - title: Isaiah 58
-    headline: ''
-    video: ''
-    platform_id: ftI1ArX_DPhs
 - id: bad-advice
   title: Bad Advice
   headline: Let's untangle our lives by learning how to avoid Bad Advice.
@@ -218,6 +130,94 @@
     headline: ''
     video: ''
     platform_id: IF0ZjwOqsq_H
+- id: i-choose
+  title: I Choose
+  headline: There might be more on the line than you thought when you say “I Choose.”
+  description_small: We are the result of our decisions. While we agonize over little
+    things like what to wear and what to eat, are we glossing over the big choices?
+  description_medium: We are the result of our decisions. While we agonize over little
+    things like what to wear and what to eat, are we glossing over the big choices?
+    There might be more on the line than you thought when you say “I Choose.”
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2741-i-choose
+  promo: bp1_79csz77J
+  resources_url: ''
+  categories:
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T15:18:02.732-05:00'
+    updated_at: '2014-06-11T15:18:02.732-05:00'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086-05:00'
+    updated_at: '2014-06-11T15:21:10.086-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968-05:00'
+    updated_at: '2014-06-11T15:23:03.968-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/i-choose/300x200.jpg?1470236145
+  image_medium: http://api-assets.lifechurch.tv/series/i-choose/600x400.jpg?1470236175
+  image_large: http://api-assets.lifechurch.tv/series/i-choose/1200x800.jpg?1470236198
+  image_social: http://api-assets.lifechurch.tv/series/i-choose/400x400.jpg?1470236340
+  image_banner_archive: http://api-assets.lifechurch.tv/series/i-choose/1500x340.jpg?1470236985
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-choose/3000x680.jpg?1470237821
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-choose/480x340.jpg?1470237028
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-choose/960x680.jpg?1470237069
+  messages:
+  - title: Purpose Over Popularity
+    headline: ''
+    video: 
+    platform_id: kq9c7Bo4sr19
+- id: the-right-heart
+  title: The Right Heart
+  headline: Love isn’t about following the right rules—it’s about having The Right
+    Heart.
+  description_small: Join special guest Joyce Meyer to see why love isn’t about following
+    the right rules—it’s about having The Right Heart.
+  description_medium: Love God, love people—sounds simple enough. So why is it so
+    hard to live out? Maybe it’s because we're going about it all wrong. Join special
+    guest Joyce Meyer to see why love isn’t about following the right rules—it’s about
+    having The Right Heart.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.church/resources/2608-the-right-heart
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805-05:00'
+    updated_at: '2014-06-05T19:23:33.805-05:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852-06:00'
+    updated_at: '2014-06-05T19:41:17.695-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968-05:00'
+    updated_at: '2014-06-11T15:23:03.968-05:00'
+  - id: 84
+    name: Joyce Meyer
+    created_at: '2016-05-19T15:00:44.134-05:00'
+    updated_at: '2016-05-19T15:00:44.134-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/the-right-heart/300x200.jpg?1463688544
+  image_medium: http://api-assets.lifechurch.tv/series/the-right-heart/600x400.jpg?1463688480
+  image_large: http://api-assets.lifechurch.tv/series/the-right-heart/1200x800.jpg?1438386539
+  image_social: http://api-assets.lifechurch.tv/series/the-right-heart/400x400.jpg?1463688406
+  image_banner_archive: http://api-assets.lifechurch.tv/series/the-right-heart/1500x340.jpg?1463688446
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-right-heart/3000x680.jpg?1463688459
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463688432
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463688419
+  messages:
+  - title: Love, Love, and Then Love Some More
+    headline: ''
+    video: ''
+    platform_id: CYvKhtGtR2ZF
+  - title: Isaiah 58
+    headline: ''
+    video: ''
+    platform_id: ftI1ArX_DPhs
 - id: how-to-neighbor
   title: How to Neighbor
   headline: 'You don''t get to pick who your neighbors are, but you can choose something
