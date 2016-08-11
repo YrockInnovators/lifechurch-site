@@ -739,7 +739,7 @@ jQuery(function() {
   seconds = void 0;
   intervalId = void 0;
   return $.ajax({
-    url: "http://live.life.church/api/v1/events/current",
+    url: "https://lifechurch-tv.churchonline.org/api/v1/events/current",
     dataType: "json",
     success: function(data) {
       var date, dateString, seconds_till;
@@ -914,7 +914,7 @@ function missionsContactValidate() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
+      form.parent().parent().append("").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    
