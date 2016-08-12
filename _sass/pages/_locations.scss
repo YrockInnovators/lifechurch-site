@@ -543,7 +543,7 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
     min-height: 65px;
 
     #online {
-      border-right: 1px solid $base-border-color;
+      border-right: 0px solid $base-border-color;
       @include svg-image('/locations/assets/map-churchonline');
     }
 
@@ -551,10 +551,9 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
       @include svg-image('/locations/assets/map-network');
     }
 
-    #online,
-    #network {
+    #online {
       display: block;
-      width: 50%;
+      width: 100%;
       float: left;
       padding: 40px 0 10px;
       text-align: center;
@@ -565,6 +564,9 @@ $locations: florida, kansas, newmexico, newyork, oklahoma, tennessee, texas;
       &:hover {
         background-color: #fafafa;
       }
+    }
+    #network {
+      display: none;
     }
   }
 }
