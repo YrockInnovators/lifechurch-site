@@ -127,7 +127,6 @@
     font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 17px;
     padding: 0em !important;
-    margin-top: 30px!important;
     font-weight: bold;
     border: none;
 }
@@ -197,4 +196,8 @@
 
 .hs-form .actions {
     margin-top: 0px!important;
+}
+
+#hsForm_76a971af-d87a-4f27-b0a2-bd42f650cee1 > div.hs_email.field.hs-form-field > label {
+  display:none!important;
 }
