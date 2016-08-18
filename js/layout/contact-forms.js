@@ -64,7 +64,7 @@ $(function() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We received your message and will be in touch.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    
@@ -96,7 +96,7 @@ $(function() {
       });
 
       form.parent().fadeOut();
-      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We'll get your email to the appropriate person.</em></div>").fadeIn();
+      form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We received your message and will be in touch.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
     }    
@@ -173,7 +173,7 @@ $(function() {
 }
       
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
@@ -229,7 +229,7 @@ $(function() {
       });  
 
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
@@ -278,7 +278,7 @@ $(function() {
       });  
 
       form.fadeOut();
-      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We'll get your email to the appropriate person.</em></div>").delay(500).fadeIn();
+      form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
     
