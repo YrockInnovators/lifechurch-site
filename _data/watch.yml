@@ -1524,14 +1524,14 @@
     name: Wisdom
     created_at: '2014-06-11T15:18:02.732-05:00'
     updated_at: '2014-06-11T15:18:02.732-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/god-never-said-that/300x200.jpg?1421728683
-  image_medium: http://api-assets.lifechurch.tv/series/god-never-said-that/600x400.jpg?1421728711
-  image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1421728738
-  image_social: http://api-assets.lifechurch.tv/series/god-never-said-that/400x400.jpg?1421728759
-  image_banner_archive: http://api-assets.lifechurch.tv/series/god-never-said-that/1500x340.jpg?1421728837
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/3000x680.jpg?1421728790
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/god-never-said-that/480x340.jpg?1421728882
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/960x680.jpg?1421728906
+  image_small: ''
+  image_medium: http://api-assets.lifechurch.tv/series/god-never-said-that/600x400.jpg?1471554089
+  image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1471555136
+  image_social: http://api-assets.lifechurch.tv/series/god-never-said-that/400x400.jpg?1471553838
+  image_banner_archive: http://api-assets.lifechurch.tv/series/god-never-said-that/1500x340.jpg?1471554178
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/960x680.jpg?1471553947
   messages:
   - title: It Doesn’t Matter What You Believe
     headline: ''
