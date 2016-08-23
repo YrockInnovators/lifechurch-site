@@ -113,6 +113,11 @@
 
 #hsForm_76a971af-d87a-4f27-b0a2-bd42f650cee1 {
   display: inline-flex;
+  ul {
+    li {
+      list-style-type: none;
+    }
+  }
 }
 
 .hs-form .actions {
@@ -153,10 +158,6 @@
   border: none;
   font-size: 15px;
   height: 37px;
-}
-
-.single article ul li {
-    list-style: none!important;
 }
 
 @media (max-width: 600px) {
