@@ -796,14 +796,14 @@
     time: 19-00
     day: mon
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 07:00PM
     time: 19-00
     day: mon
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -834,8 +834,8 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
@@ -1535,18 +1535,18 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: sat
