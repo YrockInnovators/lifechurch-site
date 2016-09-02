@@ -1,44 +1,32 @@
 ---
-- id: making-change
-  title: Making Change
-  headline: Whether you’re digging out of debt or planning for your future, investing
-    in a brighter tomorrow starts by Making Change today.
-  description_small: Do your finances bring you fear or freedom? Now’s the time to
-    build a foundation that endures. Investing in a brighter tomorrow starts by Making
-    Change today.
-  description_medium: Do your finances bring you fear or freedom? Whether you’re digging
-    out of debt or planning for your future, now’s the time to build a foundation
-    that endures. Investing in a brighter tomorrow starts by Making Change today.
+- id: reaching-people-for-christ
+  title: Reaching People for Christ
+  headline: When you find hope, you can’t wait to share it. Now’s the time to start
+    Reaching People for Christ.
+  description_small: You may not see how, but you’re in the right place to shine a
+    light in a dark world. Now’s the time to start Reaching People for Christ.
+  description_medium: Everyone knows someone who is hurting, longing for comfort,
+    and searching for answers. It might even be you who’s looking for light in a dark
+    world. But when you find hope, you can’t wait to share it. Now’s the time to start
+    Reaching People for Christ.
   quote: ''
   quote_cite: ''
-  open_url: https://open.life.church/resources/2749-making-change
-  promo: PX90A9HwRmIj
+  open_url: https://open.life.church/resources/2748-reaching-people-for-christ
+  promo: ''
   resources_url: ''
   categories:
-  - id: 5
-    name: Money
-    created_at: '2014-02-03T22:38:58.881-06:00'
-    updated_at: '2014-06-05T19:12:14.043-05:00'
-  - id: 20
-    name: Tithe
-    created_at: '2014-06-11T15:15:22.933-05:00'
-    updated_at: '2014-06-11T15:15:22.933-05:00'
-  - id: 42
-    name: Disciplines
-    created_at: '2014-06-11T15:23:03.968-05:00'
-    updated_at: '2014-06-11T15:23:03.968-05:00'
-  - id: 43
-    name: Trials
-    created_at: '2014-06-11T15:23:13.523-05:00'
-    updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/making-change/300x200.jpg?1472674783
-  image_medium: http://api-assets.lifechurch.tv/series/making-change/600x400.jpg?1472674831
-  image_large: http://api-assets.lifechurch.tv/series/making-change/1200x800.jpg?1472674874
-  image_social: http://api-assets.lifechurch.tv/series/making-change/400x400.jpg?1472674899
-  image_banner_archive: http://api-assets.lifechurch.tv/series/making-change/1500x340.jpg?1472674983
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/making-change/3000x680.jpg?1472674924
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/making-change/480x340.jpg?1472675005
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/making-change/960x680.jpg?1472675037
+  - id: 44
+    name: Witnessing
+    created_at: '2014-06-11T15:25:15.255-05:00'
+    updated_at: '2014-06-11T15:25:15.255-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/300x200.jpg?1472153261
+  image_medium: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/600x400.jpg?1472153282
+  image_large: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1200x800.jpg?1472153300
+  image_social: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/400x400.jpg?1472153318
+  image_banner_archive: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1500x340.jpg?1472153387
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/3000x680.jpg?1472153339
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/480x340.jpg?1472153405
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/960x680.jpg?1472153443
   messages: []
 - id: i-choose
   title: I Choose
