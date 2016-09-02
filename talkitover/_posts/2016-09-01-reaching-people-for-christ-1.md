@@ -10,13 +10,13 @@ title: Talk It Over Week 1
 
 Key Scriptures
 
-_Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them. But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” Jesus answered them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance.”_
+_Then Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors and others were eating with them. But the Pharisees and the teachers of the law who belonged to their sect complained to his disciples, “Why do you eat and drink with tax collectors and sinners?” Jesus answered them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance.”_  
 Luke 5:29-32 NIV
 
-_Then, leaving her water jar, the woman went back to the town and said to the people, “Come, see a man who told me everything I ever did. Could this be the Messiah?” They came out of the town and made their way toward him._
+_Then, leaving her water jar, the woman went back to the town and said to the people, “Come, see a man who told me everything I ever did. Could this be the Messiah?” They came out of the town and made their way toward him._  
 John 4:28-30 NIV
 
-_He replied, “Whether [Jesus] is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!” Then they asked him, “What did [Jesus] do to you? How did he open your eyes?” He answered, “I have told you already and you did not listen. Why do you want to hear it again? Do you want to become his disciples too?_
+_He replied, “Whether [Jesus] is a sinner or not, I don’t know. One thing I do know. I was blind but now I see!” Then they asked him, “What did [Jesus] do to you? How did he open your eyes?” He answered, “I have told you already and you did not listen. Why do you want to hear it again? Do you want to become his disciples too?_  
 John 9:25-27 NIV
 
 ## More Scripture
@@ -46,7 +46,7 @@ John 9:25-27 NIV
 
 <p class="lead">Start praying. Be bold, and pray with power.</p> 
 
-_Jesus, what You did for us is something we’ve just got to tell people about. Will You open our eyes to the opportunities we have to reach out to people around us? We pray You would interrupt us with people who need Your love. Amen._
+Jesus, what You did for us is something we’ve just got to tell people about. Will You open our eyes to the opportunities we have to reach out to people around us? We pray You would interrupt us with people who need Your love. Amen.
 
 * * *
 
@@ -54,7 +54,7 @@ _Jesus, what You did for us is something we’ve just got to tell people about. 
 <p class="lead">Start doing. Commit to a step and live it out this week.</p>
 
 * Craig talked about using what you have, inviting someone to church, and sharing your story. Which will you start with this week? How?
-* Start the _Share Jesus_ Bible Plan for ideas and motivation to share your faith. [www.go2.lc/sharejesus](www.go2.lc/sharejesus)
+* Start the _Share Jesus_ Bible Plan for ideas and motivation to share your faith. [www.go2.lc/sharejesus](https://www.bible.com/reading-plans/1600-share-jesus-go-give-life)
 * Who are the people you plan to share your faith with? Pray for these people together.
 
 * * *
