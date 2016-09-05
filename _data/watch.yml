@@ -27,7 +27,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/3000x680.jpg?1472153339
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/480x340.jpg?1472153405
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/960x680.jpg?1472153443
-  messages: []
+  messages:
+  - title: Reaching People for Christ
+    headline: ''
+    video: 
+    platform_id: WR7vE58uY_sR
 - id: i-choose
   title: I Choose
   headline: There might be more on the line than you thought when you say “I Choose.”
