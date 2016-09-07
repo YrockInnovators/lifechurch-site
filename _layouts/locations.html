@@ -25,6 +25,7 @@ hero: locations-hero
       {% if page.times == true %}
       <section id="times">
         <section class="calendar showing-saturday">
+        <!-- Saturday -->
           <article class="saturday day">
             <h6>Saturday</h6>
 
@@ -39,7 +40,7 @@ hero: locations-hero
             </div>
             {% endif %}{% endunless %}{% endfor %}
           </article>
-
+          <!-- Sunday -->
           <article class="sunday day">
             <h6>Sunday</h6>
           
@@ -54,12 +55,28 @@ hero: locations-hero
             </div>
             {% endif %}{% endunless %}{% endfor %}
             <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
-            <!--  {% if location.id == 'stw' %}
+            {% if location.id == 'stw' %}
              <time>09:00PM</time> <span>Service Only</span>
-             {% endif %} -->
+             {% endif %}
              </div>
           </article>
-
+          <!-- Monday -->
+            {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' or (time.time == '21-00' and location.id == 'stw') %}{% if time.day == 'mon' %}
+            <article class="monday day">
+            <h6>Monday</h6>
+            <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+              <time>{{ time.title }}</time>
+              <span>
+                {% if time.type == 'service' %}Service &amp; LifeKids
+                {% elsif time.type == 'switch' %}Switch &amp; Roots
+                {% endif %}
+              </span>
+            </div>
+            {% endif %}{% endunless %}{% endfor %}
+            <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+             </div>
+          </article>
+          <!-- Wednesday -->
           <article class="wednesday day">
             <h6>Wednesday</h6>
             
@@ -75,6 +92,26 @@ hero: locations-hero
               </span>
             </div>
             {% endif %}{% endunless %}{% endfor %}
+          </article>
+          <!-- Thursday -->
+          
+            {% for time in location.times %}{% unless time.type == 'lifekids' or time.type == 'roots' or (time.time == '21-00' and location.id == 'stw') %}{% if time.day == 'thu' %}
+            <article class="thursday day">
+            <h6>Thursday</h6>
+            <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+              <time>{{ time.title }}</time>
+              <span>
+                {% if time.type == 'service' %}Service &amp; LifeKids
+                {% elsif time.type == 'switch' %}Switch &amp; Roots
+                {% endif %}
+              </span>
+            </div>
+            {% endif %}{% endunless %}{% endfor %}
+            <div class="event is-{{ time.type }} time-{{ time.time }} duration-{{ time.duration }}">
+            <!--  {% if location.id == 'stw' %}
+             <time>09:00PM</time> <span>Service Only</span>
+             {% endif %} -->
+             </div>
           </article>
         </section>
         <!-- End calendar -->
@@ -335,7 +372,7 @@ hero: locations-hero
             <input type="hidden" class="title" name="subject" value="{{ location.title }} - Contact the Pastor" />
             <hr />
             <h6>Get Connected</h6>
-            <p class="detail">Give us your name and email address and we'll get back to you on how to get started.</p>
+            <p class="detail">Please share your name, email address, and a short message for your campus pastor below. </p>
             <input type="text" class="details" name="name" placeholder="Name" />
             <input type="text" class="details" name="email" placeholder="Email" />
             <textarea class="details" name="message" placeholder="Your Message"></textarea>

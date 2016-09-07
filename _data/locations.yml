@@ -162,24 +162,24 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
     type: service
     type_name: Service
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 05:00PM
@@ -198,34 +198,46 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
@@ -283,14 +295,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -307,14 +319,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 01:00PM
     time: 13-00
     day: sun
@@ -343,14 +355,26 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
     type: service
     type_name: Service
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -363,26 +387,26 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
@@ -481,18 +505,12 @@
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 06:30PM
@@ -501,6 +519,12 @@
     duration: 60
     type: service
     type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -513,30 +537,30 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 06:00PM
+    time: 18-00
     day: sat
     duration: 60
     type: service
     type_name: Service
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
   - id: 48
     title: Serve Moore
@@ -700,14 +724,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -736,14 +760,14 @@
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -760,14 +784,26 @@
     time: 18-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
+    type: service
+    type_name: Service
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -780,26 +816,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
@@ -838,6 +874,18 @@
   address: 120 Indian Lake Blvd. Hendersonville, TN 37075
   facebook: '121921428281'
   times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -866,14 +914,14 @@
     time: 13-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -890,26 +938,26 @@
     time: 18-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
   missions:
   - id: 85
     title: Shalom Zone
@@ -969,14 +1017,14 @@
     time: 13-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -993,46 +1041,46 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: service
     type_name: Service
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
@@ -1093,14 +1141,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1117,26 +1165,26 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
     type: service
     type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -1153,14 +1201,14 @@
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1173,30 +1221,30 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
   missions:
   - id: 53
     title: Reading Partners
@@ -1295,14 +1343,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1319,18 +1367,12 @@
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 01:00PM
@@ -1339,8 +1381,8 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 01:00PM
+    time: 13-00
     day: sun
     duration: 60
     type: lifekids
@@ -1351,18 +1393,24 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:00PM
+    time: 17-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1375,18 +1423,18 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 06:00PM
-    time: 18-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: service
     type_name: Service
+  - title: 04:30PM
+    time: 16-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
   - id: 13
     title: Youth & Family Services
@@ -1461,14 +1509,14 @@
     time: 18-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1481,30 +1529,30 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:00PM
+    time: 17-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:00PM
+    time: 17-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 07:30PM
-    time: 19-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 07:30PM
-    time: 19-30
+  - title: 06:30PM
+    time: 18-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
   missions:
   - id: 50
     title: Youth for Christ
@@ -1759,10 +1807,22 @@
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
     day: sun
     duration: 60
     type: service
@@ -1809,14 +1869,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1833,14 +1893,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
@@ -1877,26 +1937,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
     day: sat
     duration: 60
     type: service
@@ -1962,6 +2022,18 @@
   address: 338 N. 127th St E. Wichita, KS 67206
   facebook: '1454704991443722'
   times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1978,14 +2050,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2020,18 +2092,12 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 10:00AM
@@ -2040,8 +2106,8 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 11:30AM
-    time: 11-30
+  - title: 10:00AM
+    time: 10-00
     day: sun
     duration: 60
     type: lifekids
@@ -2052,8 +2118,8 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 01:00PM
-    time: 13-00
+  - title: 11:30AM
+    time: 11-30
     day: sun
     duration: 60
     type: lifekids
@@ -2064,18 +2130,24 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 06:00PM
-    time: 18-00
+  - title: 01:00PM
+    time: 13-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:00PM
     time: 18-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2088,26 +2160,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 06:00PM
+    time: 18-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 06:00PM
+    time: 18-00
     day: sat
     duration: 60
     type: service
@@ -2167,26 +2239,26 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 11:30AM
     time: 11-30
     day: sun
@@ -2223,26 +2295,32 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 06:30PM
+    time: 18-30
     day: sat
     duration: 60
     type: service
@@ -2253,12 +2331,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
   missions:
   - id: 54
     title: Peppers Ranch
@@ -2515,14 +2587,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
@@ -2539,20 +2611,14 @@
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: sun
@@ -2561,36 +2627,42 @@
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
-  - title: 05:00PM
-    time: 17-00
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
@@ -2748,15 +2820,15 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 35
-    title: City Rescue Mission
+  - id: 78
+    title: LifeTroops
     recipient: mwc.serving@life.church
-    url: http://cityrescue.org/
-    description_medium: Provide help, hope, healing, and restoration to our community’s
-      marginalized families and neighbors by working under the call of Christ with
-      City Rescue Mission.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,okc
+    url: ''
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
@@ -2779,14 +2851,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -2803,14 +2875,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -2835,6 +2907,24 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 09:00PM
+    time: 21-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2943,38 +3033,38 @@
     time: 18-30
     day: wed
     duration: 120
-    type: roots
-    type_name: Roots
+    type: switch
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
-    type: switch
-    type_name: Switch
-  - title: 05:00PM
-    time: 17-00
+    type: roots
+    type_name: Roots
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:30PM
+    time: 16-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 06:00PM
+    time: 18-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:00PM
+    time: 18-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
   missions:
   - id: 94
     title: Union Gospel Mission
@@ -3016,4 +3106,14 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
+  missions: []
+- id: int
+  f1_campus_id: 387
+  f1_substatus_id: 33723449
+  title: Church Online
+  email: ''
+  phone: '4052167170'
+  address: 4600 E 2nd St Edmond, Oklahoma 73034
+  facebook: https://www.facebook.com/life.church
+  times: []
   missions: []

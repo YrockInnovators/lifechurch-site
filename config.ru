@@ -126,6 +126,7 @@ use Rack::Rewrite do
   r301 %r{^/(?i)switch/?$}, '/kids/#switch'
   r301 %r{^/(?i)whatsnext/?$}, '/next/'
   r301 %r{^/(?i)equipping-churches/?$}, '/churches/'
+  r301 %r{^/(?i)equippingchurches/?$}, '/churches/'
   r301 %r{^/(?i)serveatchurchonline/?$}, '/serving/#church-online'
   r301 %r{^/(?i)southwestokc/?$}, '/southokc/'
   r301 %r{^/(?i)churchonline/?$}, '/online/'
