@@ -39,7 +39,11 @@
   image_banner_archive_2x: http://api-assets.lifechurch.tv/series/making-change/3000x680.jpg?1472674924
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/making-change/480x340.jpg?1472675005
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/making-change/960x680.jpg?1472675037
-  messages: []
+  messages:
+  - title: Less Is More
+    headline: ''
+    video: 
+    platform_id: TexBw6v8k7YQ
 - id: reaching-people-for-christ
   title: Reaching People for Christ
   headline: When you find hope, you can’t wait to share it. Now’s the time to start
