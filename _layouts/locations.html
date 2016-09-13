@@ -118,15 +118,15 @@ hero: locations-hero
       </section>
       {% endif %}
       
-
-      {% if page.mailer and page.times == true %}
-      <hr />
-      {% endif %}
-      
       {% if location.id == 'OPK' %}
       <strong>Beginning Sunday, September 25</strong><br />
       9800 W. 135th St., Overland Park, KS 66213 <br />
       (get directions)
+      {% endif %}
+      
+
+      {% if page.mailer and page.times == true %}
+      <hr />
       {% endif %}
 
       {% if page.form %}
