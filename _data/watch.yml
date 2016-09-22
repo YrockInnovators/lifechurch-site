@@ -1619,7 +1619,7 @@
   image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1471555136
   image_social: http://api-assets.lifechurch.tv/series/god-never-said-that/400x400.jpg?1471553838
   image_banner_archive: http://api-assets.lifechurch.tv/series/god-never-said-that/1500x340.jpg?1471554178
-  image_banner_archive_2x: ''
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/3000x680.jpg?1474573273
   image_banner_archive_small: ''
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/960x680.jpg?1471553947
   messages:
