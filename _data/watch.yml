@@ -5049,8 +5049,8 @@
   image_medium: http://api-assets.lifechurch.tv/series/one-thing/600x400.jpg?1395954667
   image_large: http://api-assets.lifechurch.tv/series/one-thing/1200x800.jpg?1395954568
   image_social: http://api-assets.lifechurch.tv/series/one-thing/400x400.jpg?1395970136
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://api-assets.lifechurch.tv/series/one-thing/1500x340.jpg?1474571111
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/one-thing/3000x680.jpg?1474571098
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages:
