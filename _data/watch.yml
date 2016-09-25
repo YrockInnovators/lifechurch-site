@@ -40,6 +40,10 @@
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/making-change/480x340.jpg?1472675005
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/making-change/960x680.jpg?1472675037
   messages:
+  - title: Giving Is Good
+    headline: ''
+    video: 
+    platform_id: TarLWLspqLnV
   - title: Stress Is Bad
     headline: ''
     video: 
