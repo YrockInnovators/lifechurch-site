@@ -1,4 +1,30 @@
 ---
+- id: trending-truth
+  title: Trending Truth
+  headline: A viral video delivers a concentrated dose of heartbreak, inspiration,
+    or gut-busting laughter. And you might even find a Trending Truth at its core.
+  description_small: A good viral video is always relatable—and we think it’s because
+    there’s plenty of truth to find. Let’s uncover it in Trending Truth at Life.Church—it’s
+    your only chance to catch this special message!
+  description_medium: A viral video delivers a concentrated dose of heartbreak, inspiration,
+    or gut-busting laughter. And you might even find a nugget of wisdom at its core.
+    Wondering what we mean? Find out in Trending Truth at Life.Church—it’s your only
+    chance to catch this special message!
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2750-trending-truth
+  promo: ''
+  resources_url: ''
+  categories: []
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: making-change
   title: Making Change
   headline: Whether you’re digging out of debt or planning for your future, investing
