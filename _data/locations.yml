@@ -3073,13 +3073,23 @@
     description_medium: Help provide love, hope, and a new beginning for the homeless.
     cause: Food, Clothing, & Shelter
     tags: fortworth,texas,food
+- id: int
+  f1_campus_id: 387
+  f1_substatus_id: 33723449
+  title: Church Online
+  email: ''
+  phone: '4052167170'
+  address: 4600 E 2nd St Edmond, Oklahoma 73034
+  facebook: https://www.facebook.com/life.church
+  times: []
+  missions: []
 - id: OPK
   f1_campus_id: 64790
   f1_substatus_id: 4368
   title: Overland Park, KS
   email: 'opk.serving@life.church '
   phone: 913-279-0012
-  address: 6601 Edgewater Dr. Overland Park, KS 66223
+  address: 9800 W. 135th St. Overland Park, KS 66213
   facebook: '1078785968812011'
   times:
   - title: 10:00AM
@@ -3106,14 +3116,4 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  missions: []
-- id: int
-  f1_campus_id: 387
-  f1_substatus_id: 33723449
-  title: Church Online
-  email: ''
-  phone: '4052167170'
-  address: 4600 E 2nd St Edmond, Oklahoma 73034
-  facebook: https://www.facebook.com/life.church
-  times: []
   missions: []

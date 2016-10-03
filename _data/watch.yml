@@ -1,4 +1,87 @@
 ---
+- id: trending-truth
+  title: Trending Truth
+  headline: A viral video delivers a concentrated dose of heartbreak, inspiration,
+    or gut-busting laughter. And you might even find a Trending Truth at its core.
+  description_small: A good viral video is always relatable—and we think it’s because
+    there’s plenty of truth to find. Let’s uncover it in Trending Truth at Life.Church—it’s
+    your only chance to catch this special message!
+  description_medium: A viral video delivers a concentrated dose of heartbreak, inspiration,
+    or gut-busting laughter. And you might even find a nugget of wisdom at its core.
+    Wondering what we mean? Find out in Trending Truth at Life.Church—it’s your only
+    chance to catch this special message!
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2750-trending-truth
+  promo: ''
+  resources_url: ''
+  categories: []
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
+- id: making-change
+  title: Making Change
+  headline: Whether you’re digging out of debt or planning for your future, investing
+    in a brighter tomorrow starts by Making Change today.
+  description_small: Do your finances bring you fear or freedom? Now’s the time to
+    build a foundation that endures. Investing in a brighter tomorrow starts by Making
+    Change today.
+  description_medium: Do your finances bring you fear or freedom? Whether you’re digging
+    out of debt or planning for your future, now’s the time to build a foundation
+    that endures. Investing in a brighter tomorrow starts by Making Change today.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2749-making-change
+  promo: PX90A9HwRmIj
+  resources_url: ''
+  categories:
+  - id: 5
+    name: Money
+    created_at: '2014-02-03T22:38:58.881-06:00'
+    updated_at: '2014-06-05T19:12:14.043-05:00'
+  - id: 20
+    name: Tithe
+    created_at: '2014-06-11T15:15:22.933-05:00'
+    updated_at: '2014-06-11T15:15:22.933-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968-05:00'
+    updated_at: '2014-06-11T15:23:03.968-05:00'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523-05:00'
+    updated_at: '2014-06-11T15:23:13.523-05:00'
+  image_small: http://api-assets.lifechurch.tv/series/making-change/300x200.jpg?1472674783
+  image_medium: http://api-assets.lifechurch.tv/series/making-change/600x400.jpg?1472674831
+  image_large: http://api-assets.lifechurch.tv/series/making-change/1200x800.jpg?1472674874
+  image_social: http://api-assets.lifechurch.tv/series/making-change/400x400.jpg?1472674899
+  image_banner_archive: http://api-assets.lifechurch.tv/series/making-change/1500x340.jpg?1472674983
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/making-change/3000x680.jpg?1472674924
+  image_banner_archive_small: http://api-assets.lifechurch.tv/series/making-change/480x340.jpg?1472675005
+  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/making-change/960x680.jpg?1472675037
+  messages:
+  - title: Tomorrow Matters
+    headline: ''
+    video: 
+    platform_id: inTwrvsRrvtI
+  - title: Giving Is Good
+    headline: ''
+    video: 
+    platform_id: TarLWLspqLnV
+  - title: Stress Is Bad
+    headline: ''
+    video: 
+    platform_id: _e_uUyQzPq8D
+  - title: Less Is More
+    headline: ''
+    video: 
+    platform_id: TexBw6v8k7YQ
 - id: reaching-people-for-christ
   title: Reaching People for Christ
   headline: When you find hope, you can’t wait to share it. Now’s the time to start
@@ -20,11 +103,11 @@
     created_at: '2014-06-11T15:25:15.255-05:00'
     updated_at: '2014-06-11T15:25:15.255-05:00'
   image_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/300x200.jpg?1472153261
-  image_medium: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/600x400.jpg?1472153282
+  image_medium: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/600x400.jpg?1473521229
   image_large: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1200x800.jpg?1472153300
   image_social: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/400x400.jpg?1472153318
   image_banner_archive: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1500x340.jpg?1472153387
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/3000x680.jpg?1472153339
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/3000x680.jpg?1473521306
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/480x340.jpg?1472153405
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/960x680.jpg?1472153443
   messages:
@@ -1570,7 +1653,7 @@
   image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1471555136
   image_social: http://api-assets.lifechurch.tv/series/god-never-said-that/400x400.jpg?1471553838
   image_banner_archive: http://api-assets.lifechurch.tv/series/god-never-said-that/1500x340.jpg?1471554178
-  image_banner_archive_2x: ''
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/3000x680.jpg?1474573273
   image_banner_archive_small: ''
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/960x680.jpg?1471553947
   messages:
@@ -3862,7 +3945,7 @@
   image_large: http://api-assets.lifechurch.tv/series/passing-the-test/1200x800.jpg?1396040575
   image_social: http://api-assets.lifechurch.tv/series/passing-the-test/400x400.jpg?1396040493
   image_banner_archive: http://api-assets.lifechurch.tv/series/passing-the-test/1500x340.jpg?1401393523
-  image_banner_archive_2x: ''
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/passing-the-test/3000x680.jpg?1474555935
   image_banner_archive_small: http://api-assets.lifechurch.tv/series/passing-the-test/480x340.jpg?1401393561
   image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/passing-the-test/960x680.jpg?1401393541
   messages:
@@ -5000,8 +5083,8 @@
   image_medium: http://api-assets.lifechurch.tv/series/one-thing/600x400.jpg?1395954667
   image_large: http://api-assets.lifechurch.tv/series/one-thing/1200x800.jpg?1395954568
   image_social: http://api-assets.lifechurch.tv/series/one-thing/400x400.jpg?1395970136
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
+  image_banner_archive: http://api-assets.lifechurch.tv/series/one-thing/1500x340.jpg?1474571111
+  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/one-thing/3000x680.jpg?1474571098
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages:
