@@ -1,4 +1,70 @@
 ---
+- id: let-us
+  title: Let Us
+  headline: Finding rest, finding faith, and finding God. Dive into a mini-series
+    with Pastor Craig and learn why "Let Us" is more than just a phrase.
+  description_small: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—visit
+    www.go2.lc/letus to watch or listen.
+  description_medium: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—you’ll
+    only find it online, in the Life.Church App, or on the Life.Church podcast. Visit
+    www.go2.lc/letus to watch or listen.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805-05:00'
+    updated_at: '2014-06-05T19:23:33.805-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+- id: let-us
+  title: Let Us
+  headline: Finding rest, finding faith, and finding God. Dive into a mini-series
+    with Pastor Craig and learn why "Let Us" is more than just a phrase.
+  description_small: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—visit
+    www.go2.lc/letus to watch or listen.
+  description_medium: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—you’ll
+    only find it online, in the Life.Church App, or on the Life.Church podcast. Visit
+    www.go2.lc/letus to watch or listen.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805-05:00'
+    updated_at: '2014-06-05T19:23:33.805-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
 - id: trending-truth
   title: Trending Truth
   headline: A viral video delivers a concentrated dose of heartbreak, inspiration,
@@ -25,6 +91,39 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages: []
+- id: let-us
+  title: Let Us
+  headline: Finding rest, finding faith, and finding God. Dive into a mini-series
+    with Pastor Craig and learn why "Let Us" is more than just a phrase.
+  description_small: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—visit
+    www.go2.lc/letus to watch or listen.
+  description_medium: The incredible happens when we embrace the things God has Let
+    Us do. Want to know how? Dive into a special mini-series with Pastor Craig—you’ll
+    only find it online, in the Life.Church App, or on the Life.Church podcast. Visit
+    www.go2.lc/letus to watch or listen.
+  quote: ''
+  quote_cite: ''
+  open_url: ''
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805-05:00'
+    updated_at: '2014-06-05T19:23:33.805-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
 - id: making-change
   title: Making Change
   headline: Whether you’re digging out of debt or planning for your future, investing
