@@ -11,7 +11,7 @@ layout: compress
 
   <body class="{% if page.class %}{{ page.class }}{% endif %}{% for announcement in site.data.announcement %}{% if announcement.active == true %} has-announcement{% endif %}{% endfor %}">
     {% include announcement.html %}
-    {% if page.title == 'Giving Opportunities'}
+    {% if page.title == 'Giving Opportunities' %}
     <section class="announcement giving">
       Give to hurricane relief.
     </section>  
