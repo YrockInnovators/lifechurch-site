@@ -6,6 +6,17 @@
     color: white;
     text-align: center;
     width: 100%;
+    padding: 0.5em 0;
+    .giving-icon {
+      @include svg-image('/images/giving/giving-icon');
+      background-repeat: no-repeat;
+      width: 20px;
+      height: 20px;
+      background-size: contain;
+      display: inline-block;
+      text-rendering: auto;
+      vertical-align: middle;
+    }
     .btn-white {
       background: white;
       color: $red;
@@ -16,6 +27,8 @@
       line-height: 2.5em;
       text-transform: capitalize;
       border: 1px solid white;
+      margin-left: 10px;
+      font-weight: 700;
       &:visited {
         color: $red;
       }
