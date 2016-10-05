@@ -30,29 +30,4 @@
     position: relative;
     top: 4px;
   }
-  .giving {
-    background: #a6192e;
-    color: white;
-    text-align: center;
-    width: 100%;
-    .btn-white {
-      background: white;
-      color: $red;
-      font-size: 16px;
-      padding: 0.5em 1.25em;
-      border-radius: 100px;
-      margin: 1em 0;
-      line-height: 2.5em;
-      text-transform: capitalize;
-      border: 1px solid white;
-      &:visited {
-        color: $red;
-      }
-      &:hover {
-        background: none;
-        color: white;
-        border: 1px solid white;
-      }
-    }
-   }
-  }
+}
