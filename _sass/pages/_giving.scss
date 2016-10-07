@@ -10,8 +10,8 @@
     .giving-icon {
       @include svg-image('/images/giving/giving-icon');
       background-repeat: no-repeat;
-      width: 20px;
-      height: 20px;
+      width: 30px;
+      height: 30px;
       background-size: contain;
       display: inline-block;
       text-rendering: auto;
@@ -20,8 +20,8 @@
     .btn-white {
       background: white;
       color: $red;
-      font-size: 16px;
-      padding: 0.5em 1.25em;
+      font-size: 13px;
+      padding: 0.25em 1.25em;
       border-radius: 100px;
       margin: 1em 0;
       line-height: 2.5em;
