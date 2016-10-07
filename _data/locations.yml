@@ -150,18 +150,12 @@
     time: 10-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 11:30AM
@@ -170,18 +164,24 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 01:00PM
-    time: 13-00
+  - title: 11:30AM
+    time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
@@ -206,39 +206,15 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 07:00PM
+    time: 19-00
     day: mon
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
+  - title: 07:00PM
+    time: 19-00
+    day: mon
     duration: 60
     type: service
     type_name: Service
