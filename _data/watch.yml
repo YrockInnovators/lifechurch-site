@@ -24,7 +24,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Trending Truth
+    headline: ''
+    video: 
+    platform_id: ''
 - id: let-us
   title: Let Us
   headline: Finding rest, finding faith, and finding God. Dive into a mini-series
