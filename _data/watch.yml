@@ -57,7 +57,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Enter a Special Rest
+    headline: ''
+    video: 
+    platform_id: Rn2rWOpyjQAr
 - id: making-change
   title: Making Change
   headline: Whether you’re digging out of debt or planning for your future, investing
