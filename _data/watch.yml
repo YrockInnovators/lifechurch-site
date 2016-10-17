@@ -24,7 +24,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Week 1
+    headline: ''
+    video: 
+    platform_id: ''
 - id: trending-truth
   title: Trending Truth
   headline: A viral video delivers a concentrated dose of heartbreak, inspiration,
