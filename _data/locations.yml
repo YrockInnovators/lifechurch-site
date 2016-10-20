@@ -2379,6 +2379,40 @@
       caring relationships. '
     cause: Neighborhood/Community Development
     tags: Neighborhood/CommunityDevelopment
+- id: OPK
+  f1_campus_id: 64790
+  f1_substatus_id: 4368
+  title: Overland Park, KS
+  email: 'opk.serving@life.church '
+  phone: 913-279-0012
+  address: 9800 W. 135th St. Overland Park, KS 66213
+  facebook: '1078785968812011'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions: []
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2489,40 +2523,6 @@
   address: 4600 E 2nd St Edmond, Oklahoma 73034
   facebook: https://www.facebook.com/life.church
   times: []
-  missions: []
-- id: OPK
-  f1_campus_id: 64790
-  f1_substatus_id: 4368
-  title: Overland Park, KS
-  email: 'opk.serving@life.church '
-  phone: 913-279-0012
-  address: 9800 W. 135th St. Overland Park, KS 66213
-  facebook: '1078785968812011'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   missions: []
 - id: noc
   f1_campus_id: 4350
