@@ -2728,14 +2728,14 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
+  - title: 06:30PM
+    time: 18-30
     day: sun
     duration: 60
     type: service
@@ -2746,30 +2746,30 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
     day: mon
     duration: 60
     type: service
     type_name: Service
   - title: 06:30PM
     time: 18-30
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
   missions:
   - id: 26
     title: Stillwater Life Services
