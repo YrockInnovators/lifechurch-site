@@ -66,6 +66,10 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages:
+  - title: Week 2
+    headline: ''
+    video: 
+    platform_id: ''
   - title: Week 1
     headline: ''
     video: 
