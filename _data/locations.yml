@@ -12,14 +12,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -60,14 +60,14 @@
     time: 18-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:00PM
     time: 18-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -80,30 +80,30 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
   missions:
   - id: 54
     title: Peppers Ranch
@@ -621,30 +621,30 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 04:30PM
-    time: 16-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
   - id: 47
     title: Stand in the Gap Ministries
@@ -790,14 +790,14 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
@@ -1133,26 +1133,26 @@
     duration: 120
     type: switch
     type_name: Switch
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
@@ -1599,14 +1599,14 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -1635,18 +1635,12 @@
     time: 17-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 06:30PM
@@ -1655,6 +1649,12 @@
     duration: 60
     type: service
     type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -1667,18 +1667,18 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: -60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
   - id: 54
     title: Peppers Ranch
@@ -2450,14 +2450,14 @@
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 01:00PM
     time: 13-00
     day: sun
@@ -2482,26 +2482,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
@@ -2605,26 +2605,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 04:30PM
-    time: 16-30
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: service
     type_name: Service
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 05:30PM
+    time: 17-30
     day: sat
     duration: 60
     type: service
