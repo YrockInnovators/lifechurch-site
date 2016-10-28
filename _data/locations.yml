@@ -449,14 +449,14 @@
       and dental care and to the broken as they \r\nrecieve spiritual care."
     cause: Neighborhood/Community Development
     tags: 
-- id: wel
-  f1_campus_id: 4352
-  f1_substatus_id: 386
-  title: Wellington, FL
-  email: wel.serving@life.church
-  phone: 561-793-6889
-  address: 3061 State Road 7 Wellington, FL 33449
-  facebook: '105749019464173'
+- id: RRN
+  f1_campus_id: 57831
+  f1_substatus_id: 3754
+  title: Rio Rancho, NM
+  email: rrn.serving@life.church
+  phone: 505-226-1010
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
   times:
   - title: 09:30AM
     time: 09-30
@@ -474,72 +474,31 @@
     time: 11-00
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 11:00AM
     time: 11-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
   missions:
-  - id: 42
-    title: 4Kids of South Florida
-    recipient: wel.serving@life.church
-    url: https://www.4kidsofsfl.org/
-    description_medium: 'Help care for and mentor kids in our community by providing
-      them with consistent and loving relationships. Kids in crisis can find shelter
-      and safety at SafePlace. '
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,florida,wellington
+  - id: 73
+    title: ReadWest
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
+    cause: Mentoring & Education
+    tags: mentoring,education,newmexico,rio-rancho
+  - id: 76
+    title: CareNet Pregnancy Centers of Albuquerque
+    recipient: rrn.serving@life.church
+    url: ''
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
+    cause: Pregnancy Care
+    tags: pregnancy,care,newmexico,rio-rancho
 - id: soc
   f1_campus_id: 4349
   f1_substatus_id: 380
@@ -1216,14 +1175,14 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-- id: RRN
-  f1_campus_id: 57831
-  f1_substatus_id: 3754
-  title: Rio Rancho, NM
-  email: rrn.serving@life.church
-  phone: 505-226-1010
-  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
-  facebook: '773412792749687'
+- id: wel
+  f1_campus_id: 4352
+  f1_substatus_id: 386
+  title: Wellington, FL
+  email: wel.serving@life.church
+  phone: 561-793-6889
+  address: 3061 State Road 7 Wellington, FL 33449
+  facebook: '105749019464173'
   times:
   - title: 09:30AM
     time: 09-30
@@ -1241,31 +1200,72 @@
     time: 11-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:00AM
     time: 11-00
     day: sun
     duration: 60
+    type: service
+    type_name: Service
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
   missions:
-  - id: 73
-    title: ReadWest
-    recipient: rrn.serving@life.church
-    url: ''
-    description_medium: Provide quality one-on-one tutoring for adults seeking to
-      transform their lives through enhanced literacy skills.
-    cause: Mentoring & Education
-    tags: mentoring,education,newmexico,rio-rancho
-  - id: 76
-    title: CareNet Pregnancy Centers of Albuquerque
-    recipient: rrn.serving@life.church
-    url: ''
-    description_medium: Minister to young women and men in the community who find
-      themselves in crisis pregnancies and help them make godly decisions.
-    cause: Pregnancy Care
-    tags: pregnancy,care,newmexico,rio-rancho
+  - id: 42
+    title: 4Kids of South Florida
+    recipient: wel.serving@life.church
+    url: https://www.4kidsofsfl.org/
+    description_medium: 'Help care for and mentor kids in our community by providing
+      them with consistent and loving relationships. Kids in crisis can find shelter
+      and safety at SafePlace. '
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,florida,wellington
 - id: jnk
   f1_campus_id: 30850
   f1_substatus_id: 2379
