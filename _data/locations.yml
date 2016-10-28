@@ -420,6 +420,139 @@
       and safety at SafePlace. '
     cause: Adoption & Foster Care
     tags: adoption,fostering,florida,wellington
+- id: shw
+  f1_campus_id: 60358
+  f1_substatus_id: 4103
+  title: Shawnee, OK
+  email: SHW.Serving@life.church
+  phone: 405-695-6600
+  address: 5630 North Harrison Shawnee, OK 74804
+  facebook: '1602447766664787'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: SHW.Serving@life.church
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc,tulsa
+  - id: 88
+    title: Cargo Ranch
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: Share hope and build character in children and youth by meeting
+      their emotional and spiritual needs in an outdoor environment.
+    cause: Mentoring & Education
+    tags: []
+  - id: 89
+    title: Family Promise of Shawnee
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: 'Help families in need by mentoring them to achieve self-sufficiency. '
+    cause: Food, Clothing, & Shelter
+    tags: []
+  - id: 92
+    title: Community Renewal of Pottawatomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: Serve as a block leader to help your neighbors restore our
+      community through intentional, caring relationships.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,development,oklahoma,okc
+  - id: 96
+    title: Community Renewal of Pottawtomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: 'Help neighbors restore their community through intentional,
+      caring relationships. '
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/CommunityDevelopment
 - id: mor
   f1_campus_id: 34644
   f1_substatus_id: 2718
@@ -596,14 +729,14 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-- id: shw
-  f1_campus_id: 60358
-  f1_substatus_id: 4103
-  title: Shawnee, OK
-  email: SHW.Serving@life.church
-  phone: 405-695-6600
-  address: 5630 North Harrison Shawnee, OK 74804
-  facebook: '1602447766664787'
+- id: wch
+  f1_campus_id: 41150
+  f1_substatus_id: 3426
+  title: Wichita, KS
+  email: wch.serving@life.church
+  phone: 316-202-6640
+  address: 338 N. 127th St E. Wichita, KS 67206
+  facebook: '1454704991443722'
   times:
   - title: 08:30AM
     time: 08-30
@@ -633,102 +766,35 @@
     time: 11-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
     type: service
     type_name: Service
   - title: 06:30PM
     time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
   missions:
-  - id: 47
-    title: Stand in the Gap Ministries
-    recipient: SHW.Serving@life.church
-    url: http://www.sitgm.org/
-    description_medium: Defend widows and orphans and set prisoners free through Life
-      Launch, Women in Transition, and Stand in the Gap for Widows.
+  - id: 70
+    title: Big Brothers Big Sisters of Kansas
+    recipient: wch.serving@life.church
+    url: ''
+    description_medium: Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships.
     cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc,tulsa
-  - id: 88
-    title: Cargo Ranch
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: Share hope and build character in children and youth by meeting
-      their emotional and spiritual needs in an outdoor environment.
-    cause: Mentoring & Education
-    tags: []
-  - id: 89
-    title: Family Promise of Shawnee
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: 'Help families in need by mentoring them to achieve self-sufficiency. '
-    cause: Food, Clothing, & Shelter
-    tags: []
-  - id: 92
-    title: Community Renewal of Pottawatomie County
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: Serve as a block leader to help your neighbors restore our
-      community through intentional, caring relationships.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,development,oklahoma,okc
-  - id: 96
-    title: Community Renewal of Pottawtomie County
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: 'Help neighbors restore their community through intentional,
-      caring relationships. '
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/CommunityDevelopment
+    tags: mentoring,education,big,overland-park,wichita
 - id: edm
   f1_campus_id: 4342
   f1_substatus_id: 376
@@ -2202,72 +2268,6 @@
       and healing relationships.
     cause: Recovery & Transitional Living
     tags: recovery,transitional,living,texas,dfw
-- id: wch
-  f1_campus_id: 41150
-  f1_substatus_id: 3426
-  title: Wichita, KS
-  email: wch.serving@life.church
-  phone: 316-202-6640
-  address: 338 N. 127th St E. Wichita, KS 67206
-  facebook: '1454704991443722'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  missions:
-  - id: 70
-    title: Big Brothers Big Sisters of Kansas
-    recipient: wch.serving@life.church
-    url: ''
-    description_medium: Help children and at-risk youth realize their potential and
-      build their futures through positive mentoring relationships.
-    cause: Mentoring & Education
-    tags: mentoring,education,big,overland-park,wichita
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
