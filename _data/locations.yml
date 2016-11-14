@@ -2379,6 +2379,16 @@
       out.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,newyork,albany
+- id: fts
+  f1_campus_id: 111111
+  f1_substatus_id: 4918
+  title: Fort Smith
+  email: fortsmith@life.church
+  phone: 479-434-5320
+  address: 4933 Old Greenwood Rd. Fort Smith, Arkansas 72903
+  facebook: lifechurch.forth.smith
+  times: []
+  missions: []
 - id: opk
   f1_campus_id: 64790
   f1_substatus_id: 4368
@@ -3093,13 +3103,3 @@
       addiction.
     cause: Recovery & Transitional Living
     tags: []
-- id: fortsmith
-  f1_campus_id: 111111
-  f1_substatus_id: 111111
-  title: Fort Smith
-  email: fortsmith@life.church
-  phone: ''
-  address: 4933 Old Greenwood Rd. Fort Smith, Arkansas 72903
-  facebook: lifechurch.forth.smith
-  times: []
-  missions: []
