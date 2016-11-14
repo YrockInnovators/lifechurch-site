@@ -2933,16 +2933,6 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-- id: fts
-  f1_campus_id: 70273
-  f1_substatus_id: 4918
-  title: Fort Smith
-  email: fortsmith@life.church
-  phone: 479-434-5320
-  address: 4933 Old Greenwood Rd Fort Smith, AR 72903
-  facebook: lifechurch.forth.smith
-  times: []
-  missions: []
 - id: bao
   f1_campus_id: 17716
   f1_substatus_id: 1064
@@ -3103,3 +3093,25 @@
       addiction.
     cause: Recovery & Transitional Living
     tags: []
+- id: fts
+  f1_campus_id: 70273
+  f1_substatus_id: 4918
+  title: Fort Smith, AR
+  email: fortsmith@life.church
+  phone: 479-434-5320
+  address: 4933 Old Greenwood Rd Fort Smith, AR 72903
+  facebook: '1770348346571786'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  missions: []
