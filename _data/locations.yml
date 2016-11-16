@@ -270,6 +270,16 @@
       mentoring and assisting to meet their basic needs.
     cause: Mentoring & Education
     tags: single,mom,moms,oklahoma,okc
+  - id: 101
+    title: 405 Center
+    recipient: okc.serving@life.church
+    url: The mission of KLIFE is to impact a youth culture for Christ. We do this
+      by equipping and mobilizing volunteers throughout the community to lead small
+      group bible studies for junior high and high school students.
+    description_medium: We convene, train, equip, and deploy people to be the change
+      they want to see in our city.
+    cause: Neighborhood/Community Development
+    tags: oklahoma,okc
 - id: rrn
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -304,6 +314,14 @@
     type: lifekids
     type_name: LifeKids
   missions:
+  - id: 73
+    title: ReadWest
+    recipient: rrn.serving@life.church
+    url: readwest.org
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
+    cause: Mentoring & Education
+    tags: mentoring,education,newmexico,rio-rancho
   - id: 76
     title: CareNet Pregnancy Centers of Albuquerque
     recipient: rrn.serving@life.church
@@ -312,14 +330,6 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,newmexico,rio-rancho
-  - id: 73
-    title: ReadWest
-    recipient: rrn.serving@life.church
-    url: ''
-    description_medium: Provide quality one-on-one tutoring for adults seeking to
-      transform their lives through enhanced literacy skills.
-    cause: Mentoring & Education
-    tags: mentoring,education,newmexico,rio-rancho
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -505,14 +515,6 @@
     type: service
     type_name: Service
   missions:
-  - id: 47
-    title: Stand in the Gap Ministries
-    recipient: SHW.Serving@life.church
-    url: http://www.sitgm.org/
-    description_medium: Defend widows and orphans and set prisoners free through Life
-      Launch, Women in Transition, and Stand in the Gap for Widows.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 89
     title: Family Promise of Shawnee
     recipient: SHW.Serving@life.church
@@ -536,14 +538,6 @@
       community through intentional, caring relationships.
     cause: Neighborhood/Community Development
     tags: neighborhood,community,development,oklahoma,okc
-  - id: 96
-    title: Community Renewal of Pottawtomie County
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: 'Help neighbors restore their community through intentional,
-      caring relationships. '
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/CommunityDevelopment
 - id: mor
   f1_campus_id: 34644
   f1_substatus_id: 2718
@@ -671,14 +665,6 @@
       residents.
     cause: Neighborhood/Community Development
     tags: neighborhood,community,involvement,oklahoma,okc
-  - id: 47
-    title: Stand in the Gap Ministries
-    recipient: mor.serving@life.church
-    url: http://www.sitgm.org/
-    description_medium: Defend widows and orphans and set prisoners free through Life
-      Launch, Women in Transition, and Stand in the Gap for Widows.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc,tulsa
   - id: 86
     title: Angels Foster Family Network
     recipient: mor.serving@life.church
@@ -1274,7 +1260,7 @@
   - id: 85
     title: Shalom Zone
     recipient: hnv.serving@life.church
-    url: ''
+    url: www.gallatinshalomzone.org
     description_medium: Enrich the lives of individuals and families by providing
       meaningful assistance and quality programs such as after-school tutoring, career
       development, and summer camp activities.
@@ -1413,7 +1399,7 @@
   - id: 69
     title: OKC Dream Center
     recipient: soc.serving@life.church
-    url: ''
+    url: http://dcokc.org/
     description_medium: Build relationships with people in need to help restore their
       emotional, spiritual, and physical well-being through community outreach, hunger
       relief services, or youth mentoring and coaching.
@@ -1742,6 +1728,15 @@
       caring for these children.
     cause: Adoption & Foster Care
     tags: adoption,fostering,tulsa
+  - id: 99
+    title: Joy in the Cause
+    recipient: tul.serving@life.church
+    url: www.joyinthecause.org
+    description_medium: 'Our mission is focused on bringing care, compassion, and
+      joy to those with life altering illness and special needs one personal act of
+      kindness at a time. '
+    cause: Neighborhood/Community Development
+    tags: oklahoma,okc
 - id: ows
   f1_campus_id: 7650
   f1_substatus_id: 382
@@ -1888,14 +1883,6 @@
       and responsible young men.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,tulsa
-  - id: 81
-    title: Night Light Tulsa
-    recipient: ows.serving@life.church
-    url: ''
-    description_medium: Build relationships with members of Tulsa’s homeless community
-      every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,owasso,oklahoma,tulsa
   - id: 95
     title: Little Light House
     recipient: ows.serving@life.church
@@ -1904,6 +1891,14 @@
       needs, their families, and their communities.
     cause: Mentoring & Education
     tags: Mentoring&Education,Recovery&TransitionalLiving
+  - id: 81
+    title: Night Light Tulsa
+    recipient: ows.serving@life.church
+    url: http://www.nightlighttulsa.org
+    description_medium: Build relationships with members of Tulsa’s homeless community
+      every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,owasso,oklahoma,tulsa
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -2155,7 +2150,7 @@
   - id: 84
     title: Tulsa Hills Youth Ranch
     recipient: jnk.serving@life.church
-    url: ''
+    url: tulsahillsyouthranch.org
     description_medium: Help provide a welcoming place for kids to feel loved, accepted,
       and heard through a purposeful relationship with a mentor.
     cause: Mentoring & Education
@@ -2168,6 +2163,15 @@
       children, single parents, and families in need.
     cause: Adoption & Foster Care
     tags: oklahoma,okc,adoption
+  - id: 99
+    title: Joy in the Cause
+    recipient: jnk.serving@life.church
+    url: www.joyinthecause.org
+    description_medium: 'Our mission is focused on bringing care, compassion, and
+      joy to those with life altering illness and special needs one personal act of
+      kindness at a time. '
+    cause: Neighborhood/Community Development
+    tags: oklahoma,okc
 - id: klr
   f1_campus_id: 34645
   f1_substatus_id: 2719
@@ -2601,12 +2605,21 @@
   - id: 74
     title: Payne County Youth Services
     recipient: stw.serving@life.church
-    url: ''
+    url: http://www.pcys.org/
     description_medium: Help provide a safe, comfortable and protective environment
       for youth in crisis at the Emergency Youth Shelter through direct relationships
       or supportive roles.
-    cause: Adoption & Foster Care
+    cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,stillwater,foster,adoption
+  - id: 100
+    title: KLIFE Stillwater
+    recipient: stw.serving@life.church
+    url: http://www.stillwater.klife.com/
+    description_medium: The mission of KLIFE is to impact a youth culture for Christ.
+      We do this by equipping and mobilizing volunteers throughout the community to
+      lead small group bible studies for junior high and high school students.
+    cause: Neighborhood/Community Development
+    tags: oklahoma,stillwater
 - id: int
   f1_campus_id: 387
   f1_substatus_id: 33723449
@@ -2727,6 +2740,14 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: mwc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
@@ -2886,7 +2907,7 @@
       members of our community after they leave prison or choose to break free from
       addiction.
     cause: Recovery & Transitional Living
-    tags: []
+    tags: oklahoma,recovery
   - id: 82
     title: 111Tulsa
     recipient: bao.serving@life.church
