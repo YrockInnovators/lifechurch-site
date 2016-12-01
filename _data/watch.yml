@@ -1,4 +1,58 @@
 ---
+- id: ghosts-of-christmas-past
+  title: Ghosts of Christmas Past
+  headline: What do we do when the most wonderful time of the year isn't so wonderful?
+    Let’s confront the Ghosts of Christmas Past.
+  description_small: For many, the most wonderful time of the year isn't so wonderful.
+    What if this year could look different? It’s time to let God heal the Ghosts of
+    Christmas Past.
+  description_medium: For many, the most wonderful time of the year isn't so wonderful.
+    A painful past or our own insecurities can overshadow the joy we're supposed to
+    be feeling. What if this year could look different? It’s time to let God heal
+    the Ghosts of Christmas Past.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2840-ghost-of-christmas-past
+  promo: HtE8z92Qroee
+  resources_url: ''
+  categories:
+  - id: 16
+    name: Forgiveness
+    created_at: '2014-06-11T15:14:32.742-05:00'
+    updated_at: '2014-06-11T15:14:32.742-05:00'
+  - id: 25
+    name: Grace
+    created_at: '2014-06-11T15:17:05.430-05:00'
+    updated_at: '2014-06-11T15:17:05.430-05:00'
+  - id: 26
+    name: Hope
+    created_at: '2014-06-11T15:17:15.185-05:00'
+    updated_at: '2014-06-11T15:17:15.185-05:00'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147-05:00'
+    updated_at: '2014-06-11T15:18:45.147-05:00'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022-05:00'
+    updated_at: '2014-06-11T15:20:16.022-05:00'
+  - id: 13
+    name: Sins
+    created_at: '2014-06-05T19:20:27.559-05:00'
+    updated_at: '2014-06-11T16:19:31.726-05:00'
+  - id: 77
+    name: Christmas
+    created_at: '2015-10-20T19:18:40.447-05:00'
+    updated_at: '2015-10-20T19:18:40.447-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: church-is
   title: Church Is
   headline: Let’s talk this weekend about what Church Is—and what church could be.
