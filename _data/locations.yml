@@ -692,14 +692,6 @@
       academic, leadership and community programs.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 77
-    title: Mission Norman
-    recipient: mor.serving@life.church
-    url: http://missionnorman.org/
-    description_medium: Spread the love of Christ by ministering to the physical and
-      spiritual needs of people living in our community.
-    cause: Spiritual Development
-    tags: neighborhood,community,oklahoma,okc
   - id: 90
     title: Hope is Alive
     recipient: mor.serving@life.church
@@ -2229,16 +2221,7 @@
     duration: 120
     type: roots
     type_name: Roots
-  missions:
-  - id: 65
-    title: The Gatehouse
-    recipient: klr.serving@life.church
-    url: ''
-    description_medium: Help women and children in crisis discover discover their
-      paths to permanent, positive change through a safe refuge, practical resources,
-      and healing relationships.
-    cause: Recovery & Transitional Living
-    tags: recovery,transitional,living,texas,dfw
+  missions: []
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
