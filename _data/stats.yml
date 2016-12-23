@@ -1,40 +1,40 @@
-- title: Lives Changed in 2015
-  number: "46,521"
+- title: Lives Changed in 2016
+  number: "23,315"
   pages: "giving"
   icon: "icon-stat-heart.svg"
-- title: Average Attendance 2015
-  number: "68,203"
+- title: Average Attendance 2016
+  number: "73,368"
   pages: "giving"
   icon: "icon-stat-church.svg"
-- title: Lives Changed at Church Online in 2015
-  number: "9,000"
+- title: Lives Changed at Church Online in 2016
+  number: "8,176"
   pages: "giving, live"
   icon: "icon-stat-chop.svg"
-- title: People Baptized in 2015
-  number: "7,129"
+- title: People Baptized in 2016
+  number: "4,637"
   pages: "giving"
   icon: "icon-stat-water.svg"
-- title: Lifegroups in 2015
-  number: "47,000"
+- title: Lifegroup Members in 2016
+  number: "58,255"
   pages: "giving, live"
   icon: "icon-stat-lg.svg" 
 - title: Next Gen Average Weekly Attendance
-  number: "16,689"
+  number: "20,228"
   pages: "giving, live"
   icon: "icon-stat-nextgen.svg"   
 - title: YouVersion Installs
-  number: "206,000,000"
+  number: "250,000,000"
   pages: "digital-missions"
   icon: "icon-stat-bible.svg"
-- title: Open Downloads in 2015
-  number: "1,474,763"
+- title: Open Downloads in 2016
+  number: "1,700,000"
   pages: "digital-missions"
   icon: "icon-stat-open.svg"
-- title: Church Online Visitors in 2015
-  number: "5,183,000"
+- title: Church Online Visitors in 2016
+  number: "6,042,401"
   pages: "digital-missions, live"
   icon: "icon-stat-chop.svg"
 - title: Prayers through Church Online Live Prayer in 2015
-  number: "90,500"
+  number: "85,465"
   pages: "digital-missions, live"
   icon: "icon-stat-chop.svg"
