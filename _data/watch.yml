@@ -26,7 +26,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Change of Plans
+    headline: ''
+    video: 
+    platform_id: vsWEXwn9HvlU
 - id: ghosts-of-christmas-past
   title: Ghosts of Christmas Past
   headline: What do we do when the most wonderful time of the year isn't so wonderful?
