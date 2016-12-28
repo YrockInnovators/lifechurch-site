@@ -1,4 +1,52 @@
 ---
+- id: words-to-live-by
+  title: Words to Live By
+  headline: Do your thoughts hold you down or lift you up? Let’s find some Words to
+    Live By!
+  description_small: Is it time for you to change the way you’re thinking? Start with
+    something simple—let’s find some Words to Live By.
+  description_medium: Your thoughts can hold you back, push you down, and feed you
+    lies. But they can also lift you up! Is it time for you to change the way you’re
+    thinking? Start with something simple—let’s find some Words to Live By.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2842-new-years-weekend
+  promo: x_D_G7Q1rnk0
+  resources_url: ''
+  categories:
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T15:18:02.732-05:00'
+    updated_at: '2014-06-11T15:18:02.732-05:00'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147-05:00'
+    updated_at: '2014-06-11T15:18:45.147-05:00'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022-05:00'
+    updated_at: '2014-06-11T15:20:16.022-05:00'
+  - id: 36
+    name: Thoughts
+    created_at: '2014-06-11T15:20:28.824-05:00'
+    updated_at: '2014-06-11T15:20:28.824-05:00'
+  - id: 39
+    name: Purpose
+    created_at: '2014-06-11T15:21:10.086-05:00'
+    updated_at: '2014-06-11T15:21:10.086-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968-05:00'
+    updated_at: '2014-06-11T15:23:03.968-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: christmas-2016
   title: Christmas 2016
   headline: Come experience Jesus with us this Christmas at Life.Church.
