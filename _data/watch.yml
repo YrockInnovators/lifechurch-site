@@ -46,7 +46,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Words to Live By
+    headline: ''
+    video: 
+    platform_id: sonnIzE_EMaC
 - id: christmas-2016
   title: Christmas 2016
   headline: Come experience Jesus with us this Christmas at Life.Church.
