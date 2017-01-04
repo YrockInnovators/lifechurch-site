@@ -1,4 +1,50 @@
 ---
+- id: i-want-to-believe-but
+  title: I Want to Believe, But...
+  headline: 'God may not meet all your expectations—but that’s good news! Find out
+    why in a new series: I Want to Believe, But... '
+  description_small: 'It’s easy to make assumptions about who God is when we see Him
+    in the wrong light. God may not meet all your expectations—but that’s good news!
+    Find out why in a new series: I Want to Believe, But... '
+  description_medium: 'It’s often difficult to believe in a God we cannot see. We
+    wonder why God didn’t answer our prayers, why God allows suffering, or why we
+    can’t feel His presence. God may not meet all your expectations—but that’s good
+    news! Find out why in a new series: I Want to Believe, But... '
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/2848-i-want-to-believe-but
+  promo: y_QAcRUUMjkJ
+  resources_url: ''
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863-06:00'
+    updated_at: '2014-02-03T22:38:58.863-06:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852-06:00'
+    updated_at: '2014-06-05T19:41:17.695-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  - id: 27
+    name: Trust
+    created_at: '2014-06-11T15:17:23.291-05:00'
+    updated_at: '2014-06-11T15:17:23.291-05:00'
+  - id: 41
+    name: God
+    created_at: '2014-06-11T15:22:41.520-05:00'
+    updated_at: '2014-06-11T15:22:41.520-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: words-to-live-by
   title: Words to Live By
   headline: Do your thoughts hold you down or lift you up? Let’s find some Words to
