@@ -515,13 +515,6 @@
     type: service
     type_name: Service
   missions:
-  - id: 89
-    title: Family Promise of Shawnee
-    recipient: SHW.Serving@life.church
-    url: http://www.familypromiseshawnee.org/
-    description_medium: 'Help families in need by mentoring them to achieve self-sufficiency. '
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma
   - id: 88
     title: Cargo Ranch
     recipient: SHW.Serving@life.church
@@ -1397,15 +1390,6 @@
       relief services, or youth mentoring and coaching.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
-  - id: 68
-    title: Circle of Care
-    recipient: soc.serving@life.church
-    url: http://cargoranch.org
-    description_medium: Create a community of support for foster families and children
-      entering foster care through collecting, assembling, and delivering welcome
-      baskets to children within 24 hours of placement.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,oklahoma,okc
 - id: sto
   f1_campus_id: 4405
   f1_substatus_id: 384
