@@ -35,9 +35,9 @@
 	var // Number of pixels a pressed pointer travels before movestart
 	    // event is fired.
 	    threshold = 6,
-	
+
 	    add = jQuery.event.add,
-	
+
 	    remove = jQuery.event.remove,
 
 	    // Just sugar, so we can have arguments in the same order as
@@ -62,20 +62,20 @@
 	    		}
 	    	);
 	    })(),
-	    
+
 	    ignoreTags = {
 	    	textarea: true,
 	    	input: true,
 	    	select: true,
 	    	button: true
 	    },
-	    
+
 	    mouseevents = {
 	    	move: 'mousemove',
 	    	cancel: 'mouseup dragstart',
 	    	end: 'mouseup'
 	    },
-	    
+
 	    touchevents = {
 	    	move: 'touchmove',
 	    	cancel: 'touchend',
@@ -84,12 +84,12 @@
 
 
 	// Constructors
-	
+
 	function Timer(fn){
 		var callback = fn,
 		    active = false,
 		    running = false;
-		
+
 		function trigger(time) {
 			if (active){
 				callback();
@@ -101,17 +101,17 @@
 				running = false;
 			}
 		}
-		
+
 		this.kick = function(fn) {
 			active = true;
 			if (!running) { trigger(); }
 		};
-		
+
 		this.end = function(fn) {
 			var cb = callback;
-			
+
 			if (!fn) { return; }
-			
+
 			// If the timer is not running, simply call the end callback.
 			if (!running) {
 				fn();
@@ -121,9 +121,9 @@
 			// just the end callback.
 			else {
 				callback = active ?
-					function(){ cb(); fn(); } : 
+					function(){ cb(); fn(); } :
 					fn ;
-				
+
 				active = true;
 			}
 		};
@@ -131,23 +131,23 @@
 
 
 	// Functions
-	
+
 	function returnTrue() {
 		return true;
 	}
-	
+
 	function returnFalse() {
 		return false;
 	}
-	
+
 	function preventDefault(e) {
 		e.preventDefault();
 	}
-	
+
 	function preventIgnoreTags(e) {
 		// Don't prevent interaction with form elements.
 		if (ignoreTags[ e.target.tagName.toLowerCase() ]) { return; }
-		
+
 		e.preventDefault();
 	}
 
@@ -163,13 +163,13 @@
 		if (touchList.identifiedTouch) {
 			return touchList.identifiedTouch(id);
 		}
-		
+
 		// touchList.identifiedTouch() does not exist in
 		// webkit yet… we must do the search ourselves...
-		
+
 		i = -1;
 		l = touchList.length;
-		
+
 		while (++i < l) {
 			if (touchList[i].identifier === id) {
 				return touchList[i];
@@ -193,7 +193,7 @@
 
 
 	// Handlers that decide when the first movestart is triggered
-	
+
 	function mousedown(e){
 		var data;
 
@@ -232,7 +232,7 @@
 		if (ignoreTags[ e.target.tagName.toLowerCase() ]) { return; }
 
 		touch = e.changedTouches[0];
-		
+
 		// iOS live updates the touch objects whereas Android gives us copies.
 		// That means we can't trust the touchstart object to stay the same,
 		// so we must copy the data. This object acts as a template for
@@ -323,7 +323,7 @@
 		// The _handled method is fired to tell the default movestart
 		// handler that one of the move events is bound.
 		template._handled = handled;
-			
+
 		// Pass the touchmove event so it can be prevented if or when
 		// movestart is handled.
 		template._preventTouchmoveDefault = function() {
@@ -351,7 +351,7 @@
 	function activeMouseend(e) {
 		var event = e.data.event,
 		    timer = e.data.timer;
-		
+
 		removeActiveMouse();
 
 		endEvent(event, timer, function() {
@@ -412,7 +412,7 @@
 		event.distY =  touch.pageY - event.startY;
 		event.deltaX = touch.pageX - event.pageX;
 		event.deltaY = touch.pageY - event.pageY;
-		
+
 		// Average the velocity of the last few events using a decay
 		// curve to even out spurious jumps in values.
 		event.velocityX = 0.3 * event.velocityX + 0.7 * event.deltaX / time;
@@ -426,7 +426,7 @@
 			event.type = 'moveend';
 
 			trigger(event.target, event);
-			
+
 			return fn && fn();
 		});
 	}
@@ -437,49 +437,49 @@
 	function setup(data, namespaces, eventHandle) {
 		// Stop the node from being dragged
 		//add(this, 'dragstart.move drag.move', preventDefault);
-		
+
 		// Prevent text selection and touch interface scrolling
 		//add(this, 'mousedown.move', preventIgnoreTags);
-		
+
 		// Tell movestart default handler that we've handled this
 		add(this, 'movestart.move', flagAsHandled);
 
 		// Don't bind to the DOM. For speed.
 		return true;
 	}
-	
+
 	function teardown(namespaces) {
 		remove(this, 'dragstart drag', preventDefault);
 		remove(this, 'mousedown touchstart', preventIgnoreTags);
 		remove(this, 'movestart', flagAsHandled);
-		
+
 		// Don't bind to the DOM. For speed.
 		return true;
 	}
-	
+
 	function addMethod(handleObj) {
 		// We're not interested in preventing defaults for handlers that
 		// come from internal move or moveend bindings
 		if (handleObj.namespace === "move" || handleObj.namespace === "moveend") {
 			return;
 		}
-		
+
 		// Stop the node from being dragged
 		add(this, 'dragstart.' + handleObj.guid + ' drag.' + handleObj.guid, preventDefault, undefined, handleObj.selector);
-		
+
 		// Prevent text selection and touch interface scrolling
 		add(this, 'mousedown.' + handleObj.guid, preventIgnoreTags, undefined, handleObj.selector);
 	}
-	
+
 	function removeMethod(handleObj) {
 		if (handleObj.namespace === "move" || handleObj.namespace === "moveend") {
 			return;
 		}
-		
+
 		remove(this, 'dragstart.' + handleObj.guid + ' drag.' + handleObj.guid);
 		remove(this, 'mousedown.' + handleObj.guid);
 	}
-	
+
 	jQuery.event.special.movestart = {
 		setup: setup,
 		teardown: teardown,
@@ -488,7 +488,7 @@
 
 		_default: function(e) {
 			var event, data;
-			
+
 			// If no move events were bound to any ancestors of this
 			// target, high tail it out of here.
 			if (!e._handled()) { return; }
@@ -522,7 +522,7 @@
 				touch: undefined,
 				timeStamp: undefined
 			};
-			
+
 			if (e.identifier === undefined) {
 				// We're dealing with a mouse
 				// Stop clicks from propagating during a move
@@ -546,19 +546,19 @@
 			// setup that decides whether other move events are fired.
 			add(this, 'movestart.move', jQuery.noop);
 		},
-		
+
 		teardown: function() {
 			remove(this, 'movestart.move', jQuery.noop);
 		}
 	};
-	
+
 	jQuery.event.special.moveend = {
 		setup: function() {
 			// Bind a noop to movestart. Why? It's the movestart
 			// setup that decides whether other move events are fired.
 			add(this, 'movestart.moveend', jQuery.noop);
 		},
-		
+
 		teardown: function() {
 			remove(this, 'movestart.moveend', jQuery.noop);
 		}
@@ -575,7 +575,7 @@
 		(function(jQuery, undefined){
 			var props = ["changedTouches", "targetTouches"],
 			    l = props.length;
-			
+
 			while (l--) {
 				if (jQuery.event.props.indexOf(props[l]) === -1) {
 					jQuery.event.props.push(props[l]);
@@ -610,7 +610,7 @@
 	}
 })(function(jQuery, undefined){
 	var add = jQuery.event.add,
-	   
+
 	    remove = jQuery.event.remove,
 
 	    // Just sugar, so we can have arguments in the same order as
@@ -676,12 +676,12 @@
 
 	function getData(node) {
 		var data = jQuery.data(node, 'event_swipe');
-		
+
 		if (!data) {
 			data = { count: 0 };
 			jQuery.data(node, 'event_swipe', data);
 		}
-		
+
 		return data;
 	}
 
@@ -771,7 +771,7 @@ jQuery(function() {
             goLive();
             return clearInterval(intervalId);
           }
-          
+
         }, 1000);
       }
     },
@@ -853,11 +853,11 @@ $(document).ready(function(){
     var videoId = $(this).data('video-player');
     var videoWrapper = $("#video-"+videoId);
     $('body').addClass('noscroll');
-    $("#player-"+videoId).html('<iframe src="http://player.theplatform.com/p/IfSiAC/bTc5flAyW_uT/embed/select/media/'+videoId+'?form=html" width="100%" height="100%" frameBorder="0" seamless="seamless" allowFullScreen></iframe>');
+    $("#player-"+videoId).html('<iframe src="https://player.theplatform.com/p/IfSiAC/bTc5flAyW_uT/embed/select/media/'+videoId+'?form=html" width="100%" height="100%" frameBorder="0" seamless="seamless" allowFullScreen></iframe>');
     videoWrapper.show();
     LastVideoId = videoId;
   }
-  
+
   function video_player_close(event) {
     console.log(event);
     $('body').removeClass('noscroll');
@@ -917,7 +917,7 @@ function missionsContactValidate() {
       form.parent().parent().append("").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
-    }    
+    }
   });
   }
 
@@ -954,7 +954,7 @@ $(function() {
       form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We received your message and will be in touch.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
-    }    
+    }
   });
 
 
@@ -986,7 +986,7 @@ $(function() {
       form.parent().parent().append("<div class='cta-thanks' style='display: none;'><hr /><em>Thanks! We received your message and will be in touch.</em></div>").fadeIn();
       form.parent().parent('.cta').removeClass('open').addClass('sent');
       form.parent().parent().find('.cta-thanks').fadeIn();
-    }    
+    }
   });
 
 
@@ -1010,7 +1010,7 @@ $(function() {
     event.preventDefault();
 
     var form = $(this);
-  
+
     var subject = form.find('[name="subject"]').val().split("|")[0];
     var recipient = form.find('[name="subject"]').val().split("|")[1];
     var message = form.find('textarea[name="message"]').val();
@@ -1052,18 +1052,18 @@ $(function() {
         message: message,
         user: email,
         key: '345e8e6fb8'
-      });  
-      
+      });
+
 
       function GetSelectedItem(el) {
       output.innerHTML = el.value;
 }
-      
+
       form.fadeOut();
       form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
-    
+
   });
 
   // Simple Contact Form
@@ -1071,7 +1071,7 @@ $(function() {
     event.preventDefault();
 
     var form = $(this);
-  
+
     var subject = form.find('[name="subject"]').val();
     var recipient = form.find('[name="recipient"]').val();
     var message = form.find('textarea[name="message"]').val();
@@ -1113,13 +1113,13 @@ $(function() {
         user: email,
         message: message,
         key: '345e8e6fb8'
-      });  
+      });
 
       form.fadeOut();
       form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
-    
+
   });
 
 
@@ -1128,7 +1128,7 @@ $(function() {
     event.preventDefault();
 
     var form = $(this);
-  
+
     var message = form.find('textarea[name="message"]').val();
     var name = form.find('input[name="name"]').val();
     var email = form.find('input[name="email"]').val();
@@ -1162,13 +1162,13 @@ $(function() {
         lastname: lastname,
         email: email,
         prayer_requests: message,
-      });  
+      });
 
       form.fadeOut();
       form.parent().append("<div class='cta-thanks' style='display: none;'><em>Thanks! We received your message and will be in touch.</em></div>").delay(500).fadeIn();
       form.parent().find('.cta-thanks').fadeIn();
     }
-    
+
   });
 
 
@@ -1192,7 +1192,7 @@ $(function() {
 $(window).bind("load", function() {
   if ($(window).width() > 767) {
     var maxHeight = 0;
-    
+
     $(".section-locations .involved-list .panel > .detail, .tools .panel > .detail").each(function() {
       if ($(this).height() > maxHeight) { maxHeight = $(this).height(); }
     });
@@ -1219,7 +1219,7 @@ $(function() {
           showJobs(container, category);
         },
         error: function(xhr, ajaxOptions, thrownError) {
-          
+
         }
       });
     }
@@ -1371,7 +1371,7 @@ if ($('.map-panel #times').length > 0) {
   if (!$('#times .sunday .event').length > 0) {
     $('#times .sunday').remove();
   };
-  
+
   if (!$('#times .wednesday .event').length > 0) {
     $('#times .wednesday').remove();
   };
@@ -1407,7 +1407,7 @@ $(document).ready(function () {
         $('#persistent-navigation').addClass('excuse-me');
       }
     } else {
-      $('#navigation').removeClass('fixed'); 
+      $('#navigation').removeClass('fixed');
       $('#navigation').fadeIn();
       $('#persistent-navigation').removeClass('excuse-me');
     }
