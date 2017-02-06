@@ -24,7 +24,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: 30-Second Theology
+    headline: ''
+    video: 
+    platform_id: 02ff9cc3b637
 - id: i-want-to-believe-but
   title: I Want to Believe, But...
   headline: 'God may not meet all your expectations—but that’s good news! Find out
