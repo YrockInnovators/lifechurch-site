@@ -427,14 +427,14 @@
     name: Trials
     created_at: '2014-06-11T15:23:13.523-05:00'
     updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/making-change/300x200.jpg?1472674783
-  image_medium: http://api-assets.lifechurch.tv/series/making-change/600x400.jpg?1472674831
-  image_large: http://api-assets.lifechurch.tv/series/making-change/1200x800.jpg?1472674874
-  image_social: http://api-assets.lifechurch.tv/series/making-change/400x400.jpg?1472674899
-  image_banner_archive: http://api-assets.lifechurch.tv/series/making-change/1500x340.jpg?1472674983
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/making-change/3000x680.jpg?1472674924
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/making-change/480x340.jpg?1472675005
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/making-change/960x680.jpg?1472675037
+  image_small: https://api-assets.life.church/series/making-change/300x200.jpg?1472674783
+  image_medium: https://api-assets.life.church/series/making-change/600x400.jpg?1472674831
+  image_large: https://api-assets.life.church/series/making-change/1200x800.jpg?1472674874
+  image_social: https://api-assets.life.church/series/making-change/400x400.jpg?1472674899
+  image_banner_archive: https://api-assets.life.church/series/making-change/1500x340.jpg?1472674983
+  image_banner_archive_2x: https://api-assets.life.church/series/making-change/3000x680.jpg?1472674924
+  image_banner_archive_small: https://api-assets.life.church/series/making-change/480x340.jpg?1472675005
+  image_banner_archive_small_2x: https://api-assets.life.church/series/making-change/960x680.jpg?1472675037
   messages:
   - title: Tomorrow Matters
     headline: ''
@@ -472,14 +472,14 @@
     name: Witnessing
     created_at: '2014-06-11T15:25:15.255-05:00'
     updated_at: '2014-06-11T15:25:15.255-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/300x200.jpg?1472153261
-  image_medium: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/600x400.jpg?1473521229
-  image_large: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1200x800.jpg?1472153300
-  image_social: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/400x400.jpg?1472153318
-  image_banner_archive: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/1500x340.jpg?1472153387
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/3000x680.jpg?1473521306
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/480x340.jpg?1472153405
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/reaching-people-for-christ/960x680.jpg?1472153443
+  image_small: https://api-assets.life.church/series/reaching-people-for-christ/300x200.jpg?1472153261
+  image_medium: https://api-assets.life.church/series/reaching-people-for-christ/600x400.jpg?1473521229
+  image_large: https://api-assets.life.church/series/reaching-people-for-christ/1200x800.jpg?1472153300
+  image_social: https://api-assets.life.church/series/reaching-people-for-christ/400x400.jpg?1472153318
+  image_banner_archive: https://api-assets.life.church/series/reaching-people-for-christ/1500x340.jpg?1472153387
+  image_banner_archive_2x: https://api-assets.life.church/series/reaching-people-for-christ/3000x680.jpg?1473521306
+  image_banner_archive_small: https://api-assets.life.church/series/reaching-people-for-christ/480x340.jpg?1472153405
+  image_banner_archive_small_2x: https://api-assets.life.church/series/reaching-people-for-christ/960x680.jpg?1472153443
   messages:
   - title: Reaching People for Christ
     headline: ''
@@ -511,14 +511,14 @@
     name: Disciplines
     created_at: '2014-06-11T15:23:03.968-05:00'
     updated_at: '2014-06-11T15:23:03.968-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/i-choose/300x200.jpg?1470236145
-  image_medium: http://api-assets.lifechurch.tv/series/i-choose/600x400.jpg?1470236175
-  image_large: http://api-assets.lifechurch.tv/series/i-choose/1200x800.jpg?1470236198
-  image_social: http://api-assets.lifechurch.tv/series/i-choose/400x400.jpg?1470236340
-  image_banner_archive: http://api-assets.lifechurch.tv/series/i-choose/1500x340.jpg?1470236985
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-choose/3000x680.jpg?1470237821
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-choose/480x340.jpg?1470237028
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-choose/960x680.jpg?1470237069
+  image_small: https://api-assets.life.church/series/i-choose/300x200.jpg?1470236145
+  image_medium: https://api-assets.life.church/series/i-choose/600x400.jpg?1470236175
+  image_large: https://api-assets.life.church/series/i-choose/1200x800.jpg?1470236198
+  image_social: https://api-assets.life.church/series/i-choose/400x400.jpg?1470236340
+  image_banner_archive: https://api-assets.life.church/series/i-choose/1500x340.jpg?1470236985
+  image_banner_archive_2x: https://api-assets.life.church/series/i-choose/3000x680.jpg?1470237821
+  image_banner_archive_small: https://api-assets.life.church/series/i-choose/480x340.jpg?1470237028
+  image_banner_archive_small_2x: https://api-assets.life.church/series/i-choose/960x680.jpg?1470237069
   messages:
   - title: Important Over Urgent
     headline: ''
@@ -549,14 +549,14 @@
   promo: ''
   resources_url: ''
   categories: []
-  image_small: http://api-assets.lifechurch.tv/series/the-last-four/300x200.jpg?1467997937
-  image_medium: http://api-assets.lifechurch.tv/series/the-last-four/600x400.jpg?1467997950
-  image_large: http://api-assets.lifechurch.tv/series/the-last-four/1200x800.jpg?1467997970
-  image_social: http://api-assets.lifechurch.tv/series/the-last-four/400x400.jpg?1467997920
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-last-four/1500x340.jpg?1467997981
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-last-four/3000x680.jpg?1467997992
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-last-four/480x340.jpg?1467998018
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-last-four/960x680.jpg?1467998028
+  image_small: https://api-assets.life.church/series/the-last-four/300x200.jpg?1467997937
+  image_medium: https://api-assets.life.church/series/the-last-four/600x400.jpg?1467997950
+  image_large: https://api-assets.life.church/series/the-last-four/1200x800.jpg?1467997970
+  image_social: https://api-assets.life.church/series/the-last-four/400x400.jpg?1467997920
+  image_banner_archive: https://api-assets.life.church/series/the-last-four/1500x340.jpg?1467997981
+  image_banner_archive_2x: https://api-assets.life.church/series/the-last-four/3000x680.jpg?1467997992
+  image_banner_archive_small: https://api-assets.life.church/series/the-last-four/480x340.jpg?1467998018
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-last-four/960x680.jpg?1467998028
   messages:
   - title: Proverbs 28:14
     headline: ''
@@ -621,14 +621,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/bad-advice/300x200.jpg?1465247111
-  image_medium: http://api-assets.lifechurch.tv/series/bad-advice/600x400.jpg?1465247124
-  image_large: http://api-assets.lifechurch.tv/series/bad-advice/1200x800.jpg?1465247084
-  image_social: http://api-assets.lifechurch.tv/series/bad-advice/400x400.jpg?1465247097
-  image_banner_archive: http://api-assets.lifechurch.tv/series/bad-advice/1500x340.jpg?1465247142
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/bad-advice/3000x680.jpg?1465247154
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/bad-advice/480x340.jpg?1465247168
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/bad-advice/960x680.jpg?1465247188
+  image_small: https://api-assets.life.church/series/bad-advice/300x200.jpg?1465247111
+  image_medium: https://api-assets.life.church/series/bad-advice/600x400.jpg?1465247124
+  image_large: https://api-assets.life.church/series/bad-advice/1200x800.jpg?1465247084
+  image_social: https://api-assets.life.church/series/bad-advice/400x400.jpg?1465247097
+  image_banner_archive: https://api-assets.life.church/series/bad-advice/1500x340.jpg?1465247142
+  image_banner_archive_2x: https://api-assets.life.church/series/bad-advice/3000x680.jpg?1465247154
+  image_banner_archive_small: https://api-assets.life.church/series/bad-advice/480x340.jpg?1465247168
+  image_banner_archive_small_2x: https://api-assets.life.church/series/bad-advice/960x680.jpg?1465247188
   messages:
   - title: How to Be Dissatisfied
     headline: ''
@@ -678,14 +678,14 @@
     name: Joyce Meyer
     created_at: '2016-05-19T15:00:44.134-05:00'
     updated_at: '2016-05-19T15:00:44.134-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-right-heart/300x200.jpg?1463688544
-  image_medium: http://api-assets.lifechurch.tv/series/the-right-heart/600x400.jpg?1463688480
-  image_large: http://api-assets.lifechurch.tv/series/the-right-heart/1200x800.jpg?1438386539
-  image_social: http://api-assets.lifechurch.tv/series/the-right-heart/400x400.jpg?1463688406
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-right-heart/1500x340.jpg?1463688446
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-right-heart/3000x680.jpg?1463688459
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-right-heart/480x340.jpg?1463688432
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-right-heart/960x680.jpg?1463688419
+  image_small: https://api-assets.life.church/series/the-right-heart/300x200.jpg?1463688544
+  image_medium: https://api-assets.life.church/series/the-right-heart/600x400.jpg?1463688480
+  image_large: https://api-assets.life.church/series/the-right-heart/1200x800.jpg?1438386539
+  image_social: https://api-assets.life.church/series/the-right-heart/400x400.jpg?1463688406
+  image_banner_archive: https://api-assets.life.church/series/the-right-heart/1500x340.jpg?1463688446
+  image_banner_archive_2x: https://api-assets.life.church/series/the-right-heart/3000x680.jpg?1463688459
+  image_banner_archive_small: https://api-assets.life.church/series/the-right-heart/480x340.jpg?1463688432
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-right-heart/960x680.jpg?1463688419
   messages:
   - title: Love, Love, and Then Love Some More
     headline: ''
@@ -736,14 +736,14 @@
     name: Virtues
     created_at: '2014-06-11T15:25:27.460-05:00'
     updated_at: '2014-06-11T15:25:27.460-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/300x200.jpg?1465261699
-  image_medium: http://api-assets.lifechurch.tv/series/how-to-neighbor/600x400.jpg?1465261806
-  image_large: http://api-assets.lifechurch.tv/series/how-to-neighbor/1200x800.jpg?1464120303
-  image_social: http://api-assets.lifechurch.tv/series/how-to-neighbor/400x400.jpg?1465261714
-  image_banner_archive: http://api-assets.lifechurch.tv/series/how-to-neighbor/1500x340.jpg?1465261859
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/3000x680.jpg?1465261875
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/how-to-neighbor/480x340.jpg?1465261787
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/how-to-neighbor/960x680.jpg?1465261837
+  image_small: https://api-assets.life.church/series/how-to-neighbor/300x200.jpg?1465261699
+  image_medium: https://api-assets.life.church/series/how-to-neighbor/600x400.jpg?1465261806
+  image_large: https://api-assets.life.church/series/how-to-neighbor/1200x800.jpg?1464120303
+  image_social: https://api-assets.life.church/series/how-to-neighbor/400x400.jpg?1465261714
+  image_banner_archive: https://api-assets.life.church/series/how-to-neighbor/1500x340.jpg?1465261859
+  image_banner_archive_2x: https://api-assets.life.church/series/how-to-neighbor/3000x680.jpg?1465261875
+  image_banner_archive_small: https://api-assets.life.church/series/how-to-neighbor/480x340.jpg?1465261787
+  image_banner_archive_small_2x: https://api-assets.life.church/series/how-to-neighbor/960x680.jpg?1465261837
   messages:
   - title: Loving The Lonely
     headline: ''
@@ -789,14 +789,14 @@
     name: Michael Jr.
     created_at: '2016-04-14T17:07:24.151-05:00'
     updated_at: '2016-04-14T17:07:24.151-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/300x200.jpg?1460671917
-  image_medium: http://api-assets.lifechurch.tv/series/the-fathers-voice/600x400.jpg?1460671944
-  image_large: http://api-assets.lifechurch.tv/series/the-fathers-voice/1200x800.jpg?1460671969
-  image_social: http://api-assets.lifechurch.tv/series/the-fathers-voice/400x400.jpg?1460671990
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-fathers-voice/1500x340.jpg?1460672039
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/3000x680.jpg?1460672023
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-fathers-voice/480x340.jpg?1460672057
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-fathers-voice/960x680.jpg?1460672091
+  image_small: https://api-assets.life.church/series/the-fathers-voice/300x200.jpg?1460671917
+  image_medium: https://api-assets.life.church/series/the-fathers-voice/600x400.jpg?1460671944
+  image_large: https://api-assets.life.church/series/the-fathers-voice/1200x800.jpg?1460671969
+  image_social: https://api-assets.life.church/series/the-fathers-voice/400x400.jpg?1460671990
+  image_banner_archive: https://api-assets.life.church/series/the-fathers-voice/1500x340.jpg?1460672039
+  image_banner_archive_2x: https://api-assets.life.church/series/the-fathers-voice/3000x680.jpg?1460672023
+  image_banner_archive_small: https://api-assets.life.church/series/the-fathers-voice/480x340.jpg?1460672057
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-fathers-voice/960x680.jpg?1460672091
   messages:
   - title: The Father's Voice
     headline: ''
@@ -831,14 +831,14 @@
     name: Virtues
     created_at: '2014-06-11T15:25:27.460-05:00'
     updated_at: '2014-06-11T15:25:27.460-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/love-like-jesus/300x200.jpg?1458002941
-  image_medium: http://api-assets.lifechurch.tv/series/love-like-jesus/600x400.jpg?1458002967
-  image_large: http://api-assets.lifechurch.tv/series/love-like-jesus/1200x800.jpg?1458002987
-  image_social: http://api-assets.lifechurch.tv/series/love-like-jesus/400x400.jpg?1458003025
-  image_banner_archive: http://api-assets.lifechurch.tv/series/love-like-jesus/1500x340.jpg?1458003061
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/3000x680.jpg?1458003042
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/love-like-jesus/480x340.jpg?1458003082
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love-like-jesus/960x680.jpg?1458003107
+  image_small: https://api-assets.life.church/series/love-like-jesus/300x200.jpg?1458002941
+  image_medium: https://api-assets.life.church/series/love-like-jesus/600x400.jpg?1458002967
+  image_large: https://api-assets.life.church/series/love-like-jesus/1200x800.jpg?1458002987
+  image_social: https://api-assets.life.church/series/love-like-jesus/400x400.jpg?1458003025
+  image_banner_archive: https://api-assets.life.church/series/love-like-jesus/1500x340.jpg?1458003061
+  image_banner_archive_2x: https://api-assets.life.church/series/love-like-jesus/3000x680.jpg?1458003042
+  image_banner_archive_small: https://api-assets.life.church/series/love-like-jesus/480x340.jpg?1458003082
+  image_banner_archive_small_2x: https://api-assets.life.church/series/love-like-jesus/960x680.jpg?1458003107
   messages:
   - title: Breaks Bread
     headline: ''
@@ -879,14 +879,14 @@
     name: Easter
     created_at: '2016-03-14T19:06:10.330-05:00'
     updated_at: '2016-03-14T19:06:10.330-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/easter-2016/300x200.jpg?1458001527
-  image_medium: http://api-assets.lifechurch.tv/series/easter-2016/600x400.jpg?1458001545
-  image_large: http://api-assets.lifechurch.tv/series/easter-2016/1200x800.jpg?1458001567
-  image_social: http://api-assets.lifechurch.tv/series/easter-2016/400x400.jpg?1458001590
-  image_banner_archive: http://api-assets.lifechurch.tv/series/easter-2016/1500x340.jpg?1458001631
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/easter-2016/3000x680.jpg?1458001609
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/easter-2016/480x340.jpg?1458001649
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/easter-2016/960x680.jpg?1458001684
+  image_small: https://api-assets.life.church/series/easter-2016/300x200.jpg?1458001527
+  image_medium: https://api-assets.life.church/series/easter-2016/600x400.jpg?1458001545
+  image_large: https://api-assets.life.church/series/easter-2016/1200x800.jpg?1458001567
+  image_social: https://api-assets.life.church/series/easter-2016/400x400.jpg?1458001590
+  image_banner_archive: https://api-assets.life.church/series/easter-2016/1500x340.jpg?1458001631
+  image_banner_archive_2x: https://api-assets.life.church/series/easter-2016/3000x680.jpg?1458001609
+  image_banner_archive_small: https://api-assets.life.church/series/easter-2016/480x340.jpg?1458001649
+  image_banner_archive_small_2x: https://api-assets.life.church/series/easter-2016/960x680.jpg?1458001684
   messages:
   - title: Consider Jesus
     headline: ''
@@ -925,14 +925,14 @@
     name: John Gray
     created_at: '2016-02-26T19:51:52.965-06:00'
     updated_at: '2016-02-26T19:51:52.965-06:00'
-  image_small: http://api-assets.lifechurch.tv/series/going-the-distance/300x200.jpg?1456546371
-  image_medium: http://api-assets.lifechurch.tv/series/going-the-distance/600x400.jpg?1456546393
-  image_large: http://api-assets.lifechurch.tv/series/going-the-distance/1200x800.jpg?1456546409
-  image_social: http://api-assets.lifechurch.tv/series/going-the-distance/400x400.jpg?1456546427
-  image_banner_archive: http://api-assets.lifechurch.tv/series/going-the-distance/1500x340.jpg?1456546468
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/going-the-distance/3000x680.jpg?1456546444
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/going-the-distance/480x340.jpg?1456546491
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/going-the-distance/960x680.jpg?1456546508
+  image_small: https://api-assets.life.church/series/going-the-distance/300x200.jpg?1456546371
+  image_medium: https://api-assets.life.church/series/going-the-distance/600x400.jpg?1456546393
+  image_large: https://api-assets.life.church/series/going-the-distance/1200x800.jpg?1456546409
+  image_social: https://api-assets.life.church/series/going-the-distance/400x400.jpg?1456546427
+  image_banner_archive: https://api-assets.life.church/series/going-the-distance/1500x340.jpg?1456546468
+  image_banner_archive_2x: https://api-assets.life.church/series/going-the-distance/3000x680.jpg?1456546444
+  image_banner_archive_small: https://api-assets.life.church/series/going-the-distance/480x340.jpg?1456546491
+  image_banner_archive_small_2x: https://api-assets.life.church/series/going-the-distance/960x680.jpg?1456546508
   messages:
   - title: No Words Needed
     headline: ''
@@ -969,14 +969,14 @@
     name: Wisdom
     created_at: '2014-06-11T15:18:02.732-05:00'
     updated_at: '2014-06-11T15:18:02.732-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/twisted/300x200.jpg?1454458025
-  image_medium: http://api-assets.lifechurch.tv/series/twisted/600x400.jpg?1454458043
-  image_large: http://api-assets.lifechurch.tv/series/twisted/1200x800.jpg?1454458059
-  image_social: http://api-assets.lifechurch.tv/series/twisted/400x400.jpg?1454458083
-  image_banner_archive: http://api-assets.lifechurch.tv/series/twisted/1500x340.jpg?1454458697
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/twisted/3000x680.jpg?1454458672
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/twisted/480x340.jpg?1454458715
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/twisted/960x680.jpg?1454458750
+  image_small: https://api-assets.life.church/series/twisted/300x200.jpg?1454458025
+  image_medium: https://api-assets.life.church/series/twisted/600x400.jpg?1454458043
+  image_large: https://api-assets.life.church/series/twisted/1200x800.jpg?1454458059
+  image_social: https://api-assets.life.church/series/twisted/400x400.jpg?1454458083
+  image_banner_archive: https://api-assets.life.church/series/twisted/1500x340.jpg?1454458697
+  image_banner_archive_2x: https://api-assets.life.church/series/twisted/3000x680.jpg?1454458672
+  image_banner_archive_small: https://api-assets.life.church/series/twisted/480x340.jpg?1454458715
+  image_banner_archive_small_2x: https://api-assets.life.church/series/twisted/960x680.jpg?1454458750
   messages:
   - title: The Root of All Evil
     headline: ''
@@ -1025,14 +1025,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/dangerous-prayers/300x200.jpg?1452123095
-  image_medium: http://api-assets.lifechurch.tv/series/dangerous-prayers/600x400.jpg?1452123117
-  image_large: http://api-assets.lifechurch.tv/series/dangerous-prayers/1200x800.jpg?1452123145
-  image_social: http://api-assets.lifechurch.tv/series/dangerous-prayers/400x400.jpg?1452123163
-  image_banner_archive: http://api-assets.lifechurch.tv/series/dangerous-prayers/1500x340.jpg?1452123205
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/dangerous-prayers/3000x680.jpg?1452123182
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/dangerous-prayers/480x340.jpg?1452123243
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/dangerous-prayers/960x680.jpg?1452123271
+  image_small: https://api-assets.life.church/series/dangerous-prayers/300x200.jpg?1452123095
+  image_medium: https://api-assets.life.church/series/dangerous-prayers/600x400.jpg?1452123117
+  image_large: https://api-assets.life.church/series/dangerous-prayers/1200x800.jpg?1452123145
+  image_social: https://api-assets.life.church/series/dangerous-prayers/400x400.jpg?1452123163
+  image_banner_archive: https://api-assets.life.church/series/dangerous-prayers/1500x340.jpg?1452123205
+  image_banner_archive_2x: https://api-assets.life.church/series/dangerous-prayers/3000x680.jpg?1452123182
+  image_banner_archive_small: https://api-assets.life.church/series/dangerous-prayers/480x340.jpg?1452123243
+  image_banner_archive_small_2x: https://api-assets.life.church/series/dangerous-prayers/960x680.jpg?1452123271
   messages:
   - title: Send Me
     headline: ''
@@ -1073,14 +1073,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291-05:00'
     updated_at: '2014-06-11T15:52:33.291-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/300x200.jpg?1452053208
-  image_medium: http://api-assets.lifechurch.tv/series/20-years-and-counting/600x400.jpg?1452053246
-  image_large: http://api-assets.lifechurch.tv/series/20-years-and-counting/1200x800.jpg?1452053267
-  image_social: http://api-assets.lifechurch.tv/series/20-years-and-counting/400x400.jpg?1452053287
-  image_banner_archive: http://api-assets.lifechurch.tv/series/20-years-and-counting/1500x340.jpg?1452053342
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/3000x680.jpg?1452053305
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/20-years-and-counting/480x340.jpg?1452053381
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/20-years-and-counting/960x680.jpg?1452053404
+  image_small: https://api-assets.life.church/series/20-years-and-counting/300x200.jpg?1452053208
+  image_medium: https://api-assets.life.church/series/20-years-and-counting/600x400.jpg?1452053246
+  image_large: https://api-assets.life.church/series/20-years-and-counting/1200x800.jpg?1452053267
+  image_social: https://api-assets.life.church/series/20-years-and-counting/400x400.jpg?1452053287
+  image_banner_archive: https://api-assets.life.church/series/20-years-and-counting/1500x340.jpg?1452053342
+  image_banner_archive_2x: https://api-assets.life.church/series/20-years-and-counting/3000x680.jpg?1452053305
+  image_banner_archive_small: https://api-assets.life.church/series/20-years-and-counting/480x340.jpg?1452053381
+  image_banner_archive_small_2x: https://api-assets.life.church/series/20-years-and-counting/960x680.jpg?1452053404
   messages:
   - title: 20 Years and Counting
     headline: ''
@@ -1114,14 +1114,14 @@
     name: Disciplines
     created_at: '2014-06-11T15:23:03.968-05:00'
     updated_at: '2014-06-11T15:23:03.968-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/get-started/300x200.jpg?1450310720
-  image_medium: http://api-assets.lifechurch.tv/series/get-started/600x400.jpg?1450310779
-  image_large: http://api-assets.lifechurch.tv/series/get-started/1200x800.jpg?1450310795
-  image_social: http://api-assets.lifechurch.tv/series/get-started/400x400.jpg?1450310830
-  image_banner_archive: http://api-assets.lifechurch.tv/series/get-started/1500x340.jpg?1450310871
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/get-started/3000x680.jpg?1450310849
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/get-started/480x340.jpg?1450310896
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/get-started/960x680.jpg?1450310913
+  image_small: https://api-assets.life.church/series/get-started/300x200.jpg?1450310720
+  image_medium: https://api-assets.life.church/series/get-started/600x400.jpg?1450310779
+  image_large: https://api-assets.life.church/series/get-started/1200x800.jpg?1450310795
+  image_social: https://api-assets.life.church/series/get-started/400x400.jpg?1450310830
+  image_banner_archive: https://api-assets.life.church/series/get-started/1500x340.jpg?1450310871
+  image_banner_archive_2x: https://api-assets.life.church/series/get-started/3000x680.jpg?1450310849
+  image_banner_archive_small: https://api-assets.life.church/series/get-started/480x340.jpg?1450310896
+  image_banner_archive_small_2x: https://api-assets.life.church/series/get-started/960x680.jpg?1450310913
   messages:
   - title: Get Started
     headline: ''
@@ -1158,14 +1158,14 @@
     name: Jefferson Bethke
     created_at: '2015-12-28T15:22:31.777-06:00'
     updated_at: '2015-12-28T15:22:31.777-06:00'
-  image_small: http://api-assets.lifechurch.tv/series/healed/300x200.jpg?1450235974
-  image_medium: http://api-assets.lifechurch.tv/series/healed/600x400.jpg?1450235996
-  image_large: http://api-assets.lifechurch.tv/series/healed/1200x800.jpg?1450236018
-  image_social: http://api-assets.lifechurch.tv/series/healed/400x400.jpg?1450236034
-  image_banner_archive: http://api-assets.lifechurch.tv/series/healed/1500x340.jpg?1450236069
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/healed/3000x680.jpg?1450236050
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/healed/480x340.jpg?1450236108
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/healed/960x680.jpg?1450236128
+  image_small: https://api-assets.life.church/series/healed/300x200.jpg?1450235974
+  image_medium: https://api-assets.life.church/series/healed/600x400.jpg?1450235996
+  image_large: https://api-assets.life.church/series/healed/1200x800.jpg?1450236018
+  image_social: https://api-assets.life.church/series/healed/400x400.jpg?1450236034
+  image_banner_archive: https://api-assets.life.church/series/healed/1500x340.jpg?1450236069
+  image_banner_archive_2x: https://api-assets.life.church/series/healed/3000x680.jpg?1450236050
+  image_banner_archive_small: https://api-assets.life.church/series/healed/480x340.jpg?1450236108
+  image_banner_archive_small_2x: https://api-assets.life.church/series/healed/960x680.jpg?1450236128
   messages:
   - title: Healed
     headline: ''
@@ -1191,14 +1191,14 @@
     name: Christmas
     created_at: '2015-10-20T19:18:40.447-05:00'
     updated_at: '2015-10-20T19:18:40.447-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/christmas-2015/300x200.jpg?1450235758
-  image_medium: http://api-assets.lifechurch.tv/series/christmas-2015/600x400.jpg?1450235773
-  image_large: http://api-assets.lifechurch.tv/series/christmas-2015/1200x800.jpg?1450235798
-  image_social: http://api-assets.lifechurch.tv/series/christmas-2015/400x400.jpg?1450235818
-  image_banner_archive: http://api-assets.lifechurch.tv/series/christmas-2015/1500x340.jpg?1450235856
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/christmas-2015/3000x680.jpg?1450235835
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/christmas-2015/480x340.jpg?1450235872
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/christmas-2015/960x680.jpg?1450235903
+  image_small: https://api-assets.life.church/series/christmas-2015/300x200.jpg?1450235758
+  image_medium: https://api-assets.life.church/series/christmas-2015/600x400.jpg?1450235773
+  image_large: https://api-assets.life.church/series/christmas-2015/1200x800.jpg?1450235798
+  image_social: https://api-assets.life.church/series/christmas-2015/400x400.jpg?1450235818
+  image_banner_archive: https://api-assets.life.church/series/christmas-2015/1500x340.jpg?1450235856
+  image_banner_archive_2x: https://api-assets.life.church/series/christmas-2015/3000x680.jpg?1450235835
+  image_banner_archive_small: https://api-assets.life.church/series/christmas-2015/480x340.jpg?1450235872
+  image_banner_archive_small_2x: https://api-assets.life.church/series/christmas-2015/960x680.jpg?1450235903
   messages:
   - title: Christmas 2015
     headline: ''
@@ -1244,14 +1244,14 @@
     name: Trials
     created_at: '2014-06-11T15:23:13.523-05:00'
     updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/300x200.jpg?1449022046
-  image_medium: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/600x400.jpg?1449022071
-  image_large: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/1200x800.jpg?1449022107
-  image_social: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/400x400.jpg?1449022124
-  image_banner_archive: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/1500x340.jpg?1449022170
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/3000x680.jpg?1449022143
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/480x340.jpg?1449022189
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/when-god-doesnt-make-sense/960x680.jpg?1449026999
+  image_small: https://api-assets.life.church/series/when-god-doesnt-make-sense/300x200.jpg?1449022046
+  image_medium: https://api-assets.life.church/series/when-god-doesnt-make-sense/600x400.jpg?1449022071
+  image_large: https://api-assets.life.church/series/when-god-doesnt-make-sense/1200x800.jpg?1449022107
+  image_social: https://api-assets.life.church/series/when-god-doesnt-make-sense/400x400.jpg?1449022124
+  image_banner_archive: https://api-assets.life.church/series/when-god-doesnt-make-sense/1500x340.jpg?1449022170
+  image_banner_archive_2x: https://api-assets.life.church/series/when-god-doesnt-make-sense/3000x680.jpg?1449022143
+  image_banner_archive_small: https://api-assets.life.church/series/when-god-doesnt-make-sense/480x340.jpg?1449022189
+  image_banner_archive_small_2x: https://api-assets.life.church/series/when-god-doesnt-make-sense/960x680.jpg?1449026999
   messages:
   - title: When God Seems Uncooperative
     headline: ''
@@ -1303,14 +1303,14 @@
     name: Technology
     created_at: '2015-11-20T22:33:36.233-06:00'
     updated_at: '2015-11-20T22:33:36.233-06:00'
-  image_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/300x200.jpg?1448080650
-  image_medium: http://api-assets.lifechurch.tv/series/because-of-you-2015/600x400.jpg?1448080696
-  image_large: http://api-assets.lifechurch.tv/series/because-of-you-2015/1200x800.jpg?1448080715
-  image_social: http://api-assets.lifechurch.tv/series/because-of-you-2015/400x400.jpg?1448080771
-  image_banner_archive: http://api-assets.lifechurch.tv/series/because-of-you-2015/1500x340.jpg?1448080804
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/3000x680.jpg?1448080789
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/because-of-you-2015/480x340.jpg?1448080818
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/because-of-you-2015/960x680.jpg?1448080836
+  image_small: https://api-assets.life.church/series/because-of-you-2015/300x200.jpg?1448080650
+  image_medium: https://api-assets.life.church/series/because-of-you-2015/600x400.jpg?1448080696
+  image_large: https://api-assets.life.church/series/because-of-you-2015/1200x800.jpg?1448080715
+  image_social: https://api-assets.life.church/series/because-of-you-2015/400x400.jpg?1448080771
+  image_banner_archive: https://api-assets.life.church/series/because-of-you-2015/1500x340.jpg?1448080804
+  image_banner_archive_2x: https://api-assets.life.church/series/because-of-you-2015/3000x680.jpg?1448080789
+  image_banner_archive_small: https://api-assets.life.church/series/because-of-you-2015/480x340.jpg?1448080818
+  image_banner_archive_small_2x: https://api-assets.life.church/series/because-of-you-2015/960x680.jpg?1448080836
   messages:
   - title: Because of You
     headline: ''
@@ -1344,14 +1344,14 @@
     name: Trials
     created_at: '2014-06-11T15:23:13.523-05:00'
     updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-time-is-now/300x200.jpg?1446592234
-  image_medium: http://api-assets.lifechurch.tv/series/the-time-is-now/600x400.jpg?1446593260
-  image_large: http://api-assets.lifechurch.tv/series/the-time-is-now/1200x800.jpg?1446592811
-  image_social: http://api-assets.lifechurch.tv/series/the-time-is-now/400x400.jpg?1446592832
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-time-is-now/1500x340.jpg?1446592881
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-time-is-now/3000x680.jpg?1446592858
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-time-is-now/480x340.jpg?1446592903
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-time-is-now/960x680.jpg?1446592930
+  image_small: https://api-assets.life.church/series/the-time-is-now/300x200.jpg?1446592234
+  image_medium: https://api-assets.life.church/series/the-time-is-now/600x400.jpg?1446593260
+  image_large: https://api-assets.life.church/series/the-time-is-now/1200x800.jpg?1446592811
+  image_social: https://api-assets.life.church/series/the-time-is-now/400x400.jpg?1446592832
+  image_banner_archive: https://api-assets.life.church/series/the-time-is-now/1500x340.jpg?1446592881
+  image_banner_archive_2x: https://api-assets.life.church/series/the-time-is-now/3000x680.jpg?1446592858
+  image_banner_archive_small: https://api-assets.life.church/series/the-time-is-now/480x340.jpg?1446592903
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-time-is-now/960x680.jpg?1446592930
   messages:
   - title: The Blessings of Obedience
     headline: ''
@@ -1398,14 +1398,14 @@
     name: Michael Jr.
     created_at: '2015-10-28T19:50:38.967-05:00'
     updated_at: '2015-10-28T19:50:38.967-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/punchline/300x200.jpg?1446083891
-  image_medium: http://api-assets.lifechurch.tv/series/punchline/600x400.jpg?1446083922
-  image_large: http://api-assets.lifechurch.tv/series/punchline/1200x800.jpg?1446083947
-  image_social: http://api-assets.lifechurch.tv/series/punchline/400x400.jpg?1446083968
-  image_banner_archive: http://api-assets.lifechurch.tv/series/punchline/1500x340.jpg?1446084009
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/punchline/3000x680.jpg?1446083990
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/punchline/480x340.jpg?1446084032
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/punchline/960x680.jpg?1446084054
+  image_small: https://api-assets.life.church/series/punchline/300x200.jpg?1446083891
+  image_medium: https://api-assets.life.church/series/punchline/600x400.jpg?1446083922
+  image_large: https://api-assets.life.church/series/punchline/1200x800.jpg?1446083947
+  image_social: https://api-assets.life.church/series/punchline/400x400.jpg?1446083968
+  image_banner_archive: https://api-assets.life.church/series/punchline/1500x340.jpg?1446084009
+  image_banner_archive_2x: https://api-assets.life.church/series/punchline/3000x680.jpg?1446083990
+  image_banner_archive_small: https://api-assets.life.church/series/punchline/480x340.jpg?1446084032
+  image_banner_archive_small_2x: https://api-assets.life.church/series/punchline/960x680.jpg?1446084054
   messages:
   - title: Punchline
     headline: ''
@@ -1451,14 +1451,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/struggles2015/300x200.jpg?1444785195
-  image_medium: http://api-assets.lifechurch.tv/series/struggles2015/600x400.jpg?1444871483
-  image_large: http://api-assets.lifechurch.tv/series/struggles2015/1200x800.jpg?1444785271
-  image_social: http://api-assets.lifechurch.tv/series/struggles2015/400x400.jpg?1444785293
-  image_banner_archive: http://api-assets.lifechurch.tv/series/struggles2015/1500x340.jpg?1445980420
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles2015/3000x680.jpg?1445980395
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/struggles2015/480x340.jpg?1444785354
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/struggles2015/960x680.jpg?1444785374
+  image_small: https://api-assets.life.church/series/struggles2015/300x200.jpg?1444785195
+  image_medium: https://api-assets.life.church/series/struggles2015/600x400.jpg?1444871483
+  image_large: https://api-assets.life.church/series/struggles2015/1200x800.jpg?1444785271
+  image_social: https://api-assets.life.church/series/struggles2015/400x400.jpg?1444785293
+  image_banner_archive: https://api-assets.life.church/series/struggles2015/1500x340.jpg?1445980420
+  image_banner_archive_2x: https://api-assets.life.church/series/struggles2015/3000x680.jpg?1445980395
+  image_banner_archive_small: https://api-assets.life.church/series/struggles2015/480x340.jpg?1444785354
+  image_banner_archive_small_2x: https://api-assets.life.church/series/struggles2015/960x680.jpg?1444785374
   messages:
   - title: "#Struggles"
     headline: ''
@@ -1490,14 +1490,14 @@
     name: Thoughts
     created_at: '2014-06-11T15:20:28.824-05:00'
     updated_at: '2014-06-11T15:20:28.824-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/stay-positive/300x200.jpg?1440814569
-  image_medium: http://api-assets.lifechurch.tv/series/stay-positive/600x400.jpg?1440815145
-  image_large: http://api-assets.lifechurch.tv/series/stay-positive/1200x800.jpg?1440815165
-  image_social: http://api-assets.lifechurch.tv/series/stay-positive/400x400.jpg?1440815196
-  image_banner_archive: http://api-assets.lifechurch.tv/series/stay-positive/1500x340.jpg?1442002998
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/stay-positive/3000x680.jpg?1442002978
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/stay-positive/480x340.jpg?1440815265
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/stay-positive/960x680.jpg?1440815285
+  image_small: https://api-assets.life.church/series/stay-positive/300x200.jpg?1440814569
+  image_medium: https://api-assets.life.church/series/stay-positive/600x400.jpg?1440815145
+  image_large: https://api-assets.life.church/series/stay-positive/1200x800.jpg?1440815165
+  image_social: https://api-assets.life.church/series/stay-positive/400x400.jpg?1440815196
+  image_banner_archive: https://api-assets.life.church/series/stay-positive/1500x340.jpg?1442002998
+  image_banner_archive_2x: https://api-assets.life.church/series/stay-positive/3000x680.jpg?1442002978
+  image_banner_archive_small: https://api-assets.life.church/series/stay-positive/480x340.jpg?1440815265
+  image_banner_archive_small_2x: https://api-assets.life.church/series/stay-positive/960x680.jpg?1440815285
   messages:
   - title: I'm Confident
     headline: ''
@@ -1543,14 +1543,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086-05:00'
     updated_at: '2014-06-11T15:21:10.086-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/labels/300x200.jpg?1441408126
-  image_medium: http://api-assets.lifechurch.tv/series/labels/600x400.jpg?1441408146
-  image_large: http://api-assets.lifechurch.tv/series/labels/1200x800.jpg?1441408171
-  image_social: http://api-assets.lifechurch.tv/series/labels/400x400.jpg?1441408196
-  image_banner_archive: http://api-assets.lifechurch.tv/series/labels/1500x340.jpg?1444943650
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/labels/3000x680.jpg?1444943704
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/labels/480x340.jpg?1441408269
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/labels/960x680.jpg?1441408293
+  image_small: https://api-assets.life.church/series/labels/300x200.jpg?1441408126
+  image_medium: https://api-assets.life.church/series/labels/600x400.jpg?1441408146
+  image_large: https://api-assets.life.church/series/labels/1200x800.jpg?1441408171
+  image_social: https://api-assets.life.church/series/labels/400x400.jpg?1441408196
+  image_banner_archive: https://api-assets.life.church/series/labels/1500x340.jpg?1444943650
+  image_banner_archive_2x: https://api-assets.life.church/series/labels/3000x680.jpg?1444943704
+  image_banner_archive_small: https://api-assets.life.church/series/labels/480x340.jpg?1441408269
+  image_banner_archive_small_2x: https://api-assets.life.church/series/labels/960x680.jpg?1441408293
   messages:
   - title: Labels
     headline: ''
@@ -1587,14 +1587,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/a-way-out/300x200.jpg?1437598213
-  image_medium: http://api-assets.lifechurch.tv/series/a-way-out/600x400.jpg?1437598235
-  image_large: http://api-assets.lifechurch.tv/series/a-way-out/1200x800.jpg?1437598262
-  image_social: http://api-assets.lifechurch.tv/series/a-way-out/400x400.jpg?1437598407
-  image_banner_archive: http://api-assets.lifechurch.tv/series/a-way-out/1500x340.jpg?1437598498
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/a-way-out/3000x680.jpg?1437598471
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/a-way-out/480x340.jpg?1437598542
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/a-way-out/960x680.jpg?1437598652
+  image_small: https://api-assets.life.church/series/a-way-out/300x200.jpg?1437598213
+  image_medium: https://api-assets.life.church/series/a-way-out/600x400.jpg?1437598235
+  image_large: https://api-assets.life.church/series/a-way-out/1200x800.jpg?1437598262
+  image_social: https://api-assets.life.church/series/a-way-out/400x400.jpg?1437598407
+  image_banner_archive: https://api-assets.life.church/series/a-way-out/1500x340.jpg?1437598498
+  image_banner_archive_2x: https://api-assets.life.church/series/a-way-out/3000x680.jpg?1437598471
+  image_banner_archive_small: https://api-assets.life.church/series/a-way-out/480x340.jpg?1437598542
+  image_banner_archive_small_2x: https://api-assets.life.church/series/a-way-out/960x680.jpg?1437598652
   messages:
   - title: Feed Your Spirit
     headline: ''
@@ -1634,14 +1634,14 @@
     name: Louie Giglio
     created_at: '2015-05-28T21:33:37.850-05:00'
     updated_at: '2015-05-28T21:33:37.850-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/man-in-the-mirror/300x200.jpg?1438375983
-  image_medium: http://api-assets.lifechurch.tv/series/man-in-the-mirror/600x400.jpg?1438376021
-  image_large: http://api-assets.lifechurch.tv/series/man-in-the-mirror/1200x800.jpg?1438376049
-  image_social: http://api-assets.lifechurch.tv/series/man-in-the-mirror/400x400.jpg?1438376099
-  image_banner_archive: http://api-assets.lifechurch.tv/series/man-in-the-mirror/1500x340.jpg?1444953625
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/man-in-the-mirror/3000x680.jpg?1444953641
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/man-in-the-mirror/480x340.jpg?1438376260
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/man-in-the-mirror/960x680.jpg?1438376280
+  image_small: https://api-assets.life.church/series/man-in-the-mirror/300x200.jpg?1438375983
+  image_medium: https://api-assets.life.church/series/man-in-the-mirror/600x400.jpg?1438376021
+  image_large: https://api-assets.life.church/series/man-in-the-mirror/1200x800.jpg?1438376049
+  image_social: https://api-assets.life.church/series/man-in-the-mirror/400x400.jpg?1438376099
+  image_banner_archive: https://api-assets.life.church/series/man-in-the-mirror/1500x340.jpg?1444953625
+  image_banner_archive_2x: https://api-assets.life.church/series/man-in-the-mirror/3000x680.jpg?1444953641
+  image_banner_archive_small: https://api-assets.life.church/series/man-in-the-mirror/480x340.jpg?1438376260
+  image_banner_archive_small_2x: https://api-assets.life.church/series/man-in-the-mirror/960x680.jpg?1438376280
   messages:
   - title: Man in the Mirror - 2
     headline: ''
@@ -1674,14 +1674,14 @@
     name: Worship
     created_at: '2014-06-05T19:23:33.805-05:00'
     updated_at: '2014-06-05T19:23:33.805-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/pray/300x200.jpg?1428632956
-  image_medium: http://api-assets.lifechurch.tv/series/pray/600x400.jpg?1428632977
-  image_large: http://api-assets.lifechurch.tv/series/pray/1200x800.jpg?1428633003
-  image_social: http://api-assets.lifechurch.tv/series/pray/400x400.jpg?1428633037
-  image_banner_archive: http://api-assets.lifechurch.tv/series/pray/1500x340.jpg?1428633085
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/pray/3000x680.jpg?1428633055
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/pray/480x340.jpg?1428633113
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/pray/960x680.jpg?1428633296
+  image_small: https://api-assets.life.church/series/pray/300x200.jpg?1428632956
+  image_medium: https://api-assets.life.church/series/pray/600x400.jpg?1428632977
+  image_large: https://api-assets.life.church/series/pray/1200x800.jpg?1428633003
+  image_social: https://api-assets.life.church/series/pray/400x400.jpg?1428633037
+  image_banner_archive: https://api-assets.life.church/series/pray/1500x340.jpg?1428633085
+  image_banner_archive_2x: https://api-assets.life.church/series/pray/3000x680.jpg?1428633055
+  image_banner_archive_small: https://api-assets.life.church/series/pray/480x340.jpg?1428633113
+  image_banner_archive_small_2x: https://api-assets.life.church/series/pray/960x680.jpg?1428633296
   messages:
   - title: How Do I Know What’s Best?
     headline: ''
@@ -1727,14 +1727,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/i-deserve-it/300x200.jpg?1425077822
-  image_medium: http://api-assets.lifechurch.tv/series/i-deserve-it/600x400.jpg?1425077846
-  image_large: http://api-assets.lifechurch.tv/series/i-deserve-it/1200x800.jpg?1425077889
-  image_social: http://api-assets.lifechurch.tv/series/i-deserve-it/400x400.jpg?1425077932
-  image_banner_archive: http://api-assets.lifechurch.tv/series/i-deserve-it/1500x340.jpg?1425077990
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-deserve-it/3000x680.jpg?1425077958
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-deserve-it/480x340.jpg?1425078010
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-deserve-it/960x680.jpg?1425078031
+  image_small: https://api-assets.life.church/series/i-deserve-it/300x200.jpg?1425077822
+  image_medium: https://api-assets.life.church/series/i-deserve-it/600x400.jpg?1425077846
+  image_large: https://api-assets.life.church/series/i-deserve-it/1200x800.jpg?1425077889
+  image_social: https://api-assets.life.church/series/i-deserve-it/400x400.jpg?1425077932
+  image_banner_archive: https://api-assets.life.church/series/i-deserve-it/1500x340.jpg?1425077990
+  image_banner_archive_2x: https://api-assets.life.church/series/i-deserve-it/3000x680.jpg?1425077958
+  image_banner_archive_small: https://api-assets.life.church/series/i-deserve-it/480x340.jpg?1425078010
+  image_banner_archive_small_2x: https://api-assets.life.church/series/i-deserve-it/960x680.jpg?1425078031
   messages:
   - title: I Deserve To Be Counted Out, But He Gave Me Another Chance
     headline: ''
@@ -1779,14 +1779,14 @@
     name: Steven Furtick
     created_at: '2014-06-11T15:35:51.030-05:00'
     updated_at: '2014-06-11T15:35:51.030-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/dont-stop/300x200.jpg?1438376854
-  image_medium: http://api-assets.lifechurch.tv/series/dont-stop/600x400.jpg?1438376893
-  image_large: http://api-assets.lifechurch.tv/series/dont-stop/1200x800.jpg?1438376945
-  image_social: http://api-assets.lifechurch.tv/series/dont-stop/400x400.jpg?1438377011
-  image_banner_archive: http://api-assets.lifechurch.tv/series/dont-stop/1500x340.jpg?1438377129
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/dont-stop/3000x680.jpg?1438377092
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/dont-stop/480x340.jpg?1438377229
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/dont-stop/960x680.jpg?1438377256
+  image_small: https://api-assets.life.church/series/dont-stop/300x200.jpg?1438376854
+  image_medium: https://api-assets.life.church/series/dont-stop/600x400.jpg?1438376893
+  image_large: https://api-assets.life.church/series/dont-stop/1200x800.jpg?1438376945
+  image_social: https://api-assets.life.church/series/dont-stop/400x400.jpg?1438377011
+  image_banner_archive: https://api-assets.life.church/series/dont-stop/1500x340.jpg?1438377129
+  image_banner_archive_2x: https://api-assets.life.church/series/dont-stop/3000x680.jpg?1438377092
+  image_banner_archive_small: https://api-assets.life.church/series/dont-stop/480x340.jpg?1438377229
+  image_banner_archive_small_2x: https://api-assets.life.church/series/dont-stop/960x680.jpg?1438377256
   messages:
   - title: It Will Happen
     headline: ''
@@ -1819,14 +1819,14 @@
     name: Pierre du Plessis
     created_at: '2014-06-11T15:47:09.892-05:00'
     updated_at: '2014-06-11T15:47:09.892-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/chasing-light/300x200.jpg?1424735517
-  image_medium: http://api-assets.lifechurch.tv/series/chasing-light/600x400.jpg?1425694458
-  image_large: http://api-assets.lifechurch.tv/series/chasing-light/1200x800.jpg?1425694405
-  image_social: http://api-assets.lifechurch.tv/series/chasing-light/400x400.jpg?1424735739
-  image_banner_archive: http://api-assets.lifechurch.tv/series/chasing-light/1500x340.jpg?1424735820
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/chasing-light/3000x680.jpg?1424735782
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/chasing-light/480x340.jpg?1425694382
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/chasing-light/960x680.jpg?1424735856
+  image_small: https://api-assets.life.church/series/chasing-light/300x200.jpg?1424735517
+  image_medium: https://api-assets.life.church/series/chasing-light/600x400.jpg?1425694458
+  image_large: https://api-assets.life.church/series/chasing-light/1200x800.jpg?1425694405
+  image_social: https://api-assets.life.church/series/chasing-light/400x400.jpg?1424735739
+  image_banner_archive: https://api-assets.life.church/series/chasing-light/1500x340.jpg?1424735820
+  image_banner_archive_2x: https://api-assets.life.church/series/chasing-light/3000x680.jpg?1424735782
+  image_banner_archive_small: https://api-assets.life.church/series/chasing-light/480x340.jpg?1425694382
+  image_banner_archive_small_2x: https://api-assets.life.church/series/chasing-light/960x680.jpg?1424735856
   messages:
   - title: Greed
     headline: ''
@@ -1860,13 +1860,13 @@
     created_at: '2014-06-11T15:18:02.732-05:00'
     updated_at: '2014-06-11T15:18:02.732-05:00'
   image_small: ''
-  image_medium: http://api-assets.lifechurch.tv/series/god-never-said-that/600x400.jpg?1471555453
-  image_large: http://api-assets.lifechurch.tv/series/god-never-said-that/1200x800.jpg?1471555136
-  image_social: http://api-assets.lifechurch.tv/series/god-never-said-that/400x400.jpg?1471553838
-  image_banner_archive: http://api-assets.lifechurch.tv/series/god-never-said-that/1500x340.jpg?1471554178
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/3000x680.jpg?1474573273
+  image_medium: https://api-assets.life.church/series/god-never-said-that/600x400.jpg?1471555453
+  image_large: https://api-assets.life.church/series/god-never-said-that/1200x800.jpg?1471555136
+  image_social: https://api-assets.life.church/series/god-never-said-that/400x400.jpg?1471553838
+  image_banner_archive: https://api-assets.life.church/series/god-never-said-that/1500x340.jpg?1471554178
+  image_banner_archive_2x: https://api-assets.life.church/series/god-never-said-that/3000x680.jpg?1474573273
   image_banner_archive_small: ''
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/god-never-said-that/960x680.jpg?1471553947
+  image_banner_archive_small_2x: https://api-assets.life.church/series/god-never-said-that/960x680.jpg?1471553947
   messages:
   - title: It Doesn’t Matter What You Believe
     headline: ''
@@ -1910,14 +1910,14 @@
     name: Church Vision
     created_at: '2014-06-11T15:25:52.761-05:00'
     updated_at: '2014-06-11T15:25:52.761-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/jesus-and-we/300x200.jpg?1417044816
-  image_medium: http://api-assets.lifechurch.tv/series/jesus-and-we/600x400.jpg?1417044945
-  image_large: http://api-assets.lifechurch.tv/series/jesus-and-we/1200x800.jpg?1417045178
-  image_social: http://api-assets.lifechurch.tv/series/jesus-and-we/400x400.jpg?1417045056
-  image_banner_archive: http://api-assets.lifechurch.tv/series/jesus-and-we/1500x340.jpg?1417045298
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/jesus-and-we/3000x680.jpg?1417045254
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/jesus-and-we/480x340.jpg?1417045499
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/jesus-and-we/960x680.jpg?1417045587
+  image_small: https://api-assets.life.church/series/jesus-and-we/300x200.jpg?1417044816
+  image_medium: https://api-assets.life.church/series/jesus-and-we/600x400.jpg?1417044945
+  image_large: https://api-assets.life.church/series/jesus-and-we/1200x800.jpg?1417045178
+  image_social: https://api-assets.life.church/series/jesus-and-we/400x400.jpg?1417045056
+  image_banner_archive: https://api-assets.life.church/series/jesus-and-we/1500x340.jpg?1417045298
+  image_banner_archive_2x: https://api-assets.life.church/series/jesus-and-we/3000x680.jpg?1417045254
+  image_banner_archive_small: https://api-assets.life.church/series/jesus-and-we/480x340.jpg?1417045499
+  image_banner_archive_small_2x: https://api-assets.life.church/series/jesus-and-we/960x680.jpg?1417045587
   messages:
   - title: Anything Short of Sin
     headline: ''
@@ -1965,14 +1965,14 @@
     name: Chris Beall
     created_at: '2014-06-11T15:49:00.818-05:00'
     updated_at: '2014-06-11T15:49:00.818-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/first-things-first/300x200.jpg?1438378202
-  image_medium: http://api-assets.lifechurch.tv/series/first-things-first/600x400.jpg?1438378222
-  image_large: http://api-assets.lifechurch.tv/series/first-things-first/1200x800.jpg?1438378249
-  image_social: http://api-assets.lifechurch.tv/series/first-things-first/400x400.jpg?1438378333
-  image_banner_archive: http://api-assets.lifechurch.tv/series/first-things-first/1500x340.jpg?1438378456
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/first-things-first/3000x680.jpg?1438378385
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/first-things-first/480x340.jpg?1438378514
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/first-things-first/960x680.jpg?1438378541
+  image_small: https://api-assets.life.church/series/first-things-first/300x200.jpg?1438378202
+  image_medium: https://api-assets.life.church/series/first-things-first/600x400.jpg?1438378222
+  image_large: https://api-assets.life.church/series/first-things-first/1200x800.jpg?1438378249
+  image_social: https://api-assets.life.church/series/first-things-first/400x400.jpg?1438378333
+  image_banner_archive: https://api-assets.life.church/series/first-things-first/1500x340.jpg?1438378456
+  image_banner_archive_2x: https://api-assets.life.church/series/first-things-first/3000x680.jpg?1438378385
+  image_banner_archive_small: https://api-assets.life.church/series/first-things-first/480x340.jpg?1438378514
+  image_banner_archive_small_2x: https://api-assets.life.church/series/first-things-first/960x680.jpg?1438378541
   messages:
   - title: First Things First
     headline: ''
@@ -2008,14 +2008,14 @@
     name: Christmas
     created_at: '2015-10-20T19:18:40.447-05:00'
     updated_at: '2015-10-20T19:18:40.447-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/come-to-worship/300x200.jpg?1416544549
-  image_medium: http://api-assets.lifechurch.tv/series/come-to-worship/600x400.jpg?1416544570
-  image_large: http://api-assets.lifechurch.tv/series/come-to-worship/1200x800.jpg?1416544601
-  image_social: http://api-assets.lifechurch.tv/series/come-to-worship/400x400.jpg?1416544630
-  image_banner_archive: http://api-assets.lifechurch.tv/series/come-to-worship/1500x340.jpg?1416544671
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/come-to-worship/3000x680.jpg?1416544652
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/come-to-worship/480x340.jpg?1416544695
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/come-to-worship/960x680.jpg?1416544720
+  image_small: https://api-assets.life.church/series/come-to-worship/300x200.jpg?1416544549
+  image_medium: https://api-assets.life.church/series/come-to-worship/600x400.jpg?1416544570
+  image_large: https://api-assets.life.church/series/come-to-worship/1200x800.jpg?1416544601
+  image_social: https://api-assets.life.church/series/come-to-worship/400x400.jpg?1416544630
+  image_banner_archive: https://api-assets.life.church/series/come-to-worship/1500x340.jpg?1416544671
+  image_banner_archive_2x: https://api-assets.life.church/series/come-to-worship/3000x680.jpg?1416544652
+  image_banner_archive_small: https://api-assets.life.church/series/come-to-worship/480x340.jpg?1416544695
+  image_banner_archive_small_2x: https://api-assets.life.church/series/come-to-worship/960x680.jpg?1416544720
   messages:
   - title: Bow Your Knees
     headline: ''
@@ -2063,14 +2063,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991-05:00'
     updated_at: '2014-06-11T15:48:49.991-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/unlikely/300x200.jpg?1438379006
-  image_medium: http://api-assets.lifechurch.tv/series/unlikely/600x400.jpg?1438379026
-  image_large: http://api-assets.lifechurch.tv/series/unlikely/1200x800.jpg?1438379089
-  image_social: http://api-assets.lifechurch.tv/series/unlikely/400x400.jpg?1438379199
-  image_banner_archive: http://api-assets.lifechurch.tv/series/unlikely/1500x340.jpg?1438379300
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/unlikely/3000x680.jpg?1438379246
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/unlikely/480x340.jpg?1438379322
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/unlikely/960x680.jpg?1438379341
+  image_small: https://api-assets.life.church/series/unlikely/300x200.jpg?1438379006
+  image_medium: https://api-assets.life.church/series/unlikely/600x400.jpg?1438379026
+  image_large: https://api-assets.life.church/series/unlikely/1200x800.jpg?1438379089
+  image_social: https://api-assets.life.church/series/unlikely/400x400.jpg?1438379199
+  image_banner_archive: https://api-assets.life.church/series/unlikely/1500x340.jpg?1438379300
+  image_banner_archive_2x: https://api-assets.life.church/series/unlikely/3000x680.jpg?1438379246
+  image_banner_archive_small: https://api-assets.life.church/series/unlikely/480x340.jpg?1438379322
+  image_banner_archive_small_2x: https://api-assets.life.church/series/unlikely/960x680.jpg?1438379341
   messages:
   - title: The Story Of Mephibosheth
     headline: ''
@@ -2103,14 +2103,14 @@
     name: Dating
     created_at: '2014-06-11T15:14:52.700-05:00'
     updated_at: '2014-06-11T15:14:52.700-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/love-song/300x200.jpg?1413248455
-  image_medium: http://api-assets.lifechurch.tv/series/love-song/600x400.jpg?1413248483
-  image_large: http://api-assets.lifechurch.tv/series/love-song/1200x800.jpg?1413248508
-  image_social: http://api-assets.lifechurch.tv/series/love-song/400x400.jpg?1413249026
-  image_banner_archive: http://api-assets.lifechurch.tv/series/love-song/1500x340.jpg?1413249071
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love-song/3000x680.jpg?1413249048
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/love-song/480x340.jpg?1413249100
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love-song/960x680.jpg?1413249147
+  image_small: https://api-assets.life.church/series/love-song/300x200.jpg?1413248455
+  image_medium: https://api-assets.life.church/series/love-song/600x400.jpg?1413248483
+  image_large: https://api-assets.life.church/series/love-song/1200x800.jpg?1413248508
+  image_social: https://api-assets.life.church/series/love-song/400x400.jpg?1413249026
+  image_banner_archive: https://api-assets.life.church/series/love-song/1500x340.jpg?1413249071
+  image_banner_archive_2x: https://api-assets.life.church/series/love-song/3000x680.jpg?1413249048
+  image_banner_archive_small: https://api-assets.life.church/series/love-song/480x340.jpg?1413249100
+  image_banner_archive_small_2x: https://api-assets.life.church/series/love-song/960x680.jpg?1413249147
   messages:
   - title: Love In Action
     headline: ''
@@ -2179,14 +2179,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/struggles/300x200.jpg?1410225282
-  image_medium: http://api-assets.lifechurch.tv/series/struggles/600x400.jpg?1410225346
-  image_large: http://api-assets.lifechurch.tv/series/struggles/1200x800.jpg?1410225407
-  image_social: http://api-assets.lifechurch.tv/series/struggles/400x400.jpg?1410494333
-  image_banner_archive: http://api-assets.lifechurch.tv/series/struggles/1500x340.jpg?1412728466
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/struggles/3000x680.jpeg?1409884971
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/struggles/480x340.jpg?1409358722
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/struggles/960x680.jpg?1409358737
+  image_small: https://api-assets.life.church/series/struggles/300x200.jpg?1410225282
+  image_medium: https://api-assets.life.church/series/struggles/600x400.jpg?1410225346
+  image_large: https://api-assets.life.church/series/struggles/1200x800.jpg?1410225407
+  image_social: https://api-assets.life.church/series/struggles/400x400.jpg?1410494333
+  image_banner_archive: https://api-assets.life.church/series/struggles/1500x340.jpg?1412728466
+  image_banner_archive_2x: https://api-assets.life.church/series/struggles/3000x680.jpeg?1409884971
+  image_banner_archive_small: https://api-assets.life.church/series/struggles/480x340.jpg?1409358722
+  image_banner_archive_small_2x: https://api-assets.life.church/series/struggles/960x680.jpg?1409358737
   messages:
   - title: Rest
     headline: ''
@@ -2238,14 +2238,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/stand/300x200.jpg?1405384982
-  image_medium: http://api-assets.lifechurch.tv/series/stand/600x400.jpg?1405385007
-  image_large: http://api-assets.lifechurch.tv/series/stand/1200x800.jpg?1405385040
-  image_social: http://api-assets.lifechurch.tv/series/stand/400x400.jpg?1404952723
-  image_banner_archive: http://api-assets.lifechurch.tv/series/stand/1500x340.jpg?1406583165
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/stand/3000x680.jpg?1406583130
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/stand/480x340.jpg?1406583187
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/stand/960x680.jpg?1406583217
+  image_small: https://api-assets.life.church/series/stand/300x200.jpg?1405384982
+  image_medium: https://api-assets.life.church/series/stand/600x400.jpg?1405385007
+  image_large: https://api-assets.life.church/series/stand/1200x800.jpg?1405385040
+  image_social: https://api-assets.life.church/series/stand/400x400.jpg?1404952723
+  image_banner_archive: https://api-assets.life.church/series/stand/1500x340.jpg?1406583165
+  image_banner_archive_2x: https://api-assets.life.church/series/stand/3000x680.jpg?1406583130
+  image_banner_archive_small: https://api-assets.life.church/series/stand/480x340.jpg?1406583187
+  image_banner_archive_small_2x: https://api-assets.life.church/series/stand/960x680.jpg?1406583217
   messages:
   - title: Standing Firm in the Fire
     headline: ''
@@ -2289,14 +2289,14 @@
     name: Judah Smith
     created_at: '2014-06-11T15:48:39.506-05:00'
     updated_at: '2014-06-11T15:48:39.506-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/love/300x200.jpg?1402951720
-  image_medium: http://api-assets.lifechurch.tv/series/love/600x400.jpg?1402951753
-  image_large: http://api-assets.lifechurch.tv/series/love/1200x800.jpg?1402951772
-  image_social: http://api-assets.lifechurch.tv/series/love/400x400.jpg?1401915347
-  image_banner_archive: http://api-assets.lifechurch.tv/series/love/1500x340.jpg?1403294290
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love/3000x680.jpg?1403294266
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/love/480x340.jpg?1403294311
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love/960x680.jpg?1403294336
+  image_small: https://api-assets.life.church/series/love/300x200.jpg?1402951720
+  image_medium: https://api-assets.life.church/series/love/600x400.jpg?1402951753
+  image_large: https://api-assets.life.church/series/love/1200x800.jpg?1402951772
+  image_social: https://api-assets.life.church/series/love/400x400.jpg?1401915347
+  image_banner_archive: https://api-assets.life.church/series/love/1500x340.jpg?1403294290
+  image_banner_archive_2x: https://api-assets.life.church/series/love/3000x680.jpg?1403294266
+  image_banner_archive_small: https://api-assets.life.church/series/love/480x340.jpg?1403294311
+  image_banner_archive_small_2x: https://api-assets.life.church/series/love/960x680.jpg?1403294336
   messages:
   - title: Wasted Love
     headline: ''
@@ -2329,14 +2329,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991-05:00'
     updated_at: '2014-06-11T15:48:49.991-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/puzzled/300x200.jpg?1401825842
-  image_medium: http://api-assets.lifechurch.tv/series/puzzled/600x400.jpg?1401825867
-  image_large: http://api-assets.lifechurch.tv/series/puzzled/1200x800.jpg?1401825892
-  image_social: http://api-assets.lifechurch.tv/series/puzzled/400x400.jpg?1400703700
-  image_banner_archive: http://api-assets.lifechurch.tv/series/puzzled/1500x340.jpg?1401930178
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/puzzled/3000x680.jpg?1401930148
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/puzzled/480x340.jpg?1401930237
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/puzzled/960x680.jpg?1401930263
+  image_small: https://api-assets.life.church/series/puzzled/300x200.jpg?1401825842
+  image_medium: https://api-assets.life.church/series/puzzled/600x400.jpg?1401825867
+  image_large: https://api-assets.life.church/series/puzzled/1200x800.jpg?1401825892
+  image_social: https://api-assets.life.church/series/puzzled/400x400.jpg?1400703700
+  image_banner_archive: https://api-assets.life.church/series/puzzled/1500x340.jpg?1401930178
+  image_banner_archive_2x: https://api-assets.life.church/series/puzzled/3000x680.jpg?1401930148
+  image_banner_archive_small: https://api-assets.life.church/series/puzzled/480x340.jpg?1401930237
+  image_banner_archive_small_2x: https://api-assets.life.church/series/puzzled/960x680.jpg?1401930263
   messages:
   - title: Week 2
     headline: ''
@@ -2372,14 +2372,14 @@
     name: Carl Lentz
     created_at: '2014-06-11T16:14:48.792-05:00'
     updated_at: '2014-06-11T16:14:48.792-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/in-the-fire/300x200.jpg?1400190764
-  image_medium: http://api-assets.lifechurch.tv/series/in-the-fire/600x400.jpg?1400190786
-  image_large: http://api-assets.lifechurch.tv/series/in-the-fire/1200x800.jpg?1400190809
-  image_social: http://api-assets.lifechurch.tv/series/in-the-fire/400x400.jpg?1399424210
-  image_banner_archive: http://api-assets.lifechurch.tv/series/in-the-fire/1500x340.jpg?1401737755
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/in-the-fire/3000x680.jpg?1401737809
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/in-the-fire/480x340.jpg?1400882055
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/in-the-fire/960x680.jpg?1400882098
+  image_small: https://api-assets.life.church/series/in-the-fire/300x200.jpg?1400190764
+  image_medium: https://api-assets.life.church/series/in-the-fire/600x400.jpg?1400190786
+  image_large: https://api-assets.life.church/series/in-the-fire/1200x800.jpg?1400190809
+  image_social: https://api-assets.life.church/series/in-the-fire/400x400.jpg?1399424210
+  image_banner_archive: https://api-assets.life.church/series/in-the-fire/1500x340.jpg?1401737755
+  image_banner_archive_2x: https://api-assets.life.church/series/in-the-fire/3000x680.jpg?1401737809
+  image_banner_archive_small: https://api-assets.life.church/series/in-the-fire/480x340.jpg?1400882055
+  image_banner_archive_small_2x: https://api-assets.life.church/series/in-the-fire/960x680.jpg?1400882098
   messages:
   - title: A Problem Called Praise
     headline: ''
@@ -2411,14 +2411,14 @@
     name: Family
     created_at: '2014-06-05T19:32:01.499-05:00'
     updated_at: '2014-06-05T19:32:01.499-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/outlasters/300x200.jpg?1398115251
-  image_medium: http://api-assets.lifechurch.tv/series/outlasters/600x400.jpg?1398115230
-  image_large: http://api-assets.lifechurch.tv/series/outlasters/1200x800.jpg?1398115208
-  image_social: http://api-assets.lifechurch.tv/series/outlasters/400x400.jpg?1397696033
-  image_banner_archive: http://api-assets.lifechurch.tv/series/outlasters/1500x340.jpg?1400889741
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/outlasters/3000x680.jpg?1400889718
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/outlasters/480x340.jpg?1400889764
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/outlasters/960x680.jpg?1400889800
+  image_small: https://api-assets.life.church/series/outlasters/300x200.jpg?1398115251
+  image_medium: https://api-assets.life.church/series/outlasters/600x400.jpg?1398115230
+  image_large: https://api-assets.life.church/series/outlasters/1200x800.jpg?1398115208
+  image_social: https://api-assets.life.church/series/outlasters/400x400.jpg?1397696033
+  image_banner_archive: https://api-assets.life.church/series/outlasters/1500x340.jpg?1400889741
+  image_banner_archive_2x: https://api-assets.life.church/series/outlasters/3000x680.jpg?1400889718
+  image_banner_archive_small: https://api-assets.life.church/series/outlasters/480x340.jpg?1400889764
+  image_banner_archive_small_2x: https://api-assets.life.church/series/outlasters/960x680.jpg?1400889800
   messages:
   - title: Intentional Giving
     headline: ''
@@ -2459,14 +2459,14 @@
     name: Feelings
     created_at: '2014-06-11T15:20:16.022-05:00'
     updated_at: '2014-06-11T15:20:16.022-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-counselor/300x200.jpg?1396308251
-  image_medium: http://api-assets.lifechurch.tv/series/the-counselor/600x400.jpg?1396314632
-  image_large: http://api-assets.lifechurch.tv/series/the-counselor/1200x800.jpg?1396308667
-  image_social: http://api-assets.lifechurch.tv/series/the-counselor/400x400.jpg?1396308604
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-counselor/1500x340.jpg?1400891092
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-counselor/3000x680.jpg?1400891070
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-counselor/480x340.jpg?1400891118
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-counselor/960x680.jpg?1400891134
+  image_small: https://api-assets.life.church/series/the-counselor/300x200.jpg?1396308251
+  image_medium: https://api-assets.life.church/series/the-counselor/600x400.jpg?1396314632
+  image_large: https://api-assets.life.church/series/the-counselor/1200x800.jpg?1396308667
+  image_social: https://api-assets.life.church/series/the-counselor/400x400.jpg?1396308604
+  image_banner_archive: https://api-assets.life.church/series/the-counselor/1500x340.jpg?1400891092
+  image_banner_archive_2x: https://api-assets.life.church/series/the-counselor/3000x680.jpg?1400891070
+  image_banner_archive_small: https://api-assets.life.church/series/the-counselor/480x340.jpg?1400891118
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-counselor/960x680.jpg?1400891134
   messages:
   - title: Why Do You Doubt?
     headline: ''
@@ -2502,14 +2502,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086-05:00'
     updated_at: '2014-06-11T15:21:10.086-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-artisan-soul/300x200.jpg?1396061492
-  image_medium: http://api-assets.lifechurch.tv/series/the-artisan-soul/600x400.jpg?1396061573
-  image_large: http://api-assets.lifechurch.tv/series/the-artisan-soul/1200x800.jpg?1396061604
-  image_social: http://api-assets.lifechurch.tv/series/the-artisan-soul/400x400.jpg?1395105834
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-artisan-soul/1500x340.jpg?1400890966
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-artisan-soul/3000x680.jpg?1400890948
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-artisan-soul/480x340.jpg?1400890984
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-artisan-soul/960x680.jpg?1400891009
+  image_small: https://api-assets.life.church/series/the-artisan-soul/300x200.jpg?1396061492
+  image_medium: https://api-assets.life.church/series/the-artisan-soul/600x400.jpg?1396061573
+  image_large: https://api-assets.life.church/series/the-artisan-soul/1200x800.jpg?1396061604
+  image_social: https://api-assets.life.church/series/the-artisan-soul/400x400.jpg?1395105834
+  image_banner_archive: https://api-assets.life.church/series/the-artisan-soul/1500x340.jpg?1400890966
+  image_banner_archive_2x: https://api-assets.life.church/series/the-artisan-soul/3000x680.jpg?1400890948
+  image_banner_archive_small: https://api-assets.life.church/series/the-artisan-soul/480x340.jpg?1400890984
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-artisan-soul/960x680.jpg?1400891009
   messages:
   - title: Part 2
     headline: ''
@@ -2537,14 +2537,14 @@
     name: Disciplines
     created_at: '2014-06-11T15:23:03.968-05:00'
     updated_at: '2014-06-11T15:23:03.968-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/small-things/300x200.jpg?1396060267
-  image_medium: http://api-assets.lifechurch.tv/series/small-things/600x400.jpg?1396060312
-  image_large: http://api-assets.lifechurch.tv/series/small-things/1200x800.jpg?1396060380
-  image_social: http://api-assets.lifechurch.tv/series/small-things/400x400.jpg?1393387344
-  image_banner_archive: http://api-assets.lifechurch.tv/series/small-things/1500x340.jpg?1400890813
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/small-things/3000x680.jpg?1400890791
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/small-things/480x340.jpg?1400890847
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/small-things/960x680.jpg?1400890868
+  image_small: https://api-assets.life.church/series/small-things/300x200.jpg?1396060267
+  image_medium: https://api-assets.life.church/series/small-things/600x400.jpg?1396060312
+  image_large: https://api-assets.life.church/series/small-things/1200x800.jpg?1396060380
+  image_social: https://api-assets.life.church/series/small-things/400x400.jpg?1393387344
+  image_banner_archive: https://api-assets.life.church/series/small-things/1500x340.jpg?1400890813
+  image_banner_archive_2x: https://api-assets.life.church/series/small-things/3000x680.jpg?1400890791
+  image_banner_archive_small: https://api-assets.life.church/series/small-things/480x340.jpg?1400890847
+  image_banner_archive_small_2x: https://api-assets.life.church/series/small-things/960x680.jpg?1400890868
   messages:
   - title: Your Habits
     headline: ''
@@ -2584,14 +2584,14 @@
     name: Christine Caine
     created_at: '2014-06-11T15:27:08.231-05:00'
     updated_at: '2014-06-11T15:27:08.231-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/maker-of-miracles/300x200.jpg?1438649869
-  image_medium: http://api-assets.lifechurch.tv/series/maker-of-miracles/600x400.jpg?1438649897
-  image_large: http://api-assets.lifechurch.tv/series/maker-of-miracles/1200x800.jpg?1438649936
-  image_social: http://api-assets.lifechurch.tv/series/maker-of-miracles/400x400.jpg?1393388408
-  image_banner_archive: http://api-assets.lifechurch.tv/series/maker-of-miracles/1500x340.jpg?1438650036
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/maker-of-miracles/3000x680.jpg?1438650006
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/maker-of-miracles/480x340.jpg?1438650089
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/maker-of-miracles/960x680.jpg?1438650133
+  image_small: https://api-assets.life.church/series/maker-of-miracles/300x200.jpg?1438649869
+  image_medium: https://api-assets.life.church/series/maker-of-miracles/600x400.jpg?1438649897
+  image_large: https://api-assets.life.church/series/maker-of-miracles/1200x800.jpg?1438649936
+  image_social: https://api-assets.life.church/series/maker-of-miracles/400x400.jpg?1393388408
+  image_banner_archive: https://api-assets.life.church/series/maker-of-miracles/1500x340.jpg?1438650036
+  image_banner_archive_2x: https://api-assets.life.church/series/maker-of-miracles/3000x680.jpg?1438650006
+  image_banner_archive_small: https://api-assets.life.church/series/maker-of-miracles/480x340.jpg?1438650089
+  image_banner_archive_small_2x: https://api-assets.life.church/series/maker-of-miracles/960x680.jpg?1438650133
   messages:
   - title: Christine Caine - Maker of Miracles
     headline: ''
@@ -2622,14 +2622,14 @@
     name: Christmas
     created_at: '2015-10-20T19:18:40.447-05:00'
     updated_at: '2015-10-20T19:18:40.447-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/fear-not/300x200.jpg?1396060061
-  image_medium: http://api-assets.lifechurch.tv/series/fear-not/600x400.jpg?1396060126
-  image_large: http://api-assets.lifechurch.tv/series/fear-not/1200x800.jpg?1396060178
-  image_social: http://api-assets.lifechurch.tv/series/fear-not/400x400.jpg?1393371404
-  image_banner_archive: http://api-assets.lifechurch.tv/series/fear-not/1500x340.jpg?1400892181
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/fear-not/3000x680.jpg?1400892163
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/fear-not/480x340.jpg?1400892286
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/fear-not/960x680.jpg?1400892307
+  image_small: https://api-assets.life.church/series/fear-not/300x200.jpg?1396060061
+  image_medium: https://api-assets.life.church/series/fear-not/600x400.jpg?1396060126
+  image_large: https://api-assets.life.church/series/fear-not/1200x800.jpg?1396060178
+  image_social: https://api-assets.life.church/series/fear-not/400x400.jpg?1393371404
+  image_banner_archive: https://api-assets.life.church/series/fear-not/1500x340.jpg?1400892181
+  image_banner_archive_2x: https://api-assets.life.church/series/fear-not/3000x680.jpg?1400892163
+  image_banner_archive_small: https://api-assets.life.church/series/fear-not/480x340.jpg?1400892286
+  image_banner_archive_small_2x: https://api-assets.life.church/series/fear-not/960x680.jpg?1400892307
   messages:
   - title: Fear of Where You Stand with God
     headline: ''
@@ -2669,14 +2669,14 @@
     name: Carl Lentz
     created_at: '2014-06-11T16:14:48.792-05:00'
     updated_at: '2014-06-11T16:14:48.792-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/growing-spiritually/300x200.jpg?1438380767
-  image_medium: http://api-assets.lifechurch.tv/series/growing-spiritually/600x400.jpg?1438380797
-  image_large: http://api-assets.lifechurch.tv/series/growing-spiritually/1200x800.jpg?1438380835
-  image_social: http://api-assets.lifechurch.tv/series/growing-spiritually/400x400.jpg?1393388468
-  image_banner_archive: http://api-assets.lifechurch.tv/series/growing-spiritually/1500x340.jpg?1438381089
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/growing-spiritually/3000x680.jpg?1438381040
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/growing-spiritually/480x340.jpg?1438381129
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/growing-spiritually/960x680.jpg?1438381168
+  image_small: https://api-assets.life.church/series/growing-spiritually/300x200.jpg?1438380767
+  image_medium: https://api-assets.life.church/series/growing-spiritually/600x400.jpg?1438380797
+  image_large: https://api-assets.life.church/series/growing-spiritually/1200x800.jpg?1438380835
+  image_social: https://api-assets.life.church/series/growing-spiritually/400x400.jpg?1393388468
+  image_banner_archive: https://api-assets.life.church/series/growing-spiritually/1500x340.jpg?1438381089
+  image_banner_archive_2x: https://api-assets.life.church/series/growing-spiritually/3000x680.jpg?1438381040
+  image_banner_archive_small: https://api-assets.life.church/series/growing-spiritually/480x340.jpg?1438381129
+  image_banner_archive_small_2x: https://api-assets.life.church/series/growing-spiritually/960x680.jpg?1438381168
   messages:
   - title: Growing Spiritually
     headline: ''
@@ -2700,14 +2700,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/necessary-sins/300x200.jpg?1396059700
-  image_medium: http://api-assets.lifechurch.tv/series/necessary-sins/600x400.jpg?1396059749
-  image_large: http://api-assets.lifechurch.tv/series/necessary-sins/1200x800.jpg?1396059777
-  image_social: http://api-assets.lifechurch.tv/series/necessary-sins/400x400.jpg?1393371834
-  image_banner_archive: http://api-assets.lifechurch.tv/series/necessary-sins/1500x340.jpg?1400893321
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/necessary-sins/3000x680.jpg?1400893292
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/necessary-sins/480x340.jpg?1400893359
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/necessary-sins/960x680.jpg?1400893411
+  image_small: https://api-assets.life.church/series/necessary-sins/300x200.jpg?1396059700
+  image_medium: https://api-assets.life.church/series/necessary-sins/600x400.jpg?1396059749
+  image_large: https://api-assets.life.church/series/necessary-sins/1200x800.jpg?1396059777
+  image_social: https://api-assets.life.church/series/necessary-sins/400x400.jpg?1393371834
+  image_banner_archive: https://api-assets.life.church/series/necessary-sins/1500x340.jpg?1400893321
+  image_banner_archive_2x: https://api-assets.life.church/series/necessary-sins/3000x680.jpg?1400893292
+  image_banner_archive_small: https://api-assets.life.church/series/necessary-sins/480x340.jpg?1400893359
+  image_banner_archive_small_2x: https://api-assets.life.church/series/necessary-sins/960x680.jpg?1400893411
   messages:
   - title: Anger
     headline: ''
@@ -2746,14 +2746,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/fight/300x200.jpg?1396059413
-  image_medium: http://api-assets.lifechurch.tv/series/fight/600x400.jpg?1396059470
-  image_large: http://api-assets.lifechurch.tv/series/fight/1200x800.jpg?1396059534
-  image_social: http://api-assets.lifechurch.tv/series/fight/400x400.jpg?1393387372
-  image_banner_archive: http://api-assets.lifechurch.tv/series/fight/1500x340.jpg?1400892421
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/fight/3000x680.jpg?1400892444
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/fight/480x340.jpg?1400892483
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/fight/960x680.jpg?1400892509
+  image_small: https://api-assets.life.church/series/fight/300x200.jpg?1396059413
+  image_medium: https://api-assets.life.church/series/fight/600x400.jpg?1396059470
+  image_large: https://api-assets.life.church/series/fight/1200x800.jpg?1396059534
+  image_social: https://api-assets.life.church/series/fight/400x400.jpg?1393387372
+  image_banner_archive: https://api-assets.life.church/series/fight/1500x340.jpg?1400892421
+  image_banner_archive_2x: https://api-assets.life.church/series/fight/3000x680.jpg?1400892444
+  image_banner_archive_small: https://api-assets.life.church/series/fight/480x340.jpg?1400892483
+  image_banner_archive_small_2x: https://api-assets.life.church/series/fight/960x680.jpg?1400892509
   messages:
   - title: Fight
     headline: ''
@@ -2780,14 +2780,14 @@
     name: Robert Morris
     created_at: '2014-06-11T15:49:13.579-05:00'
     updated_at: '2014-06-11T15:49:13.579-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/multiply-2013/300x200.jpg?1396059297
-  image_medium: http://api-assets.lifechurch.tv/series/multiply-2013/600x400.jpg?1396059347
-  image_large: http://api-assets.lifechurch.tv/series/multiply-2013/1200x800.jpg?1396059369
-  image_social: http://api-assets.lifechurch.tv/series/multiply-2013/400x400.jpg?1393387295
-  image_banner_archive: http://api-assets.lifechurch.tv/series/multiply-2013/1500x340.jpg?1400893155
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/multiply-2013/3000x680.jpg?1400893094
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/multiply-2013/480x340.jpg?1400893182
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/multiply-2013/960x680.jpg?1400893205
+  image_small: https://api-assets.life.church/series/multiply-2013/300x200.jpg?1396059297
+  image_medium: https://api-assets.life.church/series/multiply-2013/600x400.jpg?1396059347
+  image_large: https://api-assets.life.church/series/multiply-2013/1200x800.jpg?1396059369
+  image_social: https://api-assets.life.church/series/multiply-2013/400x400.jpg?1393387295
+  image_banner_archive: https://api-assets.life.church/series/multiply-2013/1500x340.jpg?1400893155
+  image_banner_archive_2x: https://api-assets.life.church/series/multiply-2013/3000x680.jpg?1400893094
+  image_banner_archive_small: https://api-assets.life.church/series/multiply-2013/480x340.jpg?1400893182
+  image_banner_archive_small_2x: https://api-assets.life.church/series/multiply-2013/960x680.jpg?1400893205
   messages:
   - title: Sowing and Reaping
     headline: ''
@@ -2819,14 +2819,14 @@
     name: Relationships
     created_at: '2014-02-03T22:38:58.852-06:00'
     updated_at: '2014-06-05T19:41:17.695-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/friending/300x200.jpg?1396058901
-  image_medium: http://api-assets.lifechurch.tv/series/friending/600x400.jpg?1396059037
-  image_large: http://api-assets.lifechurch.tv/series/friending/1200x800.jpg?1396059057
-  image_social: http://api-assets.lifechurch.tv/series/friending/400x400.jpg?1393372003
-  image_banner_archive: http://api-assets.lifechurch.tv/series/friending/1500x340.jpg?1400892609
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/friending/3000x680.jpg?1400892569
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/friending/480x340.jpg?1400892638
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/friending/960x680.jpg?1400892663
+  image_small: https://api-assets.life.church/series/friending/300x200.jpg?1396058901
+  image_medium: https://api-assets.life.church/series/friending/600x400.jpg?1396059037
+  image_large: https://api-assets.life.church/series/friending/1200x800.jpg?1396059057
+  image_social: https://api-assets.life.church/series/friending/400x400.jpg?1393372003
+  image_banner_archive: https://api-assets.life.church/series/friending/1500x340.jpg?1400892609
+  image_banner_archive_2x: https://api-assets.life.church/series/friending/3000x680.jpg?1400892569
+  image_banner_archive_small: https://api-assets.life.church/series/friending/480x340.jpg?1400892638
+  image_banner_archive_small_2x: https://api-assets.life.church/series/friending/960x680.jpg?1400892663
   messages:
   - title: Unfriending
     headline: ''
@@ -2865,14 +2865,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291-05:00'
     updated_at: '2014-06-11T15:52:33.291-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/elisha/300x200.jpg?1396057930
-  image_medium: http://api-assets.lifechurch.tv/series/elisha/600x400.jpg?1396057995
-  image_large: http://api-assets.lifechurch.tv/series/elisha/1200x800.jpg?1396058035
-  image_social: http://api-assets.lifechurch.tv/series/elisha/400x400.jpg?1393371939
-  image_banner_archive: http://api-assets.lifechurch.tv/series/elisha/1500x340.jpg?1400012393
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/elisha/3000x680.jpg?1400012440
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/elisha/480x340.jpg?1400012498
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/elisha/960x680.jpg?1400012520
+  image_small: https://api-assets.life.church/series/elisha/300x200.jpg?1396057930
+  image_medium: https://api-assets.life.church/series/elisha/600x400.jpg?1396057995
+  image_large: https://api-assets.life.church/series/elisha/1200x800.jpg?1396058035
+  image_social: https://api-assets.life.church/series/elisha/400x400.jpg?1393371939
+  image_banner_archive: https://api-assets.life.church/series/elisha/1500x340.jpg?1400012393
+  image_banner_archive_2x: https://api-assets.life.church/series/elisha/3000x680.jpg?1400012440
+  image_banner_archive_small: https://api-assets.life.church/series/elisha/480x340.jpg?1400012498
+  image_banner_archive_small_2x: https://api-assets.life.church/series/elisha/960x680.jpg?1400012520
   messages:
   - title: Ridiculous Recovery
     headline: ''
@@ -2911,14 +2911,14 @@
     name: Bobby Gruenewald
     created_at: '2014-06-11T15:28:00.582-05:00'
     updated_at: '2014-06-11T15:28:00.582-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/just-getting-started/300x200.jpg?1396056955
-  image_medium: http://api-assets.lifechurch.tv/series/just-getting-started/600x400.jpg?1396057010
-  image_large: http://api-assets.lifechurch.tv/series/just-getting-started/1200x800.jpg?1396057033
-  image_social: http://api-assets.lifechurch.tv/series/just-getting-started/400x400.jpg?1396056984
-  image_banner_archive: http://api-assets.lifechurch.tv/series/just-getting-started/1500x340.jpg?1400892929
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/just-getting-started/3000x680.jpg?1400892893
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/just-getting-started/480x340.jpg?1400892987
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/just-getting-started/960x680.jpg?1400893028
+  image_small: https://api-assets.life.church/series/just-getting-started/300x200.jpg?1396056955
+  image_medium: https://api-assets.life.church/series/just-getting-started/600x400.jpg?1396057010
+  image_large: https://api-assets.life.church/series/just-getting-started/1200x800.jpg?1396057033
+  image_social: https://api-assets.life.church/series/just-getting-started/400x400.jpg?1396056984
+  image_banner_archive: https://api-assets.life.church/series/just-getting-started/1500x340.jpg?1400892929
+  image_banner_archive_2x: https://api-assets.life.church/series/just-getting-started/3000x680.jpg?1400892893
+  image_banner_archive_small: https://api-assets.life.church/series/just-getting-started/480x340.jpg?1400892987
+  image_banner_archive_small_2x: https://api-assets.life.church/series/just-getting-started/960x680.jpg?1400893028
   messages:
   - title: Just Getting Started
     headline: ''
@@ -2941,14 +2941,14 @@
     name: Family
     created_at: '2014-06-05T19:32:01.499-05:00'
     updated_at: '2014-06-05T19:32:01.499-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/bless-this-home/300x200.jpg?1396056303
-  image_medium: http://api-assets.lifechurch.tv/series/bless-this-home/600x400.jpg?1396056350
-  image_large: http://api-assets.lifechurch.tv/series/bless-this-home/1200x800.jpg?1396056377
-  image_social: http://api-assets.lifechurch.tv/series/bless-this-home/400x400.jpg?1396056323
-  image_banner_archive: http://api-assets.lifechurch.tv/series/bless-this-home/1500x340.jpg?1400892039
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/bless-this-home/3000x680.jpg?1400891999
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/bless-this-home/480x340.jpg?1400892060
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/bless-this-home/960x680.jpg?1400892078
+  image_small: https://api-assets.life.church/series/bless-this-home/300x200.jpg?1396056303
+  image_medium: https://api-assets.life.church/series/bless-this-home/600x400.jpg?1396056350
+  image_large: https://api-assets.life.church/series/bless-this-home/1200x800.jpg?1396056377
+  image_social: https://api-assets.life.church/series/bless-this-home/400x400.jpg?1396056323
+  image_banner_archive: https://api-assets.life.church/series/bless-this-home/1500x340.jpg?1400892039
+  image_banner_archive_2x: https://api-assets.life.church/series/bless-this-home/3000x680.jpg?1400891999
+  image_banner_archive_small: https://api-assets.life.church/series/bless-this-home/480x340.jpg?1400892060
+  image_banner_archive_small_2x: https://api-assets.life.church/series/bless-this-home/960x680.jpg?1400892078
   messages:
   - title: Persecuted
     headline: ''
@@ -2987,14 +2987,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086-05:00'
     updated_at: '2014-06-11T15:21:10.086-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/new/300x200.jpg?1396055280
-  image_medium: http://api-assets.lifechurch.tv/series/new/600x400.jpg?1396055336
-  image_large: http://api-assets.lifechurch.tv/series/new/1200x800.jpg?1396055368
-  image_social: http://api-assets.lifechurch.tv/series/new/400x400.jpg?1396055299
-  image_banner_archive: http://api-assets.lifechurch.tv/series/new/1500x340.jpg?1400893492
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/new/3000x680.jpg?1400893470
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/new/480x340.jpg?1400893512
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/new/960x680.jpg?1400893535
+  image_small: https://api-assets.life.church/series/new/300x200.jpg?1396055280
+  image_medium: https://api-assets.life.church/series/new/600x400.jpg?1396055336
+  image_large: https://api-assets.life.church/series/new/1200x800.jpg?1396055368
+  image_social: https://api-assets.life.church/series/new/400x400.jpg?1396055299
+  image_banner_archive: https://api-assets.life.church/series/new/1500x340.jpg?1400893492
+  image_banner_archive_2x: https://api-assets.life.church/series/new/3000x680.jpg?1400893470
+  image_banner_archive_small: https://api-assets.life.church/series/new/480x340.jpg?1400893512
+  image_banner_archive_small_2x: https://api-assets.life.church/series/new/960x680.jpg?1400893535
   messages:
   - title: New From Old - Week 3
     headline: ''
@@ -3026,14 +3026,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086-05:00'
     updated_at: '2014-06-11T15:21:10.086-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/altar-ego/300x200.jpg?1396054237
-  image_medium: http://api-assets.lifechurch.tv/series/altar-ego/600x400.jpg?1396054279
-  image_large: http://api-assets.lifechurch.tv/series/altar-ego/1200x800.jpg?1396054298
-  image_social: http://api-assets.lifechurch.tv/series/altar-ego/400x400.jpg?1396054259
-  image_banner_archive: http://api-assets.lifechurch.tv/series/altar-ego/1500x340.jpg?1398888819
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/altar-ego/3000x680.jpg?1398888801
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/altar-ego/480x340.jpg?1398908218
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/altar-ego/960x680.jpg?1398908255
+  image_small: https://api-assets.life.church/series/altar-ego/300x200.jpg?1396054237
+  image_medium: https://api-assets.life.church/series/altar-ego/600x400.jpg?1396054279
+  image_large: https://api-assets.life.church/series/altar-ego/1200x800.jpg?1396054298
+  image_social: https://api-assets.life.church/series/altar-ego/400x400.jpg?1396054259
+  image_banner_archive: https://api-assets.life.church/series/altar-ego/1500x340.jpg?1398888819
+  image_banner_archive_2x: https://api-assets.life.church/series/altar-ego/3000x680.jpg?1398888801
+  image_banner_archive_small: https://api-assets.life.church/series/altar-ego/480x340.jpg?1398908218
+  image_banner_archive_small_2x: https://api-assets.life.church/series/altar-ego/960x680.jpg?1398908255
   messages:
   - title: My Longing For Approval
     headline: ''
@@ -3076,14 +3076,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291-05:00'
     updated_at: '2014-06-11T15:52:33.291-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/lead-like-jesus/300x200.jpg?1438635235
-  image_medium: http://api-assets.lifechurch.tv/series/lead-like-jesus/600x400.jpg?1438635323
-  image_large: http://api-assets.lifechurch.tv/series/lead-like-jesus/1200x800.jpg?1438635348
-  image_social: http://api-assets.lifechurch.tv/series/lead-like-jesus/400x400.jpg?1438635391
-  image_banner_archive: http://api-assets.lifechurch.tv/series/lead-like-jesus/1500x340.jpg?1438635449
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/lead-like-jesus/3000x680.jpg?1438635420
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/lead-like-jesus/480x340.jpg?1438635476
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/lead-like-jesus/960x680.jpg?1438635508
+  image_small: https://api-assets.life.church/series/lead-like-jesus/300x200.jpg?1438635235
+  image_medium: https://api-assets.life.church/series/lead-like-jesus/600x400.jpg?1438635323
+  image_large: https://api-assets.life.church/series/lead-like-jesus/1200x800.jpg?1438635348
+  image_social: https://api-assets.life.church/series/lead-like-jesus/400x400.jpg?1438635391
+  image_banner_archive: https://api-assets.life.church/series/lead-like-jesus/1500x340.jpg?1438635449
+  image_banner_archive_2x: https://api-assets.life.church/series/lead-like-jesus/3000x680.jpg?1438635420
+  image_banner_archive_small: https://api-assets.life.church/series/lead-like-jesus/480x340.jpg?1438635476
+  image_banner_archive_small_2x: https://api-assets.life.church/series/lead-like-jesus/960x680.jpg?1438635508
   messages:
   - title: Lead Like Jesus
     headline: ''
@@ -3110,14 +3110,14 @@
     name: Supernatural
     created_at: '2014-06-11T15:52:47.494-05:00'
     updated_at: '2014-06-11T15:52:47.494-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/the-end/300x200.jpg?1396052855
-  image_medium: http://api-assets.lifechurch.tv/series/the-end/600x400.jpg?1396052937
-  image_large: http://api-assets.lifechurch.tv/series/the-end/1200x800.jpg?1396052967
-  image_social: http://api-assets.lifechurch.tv/series/the-end/400x400.jpg?1396052904
-  image_banner_archive: http://api-assets.lifechurch.tv/series/the-end/1500x340.jpg?1400016622
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/the-end/3000x680.jpg?1400016602
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/the-end/480x340.jpg?1400016669
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/the-end/960x680.jpg?1400016647
+  image_small: https://api-assets.life.church/series/the-end/300x200.jpg?1396052855
+  image_medium: https://api-assets.life.church/series/the-end/600x400.jpg?1396052937
+  image_large: https://api-assets.life.church/series/the-end/1200x800.jpg?1396052967
+  image_social: https://api-assets.life.church/series/the-end/400x400.jpg?1396052904
+  image_banner_archive: https://api-assets.life.church/series/the-end/1500x340.jpg?1400016622
+  image_banner_archive_2x: https://api-assets.life.church/series/the-end/3000x680.jpg?1400016602
+  image_banner_archive_small: https://api-assets.life.church/series/the-end/480x340.jpg?1400016669
+  image_banner_archive_small_2x: https://api-assets.life.church/series/the-end/960x680.jpg?1400016647
   messages:
   - title: Snapshots of Revelation
     headline: ''
@@ -3152,14 +3152,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991-05:00'
     updated_at: '2014-06-11T15:48:49.991-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/love-and-hate/300x200.jpg?1396052718
-  image_medium: http://api-assets.lifechurch.tv/series/love-and-hate/600x400.jpg?1396052761
-  image_large: http://api-assets.lifechurch.tv/series/love-and-hate/1200x800.jpg?1396052791
-  image_social: http://api-assets.lifechurch.tv/series/love-and-hate/400x400.jpg?1396052738
-  image_banner_archive: http://api-assets.lifechurch.tv/series/love-and-hate/1500x340.jpg?1400895311
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/love-and-hate/3000x680.jpg?1400895284
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/love-and-hate/480x340.jpg?1400895333
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/love-and-hate/960x680.jpg?1400895358
+  image_small: https://api-assets.life.church/series/love-and-hate/300x200.jpg?1396052718
+  image_medium: https://api-assets.life.church/series/love-and-hate/600x400.jpg?1396052761
+  image_large: https://api-assets.life.church/series/love-and-hate/1200x800.jpg?1396052791
+  image_social: https://api-assets.life.church/series/love-and-hate/400x400.jpg?1396052738
+  image_banner_archive: https://api-assets.life.church/series/love-and-hate/1500x340.jpg?1400895311
+  image_banner_archive_2x: https://api-assets.life.church/series/love-and-hate/3000x680.jpg?1400895284
+  image_banner_archive_small: https://api-assets.life.church/series/love-and-hate/480x340.jpg?1400895333
+  image_banner_archive_small_2x: https://api-assets.life.church/series/love-and-hate/960x680.jpg?1400895358
   messages:
   - title: Part 2
     headline: ''
@@ -3191,14 +3191,14 @@
     name: Relationships
     created_at: '2014-02-03T22:38:58.852-06:00'
     updated_at: '2014-06-05T19:41:17.695-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/from-this-day-forward/300x200.jpg?1396052418
-  image_medium: http://api-assets.lifechurch.tv/series/from-this-day-forward/600x400.jpg?1396052477
-  image_large: http://api-assets.lifechurch.tv/series/from-this-day-forward/1200x800.jpg?1396052502
-  image_social: http://api-assets.lifechurch.tv/series/from-this-day-forward/400x400.jpg?1396052447
-  image_banner_archive: http://api-assets.lifechurch.tv/series/from-this-day-forward/1500x340.jpg?1400015481
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/from-this-day-forward/3000x680.jpg?1400015366
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/from-this-day-forward/480x340.jpg?1400015608
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/from-this-day-forward/960x680.jpg?1400015538
+  image_small: https://api-assets.life.church/series/from-this-day-forward/300x200.jpg?1396052418
+  image_medium: https://api-assets.life.church/series/from-this-day-forward/600x400.jpg?1396052477
+  image_large: https://api-assets.life.church/series/from-this-day-forward/1200x800.jpg?1396052502
+  image_social: https://api-assets.life.church/series/from-this-day-forward/400x400.jpg?1396052447
+  image_banner_archive: https://api-assets.life.church/series/from-this-day-forward/1500x340.jpg?1400015481
+  image_banner_archive_2x: https://api-assets.life.church/series/from-this-day-forward/3000x680.jpg?1400015366
+  image_banner_archive_small: https://api-assets.life.church/series/from-this-day-forward/480x340.jpg?1400015608
+  image_banner_archive_small_2x: https://api-assets.life.church/series/from-this-day-forward/960x680.jpg?1400015538
   messages:
   - title: Never Give Up
     headline: ''
@@ -3242,14 +3242,14 @@
     name: Pierre du Plessis
     created_at: '2014-06-11T15:47:09.892-05:00'
     updated_at: '2014-06-11T15:47:09.892-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/more-than-dust/300x200.jpg?1438636116
-  image_medium: http://api-assets.lifechurch.tv/series/more-than-dust/600x400.jpg?1438636144
-  image_large: http://api-assets.lifechurch.tv/series/more-than-dust/1200x800.jpg?1438636174
-  image_social: http://api-assets.lifechurch.tv/series/more-than-dust/400x400.jpg?1438636197
-  image_banner_archive: http://api-assets.lifechurch.tv/series/more-than-dust/1500x340.jpg?1438636256
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/more-than-dust/3000x680.jpg?1438636231
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/more-than-dust/480x340.jpg?1438636283
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/more-than-dust/960x680.jpg?1438636302
+  image_small: https://api-assets.life.church/series/more-than-dust/300x200.jpg?1438636116
+  image_medium: https://api-assets.life.church/series/more-than-dust/600x400.jpg?1438636144
+  image_large: https://api-assets.life.church/series/more-than-dust/1200x800.jpg?1438636174
+  image_social: https://api-assets.life.church/series/more-than-dust/400x400.jpg?1438636197
+  image_banner_archive: https://api-assets.life.church/series/more-than-dust/1500x340.jpg?1438636256
+  image_banner_archive_2x: https://api-assets.life.church/series/more-than-dust/3000x680.jpg?1438636231
+  image_banner_archive_small: https://api-assets.life.church/series/more-than-dust/480x340.jpg?1438636283
+  image_banner_archive_small_2x: https://api-assets.life.church/series/more-than-dust/960x680.jpg?1438636302
   messages:
   - title: More Than Dust
     headline: ''
@@ -3276,14 +3276,14 @@
     name: Optimistic
     created_at: '2014-06-11T15:19:48.323-05:00'
     updated_at: '2014-06-11T15:19:48.323-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/perspective/300x200.jpg?1396051276
-  image_medium: http://api-assets.lifechurch.tv/series/perspective/600x400.jpg?1396051518
-  image_large: http://api-assets.lifechurch.tv/series/perspective/1200x800.jpg?1396051550
-  image_social: http://api-assets.lifechurch.tv/series/perspective/400x400.jpg?1396051442
-  image_banner_archive: http://api-assets.lifechurch.tv/series/perspective/1500x340.jpg?1400895431
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/perspective/3000x680.jpg?1400895408
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/perspective/480x340.jpg?1400895448
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/perspective/960x680.jpg?1400895471
+  image_small: https://api-assets.life.church/series/perspective/300x200.jpg?1396051276
+  image_medium: https://api-assets.life.church/series/perspective/600x400.jpg?1396051518
+  image_large: https://api-assets.life.church/series/perspective/1200x800.jpg?1396051550
+  image_social: https://api-assets.life.church/series/perspective/400x400.jpg?1396051442
+  image_banner_archive: https://api-assets.life.church/series/perspective/1500x340.jpg?1400895431
+  image_banner_archive_2x: https://api-assets.life.church/series/perspective/3000x680.jpg?1400895408
+  image_banner_archive_small: https://api-assets.life.church/series/perspective/480x340.jpg?1400895448
+  image_banner_archive_small_2x: https://api-assets.life.church/series/perspective/960x680.jpg?1400895471
   messages:
   - title: 'A Different Perspective On Worry '
     headline: ''
@@ -3322,14 +3322,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/soul-detox/300x200.jpg?1396050146
-  image_medium: http://api-assets.lifechurch.tv/series/soul-detox/600x400.jpg?1396050219
-  image_large: http://api-assets.lifechurch.tv/series/soul-detox/1200x800.jpg?1396050245
-  image_social: http://api-assets.lifechurch.tv/series/soul-detox/400x400.jpg?1396050196
-  image_banner_archive: http://api-assets.lifechurch.tv/series/soul-detox/1500x340.jpg?1400016050
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/soul-detox/3000x680.jpg?1400016026
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/soul-detox/480x340.jpg?1400016111
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/soul-detox/960x680.jpg?1400016088
+  image_small: https://api-assets.life.church/series/soul-detox/300x200.jpg?1396050146
+  image_medium: https://api-assets.life.church/series/soul-detox/600x400.jpg?1396050219
+  image_large: https://api-assets.life.church/series/soul-detox/1200x800.jpg?1396050245
+  image_social: https://api-assets.life.church/series/soul-detox/400x400.jpg?1396050196
+  image_banner_archive: https://api-assets.life.church/series/soul-detox/1500x340.jpg?1400016050
+  image_banner_archive_2x: https://api-assets.life.church/series/soul-detox/3000x680.jpg?1400016026
+  image_banner_archive_small: https://api-assets.life.church/series/soul-detox/480x340.jpg?1400016111
+  image_banner_archive_small_2x: https://api-assets.life.church/series/soul-detox/960x680.jpg?1400016088
   messages:
   - title: The Seduced Soul
     headline: ''
@@ -3369,14 +3369,14 @@
     name: Trials
     created_at: '2014-06-11T15:23:13.523-05:00'
     updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/why-2012/300x200.jpg?1396049869
-  image_medium: http://api-assets.lifechurch.tv/series/why-2012/600x400.jpg?1396049942
-  image_large: http://api-assets.lifechurch.tv/series/why-2012/1200x800.jpg?1396049995
-  image_social: http://api-assets.lifechurch.tv/series/why-2012/400x400.jpg?1396049910
-  image_banner_archive: http://api-assets.lifechurch.tv/series/why-2012/1500x340.jpg?1400895583
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/why-2012/3000x680.jpg?1400895525
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/why-2012/480x340.jpg?1400895626
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/why-2012/960x680.jpg?1400895658
+  image_small: https://api-assets.life.church/series/why-2012/300x200.jpg?1396049869
+  image_medium: https://api-assets.life.church/series/why-2012/600x400.jpg?1396049942
+  image_large: https://api-assets.life.church/series/why-2012/1200x800.jpg?1396049995
+  image_social: https://api-assets.life.church/series/why-2012/400x400.jpg?1396049910
+  image_banner_archive: https://api-assets.life.church/series/why-2012/1500x340.jpg?1400895583
+  image_banner_archive_2x: https://api-assets.life.church/series/why-2012/3000x680.jpg?1400895525
+  image_banner_archive_small: https://api-assets.life.church/series/why-2012/480x340.jpg?1400895626
+  image_banner_archive_small_2x: https://api-assets.life.church/series/why-2012/960x680.jpg?1400895658
   messages:
   - title: Why would God Use Me?
     headline: ''
@@ -3416,14 +3416,14 @@
     name: Steven Furtick
     created_at: '2014-06-11T15:35:51.030-05:00'
     updated_at: '2014-06-11T15:35:51.030-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/found-favor/300x200.jpg?1396049561
-  image_medium: http://api-assets.lifechurch.tv/series/found-favor/600x400.jpg?1396049652
-  image_large: http://api-assets.lifechurch.tv/series/found-favor/1200x800.jpg?1396049694
-  image_social: http://api-assets.lifechurch.tv/series/found-favor/400x400.jpg?1396049616
-  image_banner_archive: http://api-assets.lifechurch.tv/series/found-favor/1500x340.jpg?1400895128
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/found-favor/3000x680.jpg?1400895104
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/found-favor/480x340.jpg?1400895152
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/found-favor/960x680.jpg?1400895225
+  image_small: https://api-assets.life.church/series/found-favor/300x200.jpg?1396049561
+  image_medium: https://api-assets.life.church/series/found-favor/600x400.jpg?1396049652
+  image_large: https://api-assets.life.church/series/found-favor/1200x800.jpg?1396049694
+  image_social: https://api-assets.life.church/series/found-favor/400x400.jpg?1396049616
+  image_banner_archive: https://api-assets.life.church/series/found-favor/1500x340.jpg?1400895128
+  image_banner_archive_2x: https://api-assets.life.church/series/found-favor/3000x680.jpg?1400895104
+  image_banner_archive_small: https://api-assets.life.church/series/found-favor/480x340.jpg?1400895152
+  image_banner_archive_small_2x: https://api-assets.life.church/series/found-favor/960x680.jpg?1400895225
   messages:
   - title: Walking in the Fog
     headline: ''
@@ -3454,14 +3454,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/samson-2012/300x200.jpg?1396049079
-  image_medium: http://api-assets.lifechurch.tv/series/samson-2012/600x400.jpg?1396049139
-  image_large: http://api-assets.lifechurch.tv/series/samson-2012/1200x800.jpg?1396049170
-  image_social: http://api-assets.lifechurch.tv/series/samson-2012/400x400.jpg?1396049106
-  image_banner_archive: http://api-assets.lifechurch.tv/series/samson-2012/1500x340.jpg?1400015694
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/samson-2012/3000x680.jpg?1400015659
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/samson-2012/480x340.jpg?1400015748
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/samson-2012/960x680.jpg?1400015725
+  image_small: https://api-assets.life.church/series/samson-2012/300x200.jpg?1396049079
+  image_medium: https://api-assets.life.church/series/samson-2012/600x400.jpg?1396049139
+  image_large: https://api-assets.life.church/series/samson-2012/1200x800.jpg?1396049170
+  image_social: https://api-assets.life.church/series/samson-2012/400x400.jpg?1396049106
+  image_banner_archive: https://api-assets.life.church/series/samson-2012/1500x340.jpg?1400015694
+  image_banner_archive_2x: https://api-assets.life.church/series/samson-2012/3000x680.jpg?1400015659
+  image_banner_archive_small: https://api-assets.life.church/series/samson-2012/480x340.jpg?1400015748
+  image_banner_archive_small_2x: https://api-assets.life.church/series/samson-2012/960x680.jpg?1400015725
   messages:
   - title: Failing Forward
     headline: ''
@@ -3500,14 +3500,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991-05:00'
     updated_at: '2014-06-11T15:48:49.991-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/better/300x200.jpg?1396043667
-  image_medium: http://api-assets.lifechurch.tv/series/better/600x400.jpg?1396043751
-  image_large: http://api-assets.lifechurch.tv/series/better/1200x800.jpg?1396043777
-  image_social: http://api-assets.lifechurch.tv/series/better/400x400.jpg?1396043709
-  image_banner_archive: http://api-assets.lifechurch.tv/series/better/1500x340.jpg?1400015228
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/better/3000x680.jpg?1400015204
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/better/480x340.jpg?1400015305
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/better/960x680.jpg?1400015249
+  image_small: https://api-assets.life.church/series/better/300x200.jpg?1396043667
+  image_medium: https://api-assets.life.church/series/better/600x400.jpg?1396043751
+  image_large: https://api-assets.life.church/series/better/1200x800.jpg?1396043777
+  image_social: https://api-assets.life.church/series/better/400x400.jpg?1396043709
+  image_banner_archive: https://api-assets.life.church/series/better/1500x340.jpg?1400015228
+  image_banner_archive_2x: https://api-assets.life.church/series/better/3000x680.jpg?1400015204
+  image_banner_archive_small: https://api-assets.life.church/series/better/480x340.jpg?1400015305
+  image_banner_archive_small_2x: https://api-assets.life.church/series/better/960x680.jpg?1400015249
   messages:
   - title: Better is a Good Name
     headline: ''
@@ -3546,14 +3546,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291-05:00'
     updated_at: '2014-06-11T15:52:33.291-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/300x200.jpg?1438649314
-  image_medium: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/600x400.jpg?1438649341
-  image_large: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/1200x800.jpg?1438649366
-  image_social: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/400x400.jpg?1438649394
-  image_banner_archive: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/1500x340.jpg?1438649447
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/3000x680.jpg?1438649416
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/480x340.jpg?1438649492
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/problem-or-a-miracle/960x680.jpg?1438649544
+  image_small: https://api-assets.life.church/series/problem-or-a-miracle/300x200.jpg?1438649314
+  image_medium: https://api-assets.life.church/series/problem-or-a-miracle/600x400.jpg?1438649341
+  image_large: https://api-assets.life.church/series/problem-or-a-miracle/1200x800.jpg?1438649366
+  image_social: https://api-assets.life.church/series/problem-or-a-miracle/400x400.jpg?1438649394
+  image_banner_archive: https://api-assets.life.church/series/problem-or-a-miracle/1500x340.jpg?1438649447
+  image_banner_archive_2x: https://api-assets.life.church/series/problem-or-a-miracle/3000x680.jpg?1438649416
+  image_banner_archive_small: https://api-assets.life.church/series/problem-or-a-miracle/480x340.jpg?1438649492
+  image_banner_archive_small_2x: https://api-assets.life.church/series/problem-or-a-miracle/960x680.jpg?1438649544
   messages:
   - title: Problem or a Miracle
     headline: ''
@@ -3584,14 +3584,14 @@
     name: Christmas
     created_at: '2015-10-20T19:18:40.447-05:00'
     updated_at: '2015-10-20T19:18:40.447-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/carols/300x200.jpg?1396042882
-  image_medium: http://api-assets.lifechurch.tv/series/carols/600x400.jpg?1396042923
-  image_large: http://api-assets.lifechurch.tv/series/carols/1200x800.jpg?1396042948
-  image_social: http://api-assets.lifechurch.tv/series/carols/400x400.jpg?1396042906
-  image_banner_archive: http://api-assets.lifechurch.tv/series/carols/1500x340.jpg?1400896193
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/carols/3000x680.jpg?1400896171
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/carols/480x340.jpg?1400896212
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/carols/960x680.jpg?1400896244
+  image_small: https://api-assets.life.church/series/carols/300x200.jpg?1396042882
+  image_medium: https://api-assets.life.church/series/carols/600x400.jpg?1396042923
+  image_large: https://api-assets.life.church/series/carols/1200x800.jpg?1396042948
+  image_social: https://api-assets.life.church/series/carols/400x400.jpg?1396042906
+  image_banner_archive: https://api-assets.life.church/series/carols/1500x340.jpg?1400896193
+  image_banner_archive_2x: https://api-assets.life.church/series/carols/3000x680.jpg?1400896171
+  image_banner_archive_small: https://api-assets.life.church/series/carols/480x340.jpg?1400896212
+  image_banner_archive_small_2x: https://api-assets.life.church/series/carols/960x680.jpg?1400896244
   messages:
   - title: Emmanuel
     headline: ''
@@ -3626,14 +3626,14 @@
     name: Leadership
     created_at: '2014-06-11T15:52:33.291-05:00'
     updated_at: '2014-06-11T15:52:33.291-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/change-your-world/300x200.jpg?1396039202
-  image_medium: http://api-assets.lifechurch.tv/series/change-your-world/600x400.jpg?1396039262
-  image_large: http://api-assets.lifechurch.tv/series/change-your-world/1200x800.jpg?1396039294
-  image_social: http://api-assets.lifechurch.tv/series/change-your-world/400x400.jpg?1396039232
-  image_banner_archive: http://api-assets.lifechurch.tv/series/change-your-world/1500x340.jpg?1400896381
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/change-your-world/3000x680.jpg?1400896337
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/change-your-world/480x340.jpg?1400896406
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/change-your-world/960x680.jpg?1400896445
+  image_small: https://api-assets.life.church/series/change-your-world/300x200.jpg?1396039202
+  image_medium: https://api-assets.life.church/series/change-your-world/600x400.jpg?1396039262
+  image_large: https://api-assets.life.church/series/change-your-world/1200x800.jpg?1396039294
+  image_social: https://api-assets.life.church/series/change-your-world/400x400.jpg?1396039232
+  image_banner_archive: https://api-assets.life.church/series/change-your-world/1500x340.jpg?1400896381
+  image_banner_archive_2x: https://api-assets.life.church/series/change-your-world/3000x680.jpg?1400896337
+  image_banner_archive_small: https://api-assets.life.church/series/change-your-world/480x340.jpg?1400896406
+  image_banner_archive_small_2x: https://api-assets.life.church/series/change-your-world/960x680.jpg?1400896445
   messages:
   - title: Finishing Strong
     headline: ''
@@ -3680,14 +3680,14 @@
     name: Dave Ramsey
     created_at: '2014-06-11T15:42:22.866-05:00'
     updated_at: '2014-06-11T15:42:22.866-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/weird/300x200.jpg?1396036778
-  image_medium: http://api-assets.lifechurch.tv/series/weird/600x400.jpg?1396036846
-  image_large: http://api-assets.lifechurch.tv/series/weird/1200x800.jpg?1396036886
-  image_social: http://api-assets.lifechurch.tv/series/weird/400x400.jpg?1396036821
-  image_banner_archive: http://api-assets.lifechurch.tv/series/weird/1500x340.jpg?1400897738
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/weird/3000x680.jpg?1400897703
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/weird/480x340.jpg?1400897757
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/weird/960x680.jpg?1400897775
+  image_small: https://api-assets.life.church/series/weird/300x200.jpg?1396036778
+  image_medium: https://api-assets.life.church/series/weird/600x400.jpg?1396036846
+  image_large: https://api-assets.life.church/series/weird/1200x800.jpg?1396036886
+  image_social: https://api-assets.life.church/series/weird/400x400.jpg?1396036821
+  image_banner_archive: https://api-assets.life.church/series/weird/1500x340.jpg?1400897738
+  image_banner_archive_2x: https://api-assets.life.church/series/weird/3000x680.jpg?1400897703
+  image_banner_archive_small: https://api-assets.life.church/series/weird/480x340.jpg?1400897757
+  image_banner_archive_small_2x: https://api-assets.life.church/series/weird/960x680.jpg?1400897775
   messages:
   - title: A Weird View of Money
     headline: ''
@@ -3734,14 +3734,14 @@
     name: Steven Furtick
     created_at: '2014-06-11T15:35:51.030-05:00'
     updated_at: '2014-06-11T15:35:51.030-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/sun-stand-still/300x200.jpg?1396034407
-  image_medium: http://api-assets.lifechurch.tv/series/sun-stand-still/600x400.jpg?1396034463
-  image_large: http://api-assets.lifechurch.tv/series/sun-stand-still/1200x800.jpg?1396034485
-  image_social: http://api-assets.lifechurch.tv/series/sun-stand-still/400x400.jpg?1396034434
-  image_banner_archive: http://api-assets.lifechurch.tv/series/sun-stand-still/1500x340.jpg?1400897398
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/sun-stand-still/3000x680.jpg?1400897345
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/sun-stand-still/480x340.jpg?1400897419
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/sun-stand-still/960x680.jpg?1400897442
+  image_small: https://api-assets.life.church/series/sun-stand-still/300x200.jpg?1396034407
+  image_medium: https://api-assets.life.church/series/sun-stand-still/600x400.jpg?1396034463
+  image_large: https://api-assets.life.church/series/sun-stand-still/1200x800.jpg?1396034485
+  image_social: https://api-assets.life.church/series/sun-stand-still/400x400.jpg?1396034434
+  image_banner_archive: https://api-assets.life.church/series/sun-stand-still/1500x340.jpg?1400897398
+  image_banner_archive_2x: https://api-assets.life.church/series/sun-stand-still/3000x680.jpg?1400897345
+  image_banner_archive_small: https://api-assets.life.church/series/sun-stand-still/480x340.jpg?1400897419
+  image_banner_archive_small_2x: https://api-assets.life.church/series/sun-stand-still/960x680.jpg?1400897442
   messages:
   - title: Part Two
     headline: ''
@@ -3772,14 +3772,14 @@
     name: Witnessing
     created_at: '2014-06-11T15:25:15.255-05:00'
     updated_at: '2014-06-11T15:25:15.255-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/300x200.jpg?1396033782
-  image_medium: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/600x400.jpg?1396033845
-  image_large: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/1200x800.jpg?1396033877
-  image_social: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/400x400.jpg?1396033809
-  image_banner_archive: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/1500x340.jpg?1400017667
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/3000x680.jpg?1400017610
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/480x340.jpg?1400017768
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/who-do-you-think-you-are/960x680.jpg?1400017704
+  image_small: https://api-assets.life.church/series/who-do-you-think-you-are/300x200.jpg?1396033782
+  image_medium: https://api-assets.life.church/series/who-do-you-think-you-are/600x400.jpg?1396033845
+  image_large: https://api-assets.life.church/series/who-do-you-think-you-are/1200x800.jpg?1396033877
+  image_social: https://api-assets.life.church/series/who-do-you-think-you-are/400x400.jpg?1396033809
+  image_banner_archive: https://api-assets.life.church/series/who-do-you-think-you-are/1500x340.jpg?1400017667
+  image_banner_archive_2x: https://api-assets.life.church/series/who-do-you-think-you-are/3000x680.jpg?1400017610
+  image_banner_archive_small: https://api-assets.life.church/series/who-do-you-think-you-are/480x340.jpg?1400017768
+  image_banner_archive_small_2x: https://api-assets.life.church/series/who-do-you-think-you-are/960x680.jpg?1400017704
   messages:
   - title: Disciple
     headline: ''
@@ -3821,14 +3821,14 @@
     name: Sam Roberts
     created_at: '2014-06-11T15:48:49.991-05:00'
     updated_at: '2014-06-11T15:48:49.991-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/i-quit/300x200.jpg?1396036576
-  image_medium: http://api-assets.lifechurch.tv/series/i-quit/600x400.jpg?1396036624
-  image_large: http://api-assets.lifechurch.tv/series/i-quit/1200x800.jpg?1396036673
-  image_social: http://api-assets.lifechurch.tv/series/i-quit/400x400.jpg?1396036600
-  image_banner_archive: http://api-assets.lifechurch.tv/series/i-quit/1500x340.jpg?1400017235
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/i-quit/3000x680.jpg?1400017213
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/i-quit/480x340.jpg?1400017297
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/i-quit/960x680.jpg?1400017263
+  image_small: https://api-assets.life.church/series/i-quit/300x200.jpg?1396036576
+  image_medium: https://api-assets.life.church/series/i-quit/600x400.jpg?1396036624
+  image_large: https://api-assets.life.church/series/i-quit/1200x800.jpg?1396036673
+  image_social: https://api-assets.life.church/series/i-quit/400x400.jpg?1396036600
+  image_banner_archive: https://api-assets.life.church/series/i-quit/1500x340.jpg?1400017235
+  image_banner_archive_2x: https://api-assets.life.church/series/i-quit/3000x680.jpg?1400017213
+  image_banner_archive_small: https://api-assets.life.church/series/i-quit/480x340.jpg?1400017297
+  image_banner_archive_small_2x: https://api-assets.life.church/series/i-quit/960x680.jpg?1400017263
   messages:
   - title: I Quit Comparing
     headline: ''
@@ -3864,14 +3864,14 @@
     name: Purpose
     created_at: '2014-06-11T15:21:10.086-05:00'
     updated_at: '2014-06-11T15:21:10.086-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/chazown/300x200.jpg?1395973851
-  image_medium: http://api-assets.lifechurch.tv/series/chazown/600x400.jpg?1395974613
-  image_large: http://api-assets.lifechurch.tv/series/chazown/1200x800.jpg?1395973909
-  image_social: http://api-assets.lifechurch.tv/series/chazown/400x400.jpg?1395973870
-  image_banner_archive: http://api-assets.lifechurch.tv/series/chazown/1500x340.jpg?1401227047
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/chazown/3000x680.jpg?1401227020
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/chazown/480x340.jpg?1401227068
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/chazown/960x680.jpg?1401227088
+  image_small: https://api-assets.life.church/series/chazown/300x200.jpg?1395973851
+  image_medium: https://api-assets.life.church/series/chazown/600x400.jpg?1395974613
+  image_large: https://api-assets.life.church/series/chazown/1200x800.jpg?1395973909
+  image_social: https://api-assets.life.church/series/chazown/400x400.jpg?1395973870
+  image_banner_archive: https://api-assets.life.church/series/chazown/1500x340.jpg?1401227047
+  image_banner_archive_2x: https://api-assets.life.church/series/chazown/3000x680.jpg?1401227020
+  image_banner_archive_small: https://api-assets.life.church/series/chazown/480x340.jpg?1401227068
+  image_banner_archive_small_2x: https://api-assets.life.church/series/chazown/960x680.jpg?1401227088
   messages:
   - title: Chazown
     headline: ''
@@ -3898,14 +3898,14 @@
     name: Thoughts
     created_at: '2014-06-11T15:20:28.824-05:00'
     updated_at: '2014-06-11T15:20:28.824-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/toxic/300x200.jpg?1395973541
-  image_medium: http://api-assets.lifechurch.tv/series/toxic/600x400.jpg?1395973585
-  image_large: http://api-assets.lifechurch.tv/series/toxic/1200x800.jpg?1395973605
-  image_social: http://api-assets.lifechurch.tv/series/toxic/400x400.jpg?1395973566
-  image_banner_archive: http://api-assets.lifechurch.tv/series/toxic/1500x340.jpg?1400023428
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/toxic/3000x680.jpg?1400023402
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/toxic/480x340.jpg?1400023486
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/toxic/960x680.jpg?1400023455
+  image_small: https://api-assets.life.church/series/toxic/300x200.jpg?1395973541
+  image_medium: https://api-assets.life.church/series/toxic/600x400.jpg?1395973585
+  image_large: https://api-assets.life.church/series/toxic/1200x800.jpg?1395973605
+  image_social: https://api-assets.life.church/series/toxic/400x400.jpg?1395973566
+  image_banner_archive: https://api-assets.life.church/series/toxic/1500x340.jpg?1400023428
+  image_banner_archive_2x: https://api-assets.life.church/series/toxic/3000x680.jpg?1400023402
+  image_banner_archive_small: https://api-assets.life.church/series/toxic/480x340.jpg?1400023486
+  image_banner_archive_small_2x: https://api-assets.life.church/series/toxic/960x680.jpg?1400023455
   messages:
   - title: Toxic Religion
     headline: ''
@@ -3956,14 +3956,14 @@
     name: Brian Houston
     created_at: '2014-06-11T15:51:04.977-05:00'
     updated_at: '2014-06-11T15:51:04.977-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/one-prayer-10/300x200.jpg?1395973200
-  image_medium: http://api-assets.lifechurch.tv/series/one-prayer-10/600x400.jpg?1395973247
-  image_large: http://api-assets.lifechurch.tv/series/one-prayer-10/1200x800.jpg?1395973275
-  image_social: http://api-assets.lifechurch.tv/series/one-prayer-10/400x400.jpg?1395973226
-  image_banner_archive: http://api-assets.lifechurch.tv/series/one-prayer-10/1500x340.jpg?1401233270
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/one-prayer-10/3000x680.jpg?1401233245
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/one-prayer-10/480x340.jpg?1401233328
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/one-prayer-10/960x680.jpg?1401233358
+  image_small: https://api-assets.life.church/series/one-prayer-10/300x200.jpg?1395973200
+  image_medium: https://api-assets.life.church/series/one-prayer-10/600x400.jpg?1395973247
+  image_large: https://api-assets.life.church/series/one-prayer-10/1200x800.jpg?1395973275
+  image_social: https://api-assets.life.church/series/one-prayer-10/400x400.jpg?1395973226
+  image_banner_archive: https://api-assets.life.church/series/one-prayer-10/1500x340.jpg?1401233270
+  image_banner_archive_2x: https://api-assets.life.church/series/one-prayer-10/3000x680.jpg?1401233245
+  image_banner_archive_small: https://api-assets.life.church/series/one-prayer-10/480x340.jpg?1401233328
+  image_banner_archive_small_2x: https://api-assets.life.church/series/one-prayer-10/960x680.jpg?1401233358
   messages:
   - title: Unstoppable Power
     headline: ''
@@ -4006,14 +4006,14 @@
     name: Amy Groeschel
     created_at: '2014-06-11T15:51:17.593-05:00'
     updated_at: '2014-06-11T15:51:17.593-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/forgotten-virtues/300x200.jpg?1395972850
-  image_medium: http://api-assets.lifechurch.tv/series/forgotten-virtues/600x400.jpg?1395972906
-  image_large: http://api-assets.lifechurch.tv/series/forgotten-virtues/1200x800.jpg?1395973104
-  image_social: http://api-assets.lifechurch.tv/series/forgotten-virtues/400x400.jpg?1395972880
-  image_banner_archive: http://api-assets.lifechurch.tv/series/forgotten-virtues/1500x340.jpg?1401232610
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/forgotten-virtues/3000x680.jpg?1401232590
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/forgotten-virtues/480x340.jpg?1401232633
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/forgotten-virtues/960x680.jpg?1401232662
+  image_small: https://api-assets.life.church/series/forgotten-virtues/300x200.jpg?1395972850
+  image_medium: https://api-assets.life.church/series/forgotten-virtues/600x400.jpg?1395972906
+  image_large: https://api-assets.life.church/series/forgotten-virtues/1200x800.jpg?1395973104
+  image_social: https://api-assets.life.church/series/forgotten-virtues/400x400.jpg?1395972880
+  image_banner_archive: https://api-assets.life.church/series/forgotten-virtues/1500x340.jpg?1401232610
+  image_banner_archive_2x: https://api-assets.life.church/series/forgotten-virtues/3000x680.jpg?1401232590
+  image_banner_archive_small: https://api-assets.life.church/series/forgotten-virtues/480x340.jpg?1401232633
+  image_banner_archive_small_2x: https://api-assets.life.church/series/forgotten-virtues/960x680.jpg?1401232662
   messages:
   - title: Gratitude
     headline: ''
@@ -4056,14 +4056,14 @@
     name: Sins
     created_at: '2014-06-05T19:20:27.559-05:00'
     updated_at: '2014-06-11T16:19:31.726-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/faq/300x200.jpg?1395973372
-  image_medium: http://api-assets.lifechurch.tv/series/faq/600x400.jpg?1395973419
-  image_large: http://api-assets.lifechurch.tv/series/faq/1200x800.jpg?1395973438
-  image_social: http://api-assets.lifechurch.tv/series/faq/400x400.jpg?1395973395
-  image_banner_archive: http://api-assets.lifechurch.tv/series/faq/1500x340.jpg?1401228514
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/faq/3000x680.jpg?1401228494
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/faq/480x340.jpg?1401228534
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/faq/960x680.jpg?1401228550
+  image_small: https://api-assets.life.church/series/faq/300x200.jpg?1395973372
+  image_medium: https://api-assets.life.church/series/faq/600x400.jpg?1395973419
+  image_large: https://api-assets.life.church/series/faq/1200x800.jpg?1395973438
+  image_social: https://api-assets.life.church/series/faq/400x400.jpg?1395973395
+  image_banner_archive: https://api-assets.life.church/series/faq/1500x340.jpg?1401228514
+  image_banner_archive_2x: https://api-assets.life.church/series/faq/3000x680.jpg?1401228494
+  image_banner_archive_small: https://api-assets.life.church/series/faq/480x340.jpg?1401228534
+  image_banner_archive_small_2x: https://api-assets.life.church/series/faq/960x680.jpg?1401228550
   messages:
   - title: Week 1
     headline: ''
@@ -4107,14 +4107,14 @@
     name: Joel A'Bell
     created_at: '2014-06-11T15:51:31.851-05:00'
     updated_at: '2014-06-11T15:51:31.851-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/red-letter-day/300x200.jpg?1395972671
-  image_medium: http://api-assets.lifechurch.tv/series/red-letter-day/600x400.jpg?1395972722
-  image_large: http://api-assets.lifechurch.tv/series/red-letter-day/1200x800.jpg?1395972745
-  image_social: http://api-assets.lifechurch.tv/series/red-letter-day/400x400.jpg?1395972695
-  image_banner_archive: http://api-assets.lifechurch.tv/series/red-letter-day/1500x340.jpg?1401233503
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/red-letter-day/3000x680.jpg?1401233484
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/red-letter-day/480x340.jpg?1401233534
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/red-letter-day/960x680.jpg?1401233557
+  image_small: https://api-assets.life.church/series/red-letter-day/300x200.jpg?1395972671
+  image_medium: https://api-assets.life.church/series/red-letter-day/600x400.jpg?1395972722
+  image_large: https://api-assets.life.church/series/red-letter-day/1200x800.jpg?1395972745
+  image_social: https://api-assets.life.church/series/red-letter-day/400x400.jpg?1395972695
+  image_banner_archive: https://api-assets.life.church/series/red-letter-day/1500x340.jpg?1401233503
+  image_banner_archive_2x: https://api-assets.life.church/series/red-letter-day/3000x680.jpg?1401233484
+  image_banner_archive_small: https://api-assets.life.church/series/red-letter-day/480x340.jpg?1401233534
+  image_banner_archive_small_2x: https://api-assets.life.church/series/red-letter-day/960x680.jpg?1401233557
   messages:
   - title: Week 5
     headline: ''
@@ -4154,14 +4154,14 @@
     name: Money
     created_at: '2014-02-03T22:38:58.881-06:00'
     updated_at: '2014-06-05T19:12:14.043-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/margin/300x200.jpg?1395972017
-  image_medium: http://api-assets.lifechurch.tv/series/margin/600x400.jpg?1395972063
-  image_large: http://api-assets.lifechurch.tv/series/margin/1200x800.jpg?1395972090
-  image_social: http://api-assets.lifechurch.tv/series/margin/400x400.jpg?1395972043
-  image_banner_archive: http://api-assets.lifechurch.tv/series/margin/1500x340.jpg?1401232915
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/margin/3000x680.jpg?1401232887
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/margin/480x340.jpg?1401232936
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/margin/960x680.jpg?1401232956
+  image_small: https://api-assets.life.church/series/margin/300x200.jpg?1395972017
+  image_medium: https://api-assets.life.church/series/margin/600x400.jpg?1395972063
+  image_large: https://api-assets.life.church/series/margin/1200x800.jpg?1395972090
+  image_social: https://api-assets.life.church/series/margin/400x400.jpg?1395972043
+  image_banner_archive: https://api-assets.life.church/series/margin/1500x340.jpg?1401232915
+  image_banner_archive_2x: https://api-assets.life.church/series/margin/3000x680.jpg?1401232887
+  image_banner_archive_small: https://api-assets.life.church/series/margin/480x340.jpg?1401232936
+  image_banner_archive_small_2x: https://api-assets.life.church/series/margin/960x680.jpg?1401232956
   messages:
   - title: Moral Margin
     headline: ''
@@ -4197,12 +4197,12 @@
     name: Disciplines
     created_at: '2014-06-11T15:23:03.968-05:00'
     updated_at: '2014-06-11T15:23:03.968-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/one-thing/300x200.jpg?1395970110
-  image_medium: http://api-assets.lifechurch.tv/series/one-thing/600x400.jpg?1395954667
-  image_large: http://api-assets.lifechurch.tv/series/one-thing/1200x800.jpg?1395954568
-  image_social: http://api-assets.lifechurch.tv/series/one-thing/400x400.jpg?1395970136
-  image_banner_archive: http://api-assets.lifechurch.tv/series/one-thing/1500x340.jpg?1474571111
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/one-thing/3000x680.jpg?1474571098
+  image_small: https://api-assets.life.church/series/one-thing/300x200.jpg?1395970110
+  image_medium: https://api-assets.life.church/series/one-thing/600x400.jpg?1395954667
+  image_large: https://api-assets.life.church/series/one-thing/1200x800.jpg?1395954568
+  image_social: https://api-assets.life.church/series/one-thing/400x400.jpg?1395970136
+  image_banner_archive: https://api-assets.life.church/series/one-thing/1500x340.jpg?1474571111
+  image_banner_archive_2x: https://api-assets.life.church/series/one-thing/3000x680.jpg?1474571098
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages:
@@ -4230,14 +4230,14 @@
     name: Christmas
     created_at: '2015-10-20T19:18:40.447-05:00'
     updated_at: '2015-10-20T19:18:40.447-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/this-christmas/300x200.jpg?1395963033
-  image_medium: http://api-assets.lifechurch.tv/series/this-christmas/600x400.jpg?1395963103
-  image_large: http://api-assets.lifechurch.tv/series/this-christmas/1200x800.jpg?1395963170
-  image_social: http://api-assets.lifechurch.tv/series/this-christmas/400x400.jpg?1395963065
-  image_banner_archive: http://api-assets.lifechurch.tv/series/this-christmas/1500x340.jpg?1401235777
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/this-christmas/3000x680.jpg?1401235712
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/this-christmas/480x340.jpg?1401235809
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/this-christmas/960x680.jpg?1401235831
+  image_small: https://api-assets.life.church/series/this-christmas/300x200.jpg?1395963033
+  image_medium: https://api-assets.life.church/series/this-christmas/600x400.jpg?1395963103
+  image_large: https://api-assets.life.church/series/this-christmas/1200x800.jpg?1395963170
+  image_social: https://api-assets.life.church/series/this-christmas/400x400.jpg?1395963065
+  image_banner_archive: https://api-assets.life.church/series/this-christmas/1500x340.jpg?1401235777
+  image_banner_archive_2x: https://api-assets.life.church/series/this-christmas/3000x680.jpg?1401235712
+  image_banner_archive_small: https://api-assets.life.church/series/this-christmas/480x340.jpg?1401235809
+  image_banner_archive_small_2x: https://api-assets.life.church/series/this-christmas/960x680.jpg?1401235831
   messages:
   - title: This Christmas
     headline: ''
@@ -4261,14 +4261,14 @@
     name: Supernatural
     created_at: '2014-06-11T15:52:47.494-05:00'
     updated_at: '2014-06-11T15:52:47.494-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/ghost/300x200.jpg?1395964626
-  image_medium: http://api-assets.lifechurch.tv/series/ghost/600x400.jpg?1395964673
-  image_large: http://api-assets.lifechurch.tv/series/ghost/1200x800.jpg?1395964702
-  image_social: http://api-assets.lifechurch.tv/series/ghost/400x400.jpg?1395964651
-  image_banner_archive: http://api-assets.lifechurch.tv/series/ghost/1500x340.jpg?1401236699
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/ghost/3000x680.jpg?1401236390
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/ghost/480x340.jpg?1401237773
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/ghost/960x680.jpg?1401237798
+  image_small: https://api-assets.life.church/series/ghost/300x200.jpg?1395964626
+  image_medium: https://api-assets.life.church/series/ghost/600x400.jpg?1395964673
+  image_large: https://api-assets.life.church/series/ghost/1200x800.jpg?1395964702
+  image_social: https://api-assets.life.church/series/ghost/400x400.jpg?1395964651
+  image_banner_archive: https://api-assets.life.church/series/ghost/1500x340.jpg?1401236699
+  image_banner_archive_2x: https://api-assets.life.church/series/ghost/3000x680.jpg?1401236390
+  image_banner_archive_small: https://api-assets.life.church/series/ghost/480x340.jpg?1401237773
+  image_banner_archive_small_2x: https://api-assets.life.church/series/ghost/960x680.jpg?1401237798
   messages:
   - title: Filled With The Spirit
     headline: ''
@@ -4308,14 +4308,14 @@
     name: Worship
     created_at: '2014-06-05T19:23:33.805-05:00'
     updated_at: '2014-06-05T19:23:33.805-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/one-prayer-09/300x200.jpg?1395967925
-  image_medium: http://api-assets.lifechurch.tv/series/one-prayer-09/600x400.jpg?1395967977
-  image_large: http://api-assets.lifechurch.tv/series/one-prayer-09/1200x800.jpg?1395967997
-  image_social: http://api-assets.lifechurch.tv/series/one-prayer-09/400x400.jpg?1395967948
-  image_banner_archive: http://api-assets.lifechurch.tv/series/one-prayer-09/1500x340.jpg?1401238026
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/one-prayer-09/3000x680.jpg?1401238003
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/one-prayer-09/480x340.jpg?1401238059
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/one-prayer-09/960x680.jpg?1401238124
+  image_small: https://api-assets.life.church/series/one-prayer-09/300x200.jpg?1395967925
+  image_medium: https://api-assets.life.church/series/one-prayer-09/600x400.jpg?1395967977
+  image_large: https://api-assets.life.church/series/one-prayer-09/1200x800.jpg?1395967997
+  image_social: https://api-assets.life.church/series/one-prayer-09/400x400.jpg?1395967948
+  image_banner_archive: https://api-assets.life.church/series/one-prayer-09/1500x340.jpg?1401238026
+  image_banner_archive_2x: https://api-assets.life.church/series/one-prayer-09/3000x680.jpg?1401238003
+  image_banner_archive_small: https://api-assets.life.church/series/one-prayer-09/480x340.jpg?1401238059
+  image_banner_archive_small_2x: https://api-assets.life.church/series/one-prayer-09/960x680.jpg?1401238124
   messages:
   - title: God Is...
     headline: ''
@@ -4354,14 +4354,14 @@
     name: Miracles
     created_at: '2014-06-11T15:21:20.475-05:00'
     updated_at: '2014-06-11T15:21:20.475-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/elijah/300x200.jpg?1395968082
-  image_medium: http://api-assets.lifechurch.tv/series/elijah/600x400.jpg?1395968122
-  image_large: http://api-assets.lifechurch.tv/series/elijah/1200x800.jpg?1395968151
-  image_social: http://api-assets.lifechurch.tv/series/elijah/400x400.jpg?1395968103
-  image_banner_archive: http://api-assets.lifechurch.tv/series/elijah/1500x340.jpg?1401236125
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/elijah/3000x680.jpg?1401235923
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/elijah/480x340.jpg?1401236148
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/elijah/960x680.jpg?1401236215
+  image_small: https://api-assets.life.church/series/elijah/300x200.jpg?1395968082
+  image_medium: https://api-assets.life.church/series/elijah/600x400.jpg?1395968122
+  image_large: https://api-assets.life.church/series/elijah/1200x800.jpg?1395968151
+  image_social: https://api-assets.life.church/series/elijah/400x400.jpg?1395968103
+  image_banner_archive: https://api-assets.life.church/series/elijah/1500x340.jpg?1401236125
+  image_banner_archive_2x: https://api-assets.life.church/series/elijah/3000x680.jpg?1401235923
+  image_banner_archive_small: https://api-assets.life.church/series/elijah/480x340.jpg?1401236148
+  image_banner_archive_small_2x: https://api-assets.life.church/series/elijah/960x680.jpg?1401236215
   messages:
   - title: Depression
     headline: ''
@@ -4400,14 +4400,14 @@
     name: Dave Ramsey
     created_at: '2014-06-11T15:42:22.866-05:00'
     updated_at: '2014-06-11T15:42:22.866-05:00'
-  image_small: http://api-assets.lifechurch.tv/series/life-money-hope/300x200.jpg?1395968860
-  image_medium: http://api-assets.lifechurch.tv/series/life-money-hope/600x400.jpg?1395968919
-  image_large: http://api-assets.lifechurch.tv/series/life-money-hope/1200x800.jpg?1395968946
-  image_social: http://api-assets.lifechurch.tv/series/life-money-hope/400x400.jpg?1395968887
-  image_banner_archive: http://api-assets.lifechurch.tv/series/life-money-hope/1500x340.jpg?1401237889
-  image_banner_archive_2x: http://api-assets.lifechurch.tv/series/life-money-hope/3000x680.jpg?1401237843
-  image_banner_archive_small: http://api-assets.lifechurch.tv/series/life-money-hope/480x340.jpg?1401237911
-  image_banner_archive_small_2x: http://api-assets.lifechurch.tv/series/life-money-hope/960x680.jpg?1401237953
+  image_small: https://api-assets.life.church/series/life-money-hope/300x200.jpg?1395968860
+  image_medium: https://api-assets.life.church/series/life-money-hope/600x400.jpg?1395968919
+  image_large: https://api-assets.life.church/series/life-money-hope/1200x800.jpg?1395968946
+  image_social: https://api-assets.life.church/series/life-money-hope/400x400.jpg?1395968887
+  image_banner_archive: https://api-assets.life.church/series/life-money-hope/1500x340.jpg?1401237889
+  image_banner_archive_2x: https://api-assets.life.church/series/life-money-hope/3000x680.jpg?1401237843
+  image_banner_archive_small: https://api-assets.life.church/series/life-money-hope/480x340.jpg?1401237911
+  image_banner_archive_small_2x: https://api-assets.life.church/series/life-money-hope/960x680.jpg?1401237953
   messages:
   - title: "#1 Myth about Money"
     headline: ''
