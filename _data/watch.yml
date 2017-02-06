@@ -1,21 +1,34 @@
 ---
-- id: 30-second-theology-2017
-  title: 30-Second Theology
-  headline: Don’t miss 30-Second Theology at Life.Church—it’s your only chance to
-    catch this special message!
-  description_small: Is there anything to learn from TV commercials? We think so!
-    Don’t miss 30-Second Theology at Life.Church—it’s your only chance to catch this
-    special message!
-  description_medium: The best TV commercials soak up our time, attention, and sometimes,
-    our money. They can make us think, laugh, gasp, or even cry. But is there anything
-    to learn from those half-minute ads? We think so! Don’t miss 30-Second Theology
-    at Life.Church or Church Online—it’s your only chance to catch this special message!
+- id: divine-direction
+  title: Divine Direction
+  headline: When you know who to trust, you'll always be headed in the Divine Direction.
+  description_small: The choices you make today will lead you one way or another—but
+    when you know who to trust, you'll always be headed in the Divine Direction.
+  description_medium: You haven’t finished your life story. What will you do with
+    the blank pages? The choices you make today will lead you one way or another—but
+    when you know who to trust, you'll always be headed in the Divine Direction.
   quote: ''
   quote_cite: ''
-  open_url: https://open.life.church/resources/1625-30-second-theology-2017
-  promo: 4ZCBZzVY3YQY
+  open_url: https://open.life.church/resources/3106-divine-direction
+  promo: gA3x9yjlSbEQ
   resources_url: ''
-  categories: []
+  categories:
+  - id: 2
+    name: Knowing God
+    created_at: '2014-02-03T22:38:58.863-06:00'
+    updated_at: '2014-02-03T22:38:58.863-06:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852-06:00'
+    updated_at: '2014-06-05T19:41:17.695-05:00'
+  - id: 22
+    name: Spiritual Growth
+    created_at: '2014-06-11T15:16:13.079-05:00'
+    updated_at: '2014-06-11T15:16:13.079-05:00'
+  - id: 29
+    name: Wisdom
+    created_at: '2014-06-11T15:18:02.732-05:00'
+    updated_at: '2014-06-11T15:18:02.732-05:00'
   image_small: ''
   image_medium: ''
   image_large: ''
@@ -24,11 +37,7 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages:
-  - title: 30-Second Theology
-    headline: ''
-    video: 
-    platform_id: 02ff9cc3b637
+  messages: []
 - id: i-want-to-believe-but
   title: I Want to Believe, But...
   headline: 'God may not meet all your expectations—but that’s good news! Find out
