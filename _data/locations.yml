@@ -2993,6 +2993,12 @@
   address: 4933 Old Greenwood Rd Fort Smith, AR 72903
   facebook: '1770348346571786'
   times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
