@@ -228,15 +228,6 @@
       and recuperating adults while building relationships each visit.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,oklahoma,okc
-  - id: 3
-    title: Whiz Kids
-    recipient: okc.serving@life.church
-    url: http://www.whizkidsok.org/
-    description_medium: Improve the well-being of inner city youth through academic
-      tutoring, positive mentoring relationships, and communicating spiritual and
-      moral values.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
   - id: 66
     title: True North Ministries
     recipient: okc.serving@life.church
@@ -3045,14 +3036,32 @@
     time: 08-30
     day: sun
     duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
     type: service
     type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
     duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
     type: service
     type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 11:30AM
     time: 11-30
     day: sun
