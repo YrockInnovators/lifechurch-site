@@ -261,7 +261,7 @@
       spiritual mentorship, counseling, educational and other programs that will “bridge
       the gap” between reintegration and everyday life.
     cause: Military
-    tags: military,depression,oklahoma,okc
+    tags: military,depression,oklahoma,okc,stillwater
   - id: 80
     title: Bethel Foundation
     recipient: okc.serving@life.church
@@ -412,15 +412,15 @@
     type: switch
     type_name: Switch
   missions:
-  - id: 42
-    title: 4Kids of South Florida
+  - id: 104
+    title: Oasis Compassion Agency
     recipient: wel.serving@life.church
-    url: https://www.4kidsofsfl.org/
-    description_medium: 'Help care for and mentor kids in our community by providing
-      them with consistent and loving relationships. Kids in crisis can find shelter
-      and safety at SafePlace. '
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,florida,wellington
+    url: http://www.oasiscompassion.org/
+    description_medium: Oasis Compassion Agency is committed to showing God’s love
+      in practical ways by addressing the physical and spiritual needs of the poor/needy
+      in central Palm Beach County.
+    cause: Neighborhood/Community Development
+    tags: wellington,florida
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -1024,6 +1024,14 @@
       hungry, homeless, and at-risk by serving the community and building relationships.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,oklahoma,tulsa
+  - id: 105
+    title: The Salvation Army Tulsa Area
+    recipient: sba.serving@life.church
+    url: www.SalArmyTulsa.org
+    description_medium: The Salvation Army’s mission is to “preach the gospel of Jesus
+      Christ and to meet human needs in His name without discrimination.
+    cause: Neighborhood/Community Development
+    tags: tulsa,southbrokenarrow,oklahoma
 - id: mus
   f1_campus_id: 42406
   f1_substatus_id: 3585
@@ -1871,14 +1879,6 @@
       and responsible young men.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,tulsa
-  - id: 95
-    title: Little Light House
-    recipient: ows.serving@life.church
-    url: http://www.littlelighthouse.org
-    description_medium: Help improve the quality of life for children with special
-      needs, their families, and their communities.
-    cause: Mentoring & Education
-    tags: Mentoring&Education,Recovery&TransitionalLiving
   - id: 81
     title: Night Light Tulsa
     recipient: ows.serving@life.church
@@ -1887,6 +1887,14 @@
       every Thursday night in downtown Tulsa under the bridge at Maybelle and Brady.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,owasso,oklahoma,tulsa
+  - id: 95
+    title: Little Light House
+    recipient: ows.serving@life.church
+    url: http://www.littlelighthouse.org
+    description_medium: Help improve the quality of life for children with special
+      needs, their families, and their communities.
+    cause: Mentoring & Education
+    tags: Mentoring&Education,Recovery&TransitionalLiving,tulsa,oklahoma
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -2412,6 +2420,15 @@
       men through mentoring relationships, men’s events, and weekend retreats.
     cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
+  - id: 103
+    title: NOVO
+    recipient: noc.serving@life.church
+    url: https://novoministries.org/
+    description_medium: Novo exists to break cycles of destruction, create hope, and
+      instill a sense of purpose through life-changing mentoring relationships with
+      inner-city boys and girls.
+    cause: Mentoring & Education
+    tags: okc,oklahomacity
 - id: opk
   f1_campus_id: 64790
   f1_substatus_id: 4368
@@ -2445,7 +2462,17 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  missions: []
+  missions:
+  - id: 102
+    title: Mission Adelante
+    recipient: 'opk.serving@life.church '
+    url: http://www.missionadelante.org/
+    description_medium: We envision a growing multicultural community of disciples
+      making disciples, where immigrants and others are thriving and using our gifts
+      together to transform our neighborhood and the world for the glory of Jesus
+      Christ.
+    cause: Neighborhood/Community Development
+    tags: overlandpark,kansas,
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2680,6 +2707,15 @@
       men through mentoring relationships, men’s events, and weekend retreats.
     cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
+  - id: 78
+    title: LifeTroops
+    recipient: stw.serving@life.church
+    url: http://lifetroops.tv/
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc,stillwater
   - id: 74
     title: Payne County Youth Services
     recipient: stw.serving@life.church
@@ -2818,6 +2854,15 @@
       mentoring relationships with those leaving incarceration.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+  - id: 78
+    title: LifeTroops
+    recipient: mwc.serving@life.church
+    url: http://lifetroops.tv/
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc,stillwater
   - id: 72
     title: Mid-Del Youth & Family Center
     recipient: mwc.serving@life.church
@@ -2827,15 +2872,6 @@
       field trips.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-  - id: 78
-    title: LifeTroops
-    recipient: mwc.serving@life.church
-    url: http://lifetroops.tv/
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    cause: Military
-    tags: military,depression,oklahoma,okc
 - id: bao
   f1_campus_id: 17716
   f1_substatus_id: 1064
