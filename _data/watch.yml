@@ -1,4 +1,49 @@
 ---
+- id: through-the-eyes-of-a-lion
+  title: Through the Eyes of a Lion
+  headline: Let’s welcome the light and gain a new perspective on our pain—let’s see
+    it Through the Eyes of a Lion.
+  description_small: The darkness you might feel looming over your life won’t last
+    forever. Let’s welcome the light and gain a new perspective on our pain—let’s
+    see it Through the Eyes of a Lion.
+  description_medium: The darkness you might feel looming over your life won’t last
+    forever. Heartbreaks heal. Suffering is temporary. Let’s welcome the light and
+    gain a new perspective on our pain—let’s see it Through the Eyes of a Lion.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3200-guest-speaker
+  promo: Usipi_rUtX08
+  resources_url: ''
+  categories:
+  - id: 18
+    name: Death
+    created_at: '2014-06-11T15:15:02.642-05:00'
+    updated_at: '2014-06-11T15:15:02.642-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611-05:00'
+    updated_at: '2014-06-11T15:18:18.611-05:00'
+  - id: 33
+    name: Pain
+    created_at: '2014-06-11T15:19:30.049-05:00'
+    updated_at: '2014-06-11T15:19:30.049-05:00'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523-05:00'
+    updated_at: '2014-06-11T15:23:13.523-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: divine-direction
   title: Divine Direction
   headline: When you know who to trust, you'll always be headed in the Divine Direction.
