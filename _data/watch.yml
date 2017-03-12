@@ -43,7 +43,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Turn off the Dark
+    headline: ''
+    video: 
+    platform_id: VSWQucxZsPzF
 - id: divine-direction
   title: Divine Direction
   headline: When you know who to trust, you'll always be headed in the Divine Direction.
