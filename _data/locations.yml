@@ -98,56 +98,6 @@
       and dental care and to the broken as they \r\nrecieve spiritual care."
     cause: Neighborhood/Community Development
     tags: 
-- id: rrn
-  f1_campus_id: 57831
-  f1_substatus_id: 3754
-  title: Rio Rancho, NM
-  email: rrn.serving@life.church
-  phone: 505-226-1010
-  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
-  facebook: '773412792749687'
-  times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 73
-    title: ReadWest
-    recipient: rrn.serving@life.church
-    url: readwest.org
-    description_medium: Provide quality one-on-one tutoring for adults seeking to
-      transform their lives through enhanced literacy skills.
-    cause: Mentoring & Education
-    tags: mentoring,education,newmexico,rio-rancho
-  - id: 76
-    title: CareNet Pregnancy Centers of Albuquerque
-    recipient: rrn.serving@life.church
-    url: http://www.carenetabq.org/
-    description_medium: Minister to young women and men in the community who find
-      themselves in crisis pregnancies and help them make godly decisions.
-    cause: Pregnancy Care
-    tags: pregnancy,care,newmexico,rio-rancho
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -253,6 +203,63 @@
     description_medium: ''
     cause: 
     tags: wellington,fl
+  - id: 109
+    title: Boys and Girls Club of Palm Beach County
+    recipient: wel.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: 
+    tags: []
+- id: rrn
+  f1_campus_id: 57831
+  f1_substatus_id: 3754
+  title: Rio Rancho, NM
+  email: rrn.serving@life.church
+  phone: 505-226-1010
+  address: 4401 Northern Blvd NE Rio Rancho, NM 87124
+  facebook: '773412792749687'
+  times:
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 09:30AM
+    time: 09-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 73
+    title: ReadWest
+    recipient: rrn.serving@life.church
+    url: readwest.org
+    description_medium: Provide quality one-on-one tutoring for adults seeking to
+      transform their lives through enhanced literacy skills.
+    cause: Mentoring & Education
+    tags: mentoring,education,newmexico,rio-rancho
+  - id: 76
+    title: CareNet Pregnancy Centers of Albuquerque
+    recipient: rrn.serving@life.church
+    url: http://www.carenetabq.org/
+    description_medium: Minister to young women and men in the community who find
+      themselves in crisis pregnancies and help them make godly decisions.
+    cause: Pregnancy Care
+    tags: pregnancy,care,newmexico,rio-rancho
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
