@@ -52,7 +52,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Put God First
+    headline: ''
+    video: 
+    platform_id: nMWP1WVXHj7r
 - id: through-the-eyes-of-a-lion
   title: Through the Eyes of a Lion
   headline: Let’s welcome the light and gain a new perspective on our pain—let’s see
