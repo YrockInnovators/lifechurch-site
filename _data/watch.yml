@@ -14,7 +14,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/3175-generosity
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/3900-this-is-what-we-do
   categories:
   - id: 5
     name: Money
@@ -75,7 +75,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/3200-guest-speaker
   promo: Usipi_rUtX08
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2165-through-the-eyes-of-a-lion
   categories:
   - id: 18
     name: Death
@@ -126,7 +126,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/3106-divine-direction
   promo: gA3x9yjlSbEQ
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/3670-divine-direction
   categories:
   - id: 2
     name: Knowing God
@@ -296,7 +296,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2841-christmas
   promo: sPrLW77vtJxp
-  resources_url: https://www.bible.com/search/plans?q=christmas
+  resources_url: https://www.bible.com/reading-plans/26-rediscovering-the-christmas-season
   categories:
   - id: 77
     name: Christmas
@@ -330,7 +330,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2840-ghost-of-christmas-past
   promo: HtE8z92Qroee
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/49-the-christmas-story
   categories:
   - id: 16
     name: Forgiveness
@@ -393,7 +393,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2890-church-is
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2051-sandcastle-kings-by-rich-wilkerson-jr
   categories:
   - id: 2
     name: Knowing God
@@ -438,7 +438,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2811-under-god
   promo: nP7ETpEqu0vf
-  resources_url: ''
+  resources_url: 'https://www.bible.com/reading-plans/3171-under-godwww.go2.lc/undergod '
   categories:
   - id: 23
     name: Faith
@@ -495,7 +495,7 @@
   quote_cite: ''
   open_url: ''
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/3131-let-us
   categories:
   - id: 14
     name: Worship
@@ -540,7 +540,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2749-making-change
   promo: PX90A9HwRmIj
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/463-dave-ramsey-proverbs
   categories:
   - id: 5
     name: Money
@@ -597,7 +597,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/2748-reaching-people-for-christ
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans-collection/1247
   categories:
   - id: 44
     name: Witnessing
@@ -678,7 +678,7 @@
   quote_cite: ''
   open_url: ''
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2771-the-last-four
   categories: []
   image_small: https://api-assets.life.church/series/the-last-four/300x200.jpg?1467997937
   image_medium: https://api-assets.life.church/series/the-last-four/600x400.jpg?1467997950
@@ -718,7 +718,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2598-bad-advice
   promo: kZxd77Dj5DKW
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2688-good-advice
   categories:
   - id: 12
     name: Marriage
@@ -791,7 +791,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2608-the-right-heart
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/1776-the-mind-connection
   categories:
   - id: 14
     name: Worship
@@ -841,7 +841,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2568-how-to-neighbor
   promo: poVFwz1lYeWZ
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2513-how-to-neighbor
   categories:
   - id: 15
     name: Family
@@ -906,7 +906,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2576-the-father-s-voice
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans-collection/1213
   categories:
   - id: 2
     name: Knowing God
@@ -948,7 +948,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2407-love-like-jesus
   promo: uV9lu1NFgCu3
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/2391-love-like-jesus
   categories:
   - id: 1
     name: Relationships
@@ -996,7 +996,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2408-easter-crown-of-thorns
   promo: 8x_tJqfbzEpE
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/137-the-story-of-easter
   categories:
   - id: 1
     name: Relationships
@@ -1038,7 +1038,7 @@
   quote_cite: ''
   open_url: https://open.church/resources/2501-going-the-distance
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans-collection/1213
   categories:
   - id: 2
     name: Knowing God
