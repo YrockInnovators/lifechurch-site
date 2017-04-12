@@ -1,4 +1,57 @@
 ---
+- id: playlist
+  title: Playlist
+  headline: Your life has a soundtrack. Don’t just shuffle through your days—create
+    a Playlist worth listening to.
+  description_small: "Music has a way of tapping into the rhythms of our lives. Is
+    it time to press pause on your daily shuffle and mix something fresh into your
+    Playlist\uFEFF?"
+  description_medium: Your life has a soundtrack. Every peak, every low note, and
+    every rhythm make up a part of who you are. Don’t just shuffle through your days—create
+    a Playlist worth listening to.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3186-playlist
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 14
+    name: Worship
+    created_at: '2014-06-05T19:23:33.805-05:00'
+    updated_at: '2014-06-05T19:23:33.805-05:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852-06:00'
+    updated_at: '2014-06-05T19:41:17.695-05:00'
+  - id: 23
+    name: Faith
+    created_at: '2014-06-11T15:16:43.996-05:00'
+    updated_at: '2014-06-11T15:16:43.996-05:00'
+  - id: 26
+    name: Hope
+    created_at: '2014-06-11T15:17:15.185-05:00'
+    updated_at: '2014-06-11T15:17:15.185-05:00'
+  - id: 33
+    name: Pain
+    created_at: '2014-06-11T15:19:30.049-05:00'
+    updated_at: '2014-06-11T15:19:30.049-05:00'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022-05:00'
+    updated_at: '2014-06-11T15:20:16.022-05:00'
+  - id: 82
+    name: Easter
+    created_at: '2016-03-14T19:06:10.330-05:00'
+    updated_at: '2016-03-14T19:06:10.330-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: this-is-what-we-do
   title: This Is What We Do
   headline: Do you do This? When they tell our life stories, we want them to put This
