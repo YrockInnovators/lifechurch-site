@@ -3535,7 +3535,7 @@
     headline: ''
     video: 7w1o5qeu6v
     platform_id: MT0SpX6KOcUA
-- id: why-2012
+- id: why
   title: Why
   headline: ''
   description_small: ''
@@ -3557,16 +3557,16 @@
     name: Trials
     created_at: '2014-06-11T15:23:13.523-05:00'
     updated_at: '2014-06-11T15:23:13.523-05:00'
-  image_small: https://api-assets.life.church/series/why-2012/300x200.jpg?1396049869
-  image_medium: https://api-assets.life.church/series/why-2012/600x400.jpg?1396049942
-  image_large: https://api-assets.life.church/series/why-2012/1200x800.jpg?1396049995
-  image_social: https://api-assets.life.church/series/why-2012/400x400.jpg?1396049910
-  image_banner_archive: https://api-assets.life.church/series/why-2012/1500x340.jpg?1400895583
-  image_banner_archive_2x: https://api-assets.life.church/series/why-2012/3000x680.jpg?1400895525
-  image_banner_archive_small: https://api-assets.life.church/series/why-2012/480x340.jpg?1400895626
-  image_banner_archive_small_2x: https://api-assets.life.church/series/why-2012/960x680.jpg?1400895658
+  image_small: https://api-assets.life.church/series/why/300x200.jpg?1396049869
+  image_medium: https://api-assets.life.church/series/why/600x400.jpg?1396049942
+  image_large: https://api-assets.life.church/series/why/1200x800.jpg?1396049995
+  image_social: https://api-assets.life.church/series/why/400x400.jpg?1396049910
+  image_banner_archive: https://api-assets.life.church/series/why/1500x340.jpg?1400895583
+  image_banner_archive_2x: https://api-assets.life.church/series/why/3000x680.jpg?1400895525
+  image_banner_archive_small: https://api-assets.life.church/series/why/480x340.jpg?1400895626
+  image_banner_archive_small_2x: https://api-assets.life.church/series/why/960x680.jpg?1400895658
   messages:
-  - title: Why would God Use Me?
+  - title: Why Would God Use Me?
     headline: ''
     video: 3wnvcemvjs
     platform_id: ecZbw_Cp4HMq
@@ -3621,7 +3621,7 @@
     headline: ''
     video: 2a7t231mh0
     platform_id: PvxiwTrUEApG
-- id: samson-2012
+- id: samson
   title: Samson
   headline: ''
   description_small: ''
@@ -3642,14 +3642,14 @@
     name: Spiritual Warfare
     created_at: '2014-08-05T18:45:34.299-05:00'
     updated_at: '2014-08-05T20:06:31.641-05:00'
-  image_small: https://api-assets.life.church/series/samson-2012/300x200.jpg?1396049079
-  image_medium: https://api-assets.life.church/series/samson-2012/600x400.jpg?1396049139
-  image_large: https://api-assets.life.church/series/samson-2012/1200x800.jpg?1396049170
-  image_social: https://api-assets.life.church/series/samson-2012/400x400.jpg?1396049106
-  image_banner_archive: https://api-assets.life.church/series/samson-2012/1500x340.jpg?1400015694
-  image_banner_archive_2x: https://api-assets.life.church/series/samson-2012/3000x680.jpg?1400015659
-  image_banner_archive_small: https://api-assets.life.church/series/samson-2012/480x340.jpg?1400015748
-  image_banner_archive_small_2x: https://api-assets.life.church/series/samson-2012/960x680.jpg?1400015725
+  image_small: https://api-assets.life.church/series/samson/300x200.jpg?1396049079
+  image_medium: https://api-assets.life.church/series/samson/600x400.jpg?1396049139
+  image_large: https://api-assets.life.church/series/samson/1200x800.jpg?1396049170
+  image_social: https://api-assets.life.church/series/samson/400x400.jpg?1396049106
+  image_banner_archive: https://api-assets.life.church/series/samson/1500x340.jpg?1400015694
+  image_banner_archive_2x: https://api-assets.life.church/series/samson/3000x680.jpg?1400015659
+  image_banner_archive_small: https://api-assets.life.church/series/samson/480x340.jpg?1400015748
+  image_banner_archive_small_2x: https://api-assets.life.church/series/samson/960x680.jpg?1400015725
   messages:
   - title: Failing Forward
     headline: ''
@@ -4304,23 +4304,23 @@
   image_banner_archive_small: https://api-assets.life.church/series/red-letter-day/480x340.jpg?1401233534
   image_banner_archive_small_2x: https://api-assets.life.church/series/red-letter-day/960x680.jpg?1401233557
   messages:
-  - title: Week 5
+  - title: You Will Be With Me In Paradise
     headline: ''
     video: 3vr297flyt
     platform_id: zdQfmLbmfO_N
-  - title: Week 4
+  - title: It Is Finished
     headline: ''
     video: seq8jywcnr
     platform_id: UnGfQsrU36lY
-  - title: Week 3
+  - title: I Thirst
     headline: ''
     video: orytd9rajv
     platform_id: eda3_koEOxG4
-  - title: Week 2
+  - title: Father Forgive Them
     headline: ''
     video: 5nxjydnhk1
     platform_id: rL69li3JCNFv
-  - title: Week 1
+  - title: Why Have You Forsaken Me?
     headline: ''
     video: kyadq4t27m
     platform_id: _cKD5vula3T9
@@ -4505,22 +4505,14 @@
   image_banner_archive_small: https://api-assets.life.church/series/one-prayer-09/480x340.jpg?1401238059
   image_banner_archive_small_2x: https://api-assets.life.church/series/one-prayer-09/960x680.jpg?1401238124
   messages:
-  - title: God Is...
+  - title: God is Strong
     headline: ''
-    video: rcrtk12ctf
-    platform_id: gFDZYn5lolzK
-  - title: God Is...
+    video: 
+    platform_id: 91e05b9f9363
+  - title: God is Love
     headline: ''
-    video: w14bath81a
-    platform_id: KzltUuFsvCcw
-  - title: God Is Father
-    headline: ''
-    video: is3tw2wnpa
-    platform_id: l0tHbvY6W9J3
-  - title: God Is... Strength
-    headline: ''
-    video: r5ereszhv6
-    platform_id: 0xAs3B_IFN9_
+    video: 
+    platform_id: 4179e9bbc122
 - id: elijah
   title: Elijah
   headline: ''
