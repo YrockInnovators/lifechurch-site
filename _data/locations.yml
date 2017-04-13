@@ -67,73 +67,133 @@
     type: roots
     type_name: Roots
   missions: []
-- id: alb
-  f1_campus_id: 4341
-  f1_substatus_id: 375
-  title: Albany, NY
-  email: alb.serving@life.church
-  phone: 518-456-0969
-  address: 687 Watervliet Shaker Rd Latham, NY 12110
-  facebook: '198238577847'
+- id: wel
+  f1_campus_id: 4352
+  f1_substatus_id: 386
+  title: Wellington, FL
+  email: wel.serving@life.church
+  phone: 561-793-6889
+  address: 3061 State Road 7 Wellington, FL 33449
+  facebook: '105749019464173'
   times:
   - title: 09:30AM
     time: 09-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 09:30AM
     time: 09-30
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 11:00AM
     time: 11-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 12:30PM
+    time: 12-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 12:30PM
     time: 12-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 12:30PM
-    time: 12-30
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
     day: sun
     duration: 60
     type: service
     type_name: Service
   - title: 06:30PM
     time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
   missions:
-  - id: 30
-    title: City Mission of Schenectady
-    recipient: alb.serving@life.church
-    url: http://citymission.com/
-    description_medium: City Missions provides for the needs of the hungry and homeless
-      in our community. Their mission is to help people get out of poverty - and stay
-      out.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,newyork,albany
+  - id: 104
+    title: Oasis Compassion Agency
+    recipient: wel.serving@life.church
+    url: http://www.oasiscompassion.org/
+    description_medium: Oasis Compassion Agency is committed to showing God’s love
+      in practical ways by addressing the physical and spiritual needs of the poor/needy
+      in central Palm Beach County.
+    cause: Neighborhood/Community Development
+    tags: wellington,florida
+  - id: 106
+    title: Faith Farm Ministries
+    recipient: wel.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: Recovery & Transitional Living
+    tags: wellington,florida
+  - id: 109
+    title: Boys and Girls Club of Palm Beach County
+    recipient: wel.serving@life.church
+    url: ''
+    description_medium: ''
+    cause: 
+    tags: []
+  - id: 110
+    title: 'Faith Farm Ministries '
+    recipient: wel.serving@life.church
+    url: www.faithfarm.org
+    description_medium: Our mission is to help men and women establish a new life
+      through the saving knowledge of our Lord and Savior, Jesus Christ. As a Christian
+      organization, our goal is to minister to hurting people by helping them rebuild
+      their lives in accordance with the Word of God.
+    cause: Neighborhood/Community Development
+    tags: wellington,florida,
+  - id: 111
+    title: Place of Hope
+    recipient: wel.serving@life.church
+    url: www.placeofhope.com
+    description_medium: Place of Hope is a unique faith-based, state-licensed children’s
+      organization providing family-style foster care (emergency and long-term); family
+      outreach and intervention; maternity care; safety for victims of domestic minor
+      sex trafficking; transitional housing and support services; foster care recruitment
+      and support; hope and healing opportunities for children and families who have
+      been traumatized by abuse and neglect throughout our region.
+    cause: Adoption & Foster Care
+    tags: adoption/fostering,neighborhood/communitydev,pregnancycare-recovery,transitionalliving
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -418,59 +478,77 @@
       by addiction through mentorship, spiritual guidance, and leadership development.
     cause: Recovery & Transitional Living
     tags: Recovery&TransitionalLiving,oklahoma
-- id: wel
-  f1_campus_id: 4352
-  f1_substatus_id: 386
-  title: Wellington, FL
-  email: wel.serving@life.church
-  phone: 561-793-6889
-  address: 3061 State Road 7 Wellington, FL 33449
-  facebook: '105749019464173'
+- id: tul
+  f1_campus_id: 4347
+  f1_substatus_id: 383
+  title: Midtown Tulsa, OK
+  email: tul.serving@life.church
+  phone: 918-459-5433
+  address: 7015 E. 41st St. Tulsa, OK 74145
+  facebook: '111300269668'
   times:
-  - title: 09:30AM
-    time: 09-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 09:30AM
-    time: 09-30
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:00AM
-    time: 11-00
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 12:30PM
-    time: 12-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 12:30PM
-    time: 12-30
+  - title: 10:00AM
+    time: 10-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 05:00PM
     time: 17-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 06:30PM
+    time: 18-30
     day: sun
     duration: 60
     type: service
@@ -481,12 +559,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -499,37 +571,92 @@
     duration: 120
     type: switch
     type_name: Switch
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   missions:
-  - id: 104
-    title: Oasis Compassion Agency
-    recipient: wel.serving@life.church
-    url: http://www.oasiscompassion.org/
-    description_medium: Oasis Compassion Agency is committed to showing God’s love
-      in practical ways by addressing the physical and spiritual needs of the poor/needy
-      in central Palm Beach County.
+  - id: 43
+    title: John 3:16
+    recipient: tul.serving@life.church
+    url: http://john316mission.org/home.php
+    description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
+      hungry, homeless, and at-risk by serving the community and building relationships.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,oklahoma,tulsa
+  - id: 39
+    title: Emergency Infant Services
+    recipient: tul.serving@life.church
+    url: http://emergencyinfantservices.org/
+    description_medium: Provide basic needs for infants and children through 5 years
+      of age whose families are in crisis by organizing donations and meeting with
+      families.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,oklahoma,tulsa
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: tul.serving@life.church
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,tulsa
+  - id: 79
+    title: Crisis Pregnancy Outreach
+    recipient: tul.serving@life.church
+    url: http://crisispregnancyoutreach.org
+    description_medium: Minister to young women in the Tulsa community who find themselves
+      in crisis pregnancies and help them make godly decisions.
+    cause: Pregnancy Care
+    tags: tulsa,pregnancy,outreach,oklahoma
+  - id: 82
+    title: 111Tulsa
+    recipient: tul.serving@life.church
+    url: http://www.111tulsa.org
+    description_medium: Engage in relationships to help prevent children from entering
+      state care, care for children who are in state care, and support the families
+      caring for these children.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,tulsa
+  - id: 99
+    title: Joy in the Cause
+    recipient: tul.serving@life.church
+    url: www.joyinthecause.org
+    description_medium: 'Our mission is focused on bringing care, compassion, and
+      joy to those with life altering illness and special needs one personal act of
+      kindness at a time. '
     cause: Neighborhood/Community Development
-    tags: wellington,florida
-  - id: 106
-    title: Faith Farm Ministries
-    recipient: wel.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: Recovery & Transitional Living
-    tags: wellington,florida
-  - id: 107
-    title: Places of Hope
-    recipient: wel.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: 
-    tags: wellington,fl
-  - id: 109
-    title: Boys and Girls Club of Palm Beach County
-    recipient: wel.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: 
-    tags: []
+    tags: oklahoma,okc
+  - id: 112
+    title: World Baseball Outreach
+    recipient: tul.serving@life.church
+    url: www.worldbaseballoutreach.org
+    description_medium: To provide faith based mentoring and encouragement to today's
+      youth locally and globally while building enduring relationships and preparing
+      tomorrows community leaders through baseball and other sports. We want to grow
+      and expand our program to offer homework help and tutoring programs.
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/CommunityDevelopment,Mentoring,Education,SpiritualDevelopment,tulsa
 - id: bnb
   f1_campus_id: 39919
   f1_substatus_id: 3438
@@ -747,6 +874,81 @@
       Christ and to meet human needs in His name without discrimination.
     cause: Neighborhood/Community Development
     tags: tulsa,southbrokenarrow,oklahoma
+- id: wch
+  f1_campus_id: 41150
+  f1_substatus_id: 3426
+  title: Wichita, KS
+  email: wch.serving@life.church
+  phone: 316-202-6640
+  address: 338 N. 127th St E. Wichita, KS 67206
+  facebook: '1454704991443722'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  missions:
+  - id: 70
+    title: Big Brothers Big Sisters of Kansas
+    recipient: wch.serving@life.church
+    url: ''
+    description_medium: Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships.
+    cause: Mentoring & Education
+    tags: mentoring,education,big,overland-park,wichita
+  - id: 113
+    title: ICT SOS
+    recipient: wch.serving@life.church
+    url: www.ictsos.org
+    description_medium: Create real and lasting change in Wichita through partnerships
+      with local professional organizations, educating the community, and raising
+      awareness of the issues of human trafficking in Wichita.
+    cause: Recovery & Transitional Living
+    tags: recovery&transitionalliving,mentoring&education,kansas,wch
 - id: rrn
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -1624,175 +1826,85 @@
       the foster care system on multiple levels.
     cause: Adoption & Foster Care
     tags: adoption,fostering,oklahoma,okc
-- id: tul
-  f1_campus_id: 4347
-  f1_substatus_id: 383
-  title: Midtown Tulsa, OK
-  email: tul.serving@life.church
-  phone: 918-459-5433
-  address: 7015 E. 41st St. Tulsa, OK 74145
-  facebook: '111300269668'
+- id: alb
+  f1_campus_id: 4341
+  f1_substatus_id: 375
+  title: Albany, NY
+  email: alb.serving@life.church
+  phone: 518-456-0969
+  address: 687 Watervliet Shaker Rd Latham, NY 12110
+  facebook: '198238577847'
   times:
-  - title: 08:30AM
-    time: 08-30
+  - title: 09:30AM
+    time: 09-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
+  - title: 09:30AM
+    time: 09-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 10:00AM
-    time: 10-00
+  - title: 11:00AM
+    time: 11-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:00AM
+    time: 11-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
+  - title: 12:30PM
+    time: 12-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
+  - title: 12:30PM
+    time: 12-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
   missions:
-  - id: 43
-    title: John 3:16
-    recipient: tul.serving@life.church
-    url: http://john316mission.org/home.php
-    description_medium: Meet the physical, emotional, and spiritual needs of Tulsa's
-      hungry, homeless, and at-risk by serving the community and building relationships.
+  - id: 30
+    title: City Mission of Schenectady
+    recipient: alb.serving@life.church
+    url: http://citymission.com/
+    description_medium: City Missions provides for the needs of the hungry and homeless
+      in our community. Their mission is to help people get out of poverty - and stay
+      out.
     cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,tulsa
-  - id: 39
-    title: Emergency Infant Services
-    recipient: tul.serving@life.church
-    url: http://emergencyinfantservices.org/
-    description_medium: Provide basic needs for infants and children through 5 years
-      of age whose families are in crisis by organizing donations and meeting with
-      families.
+    tags: food,clothing,shelter,newyork,albany
+  - id: 114
+    title: Capital Roots
+    recipient: alb.serving@life.church
+    url: www.capitalroots.org
+    description_medium: Our Vision for the future is of a Capital Region where every
+      person has access to fresh, affordable, healthy food. Today Capital Roots works
+      to reduce the impact of poor nutrition on public health in New York’s Capital
+      Region by organizing community gardens, providing healthy food access, offering
+      nutritional and horticultural education for all ages and coordinating urban
+      greening programs in Albany, Rensselaer, Schenectady and southern Saratoga Counties.
     cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,tulsa
-  - id: 19
-    title: Tulsa Boys Home
-    recipient: tul.serving@life.church
-    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: Help restore the lives of boys and lead them to be healthy
-      and responsible young men.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,tulsa
-  - id: 79
-    title: Crisis Pregnancy Outreach
-    recipient: tul.serving@life.church
-    url: http://crisispregnancyoutreach.org
-    description_medium: Minister to young women in the Tulsa community who find themselves
-      in crisis pregnancies and help them make godly decisions.
-    cause: Pregnancy Care
-    tags: tulsa,pregnancy,outreach,oklahoma
-  - id: 82
-    title: 111Tulsa
-    recipient: tul.serving@life.church
-    url: http://www.111tulsa.org
-    description_medium: Engage in relationships to help prevent children from entering
-      state care, care for children who are in state care, and support the families
-      caring for these children.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,tulsa
-  - id: 99
-    title: Joy in the Cause
-    recipient: tul.serving@life.church
-    url: www.joyinthecause.org
-    description_medium: 'Our mission is focused on bringing care, compassion, and
-      joy to those with life altering illness and special needs one personal act of
-      kindness at a time. '
-    cause: Neighborhood/Community Development
-    tags: oklahoma,okc
+    tags: Food,Clothing&Shelter,Neighborhood/CommunityDev,Mentoring&Education,albany,newyork
 - id: mus
   f1_campus_id: 42406
   f1_substatus_id: 3585
@@ -1919,72 +2031,6 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,oklahoma,okc
-- id: wch
-  f1_campus_id: 41150
-  f1_substatus_id: 3426
-  title: Wichita, KS
-  email: wch.serving@life.church
-  phone: 316-202-6640
-  address: 338 N. 127th St E. Wichita, KS 67206
-  facebook: '1454704991443722'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  missions:
-  - id: 70
-    title: Big Brothers Big Sisters of Kansas
-    recipient: wch.serving@life.church
-    url: ''
-    description_medium: Help children and at-risk youth realize their potential and
-      build their futures through positive mentoring relationships.
-    cause: Mentoring & Education
-    tags: mentoring,education,big,overland-park,wichita
 - id: fts
   f1_campus_id: 70273
   f1_substatus_id: 4918
