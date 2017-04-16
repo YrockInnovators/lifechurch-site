@@ -13,7 +13,7 @@
   quote_cite: ''
   open_url: https://open.life.church/resources/3186-playlist
   promo: ''
-  resources_url: ''
+  resources_url: https://www.bible.com/reading-plans/137-the-story-of-easter
   categories:
   - id: 14
     name: Worship
@@ -51,7 +51,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: A Million Reasons
+    headline: ''
+    video: 
+    platform_id: z5Gd4_aYnJGJ
 - id: this-is-what-we-do
   title: This Is What We Do
   headline: Do you do This? When they tell our life stories, we want them to put This
