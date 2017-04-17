@@ -158,30 +158,6 @@
       in central Palm Beach County.
     cause: Neighborhood/Community Development
     tags: wellington,florida
-  - id: 106
-    title: Faith Farm Ministries
-    recipient: wel.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: Recovery & Transitional Living
-    tags: wellington,florida
-  - id: 109
-    title: Boys and Girls Club of Palm Beach County
-    recipient: wel.serving@life.church
-    url: ''
-    description_medium: ''
-    cause: 
-    tags: []
-  - id: 110
-    title: 'Faith Farm Ministries '
-    recipient: wel.serving@life.church
-    url: www.faithfarm.org
-    description_medium: Our mission is to help men and women establish a new life
-      through the saving knowledge of our Lord and Savior, Jesus Christ. As a Christian
-      organization, our goal is to minister to hurting people by helping them rebuild
-      their lives in accordance with the Word of God.
-    cause: Neighborhood/Community Development
-    tags: wellington,florida,
   - id: 111
     title: Place of Hope
     recipient: wel.serving@life.church
@@ -194,6 +170,25 @@
       been traumatized by abuse and neglect throughout our region.
     cause: Adoption & Foster Care
     tags: adoption/fostering,neighborhood/communitydev,pregnancycare-recovery,transitionalliving
+  - id: 109
+    title: Boys and Girls Club of Palm Beach County
+    recipient: wel.serving@life.church
+    url: ''
+    description_medium: The Boys & Girls Clubs of Palm Beach County is a not-for profit
+      youth development organization dedicated to promoting the educational, vocational,
+      health leadership and character of boys and girls in a safe, nurturing environment.
+    cause: Mentoring & Education
+    tags: wellington,florida,mentoring&education
+  - id: 106
+    title: Faith Farm Ministries
+    recipient: wel.serving@life.church
+    url: ''
+    description_medium: Our mission is to help men and women establish a new life
+      through the saving knowledge of our Lord and Savior, Jesus Christ. As a Christian
+      organization, our goal is to minister to hurting people by helping them rebuild
+      their lives in accordance with the Word of God.
+    cause: Recovery & Transitional Living
+    tags: wellington,florida
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
