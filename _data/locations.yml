@@ -189,128 +189,6 @@
       their lives in accordance with the Word of God.
     cause: Recovery & Transitional Living
     tags: wellington,florida
-- id: shw
-  f1_campus_id: 60358
-  f1_substatus_id: 4103
-  title: Shawnee, OK
-  email: SHW.Serving@life.church
-  phone: 405-695-6600
-  address: 5630 North Harrison Shawnee, OK 74804
-  facebook: '1602447766664787'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 60
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 60
-    type: switch
-    type_name: Switch
-  missions:
-  - id: 88
-    title: Cargo Ranch
-    recipient: SHW.Serving@life.church
-    url: http://cargoranch.org
-    description_medium: Share hope and build character in children and youth by meeting
-      their emotional and spiritual needs in an outdoor environment.
-    cause: Mentoring & Education
-    tags: mentoring,education
-  - id: 92
-    title: Community Renewal of Pottawatomie County
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: Serve as a block leader to help your neighbors restore our
-      community through intentional, caring relationships.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,development,oklahoma,okc
 - id: mor
   f1_campus_id: 34644
   f1_substatus_id: 2718
@@ -473,6 +351,128 @@
       by addiction through mentorship, spiritual guidance, and leadership development.
     cause: Recovery & Transitional Living
     tags: Recovery&TransitionalLiving,oklahoma
+- id: shw
+  f1_campus_id: 60358
+  f1_substatus_id: 4103
+  title: Shawnee, OK
+  email: SHW.Serving@life.church
+  phone: 405-695-6600
+  address: 5630 North Harrison Shawnee, OK 74804
+  facebook: '1602447766664787'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 60
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 60
+    type: switch
+    type_name: Switch
+  missions:
+  - id: 88
+    title: Cargo Ranch
+    recipient: SHW.Serving@life.church
+    url: http://cargoranch.org
+    description_medium: Share hope and build character in children and youth by meeting
+      their emotional and spiritual needs in an outdoor environment.
+    cause: Mentoring & Education
+    tags: mentoring,education
+  - id: 92
+    title: Community Renewal of Pottawatomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: Serve as a block leader to help your neighbors restore our
+      community through intentional, caring relationships.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,development,oklahoma,okc
 - id: tul
   f1_campus_id: 4347
   f1_substatus_id: 383
