@@ -52,6 +52,10 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages:
+  - title: Changed
+    headline: ''
+    video: 
+    platform_id: a26d7b991154
   - title: Something Just Like This
     headline: ''
     video: 
