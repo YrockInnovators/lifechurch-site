@@ -1,4 +1,47 @@
 ---
+- id: overcomer
+  title: Overcomer
+  headline: Stare down your fears, shatter your insecurities. Shake off the apathy
+    trying to hold you back. You’re not a prisoner—you’re an Overcomer.
+  description_small: You’ve got the power to shatter your weakness and rip off your
+    labels. It’s time to take a swing. You’re an Overcomer.
+  description_medium: Stare down your fears, shatter your insecurities, and shake
+    off the apathy that tries to hold you back. You’re not a prisoner—you’re an Overcomer.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3246-overcomer
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 30
+    name: Fears
+    created_at: '2014-06-11T15:18:18.611-05:00'
+    updated_at: '2014-06-11T15:18:18.611-05:00'
+  - id: 31
+    name: Insecurity
+    created_at: '2014-06-11T15:18:45.147-05:00'
+    updated_at: '2014-06-11T15:18:45.147-05:00'
+  - id: 32
+    name: Pessimistic
+    created_at: '2014-06-11T15:19:13.577-05:00'
+    updated_at: '2014-06-11T15:19:13.577-05:00'
+  - id: 35
+    name: Feelings
+    created_at: '2014-06-11T15:20:16.022-05:00'
+    updated_at: '2014-06-11T15:20:16.022-05:00'
+  - id: 36
+    name: Thoughts
+    created_at: '2014-06-11T15:20:28.824-05:00'
+    updated_at: '2014-06-11T15:20:28.824-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: playlist
   title: Playlist
   headline: Your life has a soundtrack. Don’t just shuffle through your days—create
