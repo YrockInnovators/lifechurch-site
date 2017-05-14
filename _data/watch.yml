@@ -41,7 +41,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: Overcoming the Curse of Comparing
+    headline: ''
+    video: 
+    platform_id: aaf87fc0e8d8
 - id: playlist
   title: Playlist
   headline: Your life has a soundtrack. Don’t just shuffle through your days—create
