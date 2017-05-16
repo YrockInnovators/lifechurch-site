@@ -189,168 +189,6 @@
       their lives in accordance with the Word of God.
     cause: Recovery & Transitional Living
     tags: wellington,florida
-- id: mor
-  f1_campus_id: 34644
-  f1_substatus_id: 2718
-  title: Moore, OK
-  email: mor.serving@life.church
-  phone: 405-237-4844
-  address: 2916 S. Telephone Rd. Moore, OK 73160
-  facebook: '409843575804511'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 48
-    title: Serve Moore
-    recipient: mor.serving@life.church
-    url: http://www.servemoore.com/
-    description_medium: Help bring healing and restoration to Moore, Oklahoma and
-      its surrounding communities by sharing the Gospel and meeting the needs of its
-      residents.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,involvement,oklahoma,okc
-  - id: 86
-    title: Angels Foster Family Network
-    recipient: mor.serving@life.church
-    url: https://angelsfosterokc.org/
-    description_medium: Our mission is to rescue abused, abandoned, and neglected
-      children, match them with a select group of trained foster parents and ensure
-      the maximum emotional, social, and intellectual development of each child.
-    cause: Adoption & Foster Care
-    tags: moore,okc,adoption,fostering
-  - id: 72
-    title: Mid-Del Youth & Family Center
-    recipient: mor.serving@life.church
-    url: http://www.mid-delyouth.org/
-    description_medium: Provide hope and restoration for children living in emergency
-      shelter through tutoring, mentoring relationships, reading at story time, or
-      field trips.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,oklahoma,okc
-  - id: 64
-    title: Loveworks Leadership
-    recipient: mor.serving@life.church
-    url: http://loveworksleadership.org
-    description_medium: Provide tutoring and mentorship for school-age children in
-      the Norman area geared towards developing life and leadership skills through
-      academic, leadership and community programs.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
-  - id: 90
-    title: Hope is Alive
-    recipient: mor.serving@life.church
-    url: http://hopeisalive.net/
-    description_medium: Help change the lives of individuals and families affected
-      by addiction through mentorship, spiritual guidance, and leadership development.
-    cause: Recovery & Transitional Living
-    tags: Recovery&TransitionalLiving,oklahoma
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -2026,6 +1864,168 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,oklahoma,okc
+- id: mor
+  f1_campus_id: 34644
+  f1_substatus_id: 2718
+  title: Moore, OK
+  email: mor.serving@life.church
+  phone: 405-237-4844
+  address: 2916 S. Telephone Rd. Moore, OK 73160
+  facebook: '409843575804511'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 48
+    title: Serve Moore
+    recipient: mor.serving@life.church
+    url: http://www.servemoore.com/
+    description_medium: Help bring healing and restoration to Moore, Oklahoma and
+      its surrounding communities by sharing the Gospel and meeting the needs of its
+      residents.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,involvement,oklahoma,okc
+  - id: 86
+    title: Angels Foster Family Network
+    recipient: mor.serving@life.church
+    url: https://angelsfosterokc.org/
+    description_medium: Our mission is to rescue abused, abandoned, and neglected
+      children, match them with a select group of trained foster parents and ensure
+      the maximum emotional, social, and intellectual development of each child.
+    cause: Adoption & Foster Care
+    tags: moore,okc,adoption,fostering
+  - id: 72
+    title: Mid-Del Youth & Family Center
+    recipient: mor.serving@life.church
+    url: http://www.mid-delyouth.org/
+    description_medium: Provide hope and restoration for children living in emergency
+      shelter through tutoring, mentoring relationships, reading at story time, or
+      field trips.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,oklahoma,okc
+  - id: 90
+    title: Hope is Alive
+    recipient: mor.serving@life.church
+    url: http://hopeisalive.net/
+    description_medium: Help change the lives of individuals and families affected
+      by addiction through mentorship, spiritual guidance, and leadership development.
+    cause: Recovery & Transitional Living
+    tags: Recovery&TransitionalLiving,oklahoma,okc
+  - id: 64
+    title: Loveworks Leadership
+    recipient: mor.serving@life.church
+    url: http://loveworksleadership.org
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
 - id: fts
   f1_campus_id: 70273
   f1_substatus_id: 4918
@@ -2288,6 +2288,187 @@
       caring for these children.
     cause: Adoption & Foster Care
     tags: adoption,fostering,tulsa
+- id: okc
+  f1_campus_id: 4351
+  f1_substatus_id: 381
+  title: Oklahoma City, OK
+  email: okc.serving@life.church
+  phone: 405-478-5433
+  address: 2001 NW. 178th St. Edmond, OK 73012
+  facebook: '284153305483'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:00PM
+    time: 18-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 54
+    title: Peppers Ranch
+    recipient: okc.serving@life.church
+    url: www.peppersranch.com
+    description_medium: Help break the cycle of child abuse and neglect through loving
+      and growth-oriented activities with children living on the ranch.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,oklahoma,okc
+  - id: 55
+    title: Autism Oklahoma
+    recipient: okc.serving@life.church
+    url: http://www.autismoklahoma.org/
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
+    cause: Mentoring & Education
+    tags: mentoring,education,autism,oklahoma,okc
+  - id: 56
+    title: Edmond Mobile Meals
+    recipient: okc.serving@life.church
+    url: www.edmondmobilemeals.org
+    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
+      and recuperating adults while building relationships each visit.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: okc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 87
+    title: Branch15
+    recipient: okc.serving@life.church
+    url: http://www.branch15.org/
+    description_medium: Walk alongside women on their paths to recovery and independent,
+      sustainable living.
+    cause: Recovery & Transitional Living
+    tags: okc,recovery,transition
+  - id: 78
+    title: LifeTroops
+    recipient: okc.serving@life.church
+    url: http://lifetroops.tv/
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc
+  - id: 90
+    title: Hope is Alive
+    recipient: okc.serving@life.church
+    url: http://hopeisalive.net/
+    description_medium: Help change the lives of individuals and families affected
+      by addiction through mentorship, spiritual guidance, and leadership development.
+    cause: Recovery & Transitional Living
+    tags: Recovery&TransitionalLiving,oklahoma,okc
+  - id: 80
+    title: Bethel Foundation
+    recipient: okc.serving@life.church
+    url: http://www.bethelfoundationusa.com/home.aspx
+    description_medium: Help single mothers and their children through life skills
+      mentoring and assisting to meet their basic needs.
+    cause: Mentoring & Education
+    tags: single,mom,moms,oklahoma,okc
+  - id: 101
+    title: 405 Center
+    recipient: okc.serving@life.church
+    url: The mission of KLIFE is to impact a youth culture for Christ. We do this
+      by equipping and mobilizing volunteers throughout the community to lead small
+      group bible studies for junior high and high school students.
+    description_medium: We convene, train, equip, and deploy people to be the change
+      they want to see in our city.
+    cause: Neighborhood/Community Development
+    tags: oklahoma,okc
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2743,12 +2924,6 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 09:00PM
-    time: 21-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 07:00PM
     time: 19-00
     day: mon
@@ -2825,179 +3000,6 @@
       lead small group bible studies for junior high and high school students.
     cause: Neighborhood/Community Development
     tags: oklahoma,stillwater
-- id: okc
-  f1_campus_id: 4351
-  f1_substatus_id: 381
-  title: Oklahoma City, OK
-  email: okc.serving@life.church
-  phone: 405-478-5433
-  address: 2001 NW. 178th St. Edmond, OK 73012
-  facebook: '284153305483'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 54
-    title: Peppers Ranch
-    recipient: okc.serving@life.church
-    url: www.peppersranch.com
-    description_medium: Help break the cycle of child abuse and neglect through loving
-      and growth-oriented activities with children living on the ranch.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,oklahoma,okc
-  - id: 55
-    title: Autism Oklahoma
-    recipient: okc.serving@life.church
-    url: http://www.autismoklahoma.org/
-    description_medium: Grow, learn, and serve the families affected by autism in
-      Oklahoma.
-    cause: Mentoring & Education
-    tags: mentoring,education,autism,oklahoma,okc
-  - id: 56
-    title: Edmond Mobile Meals
-    recipient: okc.serving@life.church
-    url: www.edmondmobilemeals.org
-    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
-      and recuperating adults while building relationships each visit.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,okc
-  - id: 66
-    title: True North Ministries
-    recipient: okc.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 87
-    title: Branch15
-    recipient: okc.serving@life.church
-    url: http://www.branch15.org/
-    description_medium: Walk alongside women on their paths to recovery and independent,
-      sustainable living.
-    cause: Recovery & Transitional Living
-    tags: okc,recovery,transition
-  - id: 78
-    title: LifeTroops
-    recipient: okc.serving@life.church
-    url: http://lifetroops.tv/
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    cause: Military
-    tags: military,depression,oklahoma,okc
-  - id: 80
-    title: Bethel Foundation
-    recipient: okc.serving@life.church
-    url: http://www.bethelfoundationusa.com/home.aspx
-    description_medium: Help single mothers and their children through life skills
-      mentoring and assisting to meet their basic needs.
-    cause: Mentoring & Education
-    tags: single,mom,moms,oklahoma,okc
-  - id: 101
-    title: 405 Center
-    recipient: okc.serving@life.church
-    url: The mission of KLIFE is to impact a youth culture for Christ. We do this
-      by equipping and mobilizing volunteers throughout the community to lead small
-      group bible studies for junior high and high school students.
-    description_medium: We convene, train, equip, and deploy people to be the change
-      they want to see in our city.
-    cause: Neighborhood/Community Development
-    tags: oklahoma,okc
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
