@@ -2855,6 +2855,16 @@
   facebook: https://www.facebook.com/life.church
   times: []
   missions: []
+- id: nor
+  f1_campus_id: 71316
+  f1_substatus_id: 5032
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-701-6556
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '1850166821975921'
+  times: []
+  missions: []
 - id: stw
   f1_campus_id: 4348
   f1_substatus_id: 385
@@ -3148,13 +3158,3 @@
       inner-city boys and girls.
     cause: Mentoring & Education
     tags: okc,oklahomacity
-- id: nor
-  f1_campus_id: 71316
-  f1_substatus_id: 5032
-  title: Norman, OK
-  email: nor.serving@life.church
-  phone: 405-478-5433
-  address: 1500 E. Imhoff Rd. Norman, OK 73071
-  facebook: '000'
-  times: []
-  missions: []
