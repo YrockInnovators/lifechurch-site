@@ -1,14 +1,4 @@
 ---
-- id: cen
-  f1_campus_id: 7265
-  f1_substatus_id: 0
-  title: Central Support Office
-  email: ''
-  phone: 405-680-5433
-  address: 4600 E. 2nd St. Edmond, OK 73034
-  facebook: '1'
-  times: []
-  missions: []
 - id: klr
   f1_campus_id: 34645
   f1_substatus_id: 2719
@@ -994,6 +984,16 @@
       awareness of the issues of human trafficking in Wichita.
     cause: Recovery & Transitional Living
     tags: recovery&transitionalliving,mentoring&education,kansas,wch
+- id: cen
+  f1_campus_id: 7265
+  f1_substatus_id: 0
+  title: Central Support Office
+  email: ''
+  phone: 405-680-5433
+  address: 4600 E. 2nd St. Edmond, OK 73034
+  facebook: '1'
+  times: []
+  missions: []
 - id: hnv
   f1_campus_id: 4344
   f1_substatus_id: 378
@@ -3148,3 +3148,13 @@
       inner-city boys and girls.
     cause: Mentoring & Education
     tags: okc,oklahomacity
+- id: nor
+  f1_campus_id: 0
+  f1_substatus_id: 0
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-478-5433
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '000'
+  times: []
+  missions: []
