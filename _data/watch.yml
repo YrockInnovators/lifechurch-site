@@ -1,4 +1,44 @@
 ---
+- id: the-vow
+  title: The Vow
+  headline: Whether you hope to get married someday or you’ve already tied the knot,
+    discover what The Vow can mean for the future.
+  description_small: Wedding vows are more than a declaration of love—they hold the
+    keys to a strong, lasting marriage. Discover what The Vow can mean for your future.
+  description_medium: Wedding vows are more than a declaration of love—they hold the
+    keys to a strong, lasting marriage. Whether you hope to get married someday or
+    you’ve already tied the knot, discover what The Vow can mean for the future.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3257-the-vow
+  promo: ''
+  resources_url: https://www.bible.com/reading-plans-collection/1386
+  categories:
+  - id: 12
+    name: Marriage
+    created_at: '2014-06-05T19:14:26.586-05:00'
+    updated_at: '2014-06-05T19:14:26.586-05:00'
+  - id: 15
+    name: Family
+    created_at: '2014-06-05T19:32:01.499-05:00'
+    updated_at: '2014-06-05T19:32:01.499-05:00'
+  - id: 1
+    name: Relationships
+    created_at: '2014-02-03T22:38:58.852-06:00'
+    updated_at: '2014-06-05T19:41:17.695-05:00'
+  - id: 17
+    name: Dating
+    created_at: '2014-06-11T15:14:52.700-05:00'
+    updated_at: '2014-06-11T15:14:52.700-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: overcomer
   title: Overcomer
   headline: Stare down your fears, shatter your insecurities. Shake off the apathy
