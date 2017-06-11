@@ -38,7 +38,11 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages: []
+  messages:
+  - title: The Vow of Priority
+    headline: ''
+    video: 
+    platform_id: dbab50732d86
 - id: overcomer
   title: Overcomer
   headline: Stare down your fears, shatter your insecurities. Shake off the apathy
