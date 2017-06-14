@@ -909,14 +909,6 @@
     type: roots
     type_name: Roots
   missions:
-  - id: 70
-    title: Big Brothers Big Sisters of Kansas
-    recipient: wch.serving@life.church
-    url: ''
-    description_medium: Help children and at-risk youth realize their potential and
-      build their futures through positive mentoring relationships.
-    cause: Mentoring & Education
-    tags: mentoring,education,big,overland-park,wichita
   - id: 113
     title: ICT SOS
     recipient: wch.serving@life.church
