@@ -25,11 +25,7 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages:
-  - title: 'Bonus Content: Week 1'
-    headline: ''
-    video: 
-    platform_id: 18a64ec80d52
+  messages: []
 - id: the-vow
   title: The Vow
   headline: Whether you hope to get married someday or you’ve already tied the knot,
