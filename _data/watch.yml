@@ -26,6 +26,40 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages: []
+- id: find-at-the-movies-and-more
+  title: Find At the Movies & More
+  headline: During At the Movies, you’re invited to explore them with us! This new
+    series starts this July, and you can only experience it at a Life.Church location
+    or at Church Online.
+  description_small: At the Movies is an awesome experience—one you can only see at
+    one of our Life.Church locations or at Church Online! We've prepared something
+    special for you if you're watching on-demand.
+  description_medium: At the Movies is an awesome experience—one you can only see
+    at one of our Life.Church locations or at Church Online! We've prepared something
+    special for you if you're watching on-demand.
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3258-at-the-movies-2017
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 26
+    name: Hope
+    created_at: '2014-06-11T15:17:15.185-05:00'
+    updated_at: '2014-06-11T15:17:15.185-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages:
+  - title: Week 1
+    headline: ''
+    video: 
+    platform_id: bac9d53c9347
 - id: the-vow
   title: The Vow
   headline: Whether you hope to get married someday or you’ve already tied the knot,
