@@ -26,20 +26,20 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages: []
-- id: find-at-the-movies-and-more
-  title: Find At the Movies & More
-  headline: During At the Movies, you’re invited to explore them with us! This new
-    series starts this July, and you can only experience it at a Life.Church location
-    or at Church Online.
-  description_small: At the Movies is an awesome experience—one you can only see at
-    one of our Life.Church locations or at Church Online! We've prepared something
-    special for you if you're watching on-demand.
-  description_medium: At the Movies is an awesome experience—one you can only see
-    at one of our Life.Church locations or at Church Online! We've prepared something
-    special for you if you're watching on-demand.
+- id: leadership-insights
+  title: Leadership Insights
+  headline: God created you to be a leader, but don’t have to know it all to be a
+    great one! Let’s build our leadership potential with insights from Pastor Craig.
+  description_small: God created you to be a leader, but don’t have to know it all
+    to be a great one! Let’s build our leadership potential with insights from Pastor
+    Craig.
+  description_medium: God created you to be a leader, but don’t have to know it all
+    to be a great one! Let’s build our leadership potential with insights from Pastor
+    Craig. If you're looking for At the Movies, be sure to check it out at one of
+    our Life.Church locations or at Church Online.
   quote: ''
   quote_cite: ''
-  open_url: https://open.life.church/resources/3258-at-the-movies-2017
+  open_url: ''
   promo: ''
   resources_url: ''
   categories:
