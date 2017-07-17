@@ -25,11 +25,7 @@
   image_banner_archive_2x: ''
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
-  messages:
-  - title: Week 2
-    headline: ''
-    video: 
-    platform_id: e21795f984b0
+  messages: []
 - id: leadership-insights
   title: Leadership Insights
   headline: God created you to be a leader, but don’t have to know it all to be a
