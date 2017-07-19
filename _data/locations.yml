@@ -1868,85 +1868,6 @@
       needs, their families, and their communities.
     cause: Mentoring & Education
     tags: Mentoring&Education,Recovery&TransitionalLiving,tulsa,oklahoma
-- id: klr
-  f1_campus_id: 34645
-  f1_substatus_id: 2719
-  title: Keller, TX
-  email: klr.serving@life.church
-  phone: 682-593-1140
-  address: 1075 Keller Pkwy. Keller, TX 76248
-  facebook: '343331435797233'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 115
-    title: Community Storehouse
-    recipient: klr.serving@life.church
-    url: "http://www.communitystorehouse.org/\t"
-    description_medium: "Community Storehouse is dedicated to the education and well-being
-      of low-income children in our community. Our vision is to help close the gap
-      between opportunity and achievement for children in our community.\t"
-    cause: Food, Clothing, & Shelter
-    tags: food,Clothing&Shelter,Mentoring&Education,keller,texas
 - id: mus
   f1_campus_id: 42406
   f1_substatus_id: 3585
@@ -2073,6 +1994,85 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,oklahoma,okc
+- id: klr
+  f1_campus_id: 34645
+  f1_substatus_id: 2719
+  title: Keller, TX
+  email: klr.serving@life.church
+  phone: 682-593-1140
+  address: 1075 Keller Pkwy. Keller, TX 76248
+  facebook: '343331435797233'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 115
+    title: Community Storehouse
+    recipient: klr.serving@life.church
+    url: "http://www.communitystorehouse.org/\t"
+    description_medium: "Community Storehouse is dedicated to the education and well-being
+      of low-income children in our community. Our vision is to help close the gap
+      between opportunity and achievement for children in our community.\t"
+    cause: Food, Clothing, & Shelter
+    tags: food,Clothing&Shelter,Mentoring&Education,keller,texas
 - id: rrn
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -2181,6 +2181,199 @@
     type: service
     type_name: Service
   missions: []
+- id: okc
+  f1_campus_id: 4351
+  f1_substatus_id: 381
+  title: Oklahoma City, OK
+  email: okc.serving@life.church
+  phone: 405-478-5433
+  address: 2001 NW. 178th St. Edmond, OK 73012
+  facebook: '284153305483'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 54
+    title: Peppers Ranch
+    recipient: okc.serving@life.church
+    url: www.peppersranch.com
+    description_medium: Help break the cycle of child abuse and neglect through loving
+      and growth-oriented activities with children living on the ranch.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,oklahoma,okc
+  - id: 55
+    title: Autism Oklahoma
+    recipient: okc.serving@life.church
+    url: http://www.autismoklahoma.org/
+    description_medium: Grow, learn, and serve the families affected by autism in
+      Oklahoma.
+    cause: Mentoring & Education
+    tags: mentoring,education,autism,oklahoma,okc
+  - id: 56
+    title: Edmond Mobile Meals
+    recipient: okc.serving@life.church
+    url: www.edmondmobilemeals.org
+    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
+      and recuperating adults while building relationships each visit.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: okc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 87
+    title: Branch15
+    recipient: okc.serving@life.church
+    url: http://www.branch15.org/
+    description_medium: Walk alongside women on their paths to recovery and independent,
+      sustainable living.
+    cause: Recovery & Transitional Living
+    tags: okc,recovery,transition
+  - id: 78
+    title: LifeTroops
+    recipient: okc.serving@life.church
+    url: http://lifetroops.tv/
+    description_medium: Help soldiers returning from combat and family members through
+      spiritual mentorship, counseling, educational and other programs that will “bridge
+      the gap” between reintegration and everyday life.
+    cause: Military
+    tags: military,depression,oklahoma,okc
+  - id: 90
+    title: Hope is Alive
+    recipient: okc.serving@life.church
+    url: http://hopeisalive.net/
+    description_medium: Help change the lives of individuals and families affected
+      by addiction through mentorship, spiritual guidance, and leadership development.
+    cause: Recovery & Transitional Living
+    tags: Recovery&TransitionalLiving,oklahoma,okc
+  - id: 80
+    title: Bethel Foundation
+    recipient: okc.serving@life.church
+    url: http://www.bethelfoundationusa.com/home.aspx
+    description_medium: Help single mothers and their children through life skills
+      mentoring and assisting to meet their basic needs.
+    cause: Mentoring & Education
+    tags: single,mom,moms,oklahoma,okc
+  - id: 101
+    title: 405 Center
+    recipient: okc.serving@life.church
+    url: The mission of KLIFE is to impact a youth culture for Christ. We do this
+      by equipping and mobilizing volunteers throughout the community to lead small
+      group bible studies for junior high and high school students.
+    description_medium: We convene, train, equip, and deploy people to be the change
+      they want to see in our city.
+    cause: Neighborhood/Community Development
+    tags: oklahoma,okc
 - id: bao
   f1_campus_id: 17716
   f1_substatus_id: 1064
@@ -2488,26 +2681,6 @@
       relief services, or youth mentoring and coaching.
     cause: Food, Clothing, & Shelter
     tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
-- id: int
-  f1_campus_id: 387
-  f1_substatus_id: 33723449
-  title: Church Online
-  email: ''
-  phone: '4052167170'
-  address: 4600 E 2nd St Edmond, Oklahoma 73034
-  facebook: https://www.facebook.com/life.church
-  times: []
-  missions: []
-- id: nor
-  f1_campus_id: 71316
-  f1_substatus_id: 5032
-  title: Norman, OK
-  email: nor.serving@life.church
-  phone: 405-701-6556
-  address: 1500 E. Imhoff Rd. Norman, OK 73071
-  facebook: '1850166821975921'
-  times: []
-  missions: []
 - id: stw
   f1_campus_id: 4348
   f1_substatus_id: 385
@@ -2653,6 +2826,16 @@
       lead small group bible studies for junior high and high school students.
     cause: Neighborhood/Community Development
     tags: oklahoma,stillwater
+- id: int
+  f1_campus_id: 387
+  f1_substatus_id: 33723449
+  title: Church Online
+  email: ''
+  phone: '4052167170'
+  address: 4600 E 2nd St Edmond, Oklahoma 73034
+  facebook: https://www.facebook.com/life.church
+  times: []
+  missions: []
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2905,21 +3088,15 @@
       get them involved into activities that provide good self esteem.\t"
     cause: Military
     tags: military,midwestcity,oklahomacity,oklahoma
-- id: okc
-  f1_campus_id: 4351
-  f1_substatus_id: 381
-  title: Oklahoma City, OK
-  email: okc.serving@life.church
-  phone: 405-478-5433
-  address: 2001 NW. 178th St. Edmond, OK 73012
-  facebook: '284153305483'
+- id: opk
+  f1_campus_id: 64790
+  f1_substatus_id: 4368
+  title: Overland Park, KS
+  email: 'opk.serving@life.church '
+  phone: 913-279-0012
+  address: 9800 W. 135th St. Overland Park, KS 66213
+  facebook: '1078785968812011'
   times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -2932,172 +3109,80 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 01:00PM
-    time: 13-00
+  - title: 10:00AM
+    time: 10-00
     day: sun
     duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
     duration: 60
-    type: service
-    type_name: Service
+    type: lifekids
+    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   missions:
-  - id: 54
-    title: Peppers Ranch
-    recipient: okc.serving@life.church
-    url: www.peppersranch.com
-    description_medium: Help break the cycle of child abuse and neglect through loving
-      and growth-oriented activities with children living on the ranch.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,oklahoma,okc
-  - id: 55
-    title: Autism Oklahoma
-    recipient: okc.serving@life.church
-    url: http://www.autismoklahoma.org/
-    description_medium: Grow, learn, and serve the families affected by autism in
-      Oklahoma.
-    cause: Mentoring & Education
-    tags: mentoring,education,autism,oklahoma,okc
-  - id: 56
-    title: Edmond Mobile Meals
-    recipient: okc.serving@life.church
-    url: www.edmondmobilemeals.org
-    description_medium: Provide a hot meal to Edmond’s homebound elderly, disabled,
-      and recuperating adults while building relationships each visit.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,oklahoma,okc
+  - id: 102
+    title: Mission Adelante
+    recipient: 'opk.serving@life.church '
+    url: http://www.missionadelante.org/
+    description_medium: We envision a growing multicultural community of disciples
+      making disciples, where immigrants and others are thriving and using our gifts
+      together to transform our neighborhood and the world for the glory of Jesus
+      Christ.
+    cause: Neighborhood/Community Development
+    tags: overlandpark,kansas,
+- id: nor
+  f1_campus_id: 71316
+  f1_substatus_id: 5032
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-701-6556
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '1850166821975921'
+  times: []
+  missions:
   - id: 66
     title: True North Ministries
-    recipient: okc.serving@life.church
+    recipient: nor.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
     cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
-  - id: 87
-    title: Branch15
-    recipient: okc.serving@life.church
-    url: http://www.branch15.org/
-    description_medium: Walk alongside women on their paths to recovery and independent,
-      sustainable living.
-    cause: Recovery & Transitional Living
-    tags: okc,recovery,transition
-  - id: 78
-    title: LifeTroops
-    recipient: okc.serving@life.church
-    url: http://lifetroops.tv/
-    description_medium: Help soldiers returning from combat and family members through
-      spiritual mentorship, counseling, educational and other programs that will “bridge
-      the gap” between reintegration and everyday life.
-    cause: Military
-    tags: military,depression,oklahoma,okc
-  - id: 90
-    title: Hope is Alive
-    recipient: okc.serving@life.church
-    url: http://hopeisalive.net/
-    description_medium: Help change the lives of individuals and families affected
-      by addiction through mentorship, spiritual guidance, and leadership development.
-    cause: Recovery & Transitional Living
-    tags: Recovery&TransitionalLiving,oklahoma,okc
-  - id: 80
-    title: Bethel Foundation
-    recipient: okc.serving@life.church
-    url: http://www.bethelfoundationusa.com/home.aspx
-    description_medium: Help single mothers and their children through life skills
-      mentoring and assisting to meet their basic needs.
+  - id: 64
+    title: Loveworks Leadership
+    recipient: nor.serving@life.church
+    url: http://loveworksleadership.org
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
     cause: Mentoring & Education
-    tags: single,mom,moms,oklahoma,okc
-  - id: 101
-    title: 405 Center
-    recipient: okc.serving@life.church
-    url: The mission of KLIFE is to impact a youth culture for Christ. We do this
-      by equipping and mobilizing volunteers throughout the community to lead small
-      group bible studies for junior high and high school students.
-    description_medium: We convene, train, equip, and deploy people to be the change
-      they want to see in our city.
-    cause: Neighborhood/Community Development
-    tags: oklahoma,okc
+    tags: mentoring,education,oklahoma,okc
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -3266,71 +3351,3 @@
       are the bridge that lead to restoration.\t"
     cause: Neighborhood/Community Development
     tags: Neighborhood/CommunityDevelopment,MentoringEducation,SpiritualDevelopment,oklahomacity,oklahoma
-- id: opk
-  f1_campus_id: 64790
-  f1_substatus_id: 4368
-  title: Overland Park, KS
-  email: 'opk.serving@life.church '
-  phone: 913-279-0012
-  address: 9800 W. 135th St. Overland Park, KS 66213
-  facebook: '1078785968812011'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 102
-    title: Mission Adelante
-    recipient: 'opk.serving@life.church '
-    url: http://www.missionadelante.org/
-    description_medium: We envision a growing multicultural community of disciples
-      making disciples, where immigrants and others are thriving and using our gifts
-      together to transform our neighborhood and the world for the glory of Jesus
-      Christ.
-    cause: Neighborhood/Community Development
-    tags: overlandpark,kansas,
