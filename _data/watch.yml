@@ -37,37 +37,6 @@
   image_banner_archive_small: ''
   image_banner_archive_small_2x: ''
   messages: []
-- id: at-the-movies
-  title: At the Movies
-  headline: During At the Movies, you’re invited to explore them with us! This new
-    series starts this July, and you can only experience it at a Life.Church location
-    or at Church Online.
-  description_small: Powerful truths live in some of our favorite movie moments. This
-    July, you’re invited to explore them with us! You can only experience At the Movies
-    at Life.Church or at Church Online!
-  description_medium: Powerful truths live in some of our favorite movie moments.
-    During At the Movies, you’re invited to explore them with us! This new series
-    starts this July, and you can only experience it at a Life.Church location or
-    at Church Online!
-  quote: ''
-  quote_cite: ''
-  open_url: https://open.life.church/resources/3258-at-the-movies-2017
-  promo: ''
-  resources_url: ''
-  categories: []
-  image_small: ''
-  image_medium: ''
-  image_large: ''
-  image_social: ''
-  image_banner_archive: ''
-  image_banner_archive_2x: ''
-  image_banner_archive_small: ''
-  image_banner_archive_small_2x: ''
-  messages:
-  - title: Week 4
-    headline: ''
-    video: 
-    platform_id: 5308403e7011
 - id: leadership-insights
   title: Leadership Insights
   headline: God created you to be a leader, but don’t have to know it all to be a
