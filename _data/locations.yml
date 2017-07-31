@@ -1,95 +1,4 @@
 ---
-- id: alb
-  f1_campus_id: 4341
-  f1_substatus_id: 375
-  title: Albany, NY
-  email: alb.serving@life.church
-  phone: 518-456-0969
-  address: 687 Watervliet Shaker Rd Latham, NY 12110
-  facebook: '198238577847'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 30
-    title: City Mission of Schenectady
-    recipient: alb.serving@life.church
-    url: http://citymission.com/
-    description_medium: City Missions provides for the needs of the hungry and homeless
-      in our community. Their mission is to help people get out of poverty - and stay
-      out.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,newyork,albany
-  - id: 114
-    title: Capital Roots
-    recipient: alb.serving@life.church
-    url: www.capitalroots.org
-    description_medium: Our Vision for the future is of a Capital Region where every
-      person has access to fresh, affordable, healthy food. Today Capital Roots works
-      to reduce the impact of poor nutrition on public health in New York’s Capital
-      Region by organizing community gardens, providing healthy food access, offering
-      nutritional and horticultural education for all ages and coordinating urban
-      greening programs in Albany, Rensselaer, Schenectady and southern Saratoga Counties.
-    cause: Food, Clothing, & Shelter
-    tags: Food,Clothing&Shelter,Neighborhood/CommunityDev,Mentoring&Education,albany,newyork
 - id: sba
   f1_campus_id: 42154
   f1_substatus_id: 3547
@@ -394,6 +303,105 @@
       academic, leadership and community programs.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
+- id: bnb
+  f1_campus_id: 39919
+  f1_substatus_id: 3438
+  title: Broadway and Britton, OK
+  email: bnb.serving@life.church
+  phone: 405-213-0248
+  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
+  facebook: '227205990810209'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  missions:
+  - id: 34
+    title: The Spero Project
+    recipient: bnb.serving@life.church
+    url: http://www.thesperoproject.com/
+    description_medium: Confront injustice and oppression by mobilizing the Church
+      to fully engage in a biblical response to under-resourced populations.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,involvement,oklahoma,okc
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: bnb.serving@life.church
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
+  - id: 3
+    title: Whiz Kids
+    recipient: bnb.serving@life.church
+    url: http://www.whizkidsok.org/
+    description_medium: Improve the well-being of inner city youth through academic
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
+  - id: 83
+    title: Little Light Christian School
+    recipient: bnb.serving@life.church
+    url: ''
+    description_medium: Pour into the lives of children with incarcerated parents
+      and help break the cycle of incarceration in Oklahoma through mentoring relationships.
+    cause: Mentoring & Education
+    tags: mentoring,education,broadway,britton,oklahoma,okc
+  - id: 98
+    title: Good Shepherd Ministries
+    recipient: bnb.serving@life.church
+    url: ''
+    description_medium: "Show God's love to the uninsured as they receive medical
+      and dental care and to the broken as they \r\nrecieve spiritual care."
+    cause: Neighborhood/Community Development
+    tags: 
 - id: shw
   f1_campus_id: 60358
   f1_substatus_id: 4103
@@ -829,21 +837,15 @@
       and expand our program to offer homework help and tutoring programs.
     cause: Neighborhood/Community Development
     tags: Neighborhood/CommunityDevelopment,Mentoring,Education,SpiritualDevelopment,tulsa
-- id: bnb
-  f1_campus_id: 39919
-  f1_substatus_id: 3438
-  title: Broadway and Britton, OK
-  email: bnb.serving@life.church
-  phone: 405-213-0248
-  address: 9001 N. Broadway Extension Oklahoma City, OK 73114
-  facebook: '227205990810209'
+- id: klr
+  f1_campus_id: 34645
+  f1_substatus_id: 2719
+  title: Keller, TX
+  email: klr.serving@life.church
+  phone: 682-593-1140
+  address: 1075 Keller Pkwy. Keller, TX 76248
+  facebook: '343331435797233'
   times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -860,8 +862,8 @@
     time: 08-30
     day: sun
     duration: 60
-    type: lifekids
-    type_name: LifeKids
+    type: service
+    type_name: Service
   - title: 10:00AM
     time: 10-00
     day: sun
@@ -874,72 +876,34 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: switch
     type_name: Switch
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 08:30AM
+    time: 08-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
   missions:
-  - id: 34
-    title: The Spero Project
-    recipient: bnb.serving@life.church
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,involvement,oklahoma,okc
-  - id: 23
-    title: T.E.E.M (The Education and Employment Ministry)
-    recipient: bnb.serving@life.church
-    url: http://www.teem.org/
-    description_medium: Empower individuals to reach their God-given potential through
-      mentoring relationships with those leaving incarceration.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
-  - id: 3
-    title: Whiz Kids
-    recipient: bnb.serving@life.church
-    url: http://www.whizkidsok.org/
-    description_medium: Improve the well-being of inner city youth through academic
-      tutoring, positive mentoring relationships, and communicating spiritual and
-      moral values.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
-  - id: 83
-    title: Little Light Christian School
-    recipient: bnb.serving@life.church
-    url: ''
-    description_medium: Pour into the lives of children with incarcerated parents
-      and help break the cycle of incarceration in Oklahoma through mentoring relationships.
-    cause: Mentoring & Education
-    tags: mentoring,education,broadway,britton,oklahoma,okc
-  - id: 98
-    title: Good Shepherd Ministries
-    recipient: bnb.serving@life.church
-    url: ''
-    description_medium: "Show God's love to the uninsured as they receive medical
-      and dental care and to the broken as they \r\nrecieve spiritual care."
-    cause: Neighborhood/Community Development
-    tags: 
+  - id: 115
+    title: Community Storehouse
+    recipient: klr.serving@life.church
+    url: "http://www.communitystorehouse.org/\t"
+    description_medium: "Community Storehouse is dedicated to the education and well-being
+      of low-income children in our community. Our vision is to help close the gap
+      between opportunity and achievement for children in our community.\t"
+    cause: Food, Clothing, & Shelter
+    tags: food,Clothing&Shelter,Mentoring&Education,keller,texas
 - id: ykn
   f1_campus_id: 13160
   f1_substatus_id: 401
@@ -1994,14 +1958,14 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,oklahoma,okc
-- id: klr
-  f1_campus_id: 34645
-  f1_substatus_id: 2719
-  title: Keller, TX
-  email: klr.serving@life.church
-  phone: 682-593-1140
-  address: 1075 Keller Pkwy. Keller, TX 76248
-  facebook: '343331435797233'
+- id: alb
+  f1_campus_id: 4341
+  f1_substatus_id: 375
+  title: Albany, NY
+  email: alb.serving@life.church
+  phone: 518-456-0969
+  address: 687 Watervliet Shaker Rd Latham, NY 12110
+  facebook: '198238577847'
   times:
   - title: 10:00AM
     time: 10-00
@@ -2009,30 +1973,6 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2045,34 +1985,58 @@
     duration: 120
     type: roots
     type_name: Roots
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sat
+  - title: 11:30AM
+    time: 11-30
+    day: sun
     duration: 60
     type: service
     type_name: Service
   missions:
-  - id: 115
-    title: Community Storehouse
-    recipient: klr.serving@life.church
-    url: "http://www.communitystorehouse.org/\t"
-    description_medium: "Community Storehouse is dedicated to the education and well-being
-      of low-income children in our community. Our vision is to help close the gap
-      between opportunity and achievement for children in our community.\t"
+  - id: 30
+    title: City Mission of Schenectady
+    recipient: alb.serving@life.church
+    url: http://citymission.com/
+    description_medium: City Missions provides for the needs of the hungry and homeless
+      in our community. Their mission is to help people get out of poverty - and stay
+      out.
     cause: Food, Clothing, & Shelter
-    tags: food,Clothing&Shelter,Mentoring&Education,keller,texas
+    tags: food,clothing,shelter,newyork,albany
+  - id: 114
+    title: Capital Roots
+    recipient: alb.serving@life.church
+    url: www.capitalroots.org
+    description_medium: Our Vision for the future is of a Capital Region where every
+      person has access to fresh, affordable, healthy food. Today Capital Roots works
+      to reduce the impact of poor nutrition on public health in New York’s Capital
+      Region by organizing community gardens, providing healthy food access, offering
+      nutritional and horticultural education for all ages and coordinating urban
+      greening programs in Albany, Rensselaer, Schenectady and southern Saratoga Counties.
+    cause: Food, Clothing, & Shelter
+    tags: Food,Clothing&Shelter,Neighborhood/CommunityDev,Mentoring&Education,albany,newyork
 - id: rrn
   f1_campus_id: 57831
   f1_substatus_id: 3754
@@ -2836,6 +2800,180 @@
   facebook: https://www.facebook.com/life.church
   times: []
   missions: []
+- id: nor
+  f1_campus_id: 71316
+  f1_substatus_id: 5032
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-701-6556
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '1850166821975921'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 66
+    title: True North Ministries
+    recipient: nor.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 64
+    title: Loveworks Leadership
+    recipient: nor.serving@life.church
+    url: http://loveworksleadership.org
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
+- id: ftw
+  f1_campus_id: 4343
+  f1_substatus_id: 377
+  title: Fort Worth, TX
+  email: ftw.serving@life.church
+  phone: 817-923-5433
+  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
+  facebook: '236157182628'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 94
+    title: Union Gospel Mission
+    recipient: ftw.serving@life.church
+    url: ''
+    description_medium: Help provide love, hope, and a new beginning for the homeless.
+    cause: Food, Clothing, & Shelter
+    tags: fortworth,texas,food
+  - id: 116
+    title: Trinity Habitat for Humanity
+    recipient: ftw.serving@life.church
+    url: https://trinityhabitat.org/
+    description_medium: "Trinity Habitat for Humanity partners with people in our
+      community to help them build or improve a place they can call home. Habitat
+      homeowners help build their own homes alongside volunteers and pay an affordable
+      mortgage.\t"
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/communitydevelopment,texas,fortworth
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -2977,69 +3115,6 @@
       get them involved into activities that provide good self esteem.\t"
     cause: Military
     tags: military,midwestcity,oklahomacity,oklahoma
-- id: nor
-  f1_campus_id: 71316
-  f1_substatus_id: 5032
-  title: Norman, OK
-  email: nor.serving@life.church
-  phone: 405-701-6556
-  address: 1500 E. Imhoff Rd. Norman, OK 73071
-  facebook: '1850166821975921'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 66
-    title: True North Ministries
-    recipient: nor.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 64
-    title: Loveworks Leadership
-    recipient: nor.serving@life.church
-    url: http://loveworksleadership.org
-    description_medium: Provide tutoring and mentorship for school-age children in
-      the Norman area geared towards developing life and leadership skills through
-      academic, leadership and community programs.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
 - id: opk
   f1_campus_id: 64790
   f1_substatus_id: 4368
@@ -3276,114 +3351,3 @@
       are the bridge that lead to restoration.\t"
     cause: Neighborhood/Community Development
     tags: Neighborhood/CommunityDevelopment,MentoringEducation,SpiritualDevelopment,oklahomacity,oklahoma
-- id: ftw
-  f1_campus_id: 4343
-  f1_substatus_id: 377
-  title: Fort Worth, TX
-  email: ftw.serving@life.church
-  phone: 817-923-5433
-  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
-  facebook: '236157182628'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 94
-    title: Union Gospel Mission
-    recipient: ftw.serving@life.church
-    url: ''
-    description_medium: Help provide love, hope, and a new beginning for the homeless.
-    cause: Food, Clothing, & Shelter
-    tags: fortworth,texas,food
-  - id: 116
-    title: Trinity Habitat for Humanity
-    recipient: ftw.serving@life.church
-    url: https://trinityhabitat.org/
-    description_medium: "Trinity Habitat for Humanity partners with people in our
-      community to help them build or improve a place they can call home. Habitat
-      homeowners help build their own homes alongside volunteers and pay an affordable
-      mortgage.\t"
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/communitydevelopment,texas,fortworth
