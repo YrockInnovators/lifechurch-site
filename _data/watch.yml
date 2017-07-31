@@ -1,4 +1,42 @@
 ---
+- id: different
+  title: Different
+  headline: Answer hate with love, find joy in the midst of trials, and rely on a
+    strength beyond yourself. You’re meant to be Different.
+  description_small: This world is not your home. So answer hate with love, find joy
+    in the midst of trials, and rely on a strength beyond yourself. You’re meant to
+    be Different.
+  description_medium: 'In this world, you’ll have struggles. You’ll face opposition.
+    You’ll be challenged. And there’s a reason for that: this world is not your home.
+    So answer hate with love, find joy in the midst of trials, and rely on a strength
+    beyond yourself. You’re meant to be … Different.'
+  quote: ''
+  quote_cite: ''
+  open_url: https://open.life.church/resources/3293-august-tbd
+  promo: ''
+  resources_url: ''
+  categories:
+  - id: 34
+    name: Optimistic
+    created_at: '2014-06-11T15:19:48.323-05:00'
+    updated_at: '2014-06-11T15:19:48.323-05:00'
+  - id: 42
+    name: Disciplines
+    created_at: '2014-06-11T15:23:03.968-05:00'
+    updated_at: '2014-06-11T15:23:03.968-05:00'
+  - id: 43
+    name: Trials
+    created_at: '2014-06-11T15:23:13.523-05:00'
+    updated_at: '2014-06-11T15:23:13.523-05:00'
+  image_small: ''
+  image_medium: ''
+  image_large: ''
+  image_social: ''
+  image_banner_archive: ''
+  image_banner_archive_2x: ''
+  image_banner_archive_small: ''
+  image_banner_archive_small_2x: ''
+  messages: []
 - id: at-the-movies
   title: At the Movies
   headline: During At the Movies, you’re invited to explore them with us! This new
