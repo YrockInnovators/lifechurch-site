@@ -92,30 +92,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
   missions:
   - id: 47
     title: Stand in the Gap Ministries
@@ -402,140 +378,6 @@
       and dental care and to the broken as they \r\nrecieve spiritual care."
     cause: Neighborhood/Community Development
     tags: 
-- id: shw
-  f1_campus_id: 60358
-  f1_substatus_id: 4103
-  title: Shawnee, OK
-  email: SHW.Serving@life.church
-  phone: 405-695-6600
-  address: 5630 North Harrison Shawnee, OK 74804
-  facebook: '1602447766664787'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 60
-    type: switch
-    type_name: Switch
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 60
-    type: roots
-    type_name: Roots
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 88
-    title: Cargo Ranch
-    recipient: SHW.Serving@life.church
-    url: http://cargoranch.org
-    description_medium: Share hope and build character in children and youth by meeting
-      their emotional and spiritual needs in an outdoor environment.
-    cause: Mentoring & Education
-    tags: mentoring,education
-  - id: 92
-    title: Community Renewal of Pottawatomie County
-    recipient: SHW.Serving@life.church
-    url: ''
-    description_medium: Serve as a block leader to help your neighbors restore our
-      community through intentional, caring relationships.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,development,oklahoma,okc
 - id: wel
   f1_campus_id: 4352
   f1_substatus_id: 386
@@ -1958,6 +1800,128 @@
       themselves in crisis pregnancies and help them make godly decisions.
     cause: Pregnancy Care
     tags: pregnancy,care,oklahoma,okc
+- id: shw
+  f1_campus_id: 60358
+  f1_substatus_id: 4103
+  title: Shawnee, OK
+  email: SHW.Serving@life.church
+  phone: 405-695-6600
+  address: 5630 North Harrison Shawnee, OK 74804
+  facebook: '1602447766664787'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:00PM
+    time: 17-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 60
+    type: switch
+    type_name: Switch
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 60
+    type: roots
+    type_name: Roots
+  missions:
+  - id: 88
+    title: Cargo Ranch
+    recipient: SHW.Serving@life.church
+    url: http://cargoranch.org
+    description_medium: Share hope and build character in children and youth by meeting
+      their emotional and spiritual needs in an outdoor environment.
+    cause: Mentoring & Education
+    tags: mentoring,education
+  - id: 92
+    title: Community Renewal of Pottawatomie County
+    recipient: SHW.Serving@life.church
+    url: ''
+    description_medium: Serve as a block leader to help your neighbors restore our
+      community through intentional, caring relationships.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,development,oklahoma,okc
 - id: alb
   f1_campus_id: 4341
   f1_substatus_id: 375
@@ -2800,69 +2764,6 @@
   facebook: https://www.facebook.com/life.church
   times: []
   missions: []
-- id: nor
-  f1_campus_id: 71316
-  f1_substatus_id: 5032
-  title: Norman, OK
-  email: nor.serving@life.church
-  phone: 405-701-6556
-  address: 1500 E. Imhoff Rd. Norman, OK 73071
-  facebook: '1850166821975921'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 66
-    title: True North Ministries
-    recipient: nor.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 64
-    title: Loveworks Leadership
-    recipient: nor.serving@life.church
-    url: http://loveworksleadership.org
-    description_medium: Provide tutoring and mentorship for school-age children in
-      the Norman area geared towards developing life and leadership skills through
-      academic, leadership and community programs.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
 - id: ftw
   f1_campus_id: 4343
   f1_substatus_id: 377
@@ -2974,6 +2875,69 @@
       mortgage.\t"
     cause: Neighborhood/Community Development
     tags: Neighborhood/communitydevelopment,texas,fortworth
+- id: nor
+  f1_campus_id: 71316
+  f1_substatus_id: 5032
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-701-6556
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '1850166821975921'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 66
+    title: True North Ministries
+    recipient: nor.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 64
+    title: Loveworks Leadership
+    recipient: nor.serving@life.church
+    url: http://loveworksleadership.org
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
