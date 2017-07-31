@@ -3108,117 +3108,6 @@
       Christ.
     cause: Neighborhood/Community Development
     tags: overlandpark,kansas,
-- id: ftw
-  f1_campus_id: 4343
-  f1_substatus_id: 377
-  title: Fort Worth, TX
-  email: ftw.serving@life.church
-  phone: 817-923-5433
-  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
-  facebook: '236157182628'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 94
-    title: Union Gospel Mission
-    recipient: ftw.serving@life.church
-    url: ''
-    description_medium: Help provide love, hope, and a new beginning for the homeless.
-    cause: Food, Clothing, & Shelter
-    tags: fortworth,texas,food
-  - id: 116
-    title: Trinity Habitat for Humanity
-    recipient: ftw.serving@life.church
-    url: https://trinityhabitat.org/
-    description_medium: "Trinity Habitat for Humanity partners with people in our
-      community to help them build or improve a place they can call home. Habitat
-      homeowners help build their own homes alongside volunteers and pay an affordable
-      mortgage.\t"
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/communitydevelopment,texas,fortworth
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
@@ -3387,3 +3276,114 @@
       are the bridge that lead to restoration.\t"
     cause: Neighborhood/Community Development
     tags: Neighborhood/CommunityDevelopment,MentoringEducation,SpiritualDevelopment,oklahomacity,oklahoma
+- id: ftw
+  f1_campus_id: 4343
+  f1_substatus_id: 377
+  title: Fort Worth, TX
+  email: ftw.serving@life.church
+  phone: 817-923-5433
+  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
+  facebook: '236157182628'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 94
+    title: Union Gospel Mission
+    recipient: ftw.serving@life.church
+    url: ''
+    description_medium: Help provide love, hope, and a new beginning for the homeless.
+    cause: Food, Clothing, & Shelter
+    tags: fortworth,texas,food
+  - id: 116
+    title: Trinity Habitat for Humanity
+    recipient: ftw.serving@life.church
+    url: https://trinityhabitat.org/
+    description_medium: "Trinity Habitat for Humanity partners with people in our
+      community to help them build or improve a place they can call home. Habitat
+      homeowners help build their own homes alongside volunteers and pay an affordable
+      mortgage.\t"
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/communitydevelopment,texas,fortworth
