@@ -2752,180 +2752,6 @@
   facebook: https://www.facebook.com/life.church
   times: []
   missions: []
-- id: ftw
-  f1_campus_id: 4343
-  f1_substatus_id: 377
-  title: Fort Worth, TX
-  email: ftw.serving@life.church
-  phone: 817-923-5433
-  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
-  facebook: '236157182628'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 94
-    title: Union Gospel Mission
-    recipient: ftw.serving@life.church
-    url: ''
-    description_medium: Help provide love, hope, and a new beginning for the homeless.
-    cause: Food, Clothing, & Shelter
-    tags: fortworth,texas,food
-  - id: 116
-    title: Trinity Habitat for Humanity
-    recipient: ftw.serving@life.church
-    url: https://trinityhabitat.org/
-    description_medium: "Trinity Habitat for Humanity partners with people in our
-      community to help them build or improve a place they can call home. Habitat
-      homeowners help build their own homes alongside volunteers and pay an affordable
-      mortgage.\t"
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/communitydevelopment,texas,fortworth
-- id: nor
-  f1_campus_id: 71316
-  f1_substatus_id: 5032
-  title: Norman, OK
-  email: nor.serving@life.church
-  phone: 405-701-6556
-  address: 1500 E. Imhoff Rd. Norman, OK 73071
-  facebook: '1850166821975921'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  missions:
-  - id: 66
-    title: True North Ministries
-    recipient: nor.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 64
-    title: Loveworks Leadership
-    recipient: nor.serving@life.church
-    url: http://loveworksleadership.org
-    description_medium: Provide tutoring and mentorship for school-age children in
-      the Norman area geared towards developing life and leadership skills through
-      academic, leadership and community programs.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -3135,6 +2961,180 @@
       Christ.
     cause: Neighborhood/Community Development
     tags: overlandpark,kansas,
+- id: ftw
+  f1_campus_id: 4343
+  f1_substatus_id: 377
+  title: Fort Worth, TX
+  email: ftw.serving@life.church
+  phone: 817-923-5433
+  address: 5400 W. Risinger Rd. Fort Worth, TX 76123
+  facebook: '236157182628'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 94
+    title: Union Gospel Mission
+    recipient: ftw.serving@life.church
+    url: ''
+    description_medium: Help provide love, hope, and a new beginning for the homeless.
+    cause: Food, Clothing, & Shelter
+    tags: fortworth,texas,food
+  - id: 116
+    title: Trinity Habitat for Humanity
+    recipient: ftw.serving@life.church
+    url: https://trinityhabitat.org/
+    description_medium: "Trinity Habitat for Humanity partners with people in our
+      community to help them build or improve a place they can call home. Habitat
+      homeowners help build their own homes alongside volunteers and pay an affordable
+      mortgage.\t"
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/communitydevelopment,texas,fortworth
+- id: nor
+  f1_campus_id: 71316
+  f1_substatus_id: 5032
+  title: Norman, OK
+  email: nor.serving@life.church
+  phone: 405-701-6556
+  address: 1500 E. Imhoff Rd. Norman, OK 73071
+  facebook: '1850166821975921'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 66
+    title: True North Ministries
+    recipient: nor.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 64
+    title: Loveworks Leadership
+    recipient: nor.serving@life.church
+    url: http://loveworksleadership.org
+    description_medium: Provide tutoring and mentorship for school-age children in
+      the Norman area geared towards developing life and leadership skills through
+      academic, leadership and community programs.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
 - id: noc
   f1_campus_id: 4350
   f1_substatus_id: 379
