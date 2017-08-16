@@ -8,8 +8,8 @@
   address: 5801 S. Elm Place Broken Arrow, OK 74011
   facebook: '539342819532615'
   times:
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
@@ -74,24 +74,24 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   missions:
   - id: 47
     title: Stand in the Gap Ministries
@@ -182,24 +182,6 @@
     type_name: LifeKids
   - title: 06:30PM
     time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
     day: wed
     duration: 120
     type: roots
@@ -228,8 +210,26 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
@@ -715,30 +715,30 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   missions:
   - id: 43
     title: John 3:16
@@ -984,14 +984,14 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
@@ -1020,24 +1020,24 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 06:30PM
     time: 18-30
     day: wed
     duration: 120
     type: roots
     type_name: Roots
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
   - title: 08:30AM
     time: 08-30
     day: sun
@@ -1093,18 +1093,6 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 04:00PM
     time: 16-00
     day: sat
@@ -1114,6 +1102,18 @@
   - title: 05:30PM
     time: 17-30
     day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
     duration: 60
     type: service
     type_name: Service
@@ -1147,18 +1147,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 05:30PM
     time: 17-30
     day: sat
@@ -1168,6 +1156,18 @@
   - title: 04:00PM
     time: 16-00
     day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
@@ -1244,18 +1244,6 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 04:00PM
     time: 16-00
     day: sat
@@ -1265,6 +1253,18 @@
   - title: 05:30PM
     time: 17-30
     day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
     duration: 60
     type: service
     type_name: Service
@@ -1298,18 +1298,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 04:00PM
     time: 16-00
     day: sat
@@ -1319,6 +1307,18 @@
   - title: 05:30PM
     time: 17-30
     day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
@@ -1392,21 +1392,21 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
+  - title: 04:00PM
+    time: 16-00
+    day: sat
     duration: 60
     type: service
     type_name: Service
   - title: 04:00PM
     time: 16-00
-    day: sat
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sun
     duration: 60
     type: service
     type_name: Service
@@ -1434,21 +1434,21 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
+  - title: 04:00PM
+    time: 16-00
+    day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 04:00PM
     time: 16-00
-    day: sat
+    day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
@@ -1533,18 +1533,6 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
   - title: 05:30PM
     time: 17-30
     day: sat
@@ -1554,6 +1542,18 @@
   - title: 04:00PM
     time: 16-00
     day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
     duration: 60
     type: service
     type_name: Service
@@ -1587,18 +1587,6 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   - title: 04:00PM
     time: 16-00
     day: sat
@@ -1608,6 +1596,18 @@
   - title: 05:30PM
     time: 17-30
     day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
@@ -1731,26 +1731,26 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
@@ -1845,30 +1845,30 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
   - title: 06:30PM
     time: 18-30
     day: wed
@@ -2097,6 +2097,489 @@
     type: service
     type_name: Service
   missions: []
+- id: noc
+  f1_campus_id: 4350
+  f1_substatus_id: 379
+  title: NW Oklahoma City, OK
+  email: noc.serving@life.church
+  phone: 405-748-5433
+  address: 5561 NW Expressway Oklahoma City, OK 73132
+  facebook: '156898983627'
+  times:
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 34
+    title: The Spero Project
+    recipient: noc.serving@life.church
+    url: http://www.thesperoproject.com/
+    description_medium: Confront injustice and oppression by mobilizing the Church
+      to fully engage in a biblical response to under-resourced populations.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,involvement,oklahoma,okc
+  - id: 4
+    title: The Mentoring Project
+    recipient: noc.serving@life.church
+    url: http://www.thementoringproject.org/
+    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
+      training, resourcing, and encouragement.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
+  - id: 3
+    title: Whiz Kids
+    recipient: noc.serving@life.church
+    url: http://www.whizkidsok.org/
+    description_medium: Improve the well-being of inner city youth through academic
+      tutoring, positive mentoring relationships, and communicating spiritual and
+      moral values.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: noc.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 87
+    title: Branch15
+    recipient: noc.serving@life.church
+    url: http://www.branch15.org/
+    description_medium: Walk alongside women on their paths to recovery and independent,
+      sustainable living.
+    cause: Recovery & Transitional Living
+    tags: okc,recovery,transition
+  - id: 103
+    title: NOVO
+    recipient: noc.serving@life.church
+    url: https://novoministries.org/
+    description_medium: Novo exists to break cycles of destruction, create hope, and
+      instill a sense of purpose through life-changing mentoring relationships with
+      inner-city boys and girls.
+    cause: Mentoring & Education
+    tags: okc,oklahomacity
+  - id: 118
+    title: 'City Center '
+    recipient: noc.serving@life.church
+    url: http://www.okcity.center/
+    description_medium: "Our mission is to bring relief and restoration to lives in
+      Oklahoma City. Our purpose is to serve at risk youth, help relieve food insecurities
+      in the community and meet relevant needs for entire families. Most importantly,
+      our vision is create as many opportunities as possible that will open up doors
+      for relationship with those that we serve. We are convinced that relationships
+      are the bridge that lead to restoration.\t"
+    cause: Neighborhood/Community Development
+    tags: Neighborhood/CommunityDevelopment,MentoringEducation,SpiritualDevelopment,oklahomacity,oklahoma
+- id: stw
+  f1_campus_id: 4348
+  f1_substatus_id: 385
+  title: Stillwater, OK
+  email: stw.serving@life.church
+  phone: 405-624-5433
+  address: 1917 North Country Club Rd. Stillwater, OK 74075
+  facebook: '111614742192203'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 07:00PM
+    time: 19-00
+    day: mon
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  missions:
+  - id: 26
+    title: Stillwater Life Services
+    recipient: stw.serving@life.church
+    url: http://www.stillwaterlife.org/
+    description_medium: Provide testing, treatment, one-on-one mentoring, and options
+      for women and men who visit the pregnancy resource clinic.
+    cause: Pregnancy Care
+    tags: pregnancy,care,mentoring,education,okc
+  - id: 31
+    title: Habitat for Humanity
+    recipient: stw.serving@life.church
+    url: http://www.habitat.org/
+    description_medium: Build and renovate high-quality, affordable housing and serve
+      as a partner to create healthy and sustainable communities.
+    cause: Neighborhood/Community Development
+    tags: neighborhood,community,build,outreach,okc
+  - id: 67
+    title: Meadows of Hope
+    recipient: stw.serving@life.church
+    url: ''
+    description_medium: Help foster parents through respite support and spiritual
+      and emotional mentoring so that children in DHS custody have a stable and nurturing
+      environment to heal and grow.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,oklahoma,okc
+  - id: 66
+    title: True North Ministries
+    recipient: stw.serving@life.church
+    url: ''
+    description_medium: Lead and engage men to become better husbands, fathers, and
+      men through mentoring relationships, men’s events, and weekend retreats.
+    cause: Spiritual Development
+    tags: spiritual,development,oklahoma,okc
+  - id: 74
+    title: Payne County Youth Services
+    recipient: stw.serving@life.church
+    url: http://www.pcys.org/
+    description_medium: Help provide a safe, comfortable and protective environment
+      for youth in crisis at the Emergency Youth Shelter through direct relationships
+      or supportive roles.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,stillwater,foster,adoption
+  - id: 100
+    title: KLIFE Stillwater
+    recipient: stw.serving@life.church
+    url: http://www.stillwater.klife.com/
+    description_medium: The mission of KLIFE is to impact a youth culture for Christ.
+      We do this by equipping and mobilizing volunteers throughout the community to
+      lead small group bible studies for junior high and high school students.
+    cause: Neighborhood/Community Development
+    tags: oklahoma,stillwater
+- id: int
+  f1_campus_id: 387
+  f1_substatus_id: 33723449
+  title: Church Online
+  email: ''
+  phone: '4052167170'
+  address: 4600 E 2nd St Edmond, Oklahoma 73034
+  facebook: https://www.facebook.com/life.church
+  times: []
+  missions: []
+- id: bao
+  f1_campus_id: 17716
+  f1_substatus_id: 1064
+  title: Broken Arrow, OK
+  email: bao.serving@life.church
+  phone: 918-615-4246
+  address: 2420 E. Kenosha Street Broken Arrow, OK 74014
+  facebook: '229503863780213'
+  times:
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: switch
+    type_name: Switch
+  - title: 08:30AM
+    time: 08-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 10:00AM
+    time: 10-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 11:30AM
+    time: 11-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 01:00PM
+    time: 13-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 05:30PM
+    time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 06:30PM
+    time: 18-30
+    day: wed
+    duration: 120
+    type: roots
+    type_name: Roots
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  missions:
+  - id: 53
+    title: Reading Partners
+    recipient: bao.serving@life.church
+    url: www.readingpartners.org
+    description_medium: Meet weekly with an elementary student to improve reading
+      skills and invest in their life.
+    cause: Mentoring & Education
+    tags: mentoring,education,reading,oklahoma,tulsa
+  - id: 19
+    title: Tulsa Boys Home
+    recipient: bao.serving@life.church
+    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
+    description_medium: Help restore the lives of boys and lead them to be healthy
+      and responsible young men.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,tulsa
+  - id: 75
+    title: Big Brothers Big Sisters of Oklahoma
+    recipient: bao.serving@life.church
+    url: http://bbbsok.org/
+    description_medium: 'Help children and at-risk youth realize their potential and
+      build their futures through positive mentoring relationships. '
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,tulsa
+  - id: 91
+    title: Wings of Freedom
+    recipient: bao.serving@life.church
+    url: ''
+    description_medium: Help people transform themselves into healthy, productive
+      members of our community after they leave prison or choose to break free from
+      addiction.
+    cause: Recovery & Transitional Living
+    tags: oklahoma,recovery
+  - id: 82
+    title: 111Tulsa
+    recipient: bao.serving@life.church
+    url: http://www.111tulsa.org
+    description_medium: Engage in relationships to help prevent children from entering
+      state care, care for children who are in state care, and support the families
+      caring for these children.
+    cause: Adoption & Foster Care
+    tags: adoption,fostering,tulsa
 - id: okc
   f1_campus_id: 4351
   f1_substatus_id: 381
@@ -2190,26 +2673,26 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 05:00PM
-    time: 17-00
+  - title: 05:30PM
+    time: 17-30
+    day: sun
+    duration: 60
+    type: service
+    type_name: Service
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
@@ -2290,468 +2773,6 @@
       they want to see in our city.
     cause: Neighborhood/Community Development
     tags: oklahoma,okc
-- id: bao
-  f1_campus_id: 17716
-  f1_substatus_id: 1064
-  title: Broken Arrow, OK
-  email: bao.serving@life.church
-  phone: 918-615-4246
-  address: 2420 E. Kenosha Street Broken Arrow, OK 74014
-  facebook: '229503863780213'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 53
-    title: Reading Partners
-    recipient: bao.serving@life.church
-    url: www.readingpartners.org
-    description_medium: Meet weekly with an elementary student to improve reading
-      skills and invest in their life.
-    cause: Mentoring & Education
-    tags: mentoring,education,reading,oklahoma,tulsa
-  - id: 19
-    title: Tulsa Boys Home
-    recipient: bao.serving@life.church
-    url: http://www.tulsaboyshome.org/tulsaboys/default.asp
-    description_medium: Help restore the lives of boys and lead them to be healthy
-      and responsible young men.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,tulsa
-  - id: 75
-    title: Big Brothers Big Sisters of Oklahoma
-    recipient: bao.serving@life.church
-    url: http://bbbsok.org/
-    description_medium: 'Help children and at-risk youth realize their potential and
-      build their futures through positive mentoring relationships. '
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,tulsa
-  - id: 91
-    title: Wings of Freedom
-    recipient: bao.serving@life.church
-    url: ''
-    description_medium: Help people transform themselves into healthy, productive
-      members of our community after they leave prison or choose to break free from
-      addiction.
-    cause: Recovery & Transitional Living
-    tags: oklahoma,recovery
-  - id: 82
-    title: 111Tulsa
-    recipient: bao.serving@life.church
-    url: http://www.111tulsa.org
-    description_medium: Engage in relationships to help prevent children from entering
-      state care, care for children who are in state care, and support the families
-      caring for these children.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,tulsa
-- id: soc
-  f1_campus_id: 4349
-  f1_substatus_id: 380
-  title: South Oklahoma City, OK
-  email: soc.serving@life.church
-  phone: 405-216-5433
-  address: 7800 S. Walker Ave. Oklahoma City, OK 73139
-  facebook: '152357570862'
-  times:
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:00PM
-    time: 18-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:30PM
-    time: 17-30
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  missions:
-  - id: 47
-    title: Stand in the Gap Ministries
-    recipient: soc.serving@life.church
-    url: http://www.sitgm.org/
-    description_medium: Defend widows and orphans and set prisoners free through Life
-      Launch, Women in Transition, and Stand in the Gap for Widows.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc,tulsa
-  - id: 23
-    title: T.E.E.M (The Education and Employment Ministry)
-    recipient: soc.serving@life.church
-    url: http://www.teem.org/
-    description_medium: Empower individuals to reach their God-given potential through
-      mentoring relationships with those leaving incarceration.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
-  - id: 4
-    title: The Mentoring Project
-    recipient: soc.serving@life.church
-    url: http://www.thementoringproject.org/
-    description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
-      training, resourcing, and encouragement.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
-  - id: 66
-    title: True North Ministries
-    recipient: soc.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 69
-    title: OKC Dream Center
-    recipient: soc.serving@life.church
-    url: http://dcokc.org/
-    description_medium: Build relationships with people in need to help restore their
-      emotional, spiritual, and physical well-being through community outreach, hunger
-      relief services, or youth mentoring and coaching.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
-- id: stw
-  f1_campus_id: 4348
-  f1_substatus_id: 385
-  title: Stillwater, OK
-  email: stw.serving@life.church
-  phone: 405-624-5433
-  address: 1917 North Country Club Rd. Stillwater, OK 74075
-  facebook: '111614742192203'
-  times:
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: switch
-    type_name: Switch
-  - title: 08:30AM
-    time: 08-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 10:00AM
-    time: 10-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 11:30AM
-    time: 11-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
-    day: wed
-    duration: 120
-    type: roots
-    type_name: Roots
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 07:00PM
-    time: 19-00
-    day: mon
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:30PM
-    time: 18-30
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  missions:
-  - id: 26
-    title: Stillwater Life Services
-    recipient: stw.serving@life.church
-    url: http://www.stillwaterlife.org/
-    description_medium: Provide testing, treatment, one-on-one mentoring, and options
-      for women and men who visit the pregnancy resource clinic.
-    cause: Pregnancy Care
-    tags: pregnancy,care,mentoring,education,okc
-  - id: 31
-    title: Habitat for Humanity
-    recipient: stw.serving@life.church
-    url: http://www.habitat.org/
-    description_medium: Build and renovate high-quality, affordable housing and serve
-      as a partner to create healthy and sustainable communities.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,build,outreach,okc
-  - id: 67
-    title: Meadows of Hope
-    recipient: stw.serving@life.church
-    url: ''
-    description_medium: Help foster parents through respite support and spiritual
-      and emotional mentoring so that children in DHS custody have a stable and nurturing
-      environment to heal and grow.
-    cause: Adoption & Foster Care
-    tags: adoption,fostering,oklahoma,okc
-  - id: 66
-    title: True North Ministries
-    recipient: stw.serving@life.church
-    url: ''
-    description_medium: Lead and engage men to become better husbands, fathers, and
-      men through mentoring relationships, men’s events, and weekend retreats.
-    cause: Spiritual Development
-    tags: spiritual,development,oklahoma,okc
-  - id: 74
-    title: Payne County Youth Services
-    recipient: stw.serving@life.church
-    url: http://www.pcys.org/
-    description_medium: Help provide a safe, comfortable and protective environment
-      for youth in crisis at the Emergency Youth Shelter through direct relationships
-      or supportive roles.
-    cause: Food, Clothing, & Shelter
-    tags: food,clothing,shelter,stillwater,foster,adoption
-  - id: 100
-    title: KLIFE Stillwater
-    recipient: stw.serving@life.church
-    url: http://www.stillwater.klife.com/
-    description_medium: The mission of KLIFE is to impact a youth culture for Christ.
-      We do this by equipping and mobilizing volunteers throughout the community to
-      lead small group bible studies for junior high and high school students.
-    cause: Neighborhood/Community Development
-    tags: oklahoma,stillwater
-- id: int
-  f1_campus_id: 387
-  f1_substatus_id: 33723449
-  title: Church Online
-  email: ''
-  phone: '4052167170'
-  address: 4600 E 2nd St Edmond, Oklahoma 73034
-  facebook: https://www.facebook.com/life.church
-  times: []
-  missions: []
 - id: mwc
   f1_campus_id: 4346
   f1_substatus_id: 1063
@@ -2785,14 +2806,14 @@
     duration: 60
     type: service
     type_name: Service
-  - title: 05:00PM
-    time: 17-00
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: service
     type_name: Service
-  - title: 06:30PM
-    time: 18-30
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: service
@@ -2827,14 +2848,14 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 05:00PM
-    time: 17-00
+  - title: 04:00PM
+    time: 16-00
     day: sun
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:30PM
-    time: 18-30
+  - title: 05:30PM
+    time: 17-30
     day: sun
     duration: 60
     type: lifekids
@@ -3135,14 +3156,14 @@
       academic, leadership and community programs.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-- id: noc
-  f1_campus_id: 4350
-  f1_substatus_id: 379
-  title: NW Oklahoma City, OK
-  email: noc.serving@life.church
-  phone: 405-748-5433
-  address: 5561 NW Expressway Oklahoma City, OK 73132
-  facebook: '156898983627'
+- id: soc
+  f1_campus_id: 4349
+  f1_substatus_id: 380
+  title: South Oklahoma City, OK
+  email: soc.serving@life.church
+  phone: 405-216-5433
+  address: 7800 S. Walker Ave. Oklahoma City, OK 73139
+  facebook: '152357570862'
   times:
   - title: 08:30AM
     time: 08-30
@@ -3164,12 +3185,6 @@
     type_name: Service
   - title: 01:00PM
     time: 13-00
-    day: sun
-    duration: 60
-    type: service
-    type_name: Service
-  - title: 06:00PM
-    time: 18-00
     day: sun
     duration: 60
     type: service
@@ -3210,20 +3225,20 @@
     duration: 60
     type: lifekids
     type_name: LifeKids
-  - title: 06:00PM
-    time: 18-00
+  - title: 01:00PM
+    time: 13-00
     day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
-  - title: 04:00PM
-    time: 16-00
-    day: sat
     duration: 60
     type: lifekids
     type_name: LifeKids
   - title: 05:30PM
     time: 17-30
+    day: sat
+    duration: 60
+    type: lifekids
+    type_name: LifeKids
+  - title: 04:00PM
+    time: 16-00
     day: sat
     duration: 60
     type: lifekids
@@ -3234,72 +3249,45 @@
     duration: 120
     type: roots
     type_name: Roots
-  - title: 01:00PM
-    time: 13-00
-    day: sun
-    duration: 60
-    type: lifekids
-    type_name: LifeKids
   missions:
-  - id: 34
-    title: The Spero Project
-    recipient: noc.serving@life.church
-    url: http://www.thesperoproject.com/
-    description_medium: Confront injustice and oppression by mobilizing the Church
-      to fully engage in a biblical response to under-resourced populations.
-    cause: Neighborhood/Community Development
-    tags: neighborhood,community,involvement,oklahoma,okc
+  - id: 47
+    title: Stand in the Gap Ministries
+    recipient: soc.serving@life.church
+    url: http://www.sitgm.org/
+    description_medium: Defend widows and orphans and set prisoners free through Life
+      Launch, Women in Transition, and Stand in the Gap for Widows.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc,tulsa
+  - id: 23
+    title: T.E.E.M (The Education and Employment Ministry)
+    recipient: soc.serving@life.church
+    url: http://www.teem.org/
+    description_medium: Empower individuals to reach their God-given potential through
+      mentoring relationships with those leaving incarceration.
+    cause: Mentoring & Education
+    tags: mentoring,education,oklahoma,okc
   - id: 4
     title: The Mentoring Project
-    recipient: noc.serving@life.church
+    recipient: soc.serving@life.church
     url: http://www.thementoringproject.org/
     description_medium: Rewrite the story of at-risk and fatherless kids through mentoring,
       training, resourcing, and encouragement.
     cause: Mentoring & Education
     tags: mentoring,education,oklahoma,okc
-  - id: 3
-    title: Whiz Kids
-    recipient: noc.serving@life.church
-    url: http://www.whizkidsok.org/
-    description_medium: Improve the well-being of inner city youth through academic
-      tutoring, positive mentoring relationships, and communicating spiritual and
-      moral values.
-    cause: Mentoring & Education
-    tags: mentoring,education,oklahoma,okc
   - id: 66
     title: True North Ministries
-    recipient: noc.serving@life.church
+    recipient: soc.serving@life.church
     url: ''
     description_medium: Lead and engage men to become better husbands, fathers, and
       men through mentoring relationships, men’s events, and weekend retreats.
     cause: Spiritual Development
     tags: spiritual,development,oklahoma,okc
-  - id: 87
-    title: Branch15
-    recipient: noc.serving@life.church
-    url: http://www.branch15.org/
-    description_medium: Walk alongside women on their paths to recovery and independent,
-      sustainable living.
-    cause: Recovery & Transitional Living
-    tags: okc,recovery,transition
-  - id: 103
-    title: NOVO
-    recipient: noc.serving@life.church
-    url: https://novoministries.org/
-    description_medium: Novo exists to break cycles of destruction, create hope, and
-      instill a sense of purpose through life-changing mentoring relationships with
-      inner-city boys and girls.
-    cause: Mentoring & Education
-    tags: okc,oklahomacity
-  - id: 118
-    title: 'City Center '
-    recipient: noc.serving@life.church
-    url: http://www.okcity.center/
-    description_medium: "Our mission is to bring relief and restoration to lives in
-      Oklahoma City. Our purpose is to serve at risk youth, help relieve food insecurities
-      in the community and meet relevant needs for entire families. Most importantly,
-      our vision is create as many opportunities as possible that will open up doors
-      for relationship with those that we serve. We are convinced that relationships
-      are the bridge that lead to restoration.\t"
-    cause: Neighborhood/Community Development
-    tags: Neighborhood/CommunityDevelopment,MentoringEducation,SpiritualDevelopment,oklahomacity,oklahoma
+  - id: 69
+    title: OKC Dream Center
+    recipient: soc.serving@life.church
+    url: http://dcokc.org/
+    description_medium: Build relationships with people in need to help restore their
+      emotional, spiritual, and physical well-being through community outreach, hunger
+      relief services, or youth mentoring and coaching.
+    cause: Food, Clothing, & Shelter
+    tags: food,clothing,shelter,neighborhood,community,oklahoma,okc
